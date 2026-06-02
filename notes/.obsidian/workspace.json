@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "cc35dc96822140e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "883670193a0800cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096e15a9f869ce92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260531T123749--伴读-新摄影笔记__reading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260531T123749--伴读-新摄影笔记__reading"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a9019875c072c16",
+    "type": "split",
+    "children": [
+      {
+        "id": "225dfe0052043c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34934482da1bdf54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "007d968ab7999976",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ae926e9e6f2bb024",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432.5
+  },
+  "right": {
+    "id": "9f11477e3a9c281f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5037da2e27d619e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663077ee01e64d5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20260531T123749--伴读-新摄影笔记__reading.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "20260531T123749--伴读-新摄影笔记__reading 的反向链接列表"
+            }
+          },
+          {
+            "id": "6ac00e3314348a70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20260531T123749--伴读-新摄影笔记__reading.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "20260531T123749--伴读-新摄影笔记__reading 的出链列表"
+            }
+          },
+          {
+            "id": "92cf1d4ab2c28422",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2e7d4f160e7fb39d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "83b8ea1d5f9530a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20260531T123749--伴读-新摄影笔记__reading.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "20260531T123749--伴读-新摄影笔记__reading 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "096e15a9f869ce92",
+  "lastOpenFiles": [
+    "20260531T215135--拆书-如何快速了解一个行业__book.md",
+    "20260531T124254--伴读-如何快速了解一个行业__reading.md",
+    "20260531T112451--拆书-投资者的未来__book.md",
+    "20260531T123749--伴读-新摄影笔记__reading.md",
+    "20260531T122410--拆书-新摄影笔记__book.md",
+    "20260531T113345--拆书-指数基金投资指南__book.md",
+    "表格.base",
+    "未命名.base",
+    "2026-05-31.md",
+    "未命名.canvas",
+    "20260530T153007==z--投资分析-南方红利低波50etf联接a.md",
+    "20260530T153257==z--投资分析-华泰柏瑞中证红利低波动etf联接a.md",
+    "20260530T153622==z--投资分析-华泰柏瑞中证港股通红利etf联接c.md",
+    "未命名",
+    "未命名.md",
+    "20260531T112037==z--投资分析-小米.md",
+    "20260530T181201--拆书-解读基金__book.md",
+    "20260531T111318==z--投资分析方法论-利润锚与天花板.md",
+    "20260531T111523==z--投资分析-腾讯.md",
+    "20260531T103217==z--美团投资跟踪工具总结.md",
+    "20260531T101805==z--美团估值跟踪备忘.md",
+    "20260530T152815==z--投资分析-国泰纳斯达克100指数qdii.md",
+    "20260530T151355==z--投资分析-南方纳斯达克100指数qdii-c.md",
+    "2026-05-30.md",
+    "20260530T111241--拆书-财新markdown__book.md",
+    "20260530T105611--拆书-乱翻书__book.md",
+    "README.md",
+    "20260530T184900==z--投资分析-广发全球精选股票QDII人民币C.md",
+    "20260530T174616==z--投资分析-美团.md",
+    "20260530T181345==z--投资分析-腾讯.md",
+    "img/基金行业跷跷板.png",
+    "img/纳指QDII场外渠道速查.png",
+    "img",
+    "未命名文件夹"
+  ]
+}
