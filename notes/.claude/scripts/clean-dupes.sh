@@ -32,23 +32,33 @@ echo "[1/4] 扫描文件..."
 # 格式: 时间戳|基础名称|完整文件名
 > "$TMPDIR/files.txt"
 
+# 使用 sed 提取时间戳和基础名称
 for file in *.md; do
-    # 提取时间戳和基础名称
-    # 支持的格式：
-    #   20260530T181345==z--投资分析-腾讯.md
-    #   20260614T091500--伴读-风浪越大鱼越贵__reading.md
-    if [[ "$file" =~ ^([0-9]{8}T[0-9]{6})[=-]+(.+)$ ]]; then
-        timestamp="${BASH_REMATCH[1]}"
-        base="${BASH_REMATCH[2]}"
+    # 尝试提取时间戳格式：YYYYMMDDTHHMMSS
+    timestamp=$(echo "$file" | sed -E 's/^([0-9]{8}T[0-9]{6})[=-]+.*/\1/' 2>/dev/null)
+    base=$(echo "$file" | sed -E 's/^[0-9]{8}T[0-9]{6}[=-]+//' 2>/dev/null)
+    
+    # 如果提取到了时间戳（且与原文件名不同）
+    if [[ -n "$timestamp" && "$timestamp" != "$file" ]]; then
         echo "$timestamp|$base|$file" >> "$TMPDIR/files.txt"
     fi
 done
 
+# 检查是否有文件被扫描
+if [[ ! -s "$TMPDIR/files.txt" ]]; then
+    echo ""
+    echo "❌ 没有找到任何 .md 文件！"
+    echo ""
+    exit 1
+fi
+
+echo "  扫描完成，找到 $(wc -l < "$TMPDIR/files.txt" | tr -d ' ') 个时间戳文件"
+
 # 第二步：找出重复的基础名称
 echo "[2/4] 分析重复项..."
 
-# 找出重复的基础名称
-cut -d'|' -f2 "$TMPDIR/files.txt" | sort | uniq -c | awk '$1>1 {print $2}' > "$TMPDIR/dupe_bases.txt"
+# 找出重复的基础名称，并保存到文件
+awk -F'|' '{print $2}' "$TMPDIR/files.txt" | sort | uniq -c | awk '$1>1 {print $2}' > "$TMPDIR/dupe_bases.txt"
 
 # 如果没有重复，直接退出
 if [[ ! -s "$TMPDIR/dupe_bases.txt" ]]; then
@@ -65,14 +75,21 @@ echo "[3/4] 确定要删除的文件..."
 > "$TMPDIR/to_keep.txt"
 
 while IFS= read -r base; do
+    [[ -z "$base" ]] && continue
+    
     # 获取该基础名称的所有文件，按时间戳排序
     grep -F "|$base|" "$TMPDIR/files.txt" | sort -t'|' -k1,1 > "$TMPDIR/group.txt"
     
-    # 最后一个是要保留的（最新）
-    tail -1 "$TMPDIR/group.txt" | cut -d'|' -f3 >> "$TMPDIR/to_keep.txt"
+    # 获取行数
+    lines=$(wc -l < "$TMPDIR/group.txt" | tr -d ' ')
     
-    # 前面的都是要删除的（macOS 的 head 不支持 -n -1，用 awk 替代）
-    awk 'NR>1' "$TMPDIR/group.txt" | cut -d'|' -f3 >> "$TMPDIR/to_delete.txt"
+    if [[ $lines -gt 1 ]]; then
+        # 最后一个是要保留的（最新）
+        tail -1 "$TMPDIR/group.txt" | cut -d'|' -f3 >> "$TMPDIR/to_keep.txt"
+        
+        # 前面的都是要删除的
+        head -n $((lines - 1)) "$TMPDIR/group.txt" | cut -d'|' -f3 >> "$TMPDIR/to_delete.txt"
+    fi
 done < "$TMPDIR/dupe_bases.txt"
 
 # 显示结果
@@ -85,10 +102,19 @@ echo "  发现 $DUPE_COUNT 组重复文件"
 echo "=========================================="
 echo ""
 
+# 显示每组重复的详细信息
 while IFS= read -r base; do
+    [[ -z "$base" ]] && continue
     echo "📁 $base"
-    echo "   保留: $(grep -F "|$base|" "$TMPDIR/to_keep.txt" | head -1)"
-    echo "   删除: $(grep -F "|$base|" "$TMPDIR/to_delete.txt" | tr '\n' ' ')"
+    
+    # 从 group.txt 中获取该基础名称的所有文件
+    grep -F "|$base|" "$TMPDIR/files.txt" | sort -t'|' -k1,1 | while IFS='|' read -r ts b fname; do
+        if [[ "$fname" == "$(tail -1 "$TMPDIR/group.txt" | cut -d'|' -f3)" ]]; then
+            echo "   ✅ 保留: $fname"
+        else
+            echo "   ❌ 删除: $fname"
+        fi
+    done
     echo ""
 done < "$TMPDIR/dupe_bases.txt"
 
@@ -137,10 +163,8 @@ echo "[验证] 检查是否还有重复..."
 # 重新检查
 > "$TMPDIR/files2.txt"
 for file in *.md; do
-    if [[ "$file" =~ ^([0-9]{8}T[0-9]{6})[=-]+(.+)$ ]]; then
-        base="${BASH_REMATCH[2]}"
-        echo "$base" >> "$TMPDIR/files2.txt"
-    fi
+    base=$(echo "$file" | sed -E 's/^[0-9]{8}T[0-9]{6}[=-]+//' 2>/dev/null)
+    [[ -n "$base" ]] && echo "$base" >> "$TMPDIR/files2.txt"
 done
 
 REMAINING=$(sort "$TMPDIR/files2.txt" | uniq -c | awk '$1>1' | wc -l | tr -d ' ')
