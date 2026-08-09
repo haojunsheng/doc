@@ -1,3 +1,8 @@
+---
+title: "china-active-etf-trend"
+tags: [asset/etf, domain/invest, type/qa]
+---
+
 #+title:     ETF不只是被动指数：主动ETF在海外崛起的逻辑与陷阱
 #+subtitle:   追求超额的风，还是刮到了ETF
 #+date:       [2026-06-14 Sun 21:34]
@@ -86,3 +91,5 @@ ETF（交易所交易基金）过去被视为"被动投资"的代名词，但海
 
 * 收口
 晨星通过主动ETF的海外实践揭示了一个核心洞见：主动ETF的成功不靠"选股能力"，靠"策略容量+费率优势"——传统的主动选股策略规模容量小、费率高，不适合ETF形式；而基于规则的策略（如备兑开仓、缓冲策略）规模容量大、费率低，更适合ETF形式。未来主动ETF的竞争，不是"谁选股更聪明"，而是"谁的策略更适合ETF结构"。
+
+#asset/etf #domain/invest #type/qa
