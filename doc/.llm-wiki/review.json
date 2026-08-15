@@ -1,0 +1,269 @@
+[
+  {
+    "type": "missing-page",
+    "title": "桥水基金 (Bridgewater)",
+    "description": "达里欧相关页面中提及了桥水基金，但尚未创建独立实体页面。如果需要完善人物背景信息，可考虑补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-全天候策略怎么选__qa.md",
+    "affectedPages": [
+      "wiki/entities/bridgewater.md"
+    ],
+    "searchQueries": [
+      "Bridgewater Associates All Weather Strategy performance history",
+      "桥水基金 全天候策略 历史业绩"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-11412ad6",
+    "resolved": false,
+    "createdAt": 1786787605475
+  },
+  {
+    "type": "suggestion",
+    "title": "达里欧策略实际回测验证",
+    "description": "文章称达里欧策略最大回撤12-16%，但 AQR 等第三方研究指出2022年股债双杀时回撤可能更大。建议在相关页面补充外部验证信息，标注数据来源差异。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-全天候策略怎么选__qa.md",
+    "affectedPages": [
+      "SEARCH: AQR All Weather Strategy backtest 2022 drawdown | Bridgewater All Weather fund performance 2022"
+    ],
+    "searchQueries": [
+      "AQR All Weather Strategy backtest 2022 drawdown",
+      "Bridgewater All Weather fund performance 2022"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-06e70b08",
+    "resolved": false,
+    "createdAt": 1786787605475
+  },
+  {
+    "type": "suggestion",
+    "title": "塔木德组合具体配置比例",
+    "description": "文章仅给出约2/3风险资产的粗略比例，未提供现代版塔木德的精确资产配置明细。如需完善，可补充具体股票/债券/商品比例。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-全天候策略怎么选__qa.md",
+    "affectedPages": [
+      "SEARCH: Talmud portfolio modern allocation stock bond commodity breakdown | 塔木德组合 现代版 资产配置比例"
+    ],
+    "searchQueries": [
+      "Talmud portfolio modern allocation stock bond commodity breakdown",
+      "塔木德组合 现代版 资产配置比例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5f84af52",
+    "resolved": false,
+    "createdAt": 1786787605475
+  },
+  {
+    "type": "suggestion",
+    "title": "A股适用性研究",
+    "description": "现有 Wiki 主要关注中国市场投资者，但三种策略均基于美股/全球资产设计。建议补充 A 股/人民币资产环境下的适用性分析。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-全天候策略怎么选__qa.md",
+    "affectedPages": [
+      "SEARCH: 全天候策略 A股适用性 人民币资产配置 | 达里欧所有天气策略 中国债券市场"
+    ],
+    "searchQueries": [
+      "全天候策略 A股适用性 人民币资产配置",
+      "达里欧所有天气策略 中国债券市场"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5801e938",
+    "resolved": false,
+    "createdAt": 1786787605475
+  },
+  {
+    "type": "suggestion",
+    "title": "达里欧全天候实际回测验证",
+    "description": "晨星文章称达里欧策略最大回撤12-16%，但分析已指出 AQR 等第三方研究显示 2022 年股债双杀时回撤显著更大。该差异影响读者对策略真实风险的理解，建议在 `all-weather-strategy` 或 `ray-dalio` 页面补充外部回测数据并注明来源分歧。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-全天候策略怎么选__qa.md",
+    "affectedPages": [
+      "wiki/concepts/all-weather-strategy.md",
+      "wiki/entities/ray-dalio.md"
+    ],
+    "searchQueries": [
+      "AQR All Weather Strategy backtest 2022 drawdown",
+      "Bridgewater All Weather fund historical performance"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d0589d7f",
+    "resolved": false,
+    "createdAt": 1786787605475
+  },
+  {
+    "type": "suggestion",
+    "title": "塔木德组合精确资产配置",
+    "description": "文章仅给出\"约2/3风险资产\"的粗略比例，未说明现代版塔木德中股票、债券、商品的精确配比。补充该细节有助于读者实际操作参考。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-全天候策略怎么选__qa.md",
+    "affectedPages": [
+      "wiki/concepts/talmud-portfolio.md"
+    ],
+    "searchQueries": [
+      "Talmud portfolio modern allocation stock bond commodity breakdown",
+      "塔木德组合 现代版 资产配置比例 2/3"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-552fa8c8",
+    "resolved": false,
+    "createdAt": 1786787605475
+  },
+  {
+    "type": "suggestion",
+    "title": "全天候策略在A股/人民币资产的适用性",
+    "description": "现有 Wiki 主要面向中国投资者，但三种策略均基于美股/全球资产配置设计。补充 A 股市场环境下（利率环境、品种可得性、汇率约束）的适用性分析，对读者决策价值高。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-全天候策略怎么选__qa.md",
+    "affectedPages": [
+      "wiki/concepts/all-weather-strategy.md",
+      "wiki/comparisons/all-weather-strategies-comparison.md"
+    ],
+    "searchQueries": [
+      "全天候策略 A股适用性 人民币资产配置",
+      "达里欧所有天气策略 中国债券市场 可行性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-91b975a7",
+    "resolved": false,
+    "createdAt": 1786787605475
+  },
+  {
+    "type": "suggestion",
+    "title": "基金E账户数据更新频率与延迟边界",
+    "description": "原文承认晨星诊断数据基于净值估算、存在延迟偏差，但未给出具体延迟量级（T+?）。这对理解\"隐性风险显性化\"的实际有效性至关重要：如果延迟超过一周，在震荡市中风险定位可能已经过时。值得搜索晨星官方或中国结算关于数据更新频率的说明。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-基金体检找回财富__qa.md",
+    "affectedPages": [
+      "wiki/entities/基金E账户.md",
+      "wiki/entities/晨星账户诊断工具.md"
+    ],
+    "searchQueries": [
+      "基金E账户 更新频率 T+1",
+      "晨星账户诊断 数据延迟 净值估算",
+      "中国登记结算公司 基金E账户 数据时效"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4a89a6e2",
+    "resolved": false,
+    "createdAt": 1786787685390
+  },
+  {
+    "type": "suggestion",
+    "title": "体检逻辑与全天候配置框架的关系",
+    "description": "文章强调\"体检先于加仓\"，而现有 wiki 中有大量全天候策略（达里欧、永久组合）内容。两者分属战术层 vs 战略层，但读者很容易误读为相互矛盾。一篇综述或对比页能帮助区分两个框架的适用场景，避免认知混淆。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-基金体检找回财富__qa.md",
+    "affectedPages": [
+      "wiki/concepts/全天候策略",
+      "wiki/concepts/无效分散",
+      "wiki/sources/5-notes--30-20240627t090132-qa-基金体检找回财富qa--187f715.md"
+    ],
+    "searchQueries": [
+      "基金体检 资产配置 战术调整 vs 战略配置",
+      "晨星 账户诊断 组合优化 方法论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fbff638d",
+    "resolved": false,
+    "createdAt": 1786787685390
+  },
+  {
+    "type": "suggestion",
+    "title": "基金E账户实际覆盖范围与使用门槛",
+    "description": "原文只说E账户\"打通所有渠道\"，但未说明是否已全面覆盖所有银行、券商和第三方平台，也未提及开户门槛（是否需要券商/基金账号关联）。这些信息直接影响工具的实用价值评估。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-基金体检找回财富__qa.md",
+    "affectedPages": [
+      "wiki/entities/基金E账户.md",
+      "wiki/entities/中国登记结算公司.md"
+    ],
+    "searchQueries": [
+      "基金E账户 覆盖范围 2024 2025 银行 券商",
+      "中国登记结算公司 基金E账户 开通条件 使用门槛"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-69b86966",
+    "resolved": false,
+    "createdAt": 1786787685390
+  }
+]

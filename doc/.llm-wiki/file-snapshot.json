@@ -1,0 +1,3481 @@
+{
+  "version": 1,
+  "updatedAt": 1786787686127,
+  "files": {
+    "purpose.md": {
+      "hash": "77546dadbea32fdcf671400051e18f56",
+      "size": 324,
+      "mtimeMs": 1786786662789
+    },
+    "raw/sources/notes/20240627T090132--qa-主题基金不等于风口__qa.md": {
+      "hash": "f8c305a80c5b864cbd35d35e60c37c60",
+      "size": 3988,
+      "mtimeMs": 1786261718009
+    },
+    "raw/sources/notes/20240627T090132--qa-全天候策略怎么选__qa.md": {
+      "hash": "950625c7401e26ed1c52f373a848f2e9",
+      "size": 4073,
+      "mtimeMs": 1786261718009
+    },
+    "raw/sources/notes/20240627T090132--qa-基金体检找回财富__qa.md": {
+      "hash": "78d901dcb498d4265b8543863b85603a",
+      "size": 4070,
+      "mtimeMs": 1786261718009
+    },
+    "raw/sources/notes/20240627T090132--qa-职业影响投资配置__qa.md": {
+      "hash": "16f98d285f85351296ec5c30d5316219",
+      "size": 4397,
+      "mtimeMs": 1786261718010
+    },
+    "raw/sources/notes/20240627T090132--qa-资产配置从0到1__qa.md": {
+      "hash": "901066afb5bcf34b09c8a317c57941a3",
+      "size": 3663,
+      "mtimeMs": 1786261718010
+    },
+    "raw/sources/notes/20240627T090132--qa-超长期国债值不值__qa.md": {
+      "hash": "1668ec2385a53b04f09ae2fb9073ff28",
+      "size": 4172,
+      "mtimeMs": 1786261718010
+    },
+    "raw/sources/notes/20240627T090132--qa-选基金前先问两件事__qa.md": {
+      "hash": "bceb4819a359313fb68f936ab2caee30",
+      "size": 4070,
+      "mtimeMs": 1786261718010
+    },
+    "raw/sources/notes/20260530T105611--拆书-乱翻书__book.md": {
+      "hash": "baf3de280ae119cfa4481e0f4f9bf4bb",
+      "size": 6424,
+      "mtimeMs": 1786261718011
+    },
+    "raw/sources/notes/20260530T111241--拆书-财新markdown__book.md": {
+      "hash": "18c6b506f31119cc716a1788a19e9d53",
+      "size": 3237,
+      "mtimeMs": 1786261718011
+    },
+    "raw/sources/notes/20260530T151355==z--投资分析-南方纳斯达克100指数qdii-c.md": {
+      "hash": "77b822d5ac1c419cd5262ba9d69f92f9",
+      "size": 14259,
+      "mtimeMs": 1786261718011
+    },
+    "raw/sources/notes/20260530T152345==z--投资分析-广发纳斯达克100etf联接人民币qdii-a.md": {
+      "hash": "ef9806218968e41c749da73ea2949106",
+      "size": 16399,
+      "mtimeMs": 1786261718011
+    },
+    "raw/sources/notes/20260530T152700==z--投资分析-广发添财180天债券A.md": {
+      "hash": "533a38d9bc7438fd536b7863e8454d4f",
+      "size": 12525,
+      "mtimeMs": 1786261718012
+    },
+    "raw/sources/notes/20260530T152815==z--投资分析-国泰纳斯达克100指数qdii.md": {
+      "hash": "4cadf4c5112232a98f7792f0a121df5f",
+      "size": 15352,
+      "mtimeMs": 1786261718012
+    },
+    "raw/sources/notes/20260530T153007==z--投资分析-南方红利低波50etf联接a.md": {
+      "hash": "1ad016f1c5dd771d775d6dc652384928",
+      "size": 16457,
+      "mtimeMs": 1786261718012
+    },
+    "raw/sources/notes/20260530T153123==z--投资分析-纳斯达克qdii.md": {
+      "hash": "8cd1f8b86d5c7a4d18e5b18d97fb3cd5",
+      "size": 13997,
+      "mtimeMs": 1786261718012
+    },
+    "raw/sources/notes/20260530T153257==z--投资分析-华泰柏瑞中证红利低波动etf联接a.md": {
+      "hash": "d71bfb26fe465c7cba175ac8d39e94cd",
+      "size": 16536,
+      "mtimeMs": 1786261718013
+    },
+    "raw/sources/notes/20260530T153622==z--投资分析-华泰柏瑞中证港股通红利etf联接c.md": {
+      "hash": "8c55cb5115781221221b17cfe12fa402",
+      "size": 17745,
+      "mtimeMs": 1786261718013
+    },
+    "raw/sources/notes/20260530T153800==z--投资分析-广发增强债券A.md": {
+      "hash": "f92a3f8c80599efe93dccfb2350e7930",
+      "size": 13090,
+      "mtimeMs": 1786261718013
+    },
+    "raw/sources/notes/20260530T154000==z--投资分析-兴全优选稳健6个月A.md": {
+      "hash": "af83821a8c11960862fdbbddc37932ac",
+      "size": 14334,
+      "mtimeMs": 1786261718013
+    },
+    "raw/sources/notes/20260530T170904--基金行业分类与跷跷板关系__投资.md": {
+      "hash": "4ceb411d3932d4add76d09251e9bf4dc",
+      "size": 11826,
+      "mtimeMs": 1786261718014
+    },
+    "raw/sources/notes/20260530T174616==z--投资分析-美团.md": {
+      "hash": "8d0487e9d7f28ffa7296deb03f98e64e",
+      "size": 20934,
+      "mtimeMs": 1786261718014
+    },
+    "raw/sources/notes/20260530T181201--拆书-解读基金__book.md": {
+      "hash": "0dc4700f35c65980cd341b07c46cd958",
+      "size": 3307,
+      "mtimeMs": 1786261718014
+    },
+    "raw/sources/notes/20260530T184900==z--投资分析-广发全球精选股票QDII人民币C.md": {
+      "hash": "dd16c6d6916b0b284c6301fe573f49c8",
+      "size": 15812,
+      "mtimeMs": 1786261718014
+    },
+    "raw/sources/notes/20260531T101805==z--美团估值跟踪备忘.md": {
+      "hash": "d8b8853826192f0be7cf4165918bb590",
+      "size": 13474,
+      "mtimeMs": 1786261718014
+    },
+    "raw/sources/notes/20260531T103217==z--美团投资跟踪工具总结.md": {
+      "hash": "dc0d388b46e6f0e7a7f9d9bdf145f30f",
+      "size": 5777,
+      "mtimeMs": 1786261718015
+    },
+    "raw/sources/notes/20260531T111318==z--投资分析方法论-利润锚与天花板.md": {
+      "hash": "0fc2bea3a53a2b3cf1ad9291fa0344f7",
+      "size": 9951,
+      "mtimeMs": 1786261718015
+    },
+    "raw/sources/notes/20260531T111523==z--投资分析-腾讯.md": {
+      "hash": "9479e49bb2848007b74bd3af5fa21e15",
+      "size": 15948,
+      "mtimeMs": 1786261718015
+    },
+    "raw/sources/notes/20260531T112037==z--投资分析-小米.md": {
+      "hash": "7e47692810aefb6804fa03a9f9eee5a4",
+      "size": 17482,
+      "mtimeMs": 1786261718015
+    },
+    "raw/sources/notes/20260531T112451--拆书-投资者的未来__book.md": {
+      "hash": "d69d6041baa857e13dfaa918f7cd59d7",
+      "size": 2948,
+      "mtimeMs": 1786261718015
+    },
+    "raw/sources/notes/20260531T113345--拆书-指数基金投资指南__book.md": {
+      "hash": "0c7bee312fc5c498309a686c0440bde0",
+      "size": 3289,
+      "mtimeMs": 1786261718016
+    },
+    "raw/sources/notes/20260531T122410--拆书-新摄影笔记__book.md": {
+      "hash": "f426211822ea52956f78fed72a1af546",
+      "size": 3074,
+      "mtimeMs": 1786261718016
+    },
+    "raw/sources/notes/20260531T123749--伴读-新摄影笔记__reading.md": {
+      "hash": "4d90d9ec5afc8bba56efc805c9e63b03",
+      "size": 7973,
+      "mtimeMs": 1786261718016
+    },
+    "raw/sources/notes/20260531T124254--伴读-如何快速了解一个行业__reading.md": {
+      "hash": "ba8146bdd9e32ac3b67f7ddb7dedf782",
+      "size": 10700,
+      "mtimeMs": 1786261718016
+    },
+    "raw/sources/notes/20260531T215135--拆书-如何快速了解一个行业__book.md": {
+      "hash": "2490a8fc1ca14e380c7cab95ed1a46e7",
+      "size": 7571,
+      "mtimeMs": 1786261718017
+    },
+    "raw/sources/notes/20260613T174204--伴读-公众号小绿书实操入门到精通__reading.md": {
+      "hash": "cd1d879d608feb8aa99272b0f972001d",
+      "size": 18796,
+      "mtimeMs": 1786261718017
+    },
+    "raw/sources/notes/20260614T091500--伴读-风浪越大鱼越贵__reading.md": {
+      "hash": "d2efb45a2de5c46eeb4bb40a32c857b7",
+      "size": 4998,
+      "mtimeMs": 1786261718017
+    },
+    "raw/sources/notes/20260614T091501--qa-股息陷阱与收益追逐__qa.md": {
+      "hash": "73400f2d27c5321004d8a8fb0d18ed06",
+      "size": 7972,
+      "mtimeMs": 1786261718017
+    },
+    "raw/sources/notes/20260614T091501--概念解剖-晨星投资风格箱__concept.md": {
+      "hash": "a816a0750bca222fcaa575566c1a41eb",
+      "size": 5004,
+      "mtimeMs": 1786261718018
+    },
+    "raw/sources/notes/20260614T091502--qa-构建持久投资组合__qa.md": {
+      "hash": "8399a01c658ebf9202feb6bb3b707507",
+      "size": 8287,
+      "mtimeMs": 1786261718018
+    },
+    "raw/sources/notes/20260614T091502--概念解剖-市场预测的不可靠性__concept.md": {
+      "hash": "b5bc59ddfe0bc313e3f7ec2d47b10938",
+      "size": 4429,
+      "mtimeMs": 1786261718018
+    },
+    "raw/sources/notes/20260614T091503--qa-风险与回报的真相__qa.md": {
+      "hash": "f6024fd82cf5113dc766c7594b716230",
+      "size": 8464,
+      "mtimeMs": 1786261718018
+    },
+    "raw/sources/notes/20260614T091503--概念解剖-基金筛选的五维过滤器__concept.md": {
+      "hash": "84fa8e6bdc35832c27920001fd01969a",
+      "size": 4826,
+      "mtimeMs": 1786261718018
+    },
+    "raw/sources/notes/20260614T091504--qa-为什么大多数基金经理跑不赢指数__qa.md": {
+      "hash": "dba64b12c1eddb1f9f56f06c5a80c404",
+      "size": 8289,
+      "mtimeMs": 1786261718019
+    },
+    "raw/sources/notes/20260614T091504--概念解剖-投资人格（MBTI式投资风格）__concept.md": {
+      "hash": "04c3c70e8effb0acb766e83914a931b9",
+      "size": 4502,
+      "mtimeMs": 1786261718019
+    },
+    "raw/sources/notes/20260614T091505--qa-指数基金的隐性成本__qa.md": {
+      "hash": "5a446e4f882b7b40bed703825bd73933",
+      "size": 8169,
+      "mtimeMs": 1786261718019
+    },
+    "raw/sources/notes/20260614T091505--概念解剖-投资者回报差距（Investor Gap）__concept.md": {
+      "hash": "49ffe39368438199833d17121d45fd84",
+      "size": 4850,
+      "mtimeMs": 1786261718019
+    },
+    "raw/sources/notes/20260614T091506--qa-30年投资教训__qa.md": {
+      "hash": "253b01e237651958df6f4021e6ad0999",
+      "size": 8825,
+      "mtimeMs": 1786261718019
+    },
+    "raw/sources/notes/20260614T091506--概念解剖-财富创造的真实路径__concept.md": {
+      "hash": "749940683de70fe96837822cb2f04845",
+      "size": 4752,
+      "mtimeMs": 1786261718019
+    },
+    "raw/sources/notes/20260614T091507--qa-择时的心理陷阱__qa.md": {
+      "hash": "c89842cf29626bc41c4388a98dbdad5c",
+      "size": 8615,
+      "mtimeMs": 1786261718019
+    },
+    "raw/sources/notes/20260614T091507--概念解剖-72法则与财富翻倍__concept.md": {
+      "hash": "ebe8bbec4f9a14147cdbc3427b2bf1ea",
+      "size": 4456,
+      "mtimeMs": 1786261718020
+    },
+    "raw/sources/notes/20260614T091508--qa-泡沫识别指南__qa.md": {
+      "hash": "ff112480e3e1e3d09dbc458d5e6f116c",
+      "size": 8463,
+      "mtimeMs": 1786261718020
+    },
+    "raw/sources/notes/20260614T091508--概念解剖-阿尔法的本质与幻象__concept.md": {
+      "hash": "7772ceb256d83ead63167aadce9b595d",
+      "size": 5090,
+      "mtimeMs": 1786261718020
+    },
+    "raw/sources/notes/20260614T091509--qa-简化投资的力量__qa.md": {
+      "hash": "c923a7d8cebff828a255eb24608acb30",
+      "size": 7993,
+      "mtimeMs": 1786261718020
+    },
+    "raw/sources/notes/20260614T091509--概念解剖-ETF投资的五问框架__concept.md": {
+      "hash": "e2620a1528cba07a586c50e847de02f3",
+      "size": 5130,
+      "mtimeMs": 1786261718020
+    },
+    "raw/sources/notes/20260614T091510--qa-另类投资的必要性__qa.md": {
+      "hash": "654d8cee4c23841960612d5b0bb0849d",
+      "size": 8365,
+      "mtimeMs": 1786261718020
+    },
+    "raw/sources/notes/20260614T091511--qa-卖太早的陷阱__qa.md": {
+      "hash": "632afcfaa80ead1523f70b3189ed8b13",
+      "size": 8784,
+      "mtimeMs": 1786261718021
+    },
+    "raw/sources/notes/20260614T091512--qa-年报阅读指南__qa.md": {
+      "hash": "e8d56f40bb1402b25d1763928fd7bb7c",
+      "size": 8933,
+      "mtimeMs": 1786261718021
+    },
+    "raw/sources/notes/20260614T091513--qa-追逐收益的危险__qa.md": {
+      "hash": "ccf6bd3a391d2c3ccbc49be0dee5fef7",
+      "size": 8589,
+      "mtimeMs": 1786261718021
+    },
+    "raw/sources/notes/20260614T091514--qa-长期思维的力量__qa.md": {
+      "hash": "9bf655b8e3315395280feadc58835fc5",
+      "size": 8289,
+      "mtimeMs": 1786261718021
+    },
+    "raw/sources/notes/20260614T091530--伴读-基金经理不按导航走__reading.md": {
+      "hash": "e6039ea6f21bc1815dc19115211e386b",
+      "size": 4342,
+      "mtimeMs": 1786261718021
+    },
+    "raw/sources/notes/20260614T091600--伴读-投资路上的险小韭__reading.md": {
+      "hash": "babfac63f7370473ba83be18c3a79371",
+      "size": 1939,
+      "mtimeMs": 1786261718021
+    },
+    "raw/sources/notes/20260614T091630--伴读-波动之下零收益组合__reading.md": {
+      "hash": "49b6671d0882300443017ee50d7f153f",
+      "size": 6005,
+      "mtimeMs": 1786261718022
+    },
+    "raw/sources/notes/20260614T091700--伴读-量化投资重拳出击__reading.md": {
+      "hash": "9254aff6aabc80a2479ba6009e13d126",
+      "size": 5683,
+      "mtimeMs": 1786261718022
+    },
+    "raw/sources/notes/20260614T091730--伴读-春节闲钱理财攻略__reading.md": {
+      "hash": "10c5ec38fd2f28cf815d370c8ad0a8fe",
+      "size": 5459,
+      "mtimeMs": 1786261718022
+    },
+    "raw/sources/notes/20260614T091800--伴读-散户出路何在__reading.md": {
+      "hash": "b62e1c4d03d53a4fa0770974c05d0e84",
+      "size": 5321,
+      "mtimeMs": 1786261718022
+    },
+    "raw/sources/notes/20260614T091830--伴读-揭秘晨星基金评价__reading.md": {
+      "hash": "7dedf88e85225cc9ba429f08c10f3512",
+      "size": 4322,
+      "mtimeMs": 1786261718022
+    },
+    "raw/sources/notes/20260614T091900--伴读-3800点别乱追__reading.md": {
+      "hash": "a3e8074497fd0df2a080bd95d7e29b24",
+      "size": 4213,
+      "mtimeMs": 1786261718023
+    },
+    "raw/sources/notes/20260614T091930--伴读-又添2400只基金__reading.md": {
+      "hash": "fde369932890a12d640a451d8d8bfe04",
+      "size": 5018,
+      "mtimeMs": 1786261718023
+    },
+    "raw/sources/notes/20260614T092000--伴读-Hi 3000点我们的老朋友__reading.md": {
+      "hash": "fbb4f3be5343de7fe2cc1cdaf5a1a01c",
+      "size": 5066,
+      "mtimeMs": 1786261718023
+    },
+    "raw/sources/notes/20260614T092030--伴读-A股创十年新高躲牛市__reading.md": {
+      "hash": "a8c7ec0ca14a2c91133882a69e7af6c0",
+      "size": 5132,
+      "mtimeMs": 1786261718023
+    },
+    "raw/sources/notes/20260614T092100--伴读-投资中的旷野求生__reading.md": {
+      "hash": "444eda05b0210ec62ac23c55e1676160",
+      "size": 4966,
+      "mtimeMs": 1786261718023
+    },
+    "raw/sources/notes/20260614T100001--伴读-理解基金业绩__reading.md": {
+      "hash": "abb84b4c38fe527a3945dbf85781404b",
+      "size": 7948,
+      "mtimeMs": 1786261718023
+    },
+    "raw/sources/notes/20260614T100002--伴读-错过牛市十天__reading.md": {
+      "hash": "028182d413fc6dd88a3232b7e78e87b4",
+      "size": 8012,
+      "mtimeMs": 1786261718023
+    },
+    "raw/sources/notes/20260614T100003--伴读-降息降准该做什么__reading.md": {
+      "hash": "4c0250eb243397825e80cd2d7689cd38",
+      "size": 7373,
+      "mtimeMs": 1786261718024
+    },
+    "raw/sources/notes/20260614T100004--伴读-基金波动稳如老狗__reading.md": {
+      "hash": "82642f3e791b30620ef937d5c27b7bcb",
+      "size": 7906,
+      "mtimeMs": 1786261718024
+    },
+    "raw/sources/notes/20260614T100005--伴读-选新基金五件事__reading.md": {
+      "hash": "9a520133723f7228d3cc4d65788d0d09",
+      "size": 10250,
+      "mtimeMs": 1786261718024
+    },
+    "raw/sources/notes/20260614T100006--伴读-财务自由关键__reading.md": {
+      "hash": "a7b73ec8a4a84b13c34a27a5fadecb63",
+      "size": 8421,
+      "mtimeMs": 1786261718024
+    },
+    "raw/sources/notes/20260614T100007--伴读-节后A股收跌__reading.md": {
+      "hash": "26b33dabc710d4fab6a22cfa5b83807a",
+      "size": 8131,
+      "mtimeMs": 1786261718025
+    },
+    "raw/sources/notes/20260614T100008--伴读-回报率比净值重要__reading.md": {
+      "hash": "0e894277d964a3e31f301d837388751f",
+      "size": 8319,
+      "mtimeMs": 1786261718025
+    },
+    "raw/sources/notes/20260614T100009--伴读-网格交易陷阱__reading.md": {
+      "hash": "0137dca1959a49dab86a45f8d984c285",
+      "size": 10118,
+      "mtimeMs": 1786261718025
+    },
+    "raw/sources/notes/20260614T100010--伴读-完美投资组合__reading.md": {
+      "hash": "e64047c60be0165946b1a25319257215",
+      "size": 11175,
+      "mtimeMs": 1786261718025
+    },
+    "raw/sources/notes/20260614T100011--伴读-赢得输家的游戏__reading.md": {
+      "hash": "f6f1e3c7a0804f8f28e55cfe06e305af",
+      "size": 10518,
+      "mtimeMs": 1786261718025
+    },
+    "raw/sources/notes/20260614T100012--伴读-日本终结负利率__reading.md": {
+      "hash": "9794a00762883c94f0309c692f22d6dc",
+      "size": 8819,
+      "mtimeMs": 1786261718025
+    },
+    "raw/sources/notes/20260614T100013--伴读-高成长结局不如想象__reading.md": {
+      "hash": "6269a3413c20fe845ad772e0abb5d215",
+      "size": 10568,
+      "mtimeMs": 1786261718025
+    },
+    "raw/sources/notes/20260614T100531--伴读-普通人能靠炒股发家致富吗__reading.md": {
+      "hash": "8d6b4b528a46139e4c3c8ff944d21d3f",
+      "size": 7477,
+      "mtimeMs": 1786261718026
+    },
+    "raw/sources/notes/20260614T100532--伴读-从50万到100万需要用多少年__reading.md": {
+      "hash": "5f39c18df70b1668c90803fa9b0f7dfa",
+      "size": 5371,
+      "mtimeMs": 1786261718026
+    },
+    "raw/sources/notes/20260614T100533--伴读-消失的阿尔法回来了吗__reading.md": {
+      "hash": "72dddf24ffba5c9ac02fd40fea18f0bc",
+      "size": 5811,
+      "mtimeMs": 1786261718026
+    },
+    "raw/sources/notes/20260614T100534--伴读-想要躺平赚贝塔ETF该怎么买__reading.md": {
+      "hash": "527824388032ff6dec49ff9f62237cb8",
+      "size": 6288,
+      "mtimeMs": 1786261718026
+    },
+    "raw/sources/notes/20260614T100535--伴读-好的固收加产品要看哪些方面__reading.md": {
+      "hash": "60570d77a15d6a2985341b7be281761c",
+      "size": 4214,
+      "mtimeMs": 1786261718026
+    },
+    "raw/sources/notes/20260614T100536--伴读-市场急涨急跌操作上如何应对__reading.md": {
+      "hash": "7e3c6eb0420ab0064eea98157b250c4c",
+      "size": 6569,
+      "mtimeMs": 1786261718026
+    },
+    "raw/sources/notes/20260614T100537--伴读-赚钱最锋利的矛也会成为亏钱的毒药__reading.md": {
+      "hash": "3066bd85bdb16599fb4a745b49671129",
+      "size": 5155,
+      "mtimeMs": 1786261718027
+    },
+    "raw/sources/notes/20260614T100538--伴读-QDII打假你的基金海外浓度有多高__reading.md": {
+      "hash": "c6e8d87da70da742d65110dad37a6096",
+      "size": 4387,
+      "mtimeMs": 1786261718027
+    },
+    "raw/sources/notes/20260614T100539--伴读-硬茬韭菜如何养成__reading.md": {
+      "hash": "001cb68bca5579c483569ef423eb29a5",
+      "size": 5521,
+      "mtimeMs": 1786261718027
+    },
+    "raw/sources/notes/20260614T100540--伴读-基准将如何影响我们的投资__reading.md": {
+      "hash": "a3f91b810ee802d13f3ea0d6a6958854",
+      "size": 5021,
+      "mtimeMs": 1786261718027
+    },
+    "raw/sources/notes/20260614T100541--伴读-长期投资该不该止盈__reading.md": {
+      "hash": "42c37a88698150b0e98cc1a6d54d69e7",
+      "size": 5206,
+      "mtimeMs": 1786261718027
+    },
+    "raw/sources/notes/20260614T100542--伴读-躺平的贝塔冒险的阿尔法__reading.md": {
+      "hash": "fa13b55a6555b1b0e88d0407da303af2",
+      "size": 5597,
+      "mtimeMs": 1786261718027
+    },
+    "raw/sources/notes/20260614T100543--伴读-万千基金精准选基第一步__reading.md": {
+      "hash": "816c9798d6aef65de8a5b01934c2b3ee",
+      "size": 4302,
+      "mtimeMs": 1786261718027
+    },
+    "raw/sources/notes/20260614T103015--伴读-泡沫与逆向投资__reading.md": {
+      "hash": "6926ad687894930b9b7a9d1a721bf611",
+      "size": 5662,
+      "mtimeMs": 1786261718028
+    },
+    "raw/sources/notes/20260614T103045--伴读-风险与收益的悖论__reading.md": {
+      "hash": "eb68255c07b2c43e2637e2099e77d4b5",
+      "size": 6427,
+      "mtimeMs": 1786261718028
+    },
+    "raw/sources/notes/20260614T114704--qa-收益序列风险长期投资__qa.md": {
+      "hash": "776ee8d160554045823fe13e92d2adaa",
+      "size": 6611,
+      "mtimeMs": 1786261718028
+    },
+    "raw/sources/notes/20260614T114912--qa-选择过剩时认识自己才是稀缺资源__qa.md": {
+      "hash": "434394d682c561cbeacf0f85b3928cbd",
+      "size": 7227,
+      "mtimeMs": 1786261718028
+    },
+    "raw/sources/notes/20260614T115006--qa-基金经理自持利益绑定选基信号__qa.md": {
+      "hash": "4b8767eba825264d370e9d0bbe985211",
+      "size": 6703,
+      "mtimeMs": 1786261718028
+    },
+    "raw/sources/notes/20260614T115908--qa-基金业绩归因__qa.md": {
+      "hash": "02430a2c63eef1832ba9cba63fb5d03b",
+      "size": 4527,
+      "mtimeMs": 1786261718029
+    },
+    "raw/sources/notes/20260614T115910--qa-什么都不做__qa.md": {
+      "hash": "434ffa59cfceb8caa86fc3e39d812054",
+      "size": 4275,
+      "mtimeMs": 1786261718029
+    },
+    "raw/sources/notes/20260614T115911--qa-基金风险认知__qa.md": {
+      "hash": "cf4fa955fa71711d919e54bf3971a0da",
+      "size": 4001,
+      "mtimeMs": 1786261718029
+    },
+    "raw/sources/notes/20260614T115912--qa-选新基金__qa.md": {
+      "hash": "bf46e15bc9671a76cb86731a7efb3448",
+      "size": 3935,
+      "mtimeMs": 1786261718029
+    },
+    "raw/sources/notes/20260614T115913--qa-现金流为王__qa.md": {
+      "hash": "5d475cc374f84967cf677cd8e3b58dd2",
+      "size": 4388,
+      "mtimeMs": 1786261718029
+    },
+    "raw/sources/notes/20260614T115914--qa-钱去哪了__qa.md": {
+      "hash": "64925a79dfe3636b1231158146d6eff5",
+      "size": 3901,
+      "mtimeMs": 1786261718029
+    },
+    "raw/sources/notes/20260614T115915--qa-回报率比净值重要__qa.md": {
+      "hash": "242fb348e014bd62f22cb421d261483f",
+      "size": 3950,
+      "mtimeMs": 1786261718030
+    },
+    "raw/sources/notes/20260614T115916--qa-网格交易陷阱__qa.md": {
+      "hash": "c168352368f4aa7303bacfdf0671d3a0",
+      "size": 4263,
+      "mtimeMs": 1786261718030
+    },
+    "raw/sources/notes/20260614T115917--qa-完美投资组合__qa.md": {
+      "hash": "799fdf86dc01816fea27c825a784736f",
+      "size": 5474,
+      "mtimeMs": 1786261718030
+    },
+    "raw/sources/notes/20260614T115931--qa-投资无聊指数基金__qa.md": {
+      "hash": "3812ad8f73f0d8f3305e27feda748714",
+      "size": 6044,
+      "mtimeMs": 1786261718030
+    },
+    "raw/sources/notes/20260614T115932--qa-通缩比通胀更可怕__qa.md": {
+      "hash": "c4aa52b7c147c7f00b6d9021055ac9cd",
+      "size": 5230,
+      "mtimeMs": 1786261718030
+    },
+    "raw/sources/notes/20260614T115933--qa-高成长陷阱产能过剩__qa.md": {
+      "hash": "c3b0ab6f47c8eaa7d55e88d9efda75f7",
+      "size": 5328,
+      "mtimeMs": 1786261718030
+    },
+    "raw/sources/notes/20260614T115934--qa-基金经理换手率评级__qa.md": {
+      "hash": "ba0e597e04c332849cf45d0410fa553f",
+      "size": 4723,
+      "mtimeMs": 1786261718030
+    },
+    "raw/sources/notes/20260614T115935--qa-经济周期市场脱钩__qa.md": {
+      "hash": "00f9ac0d93f30c6cb114e7112b992a88",
+      "size": 5018,
+      "mtimeMs": 1786261718031
+    },
+    "raw/sources/notes/20260614T115936--qa-银行理财不保本__qa.md": {
+      "hash": "2167979250450b192d95576c01cef743",
+      "size": 4817,
+      "mtimeMs": 1786261718031
+    },
+    "raw/sources/notes/20260614T115937--qa-优化投资四步骤__qa.md": {
+      "hash": "284ea5c06da7f03e65402452b9296f10",
+      "size": 4806,
+      "mtimeMs": 1786261718031
+    },
+    "raw/sources/notes/20260614T115939--qa-估值两门派周期价值__qa.md": {
+      "hash": "a72b9e7d3cb68f46b9c6c947a9440653",
+      "size": 5326,
+      "mtimeMs": 1786261718031
+    },
+    "raw/sources/notes/20260614T115940--qa-回本后怎么办__qa.md": {
+      "hash": "cd7032ceee39bbae2d3758988e33ba1f",
+      "size": 4606,
+      "mtimeMs": 1786261718031
+    },
+    "raw/sources/notes/20260614T115950--qa-九宫格风格箱选基__qa.md": {
+      "hash": "a171c92c96425d9f13ccc9278075aaac",
+      "size": 4338,
+      "mtimeMs": 1786261718031
+    },
+    "raw/sources/notes/20260614T115951--qa-市场预测为什么靠不住__qa.md": {
+      "hash": "0a594ccb81cdd00d24b763026e787a11",
+      "size": 3956,
+      "mtimeMs": 1786261718031
+    },
+    "raw/sources/notes/20260614T115952--qa-风格箱划分规则详解__qa.md": {
+      "hash": "d68a4b59c4cd9bdb169cd52d627667da",
+      "size": 4192,
+      "mtimeMs": 1786261718032
+    },
+    "raw/sources/notes/20260614T115953--qa-短债基金五指标筛选__qa.md": {
+      "hash": "385618ea8f3f6b66a9ba256f780f9f82",
+      "size": 4139,
+      "mtimeMs": 1786261718032
+    },
+    "raw/sources/notes/20260614T115954--qa-投资人格测试__qa.md": {
+      "hash": "6f06acca1098218a63eb6512251bc7c6",
+      "size": 3625,
+      "mtimeMs": 1786261718032
+    },
+    "raw/sources/notes/20260614T115955--qa-基金回报vs投资者回报__qa.md": {
+      "hash": "4c8f7e12e8f2fa1beaac9449e6afeab9",
+      "size": 4247,
+      "mtimeMs": 1786261718032
+    },
+    "raw/sources/notes/20260614T115956--qa-普通人能靠炒股致富吗__qa.md": {
+      "hash": "e529e9769a2827cb2854cf643bf7d67f",
+      "size": 4518,
+      "mtimeMs": 1786261718032
+    },
+    "raw/sources/notes/20260614T115957--qa-72法则资产翻倍__qa.md": {
+      "hash": "3b3d3f9f5f6385a6a6821daf98f791c3",
+      "size": 3738,
+      "mtimeMs": 1786261718032
+    },
+    "raw/sources/notes/20260614T115958--qa-阿尔法消失又回来__qa.md": {
+      "hash": "26547b887cb3019b83dbb1bacd1ddcdf",
+      "size": 4117,
+      "mtimeMs": 1786261718033
+    },
+    "raw/sources/notes/20260614T115959--qa-ETF五步选择法__qa.md": {
+      "hash": "d2da0ec4a5cf2fa7098a5249625abe9c",
+      "size": 3922,
+      "mtimeMs": 1786261718033
+    },
+    "raw/sources/notes/20260614T120000--伴读-心态与行为__reading.md": {
+      "hash": "fd34fceab8a476da16c760d84f43152a",
+      "size": 30274,
+      "mtimeMs": 1786261718034
+    },
+    "raw/sources/notes/20260614T120040--qa-近因效应让你追涨杀跌__qa.md": {
+      "hash": "13e4518c53ad1a42acb716f4f174a2e2",
+      "size": 5062,
+      "mtimeMs": 1786261718034
+    },
+    "raw/sources/notes/20260614T120042--qa-放弃完美才能赚到钱__qa.md": {
+      "hash": "a4a3794814835fa562fe53d129a01f5e",
+      "size": 5460,
+      "mtimeMs": 1786261718034
+    },
+    "raw/sources/notes/20260614T120050--伴读-策略与配置__reading.md": {
+      "hash": "ae542ac00308ddac5418c338e26abb27",
+      "size": 31128,
+      "mtimeMs": 1786261718034
+    },
+    "raw/sources/notes/20260614T120100--伴读-基金评估__reading.md": {
+      "hash": "f061bc9811b80525093851aff2563f28",
+      "size": 25903,
+      "mtimeMs": 1786261718035
+    },
+    "raw/sources/notes/20260614T120102--qa-风险与收益的时间博弈__qa.md": {
+      "hash": "c29825ad331ccc00fa4c01991466d5e7",
+      "size": 4232,
+      "mtimeMs": 1786261718035
+    },
+    "raw/sources/notes/20260614T120104--qa-新手投资避坑指南__qa.md": {
+      "hash": "f8f9ab6ee5b82721a8431f1b5dd686f9",
+      "size": 4416,
+      "mtimeMs": 1786261718035
+    },
+    "raw/sources/notes/20260614T120105--qa-再平衡的数学魔法与局限__qa.md": {
+      "hash": "a737c2c4ae38f0a7c88669f2a6b68bc4",
+      "size": 3330,
+      "mtimeMs": 1786261718035
+    },
+    "raw/sources/notes/20260614T120106--qa-量化投资的真相与陷阱__qa.md": {
+      "hash": "2711607fce5be86fec0f926955aa08e7",
+      "size": 4760,
+      "mtimeMs": 1786261718035
+    },
+    "raw/sources/notes/20260614T120107--qa-货币基金挑选实战技巧__qa.md": {
+      "hash": "1aca3b1789eed3e531091367cf96545c",
+      "size": 4963,
+      "mtimeMs": 1786261718036
+    },
+    "raw/sources/notes/20260614T120108--qa-市场有效性决定投资策略__qa.md": {
+      "hash": "cee82df92c5d0ebdea4623e0a6adf203",
+      "size": 4958,
+      "mtimeMs": 1786261718036
+    },
+    "raw/sources/notes/20260614T120109--qa-晨星基金分类体系解析__qa.md": {
+      "hash": "27eb5b29b9ba2605f43f4589a87d07a4",
+      "size": 4695,
+      "mtimeMs": 1786261718036
+    },
+    "raw/sources/notes/20260614T120110--qa-7种经典投资策略适配指南__qa.md": {
+      "hash": "c0e328d1b5a1392ee5c97c5a7fe8b2bf",
+      "size": 5549,
+      "mtimeMs": 1786261718037
+    },
+    "raw/sources/notes/20260614T120145--qa-投资策略制定方法__qa.md": {
+      "hash": "cc0afcc195f495f736fbd1e89998fcc1",
+      "size": 3618,
+      "mtimeMs": 1786261718037
+    },
+    "raw/sources/notes/20260614T120150--伴读-产品与工具__reading.md": {
+      "hash": "aa7001a325e80e6a412edc05f1bb71e7",
+      "size": 33369,
+      "mtimeMs": 1786261718037
+    },
+    "raw/sources/notes/20260614T120452--qa-QDII海外配置陷阱__qa.md": {
+      "hash": "a4db6f8cd55afe3c64026425982b988f",
+      "size": 3414,
+      "mtimeMs": 1786261718037
+    },
+    "raw/sources/notes/20260614T120625--qa-散户投资优势来源__qa.md": {
+      "hash": "e68ac60534f35055b06a4b2c27f49532",
+      "size": 3403,
+      "mtimeMs": 1786261718037
+    },
+    "raw/sources/notes/20260614T120758--qa-业绩基准约束作用__qa.md": {
+      "hash": "a48894a5bbb6aeac8d3f1e4d8b90dec8",
+      "size": 4153,
+      "mtimeMs": 1786261718037
+    },
+    "raw/sources/notes/20260614T120827--qa-固收加产品看基金经理流程__qa.md": {
+      "hash": "f8a6e33fccdbea0d2b465f444867d870",
+      "size": 2711,
+      "mtimeMs": 1786261718038
+    },
+    "raw/sources/notes/20260614T120827--qa-贝塔是风口阿尔法是逆风飞翔__qa.md": {
+      "hash": "e5ca524b68ffe50a3fe486caf356bc71",
+      "size": 5267,
+      "mtimeMs": 1786261718038
+    },
+    "raw/sources/notes/20260614T120827--qa-赛道基金是矛也是毒药__qa.md": {
+      "hash": "658d1ef72338d2258d99d8f550d782d5",
+      "size": 4493,
+      "mtimeMs": 1786261718038
+    },
+    "raw/sources/notes/20260614T121237--qa-基金分类晨星方法__qa.md": {
+      "hash": "569fdb1971876ea93250e4516062167b",
+      "size": 3453,
+      "mtimeMs": 1786261718038
+    },
+    "raw/sources/notes/20260614T121410--qa-红利基金选择方法__qa.md": {
+      "hash": "70eb66845ab64edf55a475065b405c0d",
+      "size": 4215,
+      "mtimeMs": 1786261718038
+    },
+    "raw/sources/notes/20260614T121410--qa-风险的定义和衡量__qa.md": {
+      "hash": "c2b97ea1d615971ca2da40219d1dade1",
+      "size": 3804,
+      "mtimeMs": 1786261718038
+    },
+    "raw/sources/notes/20260614T121423--qa-指数涨个股不涨__qa.md": {
+      "hash": "6a11ebd389329b6f6c4f824f4c376b7f",
+      "size": 3902,
+      "mtimeMs": 1786261718039
+    },
+    "raw/sources/notes/20260614T121449--qa-泡沫宏大叙事__qa.md": {
+      "hash": "dee201c030906af1b08a4c595bf1a6ce",
+      "size": 3900,
+      "mtimeMs": 1786261718039
+    },
+    "raw/sources/notes/20260614T121502--qa-高风险不等于高收益__qa.md": {
+      "hash": "8076d0d5253b5dfc7811ddd042901da2",
+      "size": 3940,
+      "mtimeMs": 1786261718039
+    },
+    "raw/sources/notes/20260614T122811--伴读-红利基金选择__reading.md": {
+      "hash": "4746df2fd2feefb7ae95c5b53f918fe4",
+      "size": 7186,
+      "mtimeMs": 1786261718039
+    },
+    "raw/sources/notes/20260614T122812--伴读-基金经理跟投__reading.md": {
+      "hash": "70d7acf00d4c76659649232ccac0c9b0",
+      "size": 8263,
+      "mtimeMs": 1786261718039
+    },
+    "raw/sources/notes/20260614T122813--伴读-逆向投资__reading.md": {
+      "hash": "b97a9ada7cf77371ecfe5d7824ea7d0b",
+      "size": 7165,
+      "mtimeMs": 1786261718040
+    },
+    "raw/sources/notes/20260614T122814--伴读-投资风格__reading.md": {
+      "hash": "1da9ad2c7769525881a4c46a97c94abc",
+      "size": 5769,
+      "mtimeMs": 1786261718040
+    },
+    "raw/sources/notes/20260614T122815--伴读-亏钱基金怎么办__reading.md": {
+      "hash": "bcac06b99b0272fb8597584b283a3aa7",
+      "size": 7026,
+      "mtimeMs": 1786261718040
+    },
+    "raw/sources/notes/20260614T122816--伴读-晨星排行榜__reading.md": {
+      "hash": "37c2458dc75559aa98d7f5f599f90948",
+      "size": 5008,
+      "mtimeMs": 1786261718040
+    },
+    "raw/sources/notes/20260614T122819--伴读-金钱心理学__reading.md": {
+      "hash": "e1372717cea7b0cbda275cd50c49372b",
+      "size": 7005,
+      "mtimeMs": 1786261718040
+    },
+    "raw/sources/notes/20260614T122820--伴读-历史业绩预测__reading.md": {
+      "hash": "8de7c8cc7d023d05adb2fdc30089ad54",
+      "size": 7759,
+      "mtimeMs": 1786261718041
+    },
+    "raw/sources/notes/20260614T122821--伴读-风格漂移__reading.md": {
+      "hash": "810c30e8f8b057ed5eebf13173eee8b6",
+      "size": 6885,
+      "mtimeMs": 1786261718041
+    },
+    "raw/sources/notes/20260614T122823--伴读-近因效应__reading.md": {
+      "hash": "0f3d6039c7f815698ceec8734d8dd93c",
+      "size": 7255,
+      "mtimeMs": 1786261718041
+    },
+    "raw/sources/notes/20260614T122824--伴读-主动被动选择__reading.md": {
+      "hash": "53870c90517b8f8bf5cd663ce8351df8",
+      "size": 7154,
+      "mtimeMs": 1786261718041
+    },
+    "raw/sources/notes/20260614T122825--伴读-完美投资__reading.md": {
+      "hash": "816c29ce059a172c66cc3cf8287f4026",
+      "size": 6861,
+      "mtimeMs": 1786261718042
+    },
+    "raw/sources/notes/20260614T122827--伴读-市场平均回报__reading.md": {
+      "hash": "a462416b55c825819f58b74517375775",
+      "size": 6167,
+      "mtimeMs": 1786261718042
+    },
+    "raw/sources/notes/20260614T124148--qa-错过牛市十天决定全年收益__qa.md": {
+      "hash": "502e43db3a5894633ec27a0c31737c00",
+      "size": 4312,
+      "mtimeMs": 1786261718042
+    },
+    "raw/sources/notes/20260614T124149--qa-逆向投资不是和市场对着干__qa.md": {
+      "hash": "5b037507194c12eac0c06d0a83356fd5",
+      "size": 4237,
+      "mtimeMs": 1786261718042
+    },
+    "raw/sources/notes/20260614T124150--qa-价值成长风格不是标签是风险收益特征__qa.md": {
+      "hash": "1a06e9302fb0a662bbfbdc234fd11e9e",
+      "size": 4070,
+      "mtimeMs": 1786261718042
+    },
+    "raw/sources/notes/20260614T124151--qa-亏钱基金该割还是扛看投资逻辑__qa.md": {
+      "hash": "8d5a9b2618af13a85363a3a8cc8525a0",
+      "size": 4058,
+      "mtimeMs": 1786261718043
+    },
+    "raw/sources/notes/20260614T124152--qa-历史业绩不是敌人信号有时有效__qa.md": {
+      "hash": "c10aaccfeaaa3f280d9e33bf7add270b",
+      "size": 3985,
+      "mtimeMs": 1786261718043
+    },
+    "raw/sources/notes/20260614T124153--qa-主动被动选择关键不在产品在行为__qa.md": {
+      "hash": "1b2cced0f9d222224936227754e7bf7a",
+      "size": 4190,
+      "mtimeMs": 1786261718043
+    },
+    "raw/sources/notes/20260614T124154--qa-市场平均回报需要超越的是自己__qa.md": {
+      "hash": "b3b7a341c9af24f38f106985172437e3",
+      "size": 3984,
+      "mtimeMs": 1786261718043
+    },
+    "raw/sources/notes/20260614T124155--qa-投资目标不是赚钱是过想要的生活__qa.md": {
+      "hash": "2f18173eaabe58ae73c17172b90f81ef",
+      "size": 3855,
+      "mtimeMs": 1786261718043
+    },
+    "raw/sources/notes/20260614T124755--qa-QDII海外浓度__qa.md": {
+      "hash": "090ebe234918cd246c84a8cd2da60b20",
+      "size": 4718,
+      "mtimeMs": 1786261718044
+    },
+    "raw/sources/notes/20260614T124755--qa-五星基金闭眼买__qa.md": {
+      "hash": "57feb10d2e8bd574161e164350d6fde5",
+      "size": 4987,
+      "mtimeMs": 1786261718044
+    },
+    "raw/sources/notes/20260614T124755--qa-固收加产品选择__qa.md": {
+      "hash": "f78b29cb9a1b5d8df7b29b50bffe96c9",
+      "size": 4250,
+      "mtimeMs": 1786261718044
+    },
+    "raw/sources/notes/20260614T124755--qa-基金经理不按导航走__qa.md": {
+      "hash": "77e48ad43990d964eb9f95ea8a281349",
+      "size": 4814,
+      "mtimeMs": 1786261718044
+    },
+    "raw/sources/notes/20260614T124755--qa-基金风格漂移识别__qa.md": {
+      "hash": "5c975a71585a0e66cf94729b3b34e229",
+      "size": 5332,
+      "mtimeMs": 1786261718045
+    },
+    "raw/sources/notes/20260614T124755--qa-完美投资组合追寻__qa.md": {
+      "hash": "d5db5f5d6753636e64bf0c294ed527bd",
+      "size": 6646,
+      "mtimeMs": 1786261718045
+    },
+    "raw/sources/notes/20260614T124755--qa-投资路上的风险案例__qa.md": {
+      "hash": "d1ab3a71ff1974443eda0f511ffdcc7a",
+      "size": 3802,
+      "mtimeMs": 1786261718045
+    },
+    "raw/sources/notes/20260614T124755--qa-晨星基金排行榜__qa.md": {
+      "hash": "9a259ecf9070eab48dca97ffc3750a64",
+      "size": 4180,
+      "mtimeMs": 1786261718045
+    },
+    "raw/sources/notes/20260614T124755--qa-止盈与收益序列风险__qa.md": {
+      "hash": "b63d97a4b8cb0c1d3f46d285f673f982",
+      "size": 4652,
+      "mtimeMs": 1786261718045
+    },
+    "raw/sources/notes/20260614T124755--qa-赛道基金陷阱__qa.md": {
+      "hash": "e28b9dc9f971ae14f5005f7b84fc120c",
+      "size": 4869,
+      "mtimeMs": 1786261718046
+    },
+    "raw/sources/notes/20260614T124755--qa-量化投资监管__qa.md": {
+      "hash": "941f5b0ac989106e0899213bdd05e3a5",
+      "size": 5156,
+      "mtimeMs": 1786261718046
+    },
+    "raw/sources/notes/20260614T124755--qa-金钱心理学预期管理__qa.md": {
+      "hash": "e07496a44919e8d71b11fb24c6eec84c",
+      "size": 4777,
+      "mtimeMs": 1786261718046
+    },
+    "raw/sources/notes/20260614T124755--qa-香农的魔鬼再平衡__qa.md": {
+      "hash": "2107aaa04b0d8d8c9c9acd2d5a3982df",
+      "size": 5357,
+      "mtimeMs": 1786261718047
+    },
+    "raw/sources/notes/20260614T180000--qa-本金靠基金生活__qa.md": {
+      "hash": "dc1ac20883780eb73d043eaf6afc7b15",
+      "size": 8745,
+      "mtimeMs": 1786261718047
+    },
+    "raw/sources/notes/20260614T181000--qa-金钱剧本__qa.md": {
+      "hash": "89ad2e4a48772776a50a6e362b8c4412",
+      "size": 8657,
+      "mtimeMs": 1786261718047
+    },
+    "raw/sources/notes/20260614T182000--qa-不同人生阶段波动__qa.md": {
+      "hash": "9753615a88e3bbd1a2e7583f5f16ab5f",
+      "size": 10057,
+      "mtimeMs": 1786261718047
+    },
+    "raw/sources/notes/20260614T183000--qa-会买不会卖__qa.md": {
+      "hash": "460a2a40030f27dd61770d3ca81904dc",
+      "size": 8099,
+      "mtimeMs": 1786261718048
+    },
+    "raw/sources/notes/20260614T184000--qa-相对收益困住富足__qa.md": {
+      "hash": "267522d1730f4f225af24819ab09421e",
+      "size": 9093,
+      "mtimeMs": 1786261718048
+    },
+    "raw/sources/notes/20260614T185000--qa-不同阶段资产配置__qa.md": {
+      "hash": "15567fe2153d5fd23dcb9314193d85eb",
+      "size": 4012,
+      "mtimeMs": 1786261718048
+    },
+    "raw/sources/notes/20260614T186000--qa-普通人理财靠存钱__qa.md": {
+      "hash": "926599373dc150f25185a8459c5d6051",
+      "size": 3778,
+      "mtimeMs": 1786261718048
+    },
+    "raw/sources/notes/20260614T187000--qa-AI受益价值股__qa.md": {
+      "hash": "51763dd8629abe8c4129b0be8e8e08ff",
+      "size": 4246,
+      "mtimeMs": 1786261718048
+    },
+    "raw/sources/notes/20260614T188000--qa-先投资还是先储蓄__qa.md": {
+      "hash": "c84c1e3141c3bd0c6dfc80e2314d0f99",
+      "size": 3939,
+      "mtimeMs": 1786261718049
+    },
+    "raw/sources/notes/20260614T189000--qa-春节焦虑灵魂拷问__qa.md": {
+      "hash": "dc7e0b66de11cff85eaf55110eb58f8d",
+      "size": 4036,
+      "mtimeMs": 1786261718049
+    },
+    "raw/sources/notes/20260614T190000--qa-个人养老金攻略__qa.md": {
+      "hash": "b4e3cc4d795d88b5ffaa6d41a6f64fc9",
+      "size": 4253,
+      "mtimeMs": 1786261718049
+    },
+    "raw/sources/notes/20260614T191000--qa-三桶金无痛养老__qa.md": {
+      "hash": "92beffed7aa46ddb0a3f1c8aefba5237",
+      "size": 4891,
+      "mtimeMs": 1786261718049
+    },
+    "raw/sources/notes/20260614T192000--qa-熊市生存指南__qa.md": {
+      "hash": "7267d1ddb7655490e4ff67c06daef835",
+      "size": 5608,
+      "mtimeMs": 1786261718049
+    },
+    "raw/sources/notes/20260614T193000--qa-打工到65岁FIRE__qa.md": {
+      "hash": "db66e6ddedfbb7e60b2c3f88120e4ffa",
+      "size": 5090,
+      "mtimeMs": 1786261718049
+    },
+    "raw/sources/notes/20260614T194000--qa-存钱为什么那么难__qa.md": {
+      "hash": "df8f56ff9730c42e92c76df82fafe114",
+      "size": 5430,
+      "mtimeMs": 1786261718050
+    },
+    "raw/sources/notes/20260614T195000--qa-旅游资金储蓄__qa.md": {
+      "hash": "12c0544ab9d450c7d75544ee724efc0e",
+      "size": 3506,
+      "mtimeMs": 1786261718050
+    },
+    "raw/sources/notes/20260614T196000--qa-理财焦虑避坑指南__qa.md": {
+      "hash": "a861efe41243af3ab30caefa9aa0a407",
+      "size": 3598,
+      "mtimeMs": 1786261718050
+    },
+    "raw/sources/notes/20260614T197000--qa-低利率环境理财__qa.md": {
+      "hash": "bddd815ec678d7b060aeaa02a1946b58",
+      "size": 3850,
+      "mtimeMs": 1786261718050
+    },
+    "raw/sources/notes/20260614T198000--qa-中产变中惨自救__qa.md": {
+      "hash": "05ebb5f28b111feb21e5c9b6b1d36e84",
+      "size": 3744,
+      "mtimeMs": 1786261718050
+    },
+    "raw/sources/notes/20260614T199000--qa-退休后比有钱更重要__qa.md": {
+      "hash": "d66962a61f7e8383c1cded667188a63d",
+      "size": 3850,
+      "mtimeMs": 1786261718050
+    },
+    "raw/sources/notes/20260614T200000--qa-攒多少钱体面退休__qa.md": {
+      "hash": "d7f686a5201026711657bff069a3adcc",
+      "size": 5155,
+      "mtimeMs": 1786261718051
+    },
+    "raw/sources/notes/20260614T201000--qa-理财计划设立目标__qa.md": {
+      "hash": "66ef4f5faca17defb33c6e02563d53ff",
+      "size": 4824,
+      "mtimeMs": 1786261718051
+    },
+    "raw/sources/notes/20260614T202000--qa-理财计划好好记账__qa.md": {
+      "hash": "5a5adf655d72cdf7024e4bf8588b9d70",
+      "size": 5173,
+      "mtimeMs": 1786261718051
+    },
+    "raw/sources/notes/20260614T203000--qa-理财计划净资产快照__qa.md": {
+      "hash": "31f1d49271bb5a25e166a15b3ac547c9",
+      "size": 5671,
+      "mtimeMs": 1786261718051
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-估值__concept.md": {
+      "hash": "c4873d7216446de405f85d3e5e2d88fb",
+      "size": 6782,
+      "mtimeMs": 1786261718051
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-保本__concept.md": {
+      "hash": "bf1f2d9b3fd542d258d95399e9be1477",
+      "size": 6297,
+      "mtimeMs": 1786261718051
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-回本__concept.md": {
+      "hash": "28656469ce57803f40f8f398d5aa62cb",
+      "size": 5986,
+      "mtimeMs": 1786261718051
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-成长__concept.md": {
+      "hash": "9ce487aa592480ae947bb6ed5f7ac743",
+      "size": 5670,
+      "mtimeMs": 1786261718052
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-换手率__concept.md": {
+      "hash": "997ac4304d4dfb0dbe5b24d91d568749",
+      "size": 5227,
+      "mtimeMs": 1786261718052
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-无聊__concept.md": {
+      "hash": "a7bc130ba9359344b436abed6d2b9c6f",
+      "size": 4764,
+      "mtimeMs": 1786261718052
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-星级评级__concept.md": {
+      "hash": "6c9ccd815d0a5b6af02051490bd4d4ee",
+      "size": 5741,
+      "mtimeMs": 1786261718053
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-经济周期__concept.md": {
+      "hash": "444b11e6d879aea159396c8bab5f2b97",
+      "size": 6670,
+      "mtimeMs": 1786261718053
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-资产配置__concept.md": {
+      "hash": "51ec7c27ebf86d270fb52a781b2018b1",
+      "size": 5778,
+      "mtimeMs": 1786261718053
+    },
+    "raw/sources/notes/20260614T210625--概念解剖-通缩__concept.md": {
+      "hash": "cfae0d5531fd18325fb305a276c81d09",
+      "size": 5579,
+      "mtimeMs": 1786261718053
+    },
+    "raw/sources/notes/20260614T210643--概念解剖-业绩归因__concept.md": {
+      "hash": "d8b2b73864a5770db05dd73e411ebbc4",
+      "size": 6321,
+      "mtimeMs": 1786261718054
+    },
+    "raw/sources/notes/20260614T210655--概念解剖-逆向投资的悖论__concept.md": {
+      "hash": "7be5b83bafff70a6a13d085b279ed1c3",
+      "size": 5122,
+      "mtimeMs": 1786261718054
+    },
+    "raw/sources/notes/20260614T210658--概念解剖-宏大叙事陷阱__concept.md": {
+      "hash": "1ae13abc4ae60012e0e9272962f59b59",
+      "size": 6131,
+      "mtimeMs": 1786261718054
+    },
+    "raw/sources/notes/20260614T210658--概念解剖-投资目标__concept.md": {
+      "hash": "e9c5e9169c1f7db8090f95a365cc33b5",
+      "size": 5400,
+      "mtimeMs": 1786261718054
+    },
+    "raw/sources/notes/20260614T210658--概念解剖-投资风险__concept.md": {
+      "hash": "4d82b1d15b636f0243b60f59266a911a",
+      "size": 4776,
+      "mtimeMs": 1786261718054
+    },
+    "raw/sources/notes/20260614T210658--概念解剖-波动损耗__concept.md": {
+      "hash": "c097ab8a56a96c79e1dcb7136e636293",
+      "size": 5259,
+      "mtimeMs": 1786261718054
+    },
+    "raw/sources/notes/20260614T210658--概念解剖-选择过载__concept.md": {
+      "hash": "9b9f33ccd7b58fd57869f8580e518519",
+      "size": 4762,
+      "mtimeMs": 1786261718054
+    },
+    "raw/sources/notes/20260614T210658--概念解剖-风险不对称__concept.md": {
+      "hash": "3e1fc4969c09bed5b956c251d84b523f",
+      "size": 6702,
+      "mtimeMs": 1786261718055
+    },
+    "raw/sources/notes/20260614T210701--概念解剖-投资风格的二元光谱__concept.md": {
+      "hash": "6cf1c9ce86089888b51aebad1a84602e",
+      "size": 5072,
+      "mtimeMs": 1786261718055
+    },
+    "raw/sources/notes/20260614T210743--概念解剖-关键日效应__concept.md": {
+      "hash": "0b682feda010bb9d4502988917b38f94",
+      "size": 6854,
+      "mtimeMs": 1786261718055
+    },
+    "raw/sources/notes/20260614T210745--概念解剖-投资逻辑的回归__concept.md": {
+      "hash": "0d01a0fa33adc4708196a524dad4cc22",
+      "size": 4915,
+      "mtimeMs": 1786261718055
+    },
+    "raw/sources/notes/20260614T210801--概念解剖-失败者游戏__concept.md": {
+      "hash": "eef2c3d190a4768f3d73c8a8e55d1d10",
+      "size": 4965,
+      "mtimeMs": 1786261718055
+    },
+    "raw/sources/notes/20260614T210803--概念解剖-策略型产品__concept.md": {
+      "hash": "75323789206c0d4a0e1dcffd98fcd94d",
+      "size": 2994,
+      "mtimeMs": 1786261718055
+    },
+    "raw/sources/notes/20260614T210817--概念解剖-分类比较的方法论__concept.md": {
+      "hash": "70809802e1fa24d069bd81a74a4570e1",
+      "size": 4742,
+      "mtimeMs": 1786261718055
+    },
+    "raw/sources/notes/20260614T210834--概念解剖-投资策略__concept.md": {
+      "hash": "96207c35585d204f11b5a225b8e965c4",
+      "size": 2870,
+      "mtimeMs": 1786261718056
+    },
+    "raw/sources/notes/20260614T210839--概念解剖-无为投资__concept.md": {
+      "hash": "48b16cbae805b73b02c95e41ec21c2e5",
+      "size": 6889,
+      "mtimeMs": 1786261718056
+    },
+    "raw/sources/notes/20260614T210841--概念解剖-风险溢价__concept.md": {
+      "hash": "caad38ce4fccb0a8085c703794c39931",
+      "size": 4626,
+      "mtimeMs": 1786261718056
+    },
+    "raw/sources/notes/20260614T210854--概念解剖-期望管理__concept.md": {
+      "hash": "8b1c1a3ec4bf094a188d0303079c6342",
+      "size": 4797,
+      "mtimeMs": 1786261718056
+    },
+    "raw/sources/notes/20260614T210908--概念解剖-赛道投资__concept.md": {
+      "hash": "0a048adc112a522cbeefb3b511cff9ec",
+      "size": 2760,
+      "mtimeMs": 1786261718056
+    },
+    "raw/sources/notes/20260614T210917--概念解剖-风格漂移__concept.md": {
+      "hash": "298f5b5cc80fd5766b131d1bcd5ca0d7",
+      "size": 4552,
+      "mtimeMs": 1786261718056
+    },
+    "raw/sources/notes/20260614T210929--概念解剖-业绩的时空相对性__concept.md": {
+      "hash": "d6da6c5a210463a09ac83fb4a7725561",
+      "size": 4685,
+      "mtimeMs": 1786261718057
+    },
+    "raw/sources/notes/20260614T210934--概念解剖-穿透持仓__concept.md": {
+      "hash": "e6c5c9aa49e041bcffe6e6d5e65e3879",
+      "size": 2759,
+      "mtimeMs": 1786261718057
+    },
+    "raw/sources/notes/20260614T210934--概念解剖-风险认知__concept.md": {
+      "hash": "c2d0990e485944293d0b2a0c2bfdf0d8",
+      "size": 7671,
+      "mtimeMs": 1786261718057
+    },
+    "raw/sources/notes/20260614T210956--概念解剖-风险体验__concept.md": {
+      "hash": "051233f0f8d42f9996494dd841682d39",
+      "size": 4593,
+      "mtimeMs": 1786261718057
+    },
+    "raw/sources/notes/20260614T211000--概念解剖-散户优势__concept.md": {
+      "hash": "2fc28324d06f0fc94572ae02e813fcee",
+      "size": 2882,
+      "mtimeMs": 1786261718057
+    },
+    "raw/sources/notes/20260614T211026--概念解剖-风格漂移的识别与应对__concept.md": {
+      "hash": "86618c4ca452ee45237458c68883e0af",
+      "size": 4730,
+      "mtimeMs": 1786261718057
+    },
+    "raw/sources/notes/20260614T211029--概念解剖-业绩比较基准__concept.md": {
+      "hash": "800c895cbc04f6339d38f138fcfd7753",
+      "size": 2945,
+      "mtimeMs": 1786261718058
+    },
+    "raw/sources/notes/20260614T211035--概念解剖-波动拖累__concept.md": {
+      "hash": "c436bef331edbae3841f0bb749cc1dff",
+      "size": 5236,
+      "mtimeMs": 1786261718058
+    },
+    "raw/sources/notes/20260614T211041--概念解剖-新基金筛选__concept.md": {
+      "hash": "5bce6e1bc608ae2ada29c9a252c4753e",
+      "size": 7318,
+      "mtimeMs": 1786261718058
+    },
+    "raw/sources/notes/20260614T211057--概念解剖-收益序列风险__concept.md": {
+      "hash": "8d1dd6dc2cfb3d1290e11a9033cf96ca",
+      "size": 3071,
+      "mtimeMs": 1786261718058
+    },
+    "raw/sources/notes/20260614T211057--概念解剖-近因效应与线性外推__concept.md": {
+      "hash": "ba0289390600c5dca8acac4b8f8c1bcd",
+      "size": 5063,
+      "mtimeMs": 1786261718058
+    },
+    "raw/sources/notes/20260614T211111--概念解剖-拥挤交易__concept.md": {
+      "hash": "cc7aa06b020e40af70d983773b2db6f2",
+      "size": 5063,
+      "mtimeMs": 1786261718058
+    },
+    "raw/sources/notes/20260614T211125--概念解剖-贝塔与阿尔法__concept.md": {
+      "hash": "5b01d84fe89b570a03edc8a0342cd2ad",
+      "size": 3097,
+      "mtimeMs": 1786261718058
+    },
+    "raw/sources/notes/20260614T211141--概念解剖-投资的过程本质__concept.md": {
+      "hash": "bb0bb166d450f2d10bc8ae6858ce09eb",
+      "size": 5185,
+      "mtimeMs": 1786261718059
+    },
+    "raw/sources/notes/20260614T211144--概念解剖-现金流思维__concept.md": {
+      "hash": "6e082e07844a7d47dfb04871aeed0f7f",
+      "size": 7176,
+      "mtimeMs": 1786261718059
+    },
+    "raw/sources/notes/20260614T211155--概念解剖-货币基金选择__concept.md": {
+      "hash": "53f7a5f20877cb6a671db45e8287e29a",
+      "size": 5204,
+      "mtimeMs": 1786261718059
+    },
+    "raw/sources/notes/20260614T211220--概念解剖-红利投资__concept.md": {
+      "hash": "67213995962955014a27a504f8413d86",
+      "size": 2887,
+      "mtimeMs": 1786261718059
+    },
+    "raw/sources/notes/20260614T211220--概念解剖-足够好的投资哲学__concept.md": {
+      "hash": "62302b4d3a18558639fe71b2f3a7a7d0",
+      "size": 4763,
+      "mtimeMs": 1786261718059
+    },
+    "raw/sources/notes/20260614T211233--概念解剖-市场有效悖论__concept.md": {
+      "hash": "c4faee2532ece55cd5c160081eea348b",
+      "size": 5287,
+      "mtimeMs": 1786261718059
+    },
+    "raw/sources/notes/20260614T211239--概念解剖-价格幻象__concept.md": {
+      "hash": "1130b2ddf37ca9e7d68648868017f802",
+      "size": 8346,
+      "mtimeMs": 1786261718060
+    },
+    "raw/sources/notes/20260614T211301--概念解剖-基金分类__concept.md": {
+      "hash": "de83908e6954b023091744f64d3a92c7",
+      "size": 4592,
+      "mtimeMs": 1786261718060
+    },
+    "raw/sources/notes/20260614T211343--概念解剖-策略适配__concept.md": {
+      "hash": "a27c500ae40dd4d536154ed6b14bd27d",
+      "size": 4849,
+      "mtimeMs": 1786261718060
+    },
+    "raw/sources/notes/20260614T211350--概念解剖-总回报率__concept.md": {
+      "hash": "011fea20dbec3a1964c9ad2a61c110e9",
+      "size": 7563,
+      "mtimeMs": 1786261718060
+    },
+    "raw/sources/notes/20260614T211451--概念解剖-网格交易悖论__concept.md": {
+      "hash": "99ab6eba83e130f24220c400ea546058",
+      "size": 7761,
+      "mtimeMs": 1786261718060
+    },
+    "raw/sources/notes/20260614T211543--概念解剖-完美组合追寻__concept.md": {
+      "hash": "1c2470fbbffe361c36e854f4e9d7177d",
+      "size": 8736,
+      "mtimeMs": 1786261718061
+    },
+    "raw/sources/notes/20260614T213146--qa-hk-mutual-fund-flows__qa.md": {
+      "hash": "4dc4a0684c5c99ef71a1359d1c5d1af5",
+      "size": 6886,
+      "mtimeMs": 1786261718061
+    },
+    "raw/sources/notes/20260614T213200--qa-china-fixed-income-plus-strategy__qa.md": {
+      "hash": "528219bafd936863d9be96b60b014af0",
+      "size": 7584,
+      "mtimeMs": 1786261718061
+    },
+    "raw/sources/notes/20260614T213230--qa-china-fund-market-april-2026__qa.md": {
+      "hash": "0097c2d514a7da5a36b01e1c9d3354c2",
+      "size": 6647,
+      "mtimeMs": 1786261718061
+    },
+    "raw/sources/notes/20260614T213245--qa-hk-mutual-fund-2026q1__qa.md": {
+      "hash": "6de5b86a4a26ff72489d92edd0e4070c",
+      "size": 7111,
+      "mtimeMs": 1786261718062
+    },
+    "raw/sources/notes/20260614T213300--qa-china-etf-index-tracking__qa.md": {
+      "hash": "9c361a26a28e155cfc6f43fbccaff69a",
+      "size": 6972,
+      "mtimeMs": 1786261718062
+    },
+    "raw/sources/notes/20260614T213308--qa-股债跷跷板下的基金选择__qa.md": {
+      "hash": "768f5acd2974523870df6bfd9b34f560",
+      "size": 7694,
+      "mtimeMs": 1786261718062
+    },
+    "raw/sources/notes/20260614T213315--qa-china-fund-market-march-2026__qa.md": {
+      "hash": "938d55fd84353949bd35cc60c5f9d101",
+      "size": 6529,
+      "mtimeMs": 1786261718062
+    },
+    "raw/sources/notes/20260614T213323--qa-爆款基金规模激增业绩反转__qa.md": {
+      "hash": "8455c78b3a7cb5a3542f5154cbbc881e",
+      "size": 7714,
+      "mtimeMs": 1786261718062
+    },
+    "raw/sources/notes/20260614T213330--qa-hk-mutual-fund-feb-2026__qa.md": {
+      "hash": "0158a10b48ecd2a766c22a8a22927c87",
+      "size": 6751,
+      "mtimeMs": 1786261718062
+    },
+    "raw/sources/notes/20260614T213345--qa-china-growth-stock-fund__qa.md": {
+      "hash": "18d95567ab82d45573707b8dd39319eb",
+      "size": 7224,
+      "mtimeMs": 1786261718063
+    },
+    "raw/sources/notes/20260614T213400--qa-china-fund-market-feb-2026__qa.md": {
+      "hash": "1405734f934ee7c7c7f5c329b303669b",
+      "size": 6133,
+      "mtimeMs": 1786261718063
+    },
+    "raw/sources/notes/20260614T213408--qa-固收加攻守之道__qa.md": {
+      "hash": "5c7cab0437382344a7827bc123d55b54",
+      "size": 6798,
+      "mtimeMs": 1786261718063
+    },
+    "raw/sources/notes/20260614T213415--qa-china-fund-wealth-creation-10y__qa.md": {
+      "hash": "bf32b1211588c12e2dcd19b0df59f75e",
+      "size": 6840,
+      "mtimeMs": 1786261718063
+    },
+    "raw/sources/notes/20260614T213430--qa-china-active-etf-trend__qa.md": {
+      "hash": "95c900d58a0aa629a8602540e6a4f23d",
+      "size": 7150,
+      "mtimeMs": 1786261718063
+    },
+    "raw/sources/notes/20260614T213430--qa-政策放宽引爆香港互认基金申购潮__qa.md": {
+      "hash": "2c2b189515f1dbf9d2dade9c3845c055",
+      "size": 5915,
+      "mtimeMs": 1786261718063
+    },
+    "raw/sources/notes/20260614T213445--qa-hk-mutual-fund-jan-2026__qa.md": {
+      "hash": "a8e6d2c5c1c5fe2e126fc91ebfcd6ad3",
+      "size": 7080,
+      "mtimeMs": 1786261718064
+    },
+    "raw/sources/notes/20260614T213500--qa-china-fund-market-jan-2026__qa.md": {
+      "hash": "375079a747fb39324a794e676b2949d9",
+      "size": 6196,
+      "mtimeMs": 1786261718064
+    },
+    "raw/sources/notes/20260614T213508--qa-qdii出海组合构建__qa.md": {
+      "hash": "881e9bfd8343ae1379c3c0b1ad133eb0",
+      "size": 7091,
+      "mtimeMs": 1786261718064
+    },
+    "raw/sources/notes/20260614T213515--qa-china-convertible-bond-fund-comparison__qa.md": {
+      "hash": "9774c5fdbf00c365fa87fde8430fc2a3",
+      "size": 6704,
+      "mtimeMs": 1786261718064
+    },
+    "raw/sources/notes/20260614T213529--qa-易方达科翔成长风格占优的底层逻辑__qa.md": {
+      "hash": "42d4e692ae9de4c18d0fcfd7a723746e",
+      "size": 6649,
+      "mtimeMs": 1786261718064
+    },
+    "raw/sources/notes/20260614T213530--qa-china-fixed-income-plus-stable__qa.md": {
+      "hash": "e62c85bd798e18a843d642134c499fbf",
+      "size": 6794,
+      "mtimeMs": 1786261718065
+    },
+    "raw/sources/notes/20260614T213608--qa-基金分类事后调整的逻辑__qa.md": {
+      "hash": "35d338bc80a406288e5beb2f3bc1535e",
+      "size": 6624,
+      "mtimeMs": 1786261718065
+    },
+    "raw/sources/notes/20260614T213612--qa-基金经理稳定性超额收益__qa.md": {
+      "hash": "e82711a67ebf97c2389427a4cea6d100",
+      "size": 7188,
+      "mtimeMs": 1786261718065
+    },
+    "raw/sources/notes/20260614T213636--qa-基金翻倍业绩不可持续的底层原因__qa.md": {
+      "hash": "a20ed8b38c2dd2088454064782f914a0",
+      "size": 6861,
+      "mtimeMs": 1786261718066
+    },
+    "raw/sources/notes/20260614T213708--qa-摩根国际债券基金分析__qa.md": {
+      "hash": "9deafafc497ebc308c8848729835247c",
+      "size": 6789,
+      "mtimeMs": 1786261718066
+    },
+    "raw/sources/notes/20260614T213728--qa-4000点牛市基金回本__qa.md": {
+      "hash": "a0ae6be99762f4c180f70be2e7c78a9b",
+      "size": 6973,
+      "mtimeMs": 1786261718066
+    },
+    "raw/sources/notes/20260614T213742--qa-12月股暖债冷政策驱动A股收官__qa.md": {
+      "hash": "a7c961c136fef6a4381ab52135da3595",
+      "size": 7268,
+      "mtimeMs": 1786261718067
+    },
+    "raw/sources/notes/20260614T213808--qa-六月股债双收下的基金选择__qa.md": {
+      "hash": "49aac20baaa364e3e2f770e2165260ae",
+      "size": 6227,
+      "mtimeMs": 1786261718067
+    },
+    "raw/sources/notes/20260614T213844--qa-十五五开局长期投资机会__qa.md": {
+      "hash": "3136bbc95d8e5438b7a01e5cb8c8eb85",
+      "size": 7046,
+      "mtimeMs": 1786261718067
+    },
+    "raw/sources/notes/20260614T213856--qa-富国中小盘港股掘金逻辑__qa.md": {
+      "hash": "7e71953de8956e77bf46911fa9340f3d",
+      "size": 8131,
+      "mtimeMs": 1786261718068
+    },
+    "raw/sources/notes/20260614T213900--qa-波动加剧固收策略__qa.md": {
+      "hash": "eef87c5c3a679760bb3fc1b4fd49caa0",
+      "size": 6369,
+      "mtimeMs": 1786261718068
+    },
+    "raw/sources/notes/20260614T213908--qa-低利率时代的债券布局__qa.md": {
+      "hash": "a705451c5db064d8fcb2e6292ec46310",
+      "size": 5887,
+      "mtimeMs": 1786261718068
+    },
+    "raw/sources/notes/20260614T214000--qa-香港互认基金风险偏好抬升__qa.md": {
+      "hash": "a01862a7d421542fecd1ec64c1cef74b",
+      "size": 5930,
+      "mtimeMs": 1786261718068
+    },
+    "raw/sources/notes/20260614T214008--qa-制造业硬科技基金选择__qa.md": {
+      "hash": "2ffc80e6c7f2ab1d005dae731e6b567f",
+      "size": 5596,
+      "mtimeMs": 1786261718068
+    },
+    "raw/sources/notes/20260614T214014--qa-11月香港互认基金资金流向分化__qa.md": {
+      "hash": "340848047c67a96c3d7929e2c3e3d906",
+      "size": 7091,
+      "mtimeMs": 1786261718069
+    },
+    "raw/sources/notes/20260614T214100--qa-9月基金月报权益涨跌互现__qa.md": {
+      "hash": "d5279f6c6303b2abb5493d1199678f33",
+      "size": 5927,
+      "mtimeMs": 1786261718069
+    },
+    "raw/sources/notes/20260614T214108--qa-明星基金回本难题__qa.md": {
+      "hash": "54e1e856d4e00fa5252096a4cd30d06d",
+      "size": 6969,
+      "mtimeMs": 1786261718069
+    },
+    "raw/sources/notes/20260614T214117--qa-投顾份额解决双重收费利益冲突__qa.md": {
+      "hash": "37ed960615abb57d867d7024edaedce5",
+      "size": 8310,
+      "mtimeMs": 1786261718069
+    },
+    "raw/sources/notes/20260614T214200--qa-90基金用错基准超额假象__qa.md": {
+      "hash": "f6574822e3fc06f667040252e47051ad",
+      "size": 5885,
+      "mtimeMs": 1786261718070
+    },
+    "raw/sources/notes/20260614T214208--qa-港股回暖下的投资机会__qa.md": {
+      "hash": "66cc3c2445512772b24b44ec5db39cb2",
+      "size": 5395,
+      "mtimeMs": 1786261718070
+    },
+    "raw/sources/notes/20260614T214227--qa-11月股债双杀价值风格占优__qa.md": {
+      "hash": "1e44cb71b1f859f53b5089f139aa86e3",
+      "size": 7261,
+      "mtimeMs": 1786261718070
+    },
+    "raw/sources/notes/20260614T214300--qa-浮动费率基金挑选不踩坑__qa.md": {
+      "hash": "8ae03498479ea1c4fe35e2ddb7e49268",
+      "size": 6005,
+      "mtimeMs": 1786261718070
+    },
+    "raw/sources/notes/20260614T214308--qa-基金跑输基准的能力与运气__qa.md": {
+      "hash": "d624cb1e662685235b70c74fb3711297",
+      "size": 6497,
+      "mtimeMs": 1786261718070
+    },
+    "raw/sources/notes/20260614T214336--qa-东方添益信用债交易增强策略__qa.md": {
+      "hash": "d191adab02064f85be6fc209160c5797",
+      "size": 7042,
+      "mtimeMs": 1786261718070
+    },
+    "raw/sources/notes/20260614T214400--qa-中等波动固收攻守之策__qa.md": {
+      "hash": "0fdd35a6c330c88f91ebf541c47e4036",
+      "size": 5886,
+      "mtimeMs": 1786261718071
+    },
+    "raw/sources/notes/20260614T214408--qa-降费改革两年投资成本变化__qa.md": {
+      "hash": "a56e13932401682449cfd030209a63d7",
+      "size": 5659,
+      "mtimeMs": 1786261718071
+    },
+    "raw/sources/notes/20260614T214438--qa-瑞士百达全球灵活配置策略__qa.md": {
+      "hash": "95c0e52ce57d852d7d901149b40b8ad2",
+      "size": 6875,
+      "mtimeMs": 1786261718071
+    },
+    "raw/sources/notes/20260614T214500--qa-8月香港互认基金资金分化__qa.md": {
+      "hash": "f2655e60ddd388f0f72a1776c29cebbf",
+      "size": 5674,
+      "mtimeMs": 1786261718071
+    },
+    "raw/sources/notes/20260614T214508--qa-五月股债分化下的基金选择__qa.md": {
+      "hash": "c6e723b656652afdefac45a594881bdc",
+      "size": 6337,
+      "mtimeMs": 1786261718072
+    },
+    "raw/sources/notes/20260614T214539--qa-高主动持股比例不等于高业绩__qa.md": {
+      "hash": "96adb266f968734a4c7aff02ca5bc841",
+      "size": 6461,
+      "mtimeMs": 1786261718072
+    },
+    "raw/sources/notes/20260614T214600--qa-8月基金月报股强债弱__qa.md": {
+      "hash": "5fde9c1d95d4c3fe0a188d04da7f84fc",
+      "size": 6001,
+      "mtimeMs": 1786261718072
+    },
+    "raw/sources/notes/20260614T214608--qa-短期信用债基金避风港__qa.md": {
+      "hash": "25008ffdaf513d7862429f5ffcbe0789",
+      "size": 5543,
+      "mtimeMs": 1786261718072
+    },
+    "raw/sources/notes/20260614T214636--qa-10月香港互认基金股债全面吸金__qa.md": {
+      "hash": "b8da34ccfd43cab46204ce2788c45769",
+      "size": 6505,
+      "mtimeMs": 1786261718072
+    },
+    "raw/sources/notes/20260614T214700--qa-信用债利差捕手__qa.md": {
+      "hash": "d071b42e8435f2e3f257d866a73982b3",
+      "size": 6083,
+      "mtimeMs": 1786261718073
+    },
+    "raw/sources/notes/20260614T214708--qa-价值成长中间策略__qa.md": {
+      "hash": "da4b438d2f79ad82d8674321f087a4f4",
+      "size": 5559,
+      "mtimeMs": 1786261718073
+    },
+    "raw/sources/notes/20260614T214733--qa-主动持股比例衡量基金偏离度__qa.md": {
+      "hash": "e73454c9854bf11f7fcf5a383d596f7c",
+      "size": 6846,
+      "mtimeMs": 1786261718073
+    },
+    "raw/sources/notes/20260614T214800--qa-7月香港互认基金摩根领跑__qa.md": {
+      "hash": "f2e6eceafa352e1d878508a7826efc38",
+      "size": 5597,
+      "mtimeMs": 1786261718073
+    },
+    "raw/sources/notes/20260614T214830--qa-10月股债分化价值风格占优__qa.md": {
+      "hash": "40921779b329ba68c0011cfe834ff0f3",
+      "size": 7486,
+      "mtimeMs": 1786261718073
+    },
+    "raw/sources/notes/20260614T214900--qa-2025全球公募基金趋势海外配置中国__qa.md": {
+      "hash": "86a61fb38c0884b9d65d503563bc6bb1",
+      "size": 5989,
+      "mtimeMs": 1786261718074
+    },
+    "raw/sources/notes/20260614T214930--qa-主动投资击败市场的三条路径__qa.md": {
+      "hash": "7e0d3384e9a68512fa1c9d30fe3f2746",
+      "size": 6701,
+      "mtimeMs": 1786261718074
+    },
+    "raw/sources/notes/20260614T215455--qa-股债分化中小盘成长占优__qa.md": {
+      "hash": "37a10cad17c8e4869e197b31726fb0ab",
+      "size": 7974,
+      "mtimeMs": 1786261718074
+    },
+    "raw/sources/notes/20260614T215501--qa-摩根亚洲增长基金双基金经理制__qa.md": {
+      "hash": "6436c93d82b9649c4c57669728af1086",
+      "size": 6652,
+      "mtimeMs": 1786261718074
+    },
+    "raw/sources/notes/20260614T215502--qa-10月基金月报中小盘成长风格领涨__qa.md": {
+      "hash": "3f01cbb996bd1d0bd2cc8a9bdd5a5898",
+      "size": 7343,
+      "mtimeMs": 1786261718075
+    },
+    "raw/sources/notes/20260614T215503--qa-国富深化价值混合长期业绩来源__qa.md": {
+      "hash": "0c476eaef7ab286c5ba563f134fa4dae",
+      "size": 5882,
+      "mtimeMs": 1786261718075
+    },
+    "raw/sources/notes/20260614T215504--qa-9月基金月报政策利好驱动股债分化__qa.md": {
+      "hash": "71f15d4dab44ddaabbdd0ec9836ac4c3",
+      "size": 5663,
+      "mtimeMs": 1786261718075
+    },
+    "raw/sources/notes/20260614T215505--qa-兴全合润混合主动管理价值__qa.md": {
+      "hash": "945d8e2e8b45ca574f31f6832d0b3466",
+      "size": 5743,
+      "mtimeMs": 1786261718075
+    },
+    "raw/sources/notes/20260614T215506--qa-工银精选平衡混合股债配置策略__qa.md": {
+      "hash": "d9eb656d421a7ed0234a3215a043bee5",
+      "size": 4272,
+      "mtimeMs": 1786261718076
+    },
+    "raw/sources/notes/20260614T215507--qa-持有期基金到期亏损不是骗局__qa.md": {
+      "hash": "70860d7ff94e3b5521e987d65928d8ec",
+      "size": 5400,
+      "mtimeMs": 1786261718076
+    },
+    "raw/sources/notes/20260614T215508--qa-伯克希尔哈撒韦零费率基金分析__qa.md": {
+      "hash": "8e95fbb47f4d08fa1b55092e3f7771a4",
+      "size": 5565,
+      "mtimeMs": 1786261718076
+    },
+    "raw/sources/notes/20260614T215509--qa-易方达裕丰回报债券固收加策略__qa.md": {
+      "hash": "33672c7597ceaf4a1f440dbd2c66fd14",
+      "size": 5290,
+      "mtimeMs": 1786261718076
+    },
+    "raw/sources/notes/20260614T215510--qa-7月基金月报股市下挫债市分化__qa.md": {
+      "hash": "a718ccfd21e55fe983caf5cd8dcf9fdd",
+      "size": 4962,
+      "mtimeMs": 1786261718076
+    },
+    "raw/sources/notes/20260614T215511--qa-广发内需增长混合消费投资逻辑__qa.md": {
+      "hash": "3c57e19e8566da1f6639958110462c99",
+      "size": 5007,
+      "mtimeMs": 1786261718077
+    },
+    "raw/sources/notes/20260614T215512--qa-鹏华丰享债券纯债基金稳健配置__qa.md": {
+      "hash": "d9866a3e2a7431113dc126ed2c5f119f",
+      "size": 5176,
+      "mtimeMs": 1786261718077
+    },
+    "raw/sources/notes/20260614T215513--qa-6月基金月报股市承压债市稳健__qa.md": {
+      "hash": "c7a76f5a22769623b2c9e488fce95a1a",
+      "size": 4938,
+      "mtimeMs": 1786261718077
+    },
+    "raw/sources/notes/20260614T215514--qa-processing-summary.org": {
+      "hash": "57a8dc20430b9b2fefea55e1ba57551f",
+      "size": 3413,
+      "mtimeMs": 1781446007330
+    },
+    "raw/sources/notes/20260614T215647--qa-2023基金业五大趋势__qa.md": {
+      "hash": "ad18482aed960323cb1e33f909ed8301",
+      "size": 4537,
+      "mtimeMs": 1786261718077
+    },
+    "raw/sources/notes/20260614T215647--qa-爆款基金盛极必衰__qa.md": {
+      "hash": "b74a8d715cb8a128722ad32328a3a99f",
+      "size": 4537,
+      "mtimeMs": 1786261718077
+    },
+    "raw/sources/notes/20260614T215731--qa-基金费率结构与降费__qa.md": {
+      "hash": "046ab828267167a5c52b35ed1fb14d53",
+      "size": 4546,
+      "mtimeMs": 1786261718078
+    },
+    "raw/sources/notes/20260614T215804--qa-东方红新动力选股策略__qa.md": {
+      "hash": "647b614b3877f45010bf03733fb185f0",
+      "size": 6414,
+      "mtimeMs": 1786261718078
+    },
+    "raw/sources/notes/20260614T215815--qa-基金经理经验与业绩关联__qa.md": {
+      "hash": "2034161a5a327e2e7e4edaab90e31652",
+      "size": 4594,
+      "mtimeMs": 1786261718078
+    },
+    "raw/sources/notes/20260614T215900--qa-大成高鑫刘旭长期价值投资__qa.md": {
+      "hash": "88e5c1a5355b951dab9a0232544c5ca0",
+      "size": 6556,
+      "mtimeMs": 1786261718079
+    },
+    "raw/sources/notes/20260614T215902--qa-基金限购的逻辑与信号__qa.md": {
+      "hash": "bc7efbd5cc91f6534d9f7783b502b4b0",
+      "size": 4744,
+      "mtimeMs": 1786261718079
+    },
+    "raw/sources/notes/20260614T215951--qa-养老目标基金选择框架__qa.md": {
+      "hash": "e8f71077d728fa856f7487ebdcb34da4",
+      "size": 4796,
+      "mtimeMs": 1786261718079
+    },
+    "raw/sources/notes/20260614T220037--qa-自我服务偏见与基金经理行为__qa.md": {
+      "hash": "c03439a305390d8b903cbc8ad887cdfe",
+      "size": 4637,
+      "mtimeMs": 1786261718079
+    },
+    "raw/sources/notes/20260614T220122--qa-纯债基金选择与风险收益特征__qa.md": {
+      "hash": "0364ff1fe6c6843c25638eedce0d47a6",
+      "size": 4675,
+      "mtimeMs": 1786261718080
+    },
+    "raw/sources/notes/20260614T220202--qa-国家队入市信号与底部判断__qa.md": {
+      "hash": "6eb4585cc272aacfa2d13504cf7bedb9",
+      "size": 4294,
+      "mtimeMs": 1786261718080
+    },
+    "raw/sources/notes/20260614T220231--qa-12月基金月报大盘价值占优__qa.md": {
+      "hash": "a93960202604b6f7ec28a76b691ad2e2",
+      "size": 6202,
+      "mtimeMs": 1786261718080
+    },
+    "raw/sources/notes/20260614T220241--qa-2023年10月市场回顾与基金表现__qa.md": {
+      "hash": "ded26af81499b185e44b568e10262527",
+      "size": 4453,
+      "mtimeMs": 1786261718080
+    },
+    "raw/sources/notes/20260614T220323--qa-2024年基金五大趋势__qa.md": {
+      "hash": "93524450f3bf175d00d9e4dcc53efcd3",
+      "size": 5782,
+      "mtimeMs": 1786261718080
+    },
+    "raw/sources/notes/20260614T220647--qa-富国产业债信用债投资__qa.md": {
+      "hash": "080cd24cc4afab2603c211dcef511f83",
+      "size": 5799,
+      "mtimeMs": 1786261718080
+    },
+    "raw/sources/notes/20260614T220738--qa-11月基金月报中小盘成长__qa.md": {
+      "hash": "08ada54986b72764cd8dcb732eb1ef6b",
+      "size": 6047,
+      "mtimeMs": 1786261718081
+    },
+    "raw/sources/notes/20260614T220821--qa-景顺长城vs汇添富成长基金__qa.md": {
+      "hash": "8eeb07b43a7c66840d7d28d478586475",
+      "size": 6157,
+      "mtimeMs": 1786261718081
+    },
+    "raw/sources/notes/20260614T220913--qa-浮动费率基金利益绑定非省钱__qa.md": {
+      "hash": "433dd5b13ab62e128474bf207b5e09f4",
+      "size": 4204,
+      "mtimeMs": 1786261718081
+    },
+    "raw/sources/notes/20260614T220914--qa-基金经理自购不是业绩保证__qa.md": {
+      "hash": "0e277d2fb11a570b4410ff9afa46b5fa",
+      "size": 3446,
+      "mtimeMs": 1786261718081
+    },
+    "raw/sources/notes/20260614T220915--qa-4月股债分化大盘价值占优__qa.md": {
+      "hash": "51b239b6819375f1143a7756a097d5b4",
+      "size": 3445,
+      "mtimeMs": 1786261718082
+    },
+    "raw/sources/notes/20260614T220916--qa-国投瑞银瑞利中观行业比较__qa.md": {
+      "hash": "6f438393e11b03ad9f759e5f6f6a36db",
+      "size": 3415,
+      "mtimeMs": 1786261718082
+    },
+    "raw/sources/notes/20260614T220917--qa-频繁交易是收益隐形杀手__qa.md": {
+      "hash": "d5b42cb40f54cac2f07b87c6a22674b7",
+      "size": 3565,
+      "mtimeMs": 1786261718082
+    },
+    "raw/sources/notes/20260614T220918--qa-增聘基金经理不一定是跑路信号__qa.md": {
+      "hash": "c42dccbd496152e769885247886be7bc",
+      "size": 3507,
+      "mtimeMs": 1786261718082
+    },
+    "raw/sources/notes/20260614T220919--qa-摩根太平洋证券亚太成长__qa.md": {
+      "hash": "903c6bb1f7b417f0dd35d5d663385c72",
+      "size": 3266,
+      "mtimeMs": 1786261718082
+    },
+    "raw/sources/notes/20260614T220920--qa-3月股债震荡分化__qa.md": {
+      "hash": "2075083d872630ef580c3fabefba67a4",
+      "size": 3678,
+      "mtimeMs": 1786261718082
+    },
+    "raw/sources/notes/20260614T220921--qa-关税战下的优质基金选择__qa.md": {
+      "hash": "fd5f5503ca61142e75d10303eed113dc",
+      "size": 4115,
+      "mtimeMs": 1786261718083
+    },
+    "raw/sources/notes/20260614T220922--qa-鹏华产业债信用转债双策略__qa.md": {
+      "hash": "db38128f6bfb04765a2cd796cefee101",
+      "size": 3405,
+      "mtimeMs": 1786261718083
+    },
+    "raw/sources/notes/20260614T220923--qa-汇丰亚洲高收益债券策略__qa.md": {
+      "hash": "c981b4e5117e7f70a9fb125833bdb385",
+      "size": 2729,
+      "mtimeMs": 1786261718083
+    },
+    "raw/sources/notes/20260614T220924--qa-南方转型增长混合策略__qa.md": {
+      "hash": "5a4a46b1769558dc72f2eef3c796bc86",
+      "size": 3449,
+      "mtimeMs": 1786261718083
+    },
+    "raw/sources/notes/20260614T220925--qa-2月基金月报中小盘成长__qa.md": {
+      "hash": "bf10ab113815390733817082105094dd",
+      "size": 2664,
+      "mtimeMs": 1786261718083
+    },
+    "raw/sources/notes/20260614T220926--qa-施罗德亚洲高息股债__qa.md": {
+      "hash": "de75f5feff85d6b41e46c76a071710df",
+      "size": 1937,
+      "mtimeMs": 1786261718083
+    },
+    "raw/sources/notes/20260614T220927--qa-工银瑞信信用添利__qa.md": {
+      "hash": "537f2c9bd00c51bd088328a9848ef3d3",
+      "size": 1880,
+      "mtimeMs": 1786261718084
+    },
+    "raw/sources/notes/20260614T220928--qa-1月股债分化中小盘成长__qa.md": {
+      "hash": "e68cde29af59f2d8a69f23648d662fef",
+      "size": 3533,
+      "mtimeMs": 1786261718084
+    },
+    "raw/sources/notes/20260614T220929--qa-低费吸金全球基民偏好__qa.md": {
+      "hash": "0d4fef4eff18874c0f1943f9e137f4b1",
+      "size": 3215,
+      "mtimeMs": 1786261718084
+    },
+    "raw/sources/notes/20260614T220930--qa-东方红新动力全市场选股__qa.md": {
+      "hash": "a7ad1b6afd6c5ec0a14eb448a3564cf5",
+      "size": 3205,
+      "mtimeMs": 1786261718084
+    },
+    "raw/sources/notes/20260614T220931--qa-大成高鑫刘旭长期价值__qa.md": {
+      "hash": "84f9c184382a8a4e3cee671ff56d0840",
+      "size": 3610,
+      "mtimeMs": 1786261718084
+    },
+    "raw/sources/notes/20260614T220932--qa-摩根亚洲股息高息股策略__qa.md": {
+      "hash": "c1d209264e83a46bc5703b59de2ed97f",
+      "size": 3377,
+      "mtimeMs": 1786261718084
+    },
+    "raw/sources/notes/20260614T220933--qa-QDII限购替代方案__qa.md": {
+      "hash": "b74bed8c78329085c82eed09bb7c57f7",
+      "size": 3415,
+      "mtimeMs": 1786261718084
+    },
+    "raw/sources/notes/20260614T220934--qa-基金排名逆向投资无效__qa.md": {
+      "hash": "7638aa8a6d3a4302b82373bb52cbdb73",
+      "size": 3480,
+      "mtimeMs": 1786261718085
+    },
+    "raw/sources/notes/20260614T220935--qa-12月大盘价值占优__qa.md": {
+      "hash": "eaa231ac23657532752b0b074b07595a",
+      "size": 2271,
+      "mtimeMs": 1786261718085
+    },
+    "raw/sources/notes/20260614T220936--qa-2024基金五大趋势__qa.md": {
+      "hash": "765249b8e1f2c25fca870ee1177f419e",
+      "size": 2990,
+      "mtimeMs": 1786261718085
+    },
+    "raw/sources/notes/20260614T220937--qa-汇丰亚洲债券保守策略__qa.md": {
+      "hash": "544349263cc162b10f5a14ab4efd7e2c",
+      "size": 1742,
+      "mtimeMs": 1786261718085
+    },
+    "raw/sources/notes/20260614T220938--qa-适度宽松货币政策债市__qa.md": {
+      "hash": "40a5ca28ce44bbee98285bfc6df1b036",
+      "size": 2455,
+      "mtimeMs": 1786261718085
+    },
+    "raw/sources/notes/20260614T220939--qa-广发优企vs广发睿毅选股__qa.md": {
+      "hash": "7e928932da778df6e48c39d6f041ffa6",
+      "size": 2895,
+      "mtimeMs": 1786261718085
+    },
+    "raw/sources/notes/20260614T220940--qa-富国产业债信用策略__qa.md": {
+      "hash": "8a7aa231074dcf02e244cd96cfaf1cb1",
+      "size": 1698,
+      "mtimeMs": 1786261718085
+    },
+    "raw/sources/notes/20260614T220941--qa-11月股债双收__qa.md": {
+      "hash": "dd5f93f32cfd2ca02dd5f5328c96301f",
+      "size": 2308,
+      "mtimeMs": 1786261718085
+    },
+    "raw/sources/notes/20260614T220942--qa-景顺长城vs汇添富成长__qa.md": {
+      "hash": "dcc013344f1bd5b94de142d5bb1c4288",
+      "size": 2788,
+      "mtimeMs": 1786261718086
+    },
+    "raw/sources/notes/20260614T220943--qa-货币基金收益率下降__qa.md": {
+      "hash": "8dc515a9261f4e033a2145f303334808",
+      "size": 3495,
+      "mtimeMs": 1786261718086
+    },
+    "raw/sources/notes/20260614T220944--qa-ETF债券配置被动策略__qa.md": {
+      "hash": "71d6ad21972fd44bbf6e917d3bac33eb",
+      "size": 3439,
+      "mtimeMs": 1786261718086
+    },
+    "raw/sources/notes/20260614T220945--qa-ETF费率地板价后价值__qa.md": {
+      "hash": "26c83bfe13ad114bdc675693eea35e99",
+      "size": 3180,
+      "mtimeMs": 1786261718086
+    },
+    "raw/sources/notes/20260614T220946--qa-自由现金流ETF火了__qa.md": {
+      "hash": "268093ab6d21e7097e3ca6e347344723",
+      "size": 2531,
+      "mtimeMs": 1786261718086
+    },
+    "raw/sources/notes/20260614T220947--qa-ETF交易技巧新手少走弯路__qa.md": {
+      "hash": "0bae73f6167036c74a1baaab2a6d1134",
+      "size": 2948,
+      "mtimeMs": 1786261718086
+    },
+    "raw/sources/notes/20260614T220948--qa-为什么买ETF赚不到钱__qa.md": {
+      "hash": "583aa87a8312702d713a5e686bb9eae6",
+      "size": 2921,
+      "mtimeMs": 1786261718086
+    },
+    "raw/sources/notes/20260614T220949--qa-科创板指数怎么选__qa.md": {
+      "hash": "5978d487e0bab59f85b75e567b911d05",
+      "size": 2679,
+      "mtimeMs": 1786261718087
+    },
+    "raw/sources/notes/20260614T220950--qa-个人养老金聪明指数识别__qa.md": {
+      "hash": "983e49d877faad540c27072d1dbd31c4",
+      "size": 2335,
+      "mtimeMs": 1786261718087
+    },
+    "raw/sources/notes/20260614T220951--qa-买指数基金成了接盘侠__qa.md": {
+      "hash": "9c69f72a4d0594e7d8ca2f1f744d123f",
+      "size": 2187,
+      "mtimeMs": 1786261718087
+    },
+    "raw/sources/notes/20260614T220952--qa-指数内卷对投资者利弊__qa.md": {
+      "hash": "959d56b8da499bccd3e8d5b9942896a1",
+      "size": 2714,
+      "mtimeMs": 1786261718087
+    },
+    "raw/sources/notes/20260614T220953--qa-头部宽基ETF打折卖__qa.md": {
+      "hash": "7f828665f352b2231cef4df33a471c01",
+      "size": 2641,
+      "mtimeMs": 1786261718087
+    },
+    "raw/sources/notes/20260614T220954--qa-中证A系列指数新晋__qa.md": {
+      "hash": "bf9d93ccd986708307e1e0fbbb111a3e",
+      "size": 2566,
+      "mtimeMs": 1786261718087
+    },
+    "raw/sources/notes/20260614T220955--qa-ETF前世今生__qa.md": {
+      "hash": "11fbc655edcd33519a3fecd70859149b",
+      "size": 2513,
+      "mtimeMs": 1786261718088
+    },
+    "raw/sources/notes/20260614T220956--qa-加强版上证指数__qa.md": {
+      "hash": "5c1126c966cf2bd73a2f71227ff0f5b7",
+      "size": 3023,
+      "mtimeMs": 1786261718088
+    },
+    "raw/sources/notes/20260614T220957--qa-主动不等于被动__qa.md": {
+      "hash": "273918cf71c4175abf68a0a4e63172ce",
+      "size": 2963,
+      "mtimeMs": 1786261718088
+    },
+    "raw/sources/notes/20260614T220958--qa-同样买指数别人赚钱我亏钱__qa.md": {
+      "hash": "22895f4882850f18c4d0a598d1074570",
+      "size": 2658,
+      "mtimeMs": 1786261718088
+    },
+    "raw/sources/notes/20260614T220959--qa-红利指数有多香__qa.md": {
+      "hash": "b7459adcd8d99297162204200f92ac1d",
+      "size": 2633,
+      "mtimeMs": 1786261718089
+    },
+    "raw/sources/notes/20260614T220960--qa-A股千亿级ETF问世__qa.md": {
+      "hash": "e04a0b139b077c75ff8e64377e8430bc",
+      "size": 2692,
+      "mtimeMs": 1786261718089
+    },
+    "raw/sources/notes/20260615T122744--伴读-基金经理换手率段位__reading.md": {
+      "hash": "9e32be859c20718083aa67e9a6407f6e",
+      "size": 11053,
+      "mtimeMs": 1786261718089
+    },
+    "raw/sources/notes/20260616T122744--伴读-熊市与经济周期关系__reading.md": {
+      "hash": "0d61bb665e7a45f595038b43eaf76fb6",
+      "size": 9658,
+      "mtimeMs": 1786261718089
+    },
+    "raw/sources/notes/20260617T122744--伴读-银行理财保本之谜__reading.md": {
+      "hash": "571989f9bf5c2bf34596d7e599e6a8a0",
+      "size": 4005,
+      "mtimeMs": 1786261718089
+    },
+    "raw/sources/notes/20260618T122744--伴读-优化投资回报四步骤__reading.md": {
+      "hash": "9269420fc1630a696b3c10d8106062b7",
+      "size": 11608,
+      "mtimeMs": 1786261718089
+    },
+    "raw/sources/notes/20260619T122744--伴读-五星级基金闭眼买__reading.md": {
+      "hash": "9578e5ca9d2b1e01865c1283348d3f19",
+      "size": 8276,
+      "mtimeMs": 1786261718090
+    },
+    "raw/sources/notes/20260620T122744--伴读-股票估值两门派__reading.md": {
+      "hash": "cffd855de5a30f07fd4c59b2654f5fd9",
+      "size": 6595,
+      "mtimeMs": 1786261718090
+    },
+    "raw/sources/notes/20260621T122744--伴读-回本之后怎么办__reading.md": {
+      "hash": "e837e7dde9019dbcbc27b2bd0f8cfc3d",
+      "size": 11217,
+      "mtimeMs": 1786261718090
+    },
+    "raw/sources/notes/20260622T122744--伴读-基金九宫格风格箱__reading.md": {
+      "hash": "9e780fe1bcb64c427e49b25da74c94ea",
+      "size": 5532,
+      "mtimeMs": 1786261718090
+    },
+    "raw/sources/notes/20260623T122744--伴读-年终策略会预言__reading.md": {
+      "hash": "bdd9b2ef5ea4c0fa05c3ba55307b5f61",
+      "size": 8518,
+      "mtimeMs": 1786261718090
+    },
+    "raw/sources/notes/20260624T122744--伴读-选基导航仪详解__reading.md": {
+      "hash": "fcd7ed48695457279af0b59cb8aa1916",
+      "size": 10421,
+      "mtimeMs": 1786261718091
+    },
+    "raw/sources/notes/20260625T122744--伴读-短债基金五指标__reading.md": {
+      "hash": "29418082d86852216cdfe2ccf9f32990",
+      "size": 9965,
+      "mtimeMs": 1786261718091
+    },
+    "raw/sources/notes/20260626T122744--伴读-投资MBTI人格__reading.md": {
+      "hash": "a50653a633a9f65e24f8d34fbb0f2240",
+      "size": 4566,
+      "mtimeMs": 1786261718091
+    },
+    "raw/sources/notes/20260627T122744--伴读-基金回报与到手回报__reading.md": {
+      "hash": "c96d2fc846fdd23a88c8e2fad405bd92",
+      "size": 9969,
+      "mtimeMs": 1786261718091
+    },
+    "raw/sources/notes/20260628T151039--拆书-新摄影笔记__book.md": {
+      "hash": "506613ce097e6b3d35a8f131d8a11e8a",
+      "size": 6028,
+      "mtimeMs": 1786261718091
+    },
+    "raw/sources/notes/20260628T153207--qa-SpaceX上市高估__qa.md": {
+      "hash": "8f16dfd668f46f233c40b1616dc2733d",
+      "size": 4766,
+      "mtimeMs": 1786261718092
+    },
+    "raw/sources/notes/20260628T153258--qa-ai浪潮投资__qa.md": {
+      "hash": "97eb62ef02158782dcd9ba811969f604",
+      "size": 4007,
+      "mtimeMs": 1786261718092
+    },
+    "raw/sources/notes/20260628T153302--qa-货基破1时代__qa.md": {
+      "hash": "56b2d897550a6a4954a9e5d92769cbf0",
+      "size": 5382,
+      "mtimeMs": 1786261718092
+    },
+    "raw/sources/notes/20260628T153303--qa-主动持股比例看偏离__qa.md": {
+      "hash": "45144f6e6792c9c40861b80857c7754e",
+      "size": 4547,
+      "mtimeMs": 1786261718092
+    },
+    "raw/sources/notes/20260628T153330--qa-内卷退潮时基金经理如何抉择__qa.md": {
+      "hash": "d462050345ab8e3dc3bf7d3774f4f8b7",
+      "size": 5701,
+      "mtimeMs": 1786261718092
+    },
+    "raw/sources/notes/20260628T153350--qa-etf资金流均衡__qa.md": {
+      "hash": "23911e69111190768a784b6b59026c1e",
+      "size": 4382,
+      "mtimeMs": 1786261718093
+    },
+    "raw/sources/notes/20260628T153358--qa-五大流派穿越牛熊__qa.md": {
+      "hash": "220acf27a4e6e61aeb3db42331333c95",
+      "size": 4492,
+      "mtimeMs": 1786261718093
+    },
+    "raw/sources/notes/20260628T153405--qa-多资产指数选型__qa.md": {
+      "hash": "6ea558a24434a8d75ccb2130fe7b06ca",
+      "size": 5261,
+      "mtimeMs": 1786261718093
+    },
+    "raw/sources/notes/20260628T153414--qa-博弈论看中美关税停战__qa.md": {
+      "hash": "2a4885ff78c7c0207ed5eaef7359e6e9",
+      "size": 4654,
+      "mtimeMs": 1786261718093
+    },
+    "raw/sources/notes/20260628T153445--qa-女性基金经理__qa.md": {
+      "hash": "111aed8fe4f3559d24bcaaf10882fcac",
+      "size": 3958,
+      "mtimeMs": 1786261718094
+    },
+    "raw/sources/notes/20260628T153446--qa-新发基金五维度筛选法__qa.md": {
+      "hash": "4a877d0eaa9b087ac4da7e3a37e2fdfd",
+      "size": 5292,
+      "mtimeMs": 1786261718094
+    },
+    "raw/sources/notes/20260628T153459--qa-基金基准重构实务__qa.md": {
+      "hash": "493240bc828b78f6521ab2cf2b116cbd",
+      "size": 4541,
+      "mtimeMs": 1786261718094
+    },
+    "raw/sources/notes/20260628T153511--qa-楼市新房二手房分化__qa.md": {
+      "hash": "3a258fd4ab3631dcdd32c6f0c5433ed1",
+      "size": 4760,
+      "mtimeMs": 1786261718094
+    },
+    "raw/sources/notes/20260628T153512--qa-特朗普回宫100天市场回顾__qa.md": {
+      "hash": "01627a50303e9e3f8ab3780a0d000912",
+      "size": 5184,
+      "mtimeMs": 1786261718095
+    },
+    "raw/sources/notes/20260628T153514--qa-地产触底何时到__qa.md": {
+      "hash": "7309aa773eb6baba7982db48eff765e5",
+      "size": 5315,
+      "mtimeMs": 1786261718095
+    },
+    "raw/sources/notes/20260628T153532--qa-刺激政策下的基金经理分歧__qa.md": {
+      "hash": "28b024558e129d9726acc82bd0f162d8",
+      "size": 5195,
+      "mtimeMs": 1786261718095
+    },
+    "raw/sources/notes/20260628T153537--qa-楼市转折点__qa.md": {
+      "hash": "837e8484f6fce063352d4bc91af2e7b1",
+      "size": 3885,
+      "mtimeMs": 1786261718095
+    },
+    "raw/sources/notes/20260628T153539--qa-外资真金白银流向中国__qa.md": {
+      "hash": "31f5254527e45432993cd007c848dd7d",
+      "size": 4151,
+      "mtimeMs": 1786261718096
+    },
+    "raw/sources/notes/20260628T153547--qa-美股叙事动摇分散配置__qa.md": {
+      "hash": "e0afaf21af74b46ff809dcf4aabc9504",
+      "size": 5402,
+      "mtimeMs": 1786261718096
+    },
+    "raw/sources/notes/20260628T153555--qa-业绩基准看懂门道__qa.md": {
+      "hash": "ec45e8e6b2cc2cac24fd7eaba6077557",
+      "size": 4599,
+      "mtimeMs": 1786261718096
+    },
+    "raw/sources/notes/20260628T153614--qa-货基费率敏感度__qa.md": {
+      "hash": "ffbc56efdaf0596fe79a03d0ec30a172",
+      "size": 4673,
+      "mtimeMs": 1786261718096
+    },
+    "raw/sources/notes/20260628T153616--qa-中国基民择时回报差研究__qa.md": {
+      "hash": "a85db939b521c8b72ccc63610450bf41",
+      "size": 4446,
+      "mtimeMs": 1786261718096
+    },
+    "raw/sources/notes/20260628T153619--qa-固收加策略分化__qa.md": {
+      "hash": "1f78daa613562cae2af10b159daa938f",
+      "size": 5307,
+      "mtimeMs": 1786261718097
+    },
+    "raw/sources/notes/20260628T153623--qa-关税裁决无效__qa.md": {
+      "hash": "d937c51d938d7276fec07307f19f6b1c",
+      "size": 4651,
+      "mtimeMs": 1786261718097
+    },
+    "raw/sources/notes/20260628T153640--qa-2024全球基金资金流观察__qa.md": {
+      "hash": "38a81aee1d2dae7c68ead8181a83d3cf",
+      "size": 4212,
+      "mtimeMs": 1786261718097
+    },
+    "raw/sources/notes/20260628T153653--qa-QDII额度扩容与全球配置__qa.md": {
+      "hash": "78d3ac9d67440966236ced5848a3a6fc",
+      "size": 5769,
+      "mtimeMs": 1786261718097
+    },
+    "raw/sources/notes/20260628T153700--qa-浮动费率基金实测__qa.md": {
+      "hash": "9f47689397faef744cb6a3a8b1e59d11",
+      "size": 4733,
+      "mtimeMs": 1786261718097
+    },
+    "raw/sources/notes/20260628T153709--qa-ETF单季最大净流出__qa.md": {
+      "hash": "e4c2e4e437869d043a2a126eee37a5dd",
+      "size": 4681,
+      "mtimeMs": 1786261718098
+    },
+    "raw/sources/notes/20260628T153711--qa-公募基金高质量发展行动方案__qa.md": {
+      "hash": "c39d65891f5436c03914f9bbed35e2fe",
+      "size": 4055,
+      "mtimeMs": 1786261718098
+    },
+    "raw/sources/notes/20260628T153714--qa-机构减持宽基__qa.md": {
+      "hash": "6a8a3a9156c044fd746226587564de36",
+      "size": 4019,
+      "mtimeMs": 1786261718098
+    },
+    "raw/sources/notes/20260628T153717--qa-中国ETF市场资金流向__qa.md": {
+      "hash": "db6311b01e80f8031d0e9e8fd15f8007",
+      "size": 4298,
+      "mtimeMs": 1786261718098
+    },
+    "raw/sources/notes/20260628T153725--qa-固收加本质与陷阱__qa.md": {
+      "hash": "b936a786f09a9d60f9e2e4f16ba0a33d",
+      "size": 5203,
+      "mtimeMs": 1786261718098
+    },
+    "raw/sources/notes/20260628T153730--qa-主题基金热潮中的冷思考__qa.md": {
+      "hash": "ca1d513e13135714d29b9e7d9a915362",
+      "size": 5007,
+      "mtimeMs": 1786261718099
+    },
+    "raw/sources/notes/20260628T153741--qa-科创板四只指数差异__qa.md": {
+      "hash": "2500441ecfbf7bb44b4ce1696f00d47e",
+      "size": 4916,
+      "mtimeMs": 1786261718099
+    },
+    "raw/sources/notes/20260628T153759--qa-ETF降费潮与行业格局重构__qa.md": {
+      "hash": "7b535a83be732e2f79ec297316865583",
+      "size": 5302,
+      "mtimeMs": 1786261718099
+    },
+    "raw/sources/notes/20260628T153800--qa-餐饮行业利润拆解__qa.md": {
+      "hash": "2c89c8a3bf8d760626097a8d9945b298",
+      "size": 4507,
+      "mtimeMs": 1786261718099
+    },
+    "raw/sources/notes/20260628T153802--qa-巴菲特谢幕伯克希尔接班__qa.md": {
+      "hash": "dc964728ef6507ee05610addd7c67656",
+      "size": 4664,
+      "mtimeMs": 1786261718099
+    },
+    "raw/sources/notes/20260628T153808--qa-2026固收投资__qa.md": {
+      "hash": "373ec3f701e7d37a48547d03c73d27ee",
+      "size": 4890,
+      "mtimeMs": 1786261718100
+    },
+    "raw/sources/notes/20260628T153810--qa-美联储换帅与降息__qa.md": {
+      "hash": "e25be00d4902af9dbfd4c5bb7207b6be",
+      "size": 5446,
+      "mtimeMs": 1786261718100
+    },
+    "raw/sources/notes/20260628T153821--qa-楼市见底了吗十张图__qa.md": {
+      "hash": "794d9d3cd064abcecb1abca97aa7984c",
+      "size": 4502,
+      "mtimeMs": 1786261718100
+    },
+    "raw/sources/notes/20260628T153831--qa-再平衡对抗不确定性__qa.md": {
+      "hash": "b0d2fafe5d2a32fbd83f44dca902bada",
+      "size": 5983,
+      "mtimeMs": 1786261718100
+    },
+    "raw/sources/notes/20260628T153831--qa-白酒抄底时机辨__qa.md": {
+      "hash": "5f41f29a610f3a24bc045af0581badf5",
+      "size": 5050,
+      "mtimeMs": 1786261718100
+    },
+    "raw/sources/notes/20260628T153838--qa-降息环境怎么选基金__qa.md": {
+      "hash": "a08a777863f39ba6ec295c81b2c1b28a",
+      "size": 5050,
+      "mtimeMs": 1786261718100
+    },
+    "raw/sources/notes/20260628T153852--qa-美联储降息周期研判__qa.md": {
+      "hash": "963b88a2b0a22d8b4cdae244bdfeab36",
+      "size": 4283,
+      "mtimeMs": 1786261718101
+    },
+    "raw/sources/notes/20260628T153859--qa-基金经理布局__qa.md": {
+      "hash": "35c019a6eba9242c6fe9899dbf591396",
+      "size": 4749,
+      "mtimeMs": 1786261718101
+    },
+    "raw/sources/notes/20260628T153911--qa-基金经理自购不等于业绩好__qa.md": {
+      "hash": "52bbc514ca6155b9c387d7103b7c154c",
+      "size": 4516,
+      "mtimeMs": 1786261718101
+    },
+    "raw/sources/notes/20260628T153915--qa-公募绩效考核新规__qa.md": {
+      "hash": "90ab4ae0286217d29099a9903bc27793",
+      "size": 4823,
+      "mtimeMs": 1786261718101
+    },
+    "raw/sources/notes/20260628T153916--qa-海外配置能否真正分散风险__qa.md": {
+      "hash": "214bf99557559aa7ed1f1c493c838e88",
+      "size": 5155,
+      "mtimeMs": 1786261718101
+    },
+    "raw/sources/notes/20260628T153917--qa-被动权益首超主动ETF费率战__qa.md": {
+      "hash": "434e120fa2c72cbd09f45e6dbe707587",
+      "size": 5654,
+      "mtimeMs": 1786261718101
+    },
+    "raw/sources/notes/20260628T153927--qa-英伟达AI顺风车坐稳了吗__qa.md": {
+      "hash": "374bcce7040d38b311b4f44a96e3f14f",
+      "size": 3810,
+      "mtimeMs": 1786261718102
+    },
+    "raw/sources/notes/20260628T153931--qa-加密货币ETF革命__qa.md": {
+      "hash": "9cb290a8736df4f5e010da7d7b4ddb54",
+      "size": 5167,
+      "mtimeMs": 1786261718102
+    },
+    "raw/sources/notes/20260628T153935--qa-欧股估值修复接近终点__qa.md": {
+      "hash": "622729039793d53d98df6c8de3e9eff6",
+      "size": 4638,
+      "mtimeMs": 1786261718102
+    },
+    "raw/sources/notes/20260628T153937--qa-巴菲特2024致股东信__qa.md": {
+      "hash": "5b032714ba2d5a498c5d0a128153c290",
+      "size": 4772,
+      "mtimeMs": 1786261718102
+    },
+    "raw/sources/notes/20260628T153940--qa-四只FOF基金优选__qa.md": {
+      "hash": "675ba9032abd33cdddd4cb9323b9fcb1",
+      "size": 4666,
+      "mtimeMs": 1786261718103
+    },
+    "raw/sources/notes/20260628T154002--qa-金属狂欢走多远__qa.md": {
+      "hash": "70e444c40d3886bb8bb6db777975f264",
+      "size": 4289,
+      "mtimeMs": 1786261718103
+    },
+    "raw/sources/notes/20260628T154005--qa-油价冲击全球资产重定价__qa.md": {
+      "hash": "b2eb7da26276793fc44af435abf900e6",
+      "size": 6009,
+      "mtimeMs": 1786261718103
+    },
+    "raw/sources/notes/20260628T154009--qa-AI信仰与真实增长__qa.md": {
+      "hash": "aec3a2100f4822a99c6ac919a27a63a5",
+      "size": 5148,
+      "mtimeMs": 1786261718103
+    },
+    "raw/sources/notes/20260628T154015--qa-被动投资浪潮离中国多远__qa.md": {
+      "hash": "1cd09556cab80ba7a3c2131a8e9aaf10",
+      "size": 3909,
+      "mtimeMs": 1786261718103
+    },
+    "raw/sources/notes/20260628T154020--qa-新消费创新药基金经理分歧__qa.md": {
+      "hash": "1f437e3d9e10f217660012e3a06d6355",
+      "size": 5914,
+      "mtimeMs": 1786261718104
+    },
+    "raw/sources/notes/20260628T154021--qa-基金经理换帅后怎么办__qa.md": {
+      "hash": "26a5870fff7358f4a67f234ff6842646",
+      "size": 4513,
+      "mtimeMs": 1786261718104
+    },
+    "raw/sources/notes/20260628T154030--qa-收益率新低后的债券策略分歧__qa.md": {
+      "hash": "25033458c504782b905f8f60ca9abe1e",
+      "size": 5239,
+      "mtimeMs": 1786261718104
+    },
+    "raw/sources/notes/20260628T154033--qa-行业基金主动跑赢被动吗__qa.md": {
+      "hash": "bdec9758661ff66454ea8df0fcb9bdd2",
+      "size": 4968,
+      "mtimeMs": 1786261718104
+    },
+    "raw/sources/notes/20260628T154035--qa-基金策略容量怎么判断__qa.md": {
+      "hash": "b4c6e7ec850df3bac2025d0d1a515903",
+      "size": 5073,
+      "mtimeMs": 1786261718104
+    },
+    "raw/sources/notes/20260628T154037--qa-巴菲特减持抄底__qa.md": {
+      "hash": "43ddc48d0d4f7a6ed7430f38cb1933f9",
+      "size": 5323,
+      "mtimeMs": 1786261718104
+    },
+    "raw/sources/notes/20260628T154046--qa-四只etf拆解__qa.md": {
+      "hash": "f795cfc8d2e3306c570a4ca59924c689",
+      "size": 4067,
+      "mtimeMs": 1786261718104
+    },
+    "raw/sources/notes/20260628T154051--qa-2026全球布局稳中求进__qa.md": {
+      "hash": "8e0786c92737e5abbfc3095d123687ad",
+      "size": 6462,
+      "mtimeMs": 1786261718105
+    },
+    "raw/sources/notes/20260628T154107--qa-巴菲特2024年致股东信__qa.md": {
+      "hash": "7e8db2a6648a1088bdc560dccbfedf3a",
+      "size": 4375,
+      "mtimeMs": 1786261718105
+    },
+    "raw/sources/notes/20260628T154108--qa-基金考核投资者本位__qa.md": {
+      "hash": "63be3469387103c78f86926253e34cba",
+      "size": 5112,
+      "mtimeMs": 1786261718105
+    },
+    "raw/sources/notes/20260628T154117--qa-增聘基金经理的四种解码__qa.md": {
+      "hash": "f97c6e54036c6ad20e7aca1bb5f03367",
+      "size": 4746,
+      "mtimeMs": 1786261718105
+    },
+    "raw/sources/notes/20260628T154121--qa-科技股抄底陷阱__qa.md": {
+      "hash": "eb1c175009e424c05c03a27ca02e8eeb",
+      "size": 4707,
+      "mtimeMs": 1786261718105
+    },
+    "raw/sources/notes/20260628T154122--qa-红利高股息三种形态__qa.md": {
+      "hash": "a74215d9a558ceb2fff6034dad7f5415",
+      "size": 4126,
+      "mtimeMs": 1786261718105
+    },
+    "raw/sources/notes/20260628T154123--qa-全球配置观点分化__qa.md": {
+      "hash": "db29f74edb9deb121259748898bdadc3",
+      "size": 4679,
+      "mtimeMs": 1786261718105
+    },
+    "raw/sources/notes/20260628T154123--qa-关税担忧资金转向欧洲__qa.md": {
+      "hash": "adc86c075a71373405d99b652fb80bd8",
+      "size": 3926,
+      "mtimeMs": 1786261718106
+    },
+    "raw/sources/notes/20260628T154124--qa-股价过度波动之谜__qa.md": {
+      "hash": "f1c60910076af59b1a489618159433d8",
+      "size": 5732,
+      "mtimeMs": 1786261718106
+    },
+    "raw/sources/notes/20260628T154125--qa-债券价值并未消失__qa.md": {
+      "hash": "0d4906377461a355c45d09f99000719b",
+      "size": 4102,
+      "mtimeMs": 1786261718106
+    },
+    "raw/sources/notes/20260628T154126--qa-大宗商品配置价值__qa.md": {
+      "hash": "d076561152e9d38d643a2d53a8d603bb",
+      "size": 4124,
+      "mtimeMs": 1786261718106
+    },
+    "raw/sources/notes/20260628T154127--qa-现金不是零收益资产__qa.md": {
+      "hash": "2dcf645326e4b1b4d912cc05e2091824",
+      "size": 4190,
+      "mtimeMs": 1786261718106
+    },
+    "raw/sources/notes/20260628T154128--qa-主动偏股基金还能跑赢吗__qa.md": {
+      "hash": "658a5f228259891fcb3a940bbe5439a9",
+      "size": 4846,
+      "mtimeMs": 1786261718106
+    },
+    "raw/sources/notes/20260628T154128--qa-特朗普20美股展望__qa.md": {
+      "hash": "04e5455b7afdd3783804e1241e4e4aba",
+      "size": 4075,
+      "mtimeMs": 1786261718106
+    },
+    "raw/sources/notes/20260628T154129--qa-黄金是保险不是投资__qa.md": {
+      "hash": "e77430392e5013b872763ed7db20e447",
+      "size": 4047,
+      "mtimeMs": 1786261718107
+    },
+    "raw/sources/notes/20260628T154130--qa-全球配置中国最有吸引力__qa.md": {
+      "hash": "6aad12cb27e368d4e5b9fcc96a25402b",
+      "size": 4176,
+      "mtimeMs": 1786261718107
+    },
+    "raw/sources/notes/20260628T154133--qa-DeepSeek血洗美股叙事__qa.md": {
+      "hash": "10e8d9908a724d2e2a5c95acbf87992c",
+      "size": 4610,
+      "mtimeMs": 1786261718107
+    },
+    "raw/sources/notes/20260628T154138--qa-美股9月回调是结束还是开始__qa.md": {
+      "hash": "997902169deefc31c2b33443f516459a",
+      "size": 4246,
+      "mtimeMs": 1786261718107
+    },
+    "raw/sources/notes/20260628T154139--qa-检验主动基金__qa.md": {
+      "hash": "b88d7668801f444fa4e71866f66b46a8",
+      "size": 4792,
+      "mtimeMs": 1786261718107
+    },
+    "raw/sources/notes/20260628T154139--qa-跨境理财通2.0__qa.md": {
+      "hash": "6d962c0a538c855047e452da0dcfe92b",
+      "size": 5129,
+      "mtimeMs": 1786261718107
+    },
+    "raw/sources/notes/20260628T154204--qa-全球多资产组合标准模板__qa.md": {
+      "hash": "d8a7c9ad2daacd739c670e261d3037ee",
+      "size": 6005,
+      "mtimeMs": 1786261718107
+    },
+    "raw/sources/notes/20260628T154208--qa-央妈降准红包__qa.md": {
+      "hash": "c0001a697ca0826c8b2652995a80602b",
+      "size": 3691,
+      "mtimeMs": 1786261718108
+    },
+    "raw/sources/notes/20260628T154215--qa-基金经理AI分歧__qa.md": {
+      "hash": "116636714eec837ca3f79b484df019d8",
+      "size": 4928,
+      "mtimeMs": 1786261718108
+    },
+    "raw/sources/notes/20260628T154215--qa-招商产业债换帅刘万锋__qa.md": {
+      "hash": "9b787206de5324b13fbd518ac5753d85",
+      "size": 4494,
+      "mtimeMs": 1786261718108
+    },
+    "raw/sources/notes/20260628T154220--qa-美股回调后的估值机会__qa.md": {
+      "hash": "b29599bafc371d2da153e2d056d1a2f2",
+      "size": 5736,
+      "mtimeMs": 1786261718108
+    },
+    "raw/sources/notes/20260628T154231--qa-债券ETF类型与优势__qa.md": {
+      "hash": "770f9b99490de8240eeae6d17c221eda",
+      "size": 4426,
+      "mtimeMs": 1786261718108
+    },
+    "raw/sources/notes/20260628T154233--qa-自由现金流ETF四个月爆发__qa.md": {
+      "hash": "06bcfce5f95f655f4338ccfbd99da97b",
+      "size": 5768,
+      "mtimeMs": 1786261718108
+    },
+    "raw/sources/notes/20260628T154236--qa-基金回本后如何避免再被套__qa.md": {
+      "hash": "f9589d35dd1138678662c36644f6b546",
+      "size": 4457,
+      "mtimeMs": 1786261718109
+    },
+    "raw/sources/notes/20260628T154236--qa-基金资金流与主被动变局__qa.md": {
+      "hash": "25766dae5368758dc702282227ea87ed",
+      "size": 4529,
+      "mtimeMs": 1786261718109
+    },
+    "raw/sources/notes/20260628T154238--qa-互认基金新规打开什么空间__qa.md": {
+      "hash": "1a1764fd2a1c0f578b770cb4d69158a6",
+      "size": 4511,
+      "mtimeMs": 1786261718109
+    },
+    "raw/sources/notes/20260628T154238--qa-养老目标基金选择__qa.md": {
+      "hash": "fd80c662461177295586100384141c3f",
+      "size": 5608,
+      "mtimeMs": 1786261718109
+    },
+    "raw/sources/notes/20260628T154256--qa-日本股市泡沫重演__qa.md": {
+      "hash": "59369078734ec2fe4e9a9445330b6369",
+      "size": 4309,
+      "mtimeMs": 1786261718109
+    },
+    "raw/sources/notes/20260628T154300--qa-再平衡在什么情况才有用__qa.md": {
+      "hash": "ae5e499bb3abecd1c2fec4b5c93ceb62",
+      "size": 4278,
+      "mtimeMs": 1786261718110
+    },
+    "raw/sources/notes/20260628T154313--qa-美股150年崩盘复盘__qa.md": {
+      "hash": "24bc64d53509fe13890f46f1aefe029d",
+      "size": 4207,
+      "mtimeMs": 1786261718110
+    },
+    "raw/sources/notes/20260628T154318--qa-基金信披新规三亮点__qa.md": {
+      "hash": "20e278f047b12d7b515dfc1b766e0e67",
+      "size": 4531,
+      "mtimeMs": 1786261718110
+    },
+    "raw/sources/notes/20260628T154319--qa-不确定市场找可持续回报__qa.md": {
+      "hash": "70d552e99907dde8eb549445a8066dfe",
+      "size": 5879,
+      "mtimeMs": 1786261718110
+    },
+    "raw/sources/notes/20260628T154327--qa-黄金原油抗通胀真相__qa.md": {
+      "hash": "5f7e19708d2b1a29990294fa08217a5f",
+      "size": 5363,
+      "mtimeMs": 1786261718110
+    },
+    "raw/sources/notes/20260628T154330--qa-择时为什么几乎不可能赚钱__qa.md": {
+      "hash": "543bbac7ff0cdc62258d65b57a0c0f25",
+      "size": 4218,
+      "mtimeMs": 1786261718110
+    },
+    "raw/sources/notes/20260628T154334--qa-迷你基金陷阱__qa.md": {
+      "hash": "45e5b5aa3a8e5e56cbb180e39b7601c1",
+      "size": 4881,
+      "mtimeMs": 1786261718111
+    },
+    "raw/sources/notes/20260628T154335--qa-基金选品适配市场__qa.md": {
+      "hash": "c40ced8af04f4ba9b634cbeb26a2ec15",
+      "size": 4609,
+      "mtimeMs": 1786261718111
+    },
+    "raw/sources/notes/20260628T154337--qa-投资者回报差终章__qa.md": {
+      "hash": "07ff1437d43383bdef75d3bbdcb49e4f",
+      "size": 5687,
+      "mtimeMs": 1786261718111
+    },
+    "raw/sources/notes/20260628T154344--qa-QDII井喷背后的三大约束__qa.md": {
+      "hash": "7741ef404f1f5358b10daabb246b50ea",
+      "size": 4397,
+      "mtimeMs": 1786261718111
+    },
+    "raw/sources/notes/20260628T154349--qa-特朗普关税2.0对中国影响__qa.md": {
+      "hash": "30ad74317877eae9df448ff4cf898070",
+      "size": 4823,
+      "mtimeMs": 1786261718111
+    },
+    "raw/sources/notes/20260628T154353--qa-美股现在上车还来得及吗__qa.md": {
+      "hash": "d9bd4b4297c4bf57df0db16b8617d850",
+      "size": 3989,
+      "mtimeMs": 1786261718111
+    },
+    "raw/sources/notes/20260628T154400--qa-全球市场分化下的投资选择__qa.md": {
+      "hash": "efc14e2e6f16ee4792c2f4b8b7ca668f",
+      "size": 4670,
+      "mtimeMs": 1786261718112
+    },
+    "raw/sources/notes/20260628T154410--qa-关税为什么解决不了贸易逆差__qa.md": {
+      "hash": "77a6d1ed2e4bf4b44f94b337ef10a850",
+      "size": 4611,
+      "mtimeMs": 1786261718112
+    },
+    "raw/sources/notes/20260628T154414--qa-平衡风格基金选股力__qa.md": {
+      "hash": "a52adab19fca026ab21a6e336311da37",
+      "size": 5396,
+      "mtimeMs": 1786261718112
+    },
+    "raw/sources/notes/20260628T154429--qa-定投真能熨平波动吗__qa.md": {
+      "hash": "9137a681953c834f8e644af547985357",
+      "size": 6205,
+      "mtimeMs": 1786261718112
+    },
+    "raw/sources/notes/20260628T154430--qa-中国资产为什么是新兴核心__qa.md": {
+      "hash": "d2418175d040899db95927f8e20a3aab",
+      "size": 3649,
+      "mtimeMs": 1786261718112
+    },
+    "raw/sources/notes/20260628T154432--qa-fof配置方向__qa.md": {
+      "hash": "91cc8437484953b5762f0af540e5ab5d",
+      "size": 4570,
+      "mtimeMs": 1786261718112
+    },
+    "raw/sources/notes/20260628T154433--qa-QDII基金怎么选__qa.md": {
+      "hash": "768a166f5782a71385a8b666e93c355b",
+      "size": 4633,
+      "mtimeMs": 1786261718113
+    },
+    "raw/sources/notes/20260628T154433--qa-全球高处不胜寒还有多少空间__qa.md": {
+      "hash": "8776b23bcb1b1c053cd320a699879ff6",
+      "size": 5964,
+      "mtimeMs": 1786261718113
+    },
+    "raw/sources/notes/20260628T154433--qa-选基金经理看什么__qa.md": {
+      "hash": "a50fe8d7f5ec28557b6f6506cea2008e",
+      "size": 5412,
+      "mtimeMs": 1786261718113
+    },
+    "raw/sources/notes/20260628T154442--qa-A股赚钱难的原因__qa.md": {
+      "hash": "b5f397ff9cc98f5b82c8aa0d01558bc8",
+      "size": 4092,
+      "mtimeMs": 1786261718113
+    },
+    "raw/sources/notes/20260628T154448--qa-基金经理高光与遗憾__qa.md": {
+      "hash": "cbdac0f1436c866654198b0779f33e89",
+      "size": 6026,
+      "mtimeMs": 1786261718114
+    },
+    "raw/sources/notes/20260628T154449--qa-2025基金经理风格展望__qa.md": {
+      "hash": "b194c1b8ac3815916771e35baf7c1096",
+      "size": 5046,
+      "mtimeMs": 1786261718114
+    },
+    "raw/sources/notes/20260628T154456--qa-ETF跟踪误差的三个来源__qa.md": {
+      "hash": "c8522c4dcedca89071523b0437d4ef4c",
+      "size": 4342,
+      "mtimeMs": 1786261718114
+    },
+    "raw/sources/notes/20260628T154500--qa-行业基金是组合必需品吗__qa.md": {
+      "hash": "f165b92f82f7476138f86f1e0cc31cad",
+      "size": 4548,
+      "mtimeMs": 1786261718114
+    },
+    "raw/sources/notes/20260628T154510--qa-中国ETF市场2024大爆发__qa.md": {
+      "hash": "56922820efb8e08139b3ec22ee7c61f9",
+      "size": 4936,
+      "mtimeMs": 1786261718114
+    },
+    "raw/sources/notes/20260628T154520--qa-AI时代护城河重估__qa.md": {
+      "hash": "30bd0efe60f956045c1b26aca9705679",
+      "size": 5752,
+      "mtimeMs": 1786261718114
+    },
+    "raw/sources/notes/20260628T154529--qa-主动持股比例__qa.md": {
+      "hash": "eb891552758f1cdece06ec6171009970",
+      "size": 4725,
+      "mtimeMs": 1786261718115
+    },
+    "raw/sources/notes/20260628T154530--qa-红利投资四大误区是什么__qa.md": {
+      "hash": "6b37e66e39cd2c6a978584e0c4fa979b",
+      "size": 3789,
+      "mtimeMs": 1786261718115
+    },
+    "raw/sources/notes/20260628T154533--qa-红利指数基金怎么挑__qa.md": {
+      "hash": "dcefd50b85b62f171e069b60e9945092",
+      "size": 4570,
+      "mtimeMs": 1786261718115
+    },
+    "raw/sources/notes/20260628T154536--qa-凯利公式仓位管理__qa.md": {
+      "hash": "2de150deb93b82168f61b770c072e139",
+      "size": 5459,
+      "mtimeMs": 1786261718115
+    },
+    "raw/sources/notes/20260628T154536--qa-目标日期基金下滑曲线__qa.md": {
+      "hash": "23f24d864c527dba8fbf355047e49e06",
+      "size": 5315,
+      "mtimeMs": 1786261718115
+    },
+    "raw/sources/notes/20260628T154551--qa-高波动基金蜜糖陷阱__qa.md": {
+      "hash": "8ababc630aab8a849529ec667829ae22",
+      "size": 5499,
+      "mtimeMs": 1786261718115
+    },
+    "raw/sources/notes/20260628T154555--qa-全球配置哪些资产还值得买__qa.md": {
+      "hash": "7983ea9e1008371379d7d90a226dd9ab",
+      "size": 5110,
+      "mtimeMs": 1786261718115
+    },
+    "raw/sources/notes/20260628T154559--qa-基金费率越低生存能力越强__qa.md": {
+      "hash": "b02d279d3e5c5cb4908d44b983d2b31d",
+      "size": 5915,
+      "mtimeMs": 1786261718116
+    },
+    "raw/sources/notes/20260628T154559--qa-美联储降息拐点__qa.md": {
+      "hash": "bafb07e1969b72aa280ff606391edd85",
+      "size": 3584,
+      "mtimeMs": 1786261718116
+    },
+    "raw/sources/notes/20260628T154600--qa-分散投资在关税时代还管用吗__qa.md": {
+      "hash": "ae63704e07421f9cecd9294eb62453a0",
+      "size": 4476,
+      "mtimeMs": 1786261718116
+    },
+    "raw/sources/notes/20260628T154605--qa-银行股低估值高股息的底层逻辑__qa.md": {
+      "hash": "6d034411d5cd2d27c2f6b8b7d4bbda21",
+      "size": 4428,
+      "mtimeMs": 1786261718116
+    },
+    "raw/sources/notes/20260628T154619--qa-关税抹去百年贸易开放成果__qa.md": {
+      "hash": "5e8b2f89006aa56db08168ca72813eee",
+      "size": 4579,
+      "mtimeMs": 1786261718116
+    },
+    "raw/sources/notes/20260628T154625--qa-2025基金主被动大分化__qa.md": {
+      "hash": "53cf54f6ad49b793ace90db6439ee8c5",
+      "size": 5778,
+      "mtimeMs": 1786261718117
+    },
+    "raw/sources/notes/20260628T154630--qa-黄金高台跳水该买还是跑__qa.md": {
+      "hash": "8302ee25943040943226172d0bc0656f",
+      "size": 4461,
+      "mtimeMs": 1786261718117
+    },
+    "raw/sources/notes/20260628T154632--qa-债券被动投资时代来了__qa.md": {
+      "hash": "7f736d59da8f4ab52304aaf4ce7a30b1",
+      "size": 4894,
+      "mtimeMs": 1786261718117
+    },
+    "raw/sources/notes/20260628T154638--qa-美大选经济影响辨__qa.md": {
+      "hash": "a5d5b10fb38b90ea88ca074467aff65c",
+      "size": 5328,
+      "mtimeMs": 1786261718117
+    },
+    "raw/sources/notes/20260628T154640--qa-2025全球普涨后的配置__qa.md": {
+      "hash": "7e19d5844068d5fa05bdb83f20b64400",
+      "size": 5189,
+      "mtimeMs": 1786261718117
+    },
+    "raw/sources/notes/20260628T154649--qa-A股3000点保卫战__qa.md": {
+      "hash": "74f89d3d2a18edbc7b6b40b1de9ea74c",
+      "size": 3645,
+      "mtimeMs": 1786261718118
+    },
+    "raw/sources/notes/20260628T154651--qa-全球机构减持美国配置新风向__qa.md": {
+      "hash": "aba953e0b5fbffa9701201b75cfbdb5a",
+      "size": 5597,
+      "mtimeMs": 1786261718118
+    },
+    "raw/sources/notes/20260628T154656--qa-四只固收基金深度拆解__qa.md": {
+      "hash": "f3c308f463b26a1b39602d273edd514a",
+      "size": 5801,
+      "mtimeMs": 1786261718118
+    },
+    "raw/sources/notes/20260628T154700--qa-防御性资产真能防御吗__qa.md": {
+      "hash": "e098487b762988c31fc8a6701520c817",
+      "size": 4533,
+      "mtimeMs": 1786261718118
+    },
+    "raw/sources/notes/20260628T154704--qa-基金持股该集中还是分散__qa.md": {
+      "hash": "4e7a942f154a9555ee681449f1b75b79",
+      "size": 4525,
+      "mtimeMs": 1786261718118
+    },
+    "raw/sources/notes/20260628T154712--qa-值得托付基金公司三要素__qa.md": {
+      "hash": "b6ed6b00fa6a78368ea1c9bb64ed21ed",
+      "size": 5682,
+      "mtimeMs": 1786261718118
+    },
+    "raw/sources/notes/20260628T154713--qa-公募基金经理薪酬改革__qa.md": {
+      "hash": "15ee49e7a70052fb8cd3ae471956eff6",
+      "size": 4475,
+      "mtimeMs": 1786261718118
+    },
+    "raw/sources/notes/20260628T154742--qa-中证A500指数解析__qa.md": {
+      "hash": "6a7ed70004f9f6774b1e6cc6b4ee5ff1",
+      "size": 4962,
+      "mtimeMs": 1786261718119
+    },
+    "raw/sources/notes/20260628T154743--qa-CXO还是一门好生意吗__qa.md": {
+      "hash": "868e496b22d20de9a2f5e88438fe1ed2",
+      "size": 4052,
+      "mtimeMs": 1786261718119
+    },
+    "raw/sources/notes/20260628T154756--qa-基金超市科学分散__qa.md": {
+      "hash": "54335a61ce3ca946e76435ab52aef139",
+      "size": 5986,
+      "mtimeMs": 1786261718119
+    },
+    "raw/sources/notes/20260628T154756--qa-美元终结十年涨势的五因素__qa.md": {
+      "hash": "da72ea0bea0dd2ec9b873c3a7350f0cd",
+      "size": 6450,
+      "mtimeMs": 1786261718119
+    },
+    "raw/sources/notes/20260628T154805--qa-ETF交易五大避坑技巧__qa.md": {
+      "hash": "efd1643da8975a33a41924a9cbf90ff2",
+      "size": 5716,
+      "mtimeMs": 1786261718119
+    },
+    "raw/sources/notes/20260628T154808--qa-总统选举如何影响美股走势__qa.md": {
+      "hash": "f22ec1cfd14bf82a1e33fb9d1965c2c3",
+      "size": 4809,
+      "mtimeMs": 1786261718120
+    },
+    "raw/sources/notes/20260628T154810--qa-晨星四只权益基金推荐__qa.md": {
+      "hash": "5b072174bdd1815638de4b9db47f38d5",
+      "size": 5131,
+      "mtimeMs": 1786261718120
+    },
+    "raw/sources/notes/20260628T154821--qa-基金零费率价格战真相__qa.md": {
+      "hash": "9b38a5edefc3a1fb458ca16f89816c1a",
+      "size": 4889,
+      "mtimeMs": 1786261718120
+    },
+    "raw/sources/notes/20260628T154838--qa-2024年AI投资机遇__qa.md": {
+      "hash": "5127188d7fa92f6b903fae320b580a79",
+      "size": 4372,
+      "mtimeMs": 1786261718120
+    },
+    "raw/sources/notes/20260628T154848--qa-目标风险基金策略差异__qa.md": {
+      "hash": "b584885ca5044b108152ddeb02dc5a58",
+      "size": 6140,
+      "mtimeMs": 1786261718120
+    },
+    "raw/sources/notes/20260628T154856--qa-大类资产预期回报收窄__qa.md": {
+      "hash": "37d273cd69f1018d704ded55d1e27650",
+      "size": 6190,
+      "mtimeMs": 1786261718120
+    },
+    "raw/sources/notes/20260628T154908--qa-黄金投资渠道与长期配置逻辑__qa.md": {
+      "hash": "57bed18f886c171e212e0f935ec3432f",
+      "size": 5498,
+      "mtimeMs": 1786261718121
+    },
+    "raw/sources/notes/20260628T154909--qa-主动基金能不能跑赢被动__qa.md": {
+      "hash": "4755f3afda2b0b05c7bdbe9ed7dd3a39",
+      "size": 5684,
+      "mtimeMs": 1786261718121
+    },
+    "raw/sources/notes/20260628T154917--qa-美股高位站丝走钢丝怎么配__qa.md": {
+      "hash": "701f053ff6fbf5f9080973284e6f539c",
+      "size": 6136,
+      "mtimeMs": 1786261718121
+    },
+    "raw/sources/notes/20260628T154932--qa-芒格投资智慧六讲__qa.md": {
+      "hash": "c07be7e19bbac9ffa8ba3cd88875cba1",
+      "size": 4236,
+      "mtimeMs": 1786261718121
+    },
+    "raw/sources/notes/20260628T154955--qa-选QDII基金注意什么__qa.md": {
+      "hash": "a680c50c890086621576f59d66ac8919",
+      "size": 5161,
+      "mtimeMs": 1786261718121
+    },
+    "raw/sources/notes/20260628T155019--qa-美股十年跑赢所有预期预测__qa.md": {
+      "hash": "66c9c884c568e99f9603f8348b2957b7",
+      "size": 4616,
+      "mtimeMs": 1786261718122
+    },
+    "raw/sources/notes/20260628T155031--qa-芒格如何影响晨星__qa.md": {
+      "hash": "d769da54ad82cd146fcac877cf5b8c1c",
+      "size": 3766,
+      "mtimeMs": 1786261718122
+    },
+    "raw/sources/notes/20260628T155041--qa-金价历史新高黄金牛能走多远__qa.md": {
+      "hash": "cde7961000cdcaaa601598c03244bc92",
+      "size": 6450,
+      "mtimeMs": 1786261718122
+    },
+    "raw/sources/notes/20260628T155119--qa-基金经理再就业新规__qa.md": {
+      "hash": "342437541fed89deb783cab8c23cccf2",
+      "size": 3596,
+      "mtimeMs": 1786261718122
+    },
+    "raw/sources/notes/20260628T155128--qa-投顾的核心是投还是顾__qa.md": {
+      "hash": "60548da6e165a943d8d90927fcc2eabe",
+      "size": 4761,
+      "mtimeMs": 1786261718122
+    },
+    "raw/sources/notes/20260628T155212--qa-北交所这泼天的富贵__qa.md": {
+      "hash": "b3280a6fd57bb81afcb7bc1ae8be7fca",
+      "size": 3928,
+      "mtimeMs": 1786261718122
+    },
+    "raw/sources/notes/20260628T155246--qa-巴菲特错过微软为何还是股神__qa.md": {
+      "hash": "02e2ea24ed912bbdfa14894618736acf",
+      "size": 4705,
+      "mtimeMs": 1786261718123
+    },
+    "raw/sources/notes/20260628T155304--qa-人民币反攻还是假摔__qa.md": {
+      "hash": "f39d083880efe70167a0a0421c3587aa",
+      "size": 3825,
+      "mtimeMs": 1786261718123
+    },
+    "raw/sources/notes/20260628T155354--qa-外资基金A股打折进货__qa.md": {
+      "hash": "5b5be4f234e72412b07c5b40d808a976",
+      "size": 3643,
+      "mtimeMs": 1786261718123
+    },
+    "raw/sources/notes/20260628T155448--qa-万亿特别国债大利好__qa.md": {
+      "hash": "f84c2959ad575a47a27bb2b1ad65152c",
+      "size": 3834,
+      "mtimeMs": 1786261718123
+    },
+    "raw/sources/notes/20260628T155540--qa-3000点保卫战拔网线__qa.md": {
+      "hash": "20e6a4d8f3a58b90d63655e99cbda50b",
+      "size": 3621,
+      "mtimeMs": 1786261718123
+    },
+    "raw/sources/notes/20260628T155634--qa-电动车行业十年趋势__qa.md": {
+      "hash": "d3a797fd0eeda6a50f8c42debf03648b",
+      "size": 3479,
+      "mtimeMs": 1786261718123
+    },
+    "raw/sources/notes/20260628T155731--qa-美股为何能持续领跑__qa.md": {
+      "hash": "a9690a869fdcaeb4e4097eeba83fa781",
+      "size": 4066,
+      "mtimeMs": 1786261718124
+    },
+    "raw/sources/notes/20260628T155829--qa-买方投顾解决基民不赚钱__qa.md": {
+      "hash": "e4cc3da774de4571f6f610fa4944978b",
+      "size": 4226,
+      "mtimeMs": 1786261718124
+    },
+    "raw/sources/notes/20260628T155922--qa-价值和平衡风格基金领跑__qa.md": {
+      "hash": "b0765bf8da399ee84952d1838bda8e32",
+      "size": 4550,
+      "mtimeMs": 1786261718124
+    },
+    "raw/sources/notes/20260628T160027--qa-基金信披防止洗绿__qa.md": {
+      "hash": "01f8d1aebe4008d53d3136061dd3035f",
+      "size": 4330,
+      "mtimeMs": 1786261718124
+    },
+    "raw/sources/notes/20260628T160126--qa-主动基金vs被动基金__qa.md": {
+      "hash": "5a0c7d1266ed71ceb52fce452d13fd85",
+      "size": 4347,
+      "mtimeMs": 1786261718124
+    },
+    "raw/sources/notes/20260628T160233--qa-外资基金公司中国布局__qa.md": {
+      "hash": "3394e4dd4150bd24b32c14a5c0eb9e9c",
+      "size": 4282,
+      "mtimeMs": 1786261718124
+    },
+    "raw/sources/notes/20260628T175358--拆书-晨星基金投资64讲__book.md": {
+      "hash": "a8f37c4aa357ce070fb7792a3f0d58b8",
+      "size": 6187,
+      "mtimeMs": 1786261718125
+    },
+    "raw/sources/notes/20260628T210958--qa-晨星基民不赚钱__qa.md": {
+      "hash": "41b46ddcaa91cb98ff79827aa72de475",
+      "size": 6558,
+      "mtimeMs": 1786261718125
+    },
+    "raw/sources/notes/20260628T211718--拆书-ETF投资18讲__book.md": {
+      "hash": "743ddd6b28a848496d62a4f4d95326fe",
+      "size": 5759,
+      "mtimeMs": 1786261718125
+    },
+    "raw/sources/notes/20260628T222333--拆书-资产配置43讲__book.md": {
+      "hash": "96df42e2dd20875838ef1f1f08be68c9",
+      "size": 6501,
+      "mtimeMs": 1786261718125
+    },
+    "raw/sources/notes/20260705T165047--拆书-如何快速了解一个行业__book.md": {
+      "hash": "2ed3d12b3a5057a055de7c84debf4bc4",
+      "size": 8071,
+      "mtimeMs": 1786261718125
+    },
+    "raw/sources/notes/20260705T170125--伴读-如何快速了解一个行业__reading.md": {
+      "hash": "a07df8b5b0dcfc0da872b5a661a815c0",
+      "size": 97105,
+      "mtimeMs": 1786261718126
+    },
+    "raw/sources/notes/20260712153000--深度研究-尼康z30摄影_deep-learn.md": {
+      "hash": "72d8e3f4b6493abffd1282e15b660f9c",
+      "size": 29537,
+      "mtimeMs": 1786261718126
+    },
+    "raw/sources/notes/20260712153000==z--行业分析-instant-retail.md": {
+      "hash": "6a684290381d876fb7b180c965de2046",
+      "size": 35048,
+      "mtimeMs": 1786261718127
+    },
+    "raw/sources/notes/20260712154500--深度研究-曝光三要素_deep-learn.md": {
+      "hash": "5642675ece16187fc1311d2e00de378d",
+      "size": 15314,
+      "mtimeMs": 1786261718127
+    },
+    "raw/sources/notes/20260712T083211--qa-行业研究的系统方法论__qa.md": {
+      "hash": "1cfef52c2689d2ab1d960084405bbee6",
+      "size": 10484,
+      "mtimeMs": 1786261718127
+    },
+    "raw/sources/notes/20260712T084715--拆书-新摄影笔记__book.md": {
+      "hash": "4008182e3ab12de6c0df53be474d3a48",
+      "size": 6103,
+      "mtimeMs": 1786261718128
+    },
+    "raw/sources/notes/20260712T085155--qa-摄影减法论__qa.md": {
+      "hash": "6b585cb0a146b1a148f99d5b27101dd5",
+      "size": 7572,
+      "mtimeMs": 1786261718128
+    },
+    "raw/sources/notes/20260712T092514--学习计划-AI_Agent__plan.md": {
+      "hash": "7212b4e8828a73506f5eb7362b875ef8",
+      "size": 10042,
+      "mtimeMs": 1786261718128
+    },
+    "raw/sources/notes/20260712T093000--学习计划-AI_Agent深度认知__plan.md": {
+      "hash": "ffcae39538d69f5e7433c8d5ef1327db",
+      "size": 12570,
+      "mtimeMs": 1786261718128
+    },
+    "raw/sources/notes/20260712T105516--拆书-如何快速了解一个行业__book.md": {
+      "hash": "a7cba35f8e665aaf44150fc205a00e7c",
+      "size": 6324,
+      "mtimeMs": 1786261718128
+    },
+    "raw/sources/notes/20260712T112514--行业分析-即时零售_industry.md": {
+      "hash": "954b14f3bc21b07f2d0cccc89f244c4a",
+      "size": 18283,
+      "mtimeMs": 1786261718129
+    },
+    "raw/sources/notes/20260712T151322--拆书-尼康z30说明书__book.md": {
+      "hash": "16bf218b6a770dee078f1644023aacc9",
+      "size": 6203,
+      "mtimeMs": 1786261718129
+    },
+    "raw/sources/notes/20260712T163000--行业分析-红利基金_industry.md": {
+      "hash": "93eec017da3e03fc4b751f8e1e9c42f2",
+      "size": 27032,
+      "mtimeMs": 1786261718129
+    },
+    "raw/sources/notes/20260718T202247--拆书-摄影入门课__book.md": {
+      "hash": "cf90bc8a88aeece8644916f3fb4fa333",
+      "size": 7315,
+      "mtimeMs": 1786261718129
+    },
+    "raw/sources/notes/20260719T183643--伴读-光圈与景深__reading.md": {
+      "hash": "f1fc458970bc4c53240a07670f6cd102",
+      "size": 22655,
+      "mtimeMs": 1786261718130
+    },
+    "raw/sources/notes/20260719T221117--伴读-镜头焦段__reading.md": {
+      "hash": "546efc6303b762dab64888c3d96de1a0",
+      "size": 19532,
+      "mtimeMs": 1786261718130
+    },
+    "raw/sources/notes/20260726T094137--伴读-快门__reading.md": {
+      "hash": "b481e21ce8bf2446444599bdb73aaa20",
+      "size": 20848,
+      "mtimeMs": 1786261718130
+    },
+    "raw/sources/notes/20260726T110304--伴读-感光度ISO__reading.md": {
+      "hash": "e3093601c28ba9194c666d29424c3096",
+      "size": 14841,
+      "mtimeMs": 1786261718131
+    },
+    "raw/sources/notes/20260726T113028--伴读-测光__reading.md": {
+      "hash": "0e6b15604d954c2d3cb1c3eb7ba0edd9",
+      "size": 11888,
+      "mtimeMs": 1786261718131
+    },
+    "raw/sources/notes/20260726T114503--伴读-相机选择__reading.md": {
+      "hash": "df3496fb36b7253848150f7e4ccf5d12",
+      "size": 6818,
+      "mtimeMs": 1786261718131
+    },
+    "raw/sources/notes/20260726T115109--伴读-好照片的构成因素__reading.md": {
+      "hash": "4cdc042300626e4ee5e7cef55c16a002",
+      "size": 11114,
+      "mtimeMs": 1786261718131
+    },
+    "raw/sources/notes/20260726T120000--伴读-曝光三角四课总结__reading.md": {
+      "hash": "cd317dbef35600c923405dc809df273a",
+      "size": 5552,
+      "mtimeMs": 1786261718131
+    },
+    "raw/sources/notes/20260726T150909--伴读-光__reading.md": {
+      "hash": "b5067ded79dde1c1dd9e6bba7e4ae45b",
+      "size": 9918,
+      "mtimeMs": 1786261718132
+    },
+    "raw/sources/notes/20260726T152251--伴读-静物__reading.md": {
+      "hash": "5c5b66d5c4e5552fe03c91f90e03e585",
+      "size": 6443,
+      "mtimeMs": 1786261718132
+    },
+    "raw/sources/notes/20260726T152800--伴读-人物__reading.md": {
+      "hash": "d9df77cea7a2367cc48bd997cea3685a",
+      "size": 7427,
+      "mtimeMs": 1786261718132
+    },
+    "raw/sources/notes/20260726T153005--伴读-风光__reading.md": {
+      "hash": "bfd9d21bdfe27bd10107d500e9eb6b06",
+      "size": 7604,
+      "mtimeMs": 1786261718133
+    },
+    "raw/sources/notes/20260726T153132--伴读-街拍__reading.md": {
+      "hash": "72ea329216a28005beedef432f370e84",
+      "size": 7666,
+      "mtimeMs": 1786261718133
+    },
+    "raw/sources/notes/20260726T154625--伴读-摄影入门课总复盘__reading.md": {
+      "hash": "ac0d95b1c6f6993a492cd6f3ce17891e",
+      "size": 8309,
+      "mtimeMs": 1786261718133
+    },
+    "raw/sources/notes/20260726T162358--摄影水平提升计划__plan.md": {
+      "hash": "6f6457488d2ad3cb7a3eed7a780dba34",
+      "size": 4360,
+      "mtimeMs": 1786261718133
+    },
+    "raw/sources/notes/20260726T173048--伴读-尼康z30深度学习计划__reading.md": {
+      "hash": "86ac5de545bf09285b34460ca557dfdf",
+      "size": 7823,
+      "mtimeMs": 1786261718134
+    },
+    "raw/sources/notes/20260809T103518--拆书-深入理解AI-Agent__book.md": {
+      "hash": "323a2f9f086428fc14d2f6a96545d905",
+      "size": 9027,
+      "mtimeMs": 1786261718134
+    },
+    "raw/sources/notes/20260809T104538--伴读-二号首长__reading.md": {
+      "hash": "4e75fdd40d2dc14a9fcfb6172d67fcd4",
+      "size": 4527,
+      "mtimeMs": 1786261718134
+    },
+    "raw/sources/notes/20260809T110326--qa-权力平衡术__qa.md": {
+      "hash": "aa99b103a30d5f1709361c74b96b0ede",
+      "size": 5083,
+      "mtimeMs": 1786261718134
+    },
+    "raw/sources/notes/20260809T111042--伴读-二号首长__reading.md": {
+      "hash": "889595b4f968c44e0b858c6736beb07f",
+      "size": 24477,
+      "mtimeMs": 1786261718135
+    },
+    "raw/sources/notes/20260809T111443--qa-权力微观语法__qa.md": {
+      "hash": "5cf7872d4f4c511c5bf695be4570470f",
+      "size": 6603,
+      "mtimeMs": 1786261718135
+    },
+    "raw/sources/notes/20260809T113429--拆书-二号首长__book.md": {
+      "hash": "f7015c1be544c61438a0c403647e60f7",
+      "size": 4156,
+      "mtimeMs": 1786261718135
+    },
+    "raw/sources/notes/20260809T115209--拆书-置身事内：中国政府与经济发展__book.md": {
+      "hash": "ad9272a73284c71ed7d0e47315e0e329",
+      "size": 4533,
+      "mtimeMs": 1786261718135
+    },
+    "raw/sources/notes/20260809T144529--深度研究-晨星投资学习_deep-learn.md": {
+      "hash": "197fe21ec59a22230a4d10dc42f8ad4d",
+      "size": 19735,
+      "mtimeMs": 1786261718136
+    },
+    "raw/sources/notes/20260809T144533--拆书-反倦怠能量站__book.md": {
+      "hash": "ae98761642193fa5a9f556174562d082",
+      "size": 6813,
+      "mtimeMs": 1786261718136
+    },
+    "raw/sources/notes/20260809T145748--深度研究-晨星七大主题投资_deep-learn.md": {
+      "hash": "c7de8fe86bae0028664c27f4e6d764b4",
+      "size": 20581,
+      "mtimeMs": 1786261718136
+    },
+    "raw/sources/notes/20260809T151139--伴读-阶段零三篇主轴__reading.md": {
+      "hash": "8092fbcba7244ef1cdad6d3d392a3bd7",
+      "size": 10741,
+      "mtimeMs": 1786261718137
+    },
+    "raw/sources/notes/20260809T153304--拆书-凤凰架构：构建可靠的大型分布式系统__book.md": {
+      "hash": "82842021dc77f7415c85248b5fa396c8",
+      "size": 8000,
+      "mtimeMs": 1786261718137
+    },
+    "raw/sources/notes/20260809T154709--深度研究-MySQL实战45讲_deep-learn.md": {
+      "hash": "4232da3fdeff419db04b179b3d8463e6",
+      "size": 22666,
+      "mtimeMs": 1786261780208
+    },
+    "raw/sources/notes/20260809T155341--深度研究-AI-Agent架构设计_deep-learn.md": {
+      "hash": "16adce48261f436dbb5657eba78b3258",
+      "size": 19039,
+      "mtimeMs": 1786264084683
+    },
+    "raw/sources/notes/20260809T155731--深度研究-凤凰架构：构建可靠的大型分布式系统_deep-learn.md": {
+      "hash": "fd3eef32f7c81b1631af9b805e384e44",
+      "size": 18059,
+      "mtimeMs": 1786262395089
+    },
+    "raw/sources/notes/20260809T160003--深度研究-java并发编程_deep-learn.md": {
+      "hash": "3c0f1ce09b322b12027acd31e798315c",
+      "size": 17793,
+      "mtimeMs": 1786262528406
+    },
+    "raw/sources/notes/20260809T160739--深度研究-设计模式_deep-learn.md": {
+      "hash": "22a7bf5d941390806f7dd665ab737865",
+      "size": 20278,
+      "mtimeMs": 1786262987185
+    },
+    "raw/sources/notes/20260809T160753--深度研究-左耳听风_deep-learn.md": {
+      "hash": "e9b56ecb707d709e6f466fe5ee544d19",
+      "size": 17063,
+      "mtimeMs": 1786262976172
+    },
+    "raw/sources/notes/20260809T161139--深度研究-数据结构与算法之美_deep-learn.md": {
+      "hash": "e235fe5f9ed9ee92f4920458cb25ca55",
+      "size": 19153,
+      "mtimeMs": 1786263223979
+    },
+    "raw/sources/notes/20260809T162652--拆书-楚汉双雄__book.md": {
+      "hash": "e98d9efaa14fa3474991f9522e941144",
+      "size": 6409,
+      "mtimeMs": 1786264043982
+    },
+    "raw/sources/notes/20260809T162758--拆书-大唐气象__book.md": {
+      "hash": "f4d7ef6ccde27430b611eecaa1e2d6b5",
+      "size": 7038,
+      "mtimeMs": 1786264111788
+    },
+    "raw/sources/notes/20260809T162904--拆书-两汉风云__book.md": {
+      "hash": "3fdac0d340d2e94519d1b113fa05381a",
+      "size": 6056,
+      "mtimeMs": 1786264176097
+    },
+    "raw/sources/notes/20260809T163000--拆书-南北归一__book.md": {
+      "hash": "6d6f8dde16bf1947404af8882ac636b6",
+      "size": 5349,
+      "mtimeMs": 1786264228192
+    },
+    "raw/sources/notes/20260809T163236--拆书-三国争霸__book.md": {
+      "hash": "5f1eca2ca8ec831fb137096b47f8f9dc",
+      "size": 4920,
+      "mtimeMs": 1786264382240
+    },
+    "raw/sources/notes/20260809T163326--拆书-西游成事智慧__book.md": {
+      "hash": "181be4cfeaddd7f5f72d92e414fe798b",
+      "size": 4798,
+      "mtimeMs": 1786264430283
+    },
+    "raw/sources/notes/20260809T163426--拆书-AI-Agents-in-Depth__book.md": {
+      "hash": "f67eeab0577e7c8a842498569e118862",
+      "size": 6472,
+      "mtimeMs": 1786264495086
+    },
+    "raw/sources/notes/20260809T163911--伴读-AI-Agent实战引言__reading.md": {
+      "hash": "f93ae76a1ca717132f6d3162a5b3c36f",
+      "size": 7502,
+      "mtimeMs": 1786264791791
+    },
+    "raw/sources/notes/20260809T172516--伴读-AI-Agent实战第一章__reading.md": {
+      "hash": "2d35d0a417b8450156049dc7f9224eb0",
+      "size": 8842,
+      "mtimeMs": 1786267550988
+    },
+    "raw/sources/notes/20260815T102033--拆书-二号首长__book.md": {
+      "hash": "0b05da1db368b75b9955717ddf9336b3",
+      "size": 6084,
+      "mtimeMs": 1786760450814
+    },
+    "raw/sources/notes/20260815T102716--拆书-置身事内__book.md": {
+      "hash": "f09081e658ed7545e9d9b9f58324fcb4",
+      "size": 7009,
+      "mtimeMs": 1786760856148
+    },
+    "raw/sources/notes/20260815T113349--伴读-用户记忆和知识库__reading.md": {
+      "hash": "bb3f81be85917abc55b2f9b50c5e8101",
+      "size": 10540,
+      "mtimeMs": 1786764851952
+    },
+    "raw/sources/notes/标签索引.md": {
+      "hash": "57c2aabe0494d84e56cda8fba8692ca5",
+      "size": 184959,
+      "mtimeMs": 1786261765682
+    },
+    "raw/sources/notes/端午节摄影：在龙舟与艾草之间，拍出中国式的夏天.md": {
+      "hash": "37d9b91c7249f4cb6f9af87712a8e5be",
+      "size": 4487,
+      "mtimeMs": 1786261718137
+    },
+    "schema.md": {
+      "hash": "74be8ad21cdd66495b0e39508ee783b9",
+      "size": 2078,
+      "mtimeMs": 1786786662789
+    },
+    "wiki/comparisons/三种全天候策略对比.md": {
+      "hash": "49a3f1a222791728d43f85983e240a25",
+      "size": 3439,
+      "mtimeMs": 1786787605468
+    },
+    "wiki/concepts/主题基金存活率模型.md": {
+      "hash": "9571b142d026889e2aacb2e2ae55694f",
+      "size": 1395,
+      "mtimeMs": 1786787528299
+    },
+    "wiki/concepts/全天候策略.md": {
+      "hash": "9d00ca7474086d3fa039ae8d8a19da79",
+      "size": 2598,
+      "mtimeMs": 1786787605465
+    },
+    "wiki/concepts/卫星持仓策略.md": {
+      "hash": "29a64b5fdf4502d5503ed840dafdf231",
+      "size": 1628,
+      "mtimeMs": 1786787528312
+    },
+    "wiki/concepts/塔木德组合.md": {
+      "hash": "7546ccbef792215f48c3da46cefebf7a",
+      "size": 1328,
+      "mtimeMs": 1786787605467
+    },
+    "wiki/concepts/最大回撤.md": {
+      "hash": "7efd4890b963255175b65ec391917337",
+      "size": 1226,
+      "mtimeMs": 1786787605467
+    },
+    "wiki/concepts/永久组合.md": {
+      "hash": "144b2afd6d6f6eecc6243707a378097c",
+      "size": 1650,
+      "mtimeMs": 1786787605466
+    },
+    "wiki/concepts/经济四象限模型.md": {
+      "hash": "32c3d5ea2b79ddfa37988b3529d58511",
+      "size": 1271,
+      "mtimeMs": 1786787605465
+    },
+    "wiki/entities/主题基金.md": {
+      "hash": "53e20ab2643e30ba63ee17c272d2b7d3",
+      "size": 1510,
+      "mtimeMs": 1786787528280
+    },
+    "wiki/entities/哈里布朗-harry-browne.md": {
+      "hash": "23b7e1e4cc11bbfbd296c70a024624fe",
+      "size": 1488,
+      "mtimeMs": 1786787605463
+    },
+    "wiki/entities/晨星中国-morningstarcn.md": {
+      "hash": "527d11cd88dac372c3715902f6b05d5f",
+      "size": 591,
+      "mtimeMs": 1786787605464
+    },
+    "wiki/entities/瑞达里欧-ray-dalio.md": {
+      "hash": "e28eea58c3e2e2cf75f5ab54008f6c5f",
+      "size": 1834,
+      "mtimeMs": 1786787605462
+    },
+    "wiki/index.md": {
+      "hash": "c3c406a1800c834788756a4f33d9b9fd",
+      "size": 1190,
+      "mtimeMs": 1786787685387
+    },
+    "wiki/log.md": {
+      "hash": "e83cc7b4c204bb60ca2b9bf9b821ec69",
+      "size": 1991,
+      "mtimeMs": 1786787685388
+    },
+    "wiki/overview.md": {
+      "hash": "3a6b8de12b70516be93fe9f2f947b45c",
+      "size": 210,
+      "mtimeMs": 1786786662783
+    },
+    "wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md": {
+      "hash": "686168baee08e5405bc196ffb80e3a32",
+      "size": 3423,
+      "mtimeMs": 1786787605454
+    },
+    "wiki/sources/5-notes--30-20240627t090132-qa-基金体检找回财富qa--187f715.md": {
+      "hash": "1840265355d92829736db03f736a61bc",
+      "size": 11766,
+      "mtimeMs": 1786787685385
+    },
+    "wiki/sources/5-notes--31-20240627t090132-qa-主题基金不等于风口qa--1og2i1m.md": {
+      "hash": "170cec17f65c2efc191f6e9f68decfbb",
+      "size": 4043,
+      "mtimeMs": 1786787528269
+    }
+  }
+}

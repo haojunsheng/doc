@@ -1,0 +1,43 @@
+{
+  "entries": {
+    "notes/20240627T090132--qa-主题基金不等于风口__qa.md": {
+      "hash": "c4c7d3b5545e69308f34838baf28997753a752afa7cb3fa87670275be4af59bb",
+      "timestamp": 1786787528483,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20240627t090132-qa-主题基金不等于风口qa--1og2i1m.md",
+        "wiki/entities/主题基金.md",
+        "wiki/concepts/主题基金存活率模型.md",
+        "wiki/concepts/卫星持仓策略.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20240627T090132--qa-全天候策略怎么选__qa.md": {
+      "hash": "865bfc2b7b0c51e53fdf61b0a9809b9829b3684d862e758db4ae318834ad99ec",
+      "timestamp": 1786787605480,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md",
+        "wiki/entities/瑞达里欧-ray-dalio.md",
+        "wiki/entities/哈里布朗-harry-browne.md",
+        "wiki/entities/晨星中国-morningstarcn.md",
+        "wiki/concepts/全天候策略.md",
+        "wiki/concepts/经济四象限模型.md",
+        "wiki/concepts/永久组合.md",
+        "wiki/concepts/塔木德组合.md",
+        "wiki/concepts/最大回撤.md",
+        "wiki/comparisons/三种全天候策略对比.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20240627T090132--qa-基金体检找回财富__qa.md": {
+      "hash": "f6493950b76461f52d780bf9496349c9cc4212857995a741ad2cd42768ad6a7c",
+      "timestamp": 1786787685392,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20240627t090132-qa-基金体检找回财富qa--187f715.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    }
+  }
+}
