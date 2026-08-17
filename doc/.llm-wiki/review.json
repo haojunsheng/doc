@@ -265,5 +265,4656 @@
     "id": "review-69b86966",
     "resolved": false,
     "createdAt": 1786787685390
+  },
+  {
+    "type": "missing-page",
+    "title": "职业影响投资配置 QA 中的具体人物",
+    "description": "分析中提到\"阎志鹏教授\"作为案例人物，但未单独建立实体页面。可考虑补充，也可留在 source 页面中叙述即可。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-职业影响投资配置__qa.md",
+    "affectedPages": [
+      "SEARCH: 阎志鹏 教授 人力资本 资产配置 | Yale professor human capital asset allocation"
+    ],
+    "searchQueries": [
+      "阎志鹏 教授 人力资本 资产配置",
+      "Yale professor human capital asset allocation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-93626ef3",
+    "resolved": false,
+    "createdAt": 1786888506435
+  },
+  {
+    "type": "suggestion",
+    "title": "探索 Ibbotson 原始研究文献",
+    "description": "Ibbotson 是晨星旗下机构，其人力资本框架可能有更原始的学术论文或书籍来源。补充原始文献可增强 wiki 的学术深度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-职业影响投资配置__qa.md",
+    "affectedPages": [
+      "SEARCH: Ibbotson human capital asset allocation research paper | Ibbotson Assets and Liabilities Management human capital"
+    ],
+    "searchQueries": [
+      "Ibbotson human capital asset allocation research paper",
+      "Ibbotson Assets and Liabilities Management human capital"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a69487dc",
+    "resolved": false,
+    "createdAt": 1786888506435
+  },
+  {
+    "type": "suggestion",
+    "title": "关注互联网大厂员工案例的后续发展",
+    "description": "文章提到互联网大厂员工的三重打击案例，随着近年互联网行业波动，该案例的实际影响和数据值得追踪更新。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-职业影响投资配置__qa.md",
+    "affectedPages": [
+      "SEARCH: 互联网大厂员工 资产缩水 期权 2023 2024 | 中概股 互联网从业者 财富损失"
+    ],
+    "searchQueries": [
+      "互联网大厂员工 资产缩水 期权 2023 2024",
+      "中概股 互联网从业者 财富损失"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6a548d0f",
+    "resolved": false,
+    "createdAt": 1786888506435
+  },
+  {
+    "type": "suggestion",
+    "title": "人力资本行业判断的操作化框架",
+    "description": "源文档明确提到\"行业判断比职业判断更重要\"，但未展开如何操作化。若wiki中建立\"如何判断行业风险\"的简要指南（如行业周期位置、劳动力市场数据、政策敏感度等维度），将大幅提升该框架的实用性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-职业影响投资配置__qa.md",
+    "affectedPages": [
+      "wiki/concepts/人力资本-金融资产反向配置原则.md",
+      "wiki/concepts/人力资本.md"
+    ],
+    "searchQueries": [
+      "行业风险判断 投资配置 劳动力市场周期",
+      "industry risk assessment asset allocation labor market"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-38e331ca",
+    "resolved": false,
+    "createdAt": 1786888506435
+  },
+  {
+    "type": "suggestion",
+    "title": "Ibbotson 人力资本框架原始文献溯源",
+    "description": "Ibbotson 页面目前仅基于晨星中国文章二次转述，缺少对原始研究文献（如 Ibbotson 报告、学术论文或书籍章节）的引用。补充原始来源可提升 wiki 的学术可信度，并可能发现更细致的量化方法。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-职业影响投资配置__qa.md",
+    "affectedPages": [
+      "wiki/entities/ibbotson.md"
+    ],
+    "searchQueries": [
+      "Ibbotson human capital present value asset allocation original paper report",
+      "Morningstar Ibbotson human capital liability-driven investing"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-57efb600",
+    "resolved": false,
+    "createdAt": 1786888506435
+  },
+  {
+    "type": "contradiction",
+    "title": "人力资本折现率的选择难题",
+    "description": "源文档指出\"难以精确量化\"但同时也给出了\"教授=隐性债券\"的分类结论——这两者之间存在隐含张力：如果无法量化，反向配置比例如何确定？是否应新建页面或在此概念页明确标注这一方法论局限？",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-职业影响投资配置__qa.md",
+    "affectedPages": [
+      "wiki/concepts/人力资本.md",
+      "wiki/concepts/人力资本-金融资产反向配置原则.md"
+    ],
+    "searchQueries": [
+      "human capital discount rate asset allocation quantitative estimate",
+      "人力资本折现率 资产配置 量化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fdddda5a",
+    "resolved": false,
+    "createdAt": 1786888506436
+  },
+  {
+    "type": "missing-page",
+    "title": "年龄-债券法则与人力资本反向配置的协同决策",
+    "description": "分析发现\"年龄-债券经验法则\"与[[concepts/人力资本-金融资产反向配置原则]]在实际应用中可能产生冲突（如30岁互联网工程师两者结论相反），建议创建一个 query 页面追踪这一开放问题。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-资产配置从0到1__qa.md",
+    "affectedPages": [
+      "wiki/queries/年龄-债券法则与人力资本反向配置如何协同.md"
+    ],
+    "searchQueries": [
+      "年龄 债券 资产配置 经验法则 局限性",
+      "人力资本 金融资产 反向配置 投资决策",
+      "age bond rule vs human capital allocation conflict"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2349a5c2",
+    "resolved": false,
+    "createdAt": 1786888573787
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星中国资产配置系列补全",
+    "description": "晨星中国的资产配置科普系列共四篇：职业影响→基金体检→全天候→从0到1。建议在[[entities/晨星中国-morningstarcn]]中明确标注这一系列关系，并建立系列内双向链接。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-资产配置从0到1__qa.md",
+    "affectedPages": [
+      "wiki/entities/晨星中国-morningstarcn.md"
+    ],
+    "searchQueries": [
+      "晨星中国 资产配置 系列文章 morningstar.cn allocation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-77d6f6db",
+    "resolved": false,
+    "createdAt": 1786888573787
+  },
+  {
+    "type": "missing-page",
+    "title": "日本长期低利率案例",
+    "description": "源文章中提及日本长期低利率环境可作为超长期国债\"锁定收益\"成功的情景参考，但未展开分析。当前 wiki 缺少对应页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-超长期国债值不值__qa.md",
+    "affectedPages": [
+      "SEARCH: 日本长期国债收益率 1990s 2020s historical data | Japan low interest rate environment bond yields history"
+    ],
+    "searchQueries": [
+      "日本长期国债收益率 1990s 2020s historical data",
+      "Japan low interest rate environment bond yields history"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fb4726b1",
+    "resolved": false,
+    "createdAt": 1786888683084
+  },
+  {
+    "type": "suggestion",
+    "title": "中国超长期国债历史久期与利率波动数据",
+    "description": "源文章提及\"50年期可能超过投资生涯\"的判断，但未提供实证数据。建议搜集中国超长期国债历史久期与利率波动数据以验证该判断。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-超长期国债值不值__qa.md",
+    "affectedPages": [
+      "SEARCH: 中国超长期特别国债 20年期 30年期 50年期 利率历史数据 | 中国国债收益率曲线 历史波动 2024"
+    ],
+    "searchQueries": [
+      "中国超长期特别国债 20年期 30年期 50年期 利率历史数据",
+      "中国国债收益率曲线 历史波动 2024"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ba1bd9e3",
+    "resolved": false,
+    "createdAt": 1786888683084
+  },
+  {
+    "type": "missing-page",
+    "title": "日本长期低利率环境案例",
+    "description": "源文章提及日本长期低利率环境可作为超长期国债\"锁定收益\"成功的情景参考，但未展开分析。当前 wiki 缺少对应页面，补充此案例有助于理解利率下行周期中超长期国债的实际回报表现。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-超长期国债值不值__qa.md",
+    "affectedPages": [
+      "SEARCH: 日本长期国债收益率历史 1990-2024 利率下行周期 | Japan government bond yield history 30 year 50 year"
+    ],
+    "searchQueries": [
+      "日本长期国债收益率历史 1990-2024 利率下行周期",
+      "Japan government bond yield history 30 year 50 year"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bc56e19f",
+    "resolved": false,
+    "createdAt": 1786888683084
+  },
+  {
+    "type": "suggestion",
+    "title": "中国超长期国债历史久期与利率波动实证数据",
+    "description": "源文章判断\"50年期可能超过投资生涯\"缺乏实证支撑。建议补充中国超长期国债历史久期、利率波动及回撤数据，以验证该判断并提供普通投资者的量化参考。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-超长期国债值不值__qa.md",
+    "affectedPages": [
+      "wiki/concepts/国债利率风险.md",
+      "wiki/concepts/年龄-债券经验法则.md"
+    ],
+    "searchQueries": [
+      "中国超长期特别国债 20年 30年 50年 久期 利率历史数据",
+      "中国国债收益率曲线 波动率 回撤 历史回测"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-97ce0f0a",
+    "resolved": false,
+    "createdAt": 1786888683084
+  },
+  {
+    "type": "missing-page",
+    "title": "股票持有期-亏损概率规律",
+    "description": "本文引用的关键数据（持有1年亏50%/5年亏25%/10年亏11%）是支撑\"时间框架原则\"的核心实证依据，但当前仅内嵌在概念页中，未单独建页。该数据有两个重要边界：① 仅覆盖2005-2023年A股市场，需确认是否覆盖过完整牛熊周期；② 若推广至港股/美股需独立验证。单独建页便于后续引用和标注来源时效性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-选基金前先问两件事__qa.md",
+    "affectedPages": [
+      "wiki/concepts/股票持有期-亏损概率规律.md",
+      "wiki/concepts/投资时间框架原则.md"
+    ],
+    "searchQueries": [
+      "中国A股持有期亏损概率 2005 2023 股票持有年限 亏损概率统计",
+      "沪深300持有1年5年10年亏损概率回测",
+      "A股股票持有1年5年10年亏损概率回测数据 2005-2023",
+      "沪深300持有期收益统计 亏损概率 年限",
+      "China A-share holding period return distribution 1 year 5 year 10 year"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b0a76056",
+    "resolved": false,
+    "createdAt": 1786889090309
+  },
+  {
+    "type": "missing-page",
+    "title": "资产配置决定收益的90%——Brinson归因",
+    "description": "文中断言\"资产配置决定90%以上的风险收益特征\"是全文最重要的理论支柱，但未标明来源。该数字极可能源自 Brinson、Friedman & Hood (1991) 的经典研究，但不同版本（Brinson 1986 vs 1991）结论有差异，且后续学者（如 Carlin 2007）对其进行了批判性检验。Wiki 中应明确引用原始文献，否则此关键论断缺乏学术根基。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-选基金前先问两件事__qa.md",
+    "affectedPages": [
+      "wiki/concepts/投资时间框架原则.md"
+    ],
+    "searchQueries": [
+      "Brinson 1991 asset allocation determines 90 percent of returns determinants of pension fund returns",
+      "Brinson Hood Bishop 1986 portfolio performance attribution",
+      "资产配置决定收益比重 Brinson归因 学术争议"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e00c2cdd",
+    "resolved": false,
+    "createdAt": 1786889090309
+  },
+  {
+    "type": "suggestion",
+    "title": "种田核心60%+阈值的来源与量化依据",
+    "description": "\"种田\"核心持仓建议占比60%+是一个经验法则，但 Wiki 中未说明该阈值的来源：是晨星内部研究的经验数据，还是来自传统核心-卫星理论（Core-Satellite by Froot 1999 等）的量化回测？若缺乏依据，读者无法判断何时应偏离这一比例，削弱了框架的可操作性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20240627T090132--qa-选基金前先问两件事__qa.md",
+    "affectedPages": [
+      "wiki/concepts/种田打猎资产配置法.md"
+    ],
+    "searchQueries": [
+      "core satellite portfolio allocation 60% threshold academic research",
+      "核心卫星策略 核心仓位比例 60% 量化依据",
+      "Brinson portfolio attribution core satellite allocation percentage"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0385100c",
+    "resolved": false,
+    "createdAt": 1786889090309
+  },
+  {
+    "type": "suggestion",
+    "title": "腾讯没有梦想文章的溯源与验证",
+    "description": "潘乱2018年写的《腾讯没有梦想》在源文档中被多次引用，是\"CEO认知是第一变量\"论断的核心出处之一。但wiki中没有单独的source页面或entity页面收录这篇文章，仅有散落于各概念的引用。这篇文章本身是中国互联网评论史上的标志性文本，值得单独建立source页面以追溯论证来源，并补充原文的关键引文和上下文。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T105611--拆书-乱翻书__book.md",
+    "affectedPages": [
+      "SEARCH: 腾讯没有梦想 潘乱 2018 原文 | 腾讯没有梦想 马化腾 没有强假设 | 潘乱 腾讯没有梦想 互联网评论"
+    ],
+    "searchQueries": [
+      "腾讯没有梦想 潘乱 2018 原文",
+      "腾讯没有梦想 马化腾 没有强假设",
+      "潘乱 腾讯没有梦想 互联网评论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0ecd217c",
+    "resolved": false,
+    "createdAt": 1786889763767
+  },
+  {
+    "type": "suggestion",
+    "title": "蓝图感论断的实证检验——资源 vs 认知哪个更重要",
+    "description": "源文档的核心论断是\"创始人蓝图感是第一变量，资源/工具/组织都是第二变量\"。但这个单因解释有过度简化之嫌：字节跳动的成功是否也有时机（2012年短视频尚未爆发）、执行效率、资本加持等因素？张一鸣本人是否也在迭代认知而非完全\"十年不变\"？建立一个对比页或补充研究来检验\"蓝图感 vs 其他变量\"的解释力，会让这个概念从\"犀利但不证\"升级为\"可反驳、可检验\"。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T105611--拆书-乱翻书__book.md",
+    "affectedPages": [
+      "wiki/concepts/CEO认知是第一变量.md",
+      "wiki/concepts/原子化思考.md"
+    ],
+    "searchQueries": [
+      "字节跳动成功因素 张一鸣 时机 资本 执行",
+      "腾讯失败 资源 为什么后知后觉 归因分析",
+      "CEO认知结构 公司绩效 实证研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-59f452ed",
+    "resolved": false,
+    "createdAt": 1786889763767
+  },
+  {
+    "type": "suggestion",
+    "title": "社交图谱必然衰减的量化验证",
+    "description": "源文档中\"社交图谱必然衰减\"是关键论据链的一环（支撑单列媒体型优于双列社区型的判断），但这是一个未经数据验证的断言。微信十年的存活是否构成反例？快手的日活用户数与社交关系链强度的数据如何？补充这个概念的实证基础，能让整个\"产品容器即世界观\"框架的论证更扎实。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T105611--拆书-乱翻书__book.md",
+    "affectedPages": [
+      "wiki/concepts/社交图谱vs兴趣图谱.md",
+      "wiki/concepts/单列媒体型vs双列社区型.md"
+    ],
+    "searchQueries": [
+      "社交图谱 衰减 实证 研究",
+      "微信 社交关系 十年留存率 数据",
+      "快手 社交关系链 用户粘性 研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-84acd896",
+    "resolved": false,
+    "createdAt": 1786889763767
+  },
+  {
+    "type": "missing-page",
+    "title": "耿同学",
+    "description": "来源文中提到了\"耿同学\"作为学术打假博主揭开论文造假，是一个值得记录的边缘当事人。如需要可创建实体页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T111241--拆书-财新markdown__book.md",
+    "affectedPages": [
+      "SEARCH: 耿同学 学术打假 论文造假"
+    ],
+    "searchQueries": [
+      "耿同学 学术打假 论文造假"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dfb1ed10",
+    "resolved": false,
+    "createdAt": 1786890014479
+  },
+  {
+    "type": "missing-page",
+    "title": "耿同学（学术打假博主）",
+    "description": "来源提到\"耿同学\"揭开论文造假，作为学术共同体内部监督失灵的边缘当事人被引用。当前无独立实体页，仅出现在六个案例中。如希望wiki保留学术监督机制这个分析维度，可创建实体页或补充到现有相关页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T111241--拆书-财新markdown__book.md",
+    "affectedPages": [
+      "SEARCH: 耿同学 学术打假 论文造假 北大"
+    ],
+    "searchQueries": [
+      "耿同学 学术打假 论文造假 北大"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64d85d7d",
+    "resolved": false,
+    "createdAt": 1786890014479
+  },
+  {
+    "type": "missing-page",
+    "title": "CRS 2.0（境外税务信息交换标准）",
+    "description": "文中将CRS 2.0升级列为六个核心案例之一，涉及跨国税务透明度和境外征税趋严。当前wiki无此概念页，但该案例是理解\"异常信号→制度后果\"框架的重要实证。创建该页可使六个案例不流于空泛引用，也为投资领域的跨境资产配置提供参照。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T111241--拆书-财新markdown__book.md",
+    "affectedPages": [
+      "SEARCH: CRS 2.0 共同申报准则 境外征税 中国 税务信息交换"
+    ],
+    "searchQueries": [
+      "CRS 2.0 共同申报准则 境外征税 中国 税务信息交换"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-61ad74ab",
+    "resolved": false,
+    "createdAt": 1786890014479
+  },
+  {
+    "type": "suggestion",
+    "title": "改错空间假设的可证伪性检验",
+    "description": "[[改错空间假设]]是财新方法论的元前提，但本身尚未被验证——它同时是可证伪的。当前概念页只陈述了\"如果监管沉默则方法论失效\"的抽象张力，缺少历史证据：过去十年财新报道中，有多少篇真正触发了监管响应或制度纠错？建立这个证据链将决定该框架是通用工具还是特定历史时期的产物。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T111241--拆书-财新markdown__book.md",
+    "affectedPages": [
+      "wiki/concepts/改错空间假设.md",
+      "wiki/entities/财新.md"
+    ],
+    "searchQueries": [
+      "财新报道 监管响应 制度纠错 案例 历史回顾 2015-2025"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fd03d6ab",
+    "resolved": false,
+    "createdAt": 1786890014479
+  },
+  {
+    "type": "suggestion",
+    "title": "财新订阅制与长链条付费的商业压力",
+    "description": "文中将\"读者愿意为7000-8500字深度报道付费\"作为商业模式前提，但同时指出这与碎片化消费趋势存在张力。当前wiki未追踪这个前提是否仍在成立：财新付费订阅数近年走势如何？是否存在\"长链条内容\"被短视频/摘要替代的风险？这对评估该分析框架的可持续性很重要。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T111241--拆书-财新markdown__book.md",
+    "affectedPages": [
+      "wiki/entities/财新.md",
+      "wiki/concepts/改错空间假设.md"
+    ],
+    "searchQueries": [
+      "财新网 付费订阅 用户数 2024 2025 商业转型 深度报道"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-223ab759",
+    "resolved": false,
+    "createdAt": 1786890014479
+  },
+  {
+    "type": "missing-page",
+    "title": "基金经理实体页面缺失",
+    "description": "宋倩倩、陈韫慧作为广发添财180天债券A的基金经理，在本产品超额收益来源尚不明确的情况下，值得创建实体页面记录其从业背景和过往管理业绩，以便后续追踪其独立阿尔法能力。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T152700==z--投资分析-广发添财180天债券A.md",
+    "affectedPages": [
+      "wiki/entities/宋倩倩.md",
+      "wiki/entities/陈韫慧.md"
+    ],
+    "searchQueries": [
+      "宋倩倩 广发基金 基金经理 简历",
+      "陈韫慧 广发基金 基金经理 简历",
+      "宋倩倩 广发基金 基金经理 简历 业绩",
+      "陈韫慧 广发基金 基金经理 简历 业绩"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4d463220",
+    "resolved": false,
+    "createdAt": 1786890956923
+  },
+  {
+    "type": "suggestion",
+    "title": "更新 A类 vs C类份额费用结构 页面",
+    "description": "现有 A类 vs C类份额费用结构 页面（wiki/concepts/A类 vs C类份额费用结构.md）可补充广发添财180天债券A的A类费率数据（M<100万 0.30%，平台折扣后约0.04%），作为债基份额费用结构的补充案例。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T152700==z--投资分析-广发添财180天债券A.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bfbde88f",
+    "resolved": false,
+    "createdAt": 1786890956923
+  },
+  {
+    "type": "suggestion",
+    "title": "建立同一管理人下的基金对比页面",
+    "description": "广发基金同时管理 QDII 纳指100（权益类秩序搬运）和添财180天（固收类秩序搬运）两只产品，可考虑创建对比页面以揭示不同资产类别下秩序搬运的共性与差异。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T152700==z--投资分析-广发添财180天债券A.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-25106905",
+    "resolved": false,
+    "createdAt": 1786890956924
+  },
+  {
+    "type": "suggestion",
+    "title": "补充 A类 vs C类份额费用结构 债基案例",
+    "description": "现有页面 `wiki/concepts/A类 vs C类份额费用结构.md` 可补充广发添财180天债券A的A类费率数据（M<100万 0.30%，平台折扣后约0.04%），并对比同时期同类产品C类费率，完善债基份额费用结构的判断框架。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T152700==z--投资分析-广发添财180天债券A.md",
+    "affectedPages": [
+      "wiki/concepts/A类 vs C类份额费用结构.md"
+    ],
+    "searchQueries": [
+      "180天持有期债基 A类 C类 费率对比 2025 2026"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d9cea8d7",
+    "resolved": false,
+    "createdAt": 1786890956924
+  },
+  {
+    "type": "suggestion",
+    "title": "创建广发纳指100与广发添财180天对比页",
+    "description": "广发基金同时管理 QDII 纳指100（权益类秩序搬运）和添财180天（固收类秩序搬运）两只产品，创建对比页面可揭示同一管理人在不同资产类别下秩序搬运能力的异同，丰富 wiki 的对比矩阵。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T152700==z--投资分析-广发添财180天债券A.md",
+    "affectedPages": [
+      "wiki/comparisons/广发纳指100QDII-A vs 南方纳指100QDII-C.md",
+      "wiki/sources/5-notes--34-20260530t152700z-投资分析-广发添财180天债券a--1koo44h.md"
+    ],
+    "searchQueries": [
+      "广发基金 固收团队 基金经理 宋倩倩 陈韫慧 管理能力 排名"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a8f8113e",
+    "resolved": false,
+    "createdAt": 1786890956924
+  },
+  {
+    "type": "missing-page",
+    "title": "广发基金固收团队背景不明确",
+    "description": "当前 entity 页面仅简要提及基金经理姓名，缺乏对广发基金固收团队整体规模、投研体系、历史业绩排名的系统性描述，制约了\"大厂风控优势\"这一论点的深度支撑。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T152700==z--投资分析-广发添财180天债券A.md",
+    "affectedPages": [
+      "wiki/entities/广发基金.md"
+    ],
+    "searchQueries": [
+      "广发基金 固收团队 规模 排名 2025 2026",
+      "广发基金 固定收益 投资能力 评级"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ccf77365",
+    "resolved": false,
+    "createdAt": 1786890956924
+  },
+  {
+    "type": "suggestion",
+    "title": "南方红利低波50ETF联接A（008163）完整投资分析页缺失",
+    "description": "Stage 1 Analysis 输出显示应创建南方红利低波50ETF联接A（008163）的独立来源页，但 wiki/sources/ 目录中并未找到对应文件。这是本次输入文档的核心内容，缺少将直接影响后续查询和交叉引用的完整性。同时，实体南方基金、标普道琼斯指数，以及概念股息率加权、红利资产拥挤度、配置飞轮也未生成到 wiki/ 目录，形成连锁遗漏。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153007==z--投资分析-南方红利低波50etf联接a.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--38-20260530t153007z--南方红利低波50etf联接a--投资分析.md"
+    ],
+    "searchQueries": [
+      "南方标普红利低波50 ETF 联接A 008163 产品详情 规模 分红记录",
+      "标普中国A股大盘红利低波50指数 成分股权重 股息率加权 方法论",
+      "南方基金 008163 管理规模 红利低波产品"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0aa22ece",
+    "resolved": false,
+    "createdAt": 1786891255581
+  },
+  {
+    "type": "suggestion",
+    "title": "红利低波产品横向对比（中证红利低波100 vs 标普红利低波50 vs 央企红利）",
+    "description": "分析中反复提到\"中证红利低波100\"\"央企红利\"等同赛道参照，但未做系统性对比。文章自身也提出\"红利低波50 vs 中证红利低波100 长期风险收益差异\"作为未解问题。建立横向对比页将直接回答\"为什么选这只而不是那只\"的常见决策问题。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153007==z--投资分析-南方红利低波50etf联接a.md",
+    "affectedPages": [
+      "wiki/concepts/红利资产拥挤度.md",
+      "wiki/concepts/配置飞轮.md"
+    ],
+    "searchQueries": [
+      "中证红利低波动100指数 成分股权重 历史收益率 回撤",
+      "央企红利指数 央企红利ETF 代码 费率 流动性",
+      "标普红利低波50 vs 中证红利低波100 哪个更优 长期"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cb133bc2",
+    "resolved": false,
+    "createdAt": 1786891255581
+  },
+  {
+    "type": "suggestion",
+    "title": "场内ETF（515450）vs 场外联接A（008163）持有成本测算",
+    "description": "文章在\"未解问题\"第三条明确列出：目标ETF 515450与联接A的总持有成本差异需要实际测算。如果投资者有股票账户，场内ETF可能更高效；但这个结论缺乏具体数字支撑，应通过数据验证后写成一个独立的决策指引页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153007==z--投资分析-南方红利低波50etf联接a.md",
+    "affectedPages": [
+      "SEARCH: 515450 南方标普红利低波50ETF 折溢价 日成交额 流动性 | 008163 联接基金 vs 515450 持有成本 对比 申购费 赎回费 | ETF联接基金 场内场外 总成本 测算 工具"
+    ],
+    "searchQueries": [
+      "515450 南方标普红利低波50ETF 折溢价 日成交额 流动性",
+      "008163 联接基金 vs 515450 持有成本 对比 申购费 赎回费",
+      "ETF联接基金 场内场外 总成本 测算 工具"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-da22fca2",
+    "resolved": false,
+    "createdAt": 1786891255581
+  },
+  {
+    "type": "suggestion",
+    "title": "五条核心假设的实时验证：当前成分股分红可持续性核查",
+    "description": "文章第五条核心假设要求逐项核实银行、煤炭、公用事业、运营商的分红可持续性。这是投资决策的前置验证任务，而非事后概念描述。建议建立一个动态检查清单或专题页，追踪各权重行业利润趋势与分红率变化，作为退出信号的前置触发器。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153007==z--投资分析-南方红利低波50etf联接a.md",
+    "affectedPages": [
+      "wiki/concepts/核心假设-退出信号框架.md"
+    ],
+    "searchQueries": [
+      "银行股 煤炭股 红利股 分红率 2025 2026 盈利压力 资本开支",
+      "A股红利因子拥挤度 股息率 国债利差 2026",
+      "标普红利低波50 成分股权重行业 银行 电力 运营商 分红能力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5f5a657d",
+    "resolved": false,
+    "createdAt": 1786891255581
+  },
+  {
+    "type": "missing-page",
+    "title": "纳斯达克100估值合理区间与历史分位",
+    "description": "源中给出了2026年5月纳指100滚动PE约35-38倍、长期中位数约24-25倍的数据，但缺少\"什么价位算合理\"的明确阈值。建议整理纳指100过去10-15年的PE历史分位，以及各分位区间对应的后续3年回报数据，为溢价纪律和建仓纪律提供量化锚点。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153123==z--投资分析-纳斯达克qdii.md",
+    "affectedPages": [
+      "wiki/entities/纳斯达克100指数.md",
+      "wiki/concepts/溢价纪律.md"
+    ],
+    "searchQueries": [
+      "纳斯达克100 PE历史分位 滚动市盈率 估值区间",
+      "Nasdaq 100 Shiller PE history percentile",
+      "纳指100 历史估值水平 买入机会 回撤"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a9ca0d7a",
+    "resolved": false,
+    "createdAt": 1786902326099
+  },
+  {
+    "type": "suggestion",
+    "title": "QDII额度政策趋势与闸门经济可持续性",
+    "description": "源中提及2026年一季度QDII新增额度仅53亿美元，热门产品迅速消化。但\"闸门经济\"的假设前提是额度持续稀缺。建议调研：监管层近年来QDII额度扩容节奏、是否有结构性放宽趋势（如沪港通、互换通等替代渠道）、以及额度宽松是否会瓦解当前溢价逻辑。这对判断\"等\"的时间尺度至关重要。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153123==z--投资分析-纳斯达克qdii.md",
+    "affectedPages": [
+      "wiki/concepts/闸门经济.md",
+      "wiki/concepts/通道摩擦与额度稀缺.md"
+    ],
+    "searchQueries": [
+      "QDII额度 扩容 2024 2025 政策趋势",
+      "中国QDII额度 新增 证监会 2025",
+      "跨境投资额度 港股通 互换通 替代渠道"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-adbd980d",
+    "resolved": false,
+    "createdAt": 1786902326099
+  },
+  {
+    "type": "missing-page",
+    "title": "纳指100极端溢价历史与套利失效案例",
+    "description": "源中提到\"个别热门产品曾出现20%以上溢价风险\"，但未给出历史案例和对应的套利机制失效条件。建议整理2015-2026年间纳指/标普QDII场内ETF的极端溢价案例（>10%），以及每次溢价后的回归时间，为\">5%回避，>10%不碰\"的纪律提供实证支撑。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153123==z--投资分析-纳斯达克qdii.md",
+    "affectedPages": [
+      "wiki/concepts/溢价纪律.md",
+      "wiki/concepts/通道摩擦与额度稀缺.md"
+    ],
+    "searchQueries": [
+      "纳斯达克ETF 溢价 历史数据 套利失效 2015 2020 2024",
+      "QDII ETF 溢价率 极端案例 套利机制失灵",
+      "跨境ETF 溢价 回落时间 历史回测"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ab2dd29d",
+    "resolved": false,
+    "createdAt": 1786902326099
+  },
+  {
+    "type": "suggestion",
+    "title": "广发/华夏/嘉实/华安/招商纳指ETF费用与跟踪误差横向对比",
+    "description": "新创建的5个基金实体页面内容较薄，仅列出代码和基本信息。建议补充各产品近3年的跟踪误差、管理费+托管费合计费率、规模变化、限购状态演变，形成一张可操作的\"纳指QDII产品选择表\"，让投资者在多个通道中做费用-流动性-可得性的权衡。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153123==z--投资分析-纳斯达克qdii.md",
+    "affectedPages": [
+      "wiki/comparisons/广发纳指100QDII-A vs 南方纳指100QDII-C.md"
+    ],
+    "searchQueries": [
+      "纳指ETF 跟踪误差 对比 广发 华夏 嘉实 华安 招商",
+      "Nasdaq 100 ETF tracking error comparison China",
+      "场内纳指ETF 费率 规模 流动性 2025"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c22802e9",
+    "resolved": false,
+    "createdAt": 1786902326099
+  },
+  {
+    "type": "missing-page",
+    "title": "QQQ与境内纳指QDII的全方位成本拆解",
+    "description": "新创建的QQQ实体页面缺乏成本结构的量化对比。建议补充：QQQ的0.20%管理费 vs 境内QDII约1.0%管理费的真实年化成本差、换汇成本（购汇额度限制、汇率点差）、境外账户佣金、以及境内QDII的申购赎回费率和持有期限制，形成一份\"境内vs境外买纳指的总成本账\"。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153123==z--投资分析-纳斯达克qdii.md",
+    "affectedPages": [
+      "wiki/entities/QQQ.md",
+      "wiki/concepts/跨市场分散.md"
+    ],
+    "searchQueries": [
+      "QQQ vs 境内纳指ETF 成本对比 换汇 购汇额度",
+      "Invesco QQQ total cost of ownership vs Chinese QDII",
+      "境外买纳指 ETF 总成本 换汇成本 港股美股账户"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-58facc30",
+    "resolved": false,
+    "createdAt": 1786902326099
+  },
+  {
+    "type": "missing-page",
+    "title": "中证港股通高股息投资指数",
+    "description": "分析中多次提及\"中证港股通高股息投资指数\"作为核心跟踪标的，但 wiki 中尚无对应的实体页面。该指数的编制方案已被引用，建议创建独立页面记录其规则细节，与[[股息率加权]]、[[中证红利低波动指数]]（如有）并列。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153622==z--投资分析-华泰柏瑞中证港股通红利etf联接c.md",
+    "affectedPages": [
+      "wiki/entities/中证港股通高股息投资指数.md"
+    ],
+    "searchQueries": [
+      "中证港股通高股息投资指数 编制方案 成分股",
+      "CSI HK Stock Connect High Dividend Investment Index rules"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64817677",
+    "resolved": false,
+    "createdAt": 1786903034253
+  },
+  {
+    "type": "suggestion",
+    "title": "港股高股息 vs 港股红利低波对比页",
+    "description": "来源中明确建议比较 513530（高股息）与 520890（红利低波），并指出两者适合不同风险偏好的投资者。目前 wiki 已有 [[广发纳指100QDII-A vs 南方纳指100QDII-C]] 对比先例，可在此基础上增加同机构内不同港股红利策略的横向对比页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153622==z--投资分析-华泰柏瑞中证港股通红利etf联接c.md",
+    "affectedPages": [
+      "wiki/comparisons/华泰柏瑞港股通红利高股息vs红利低波.md"
+    ],
+    "searchQueries": [
+      "华泰柏瑞港股通红利低波ETF 520890 成分股",
+      "港股通高股息 vs 红利低波 基金对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-58cbbb15",
+    "resolved": false,
+    "createdAt": 1786903034253
+  },
+  {
+    "type": "duplicate",
+    "title": "股息率利差纪律 vs 溢价纪律",
+    "description": "[[股息率利差纪律]] 与现有 [[溢价纪律]] 在方法论上高度相似（均以收益率差作为纪律锚），两者应在页面中互链并注明区别：前者关注跨市场利差（港股股息率 vs 国债收益率），后者关注场内交易溢价率。建议人工确认是否需要合并或保持分离。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153622==z--投资分析-华泰柏瑞中证港股通红利etf联接c.md",
+    "affectedPages": [
+      "wiki/concepts/股息率利差纪律.md",
+      "wiki/concepts/溢价纪律.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d1f9f10e",
+    "resolved": false,
+    "createdAt": 1786903034253
+  },
+  {
+    "type": "suggestion",
+    "title": "广发增强债券A同类基金横向对比研究",
+    "description": "广发增强债券A的分析明确提出了未解问题：同类基金中是否有回撤更低、收益更稳的替代品。当前 Wiki 只分析了广发系一只增强债基，缺少横向竞争格局图景。建议系统梳理\"主动增强债基\"赛道的代表性产品（如富国、易方达、工银瑞信等同类型基金），对比近3年相对基准超额稳定性、最大回撤、机构持有人结构，形成可比数据库。这将直接支持\"换不换\"决策的实际操作。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153800==z--投资分析-广发增强债券A.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--zz-20260530-投资分析-广发增强债券A.md"
+    ],
+    "searchQueries": [
+      "主动增强债券基金 横向对比 排名 2024 2025",
+      "债基 主动管理 超额收益 稳定性 排名",
+      "广发增强债券A 同类竞品 回撤 夏普"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6edda670",
+    "resolved": false,
+    "createdAt": 1786903547731
+  },
+  {
+    "type": "missing-page",
+    "title": "广发增强债券A（013997）产品页缺失",
+    "description": "分析对象\"广发增强债券A\"本身没有独立的 entities 页面，仅有 source 归档。作为一只机构占比超90%、规模剧烈波动（11.26亿→1.96亿→5.41亿）、连续两年跑输基准的产品，值得一个独立的产品实体页来系统聚合其历史净值、持仓演变、规模轨迹和退出信号追踪记录，方便后续持续更新。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153800==z--投资分析-广发增强债券A.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--zz-20260530-投资分析-广发增强债券A.md"
+    ],
+    "searchQueries": [
+      "广发增强债券A 013997 净值 持仓 规模",
+      "广发增强债券A 基金经理 张芊 方抗 业绩"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a4f72c82",
+    "resolved": false,
+    "createdAt": 1786903547732
+  },
+  {
+    "type": "suggestion",
+    "title": "张芊基金经理深度画像",
+    "description": "entities/张芊.md 当前只有极薄的两句话。张芊是广发固定收益投资总监，同时管理多只产品，分析中提出\"精力分配和策略复制程度\"是未解问题。建议补充其完整从业履历、管理产品清单、各产品业绩对比、持仓风格漂移记录，以及与其他固收经理的能力交叉验证。这将影响\"秩序搬运\"框架中\"能力是否可持续\"的判断。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153800==z--投资分析-广发增强债券A.md",
+    "affectedPages": [
+      "wiki/entities/张芊.md"
+    ],
+    "searchQueries": [
+      "张芊 广发基金 固收投资总监 简历 业绩",
+      "广发基金 固收团队 基金经理 张芊 方抗 管理产品"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5b11b98a",
+    "resolved": false,
+    "createdAt": 1786903547732
+  },
+  {
+    "type": "suggestion",
+    "title": "广发增强债券A 2024年跑输归因深度复盘",
+    "description": "分析明确标注2024年跑输基准4.17pp但未解释原因，仅列为未解问题。结合当年债券市场背景（利率债牛市、信用利差压缩），需要复盘该年的久期配置、信用下沉决策、可转债仓位变化与基准偏离的具体归因。这是判断\"主动管理能力是否真实存在\"的关键证据，也是修正\"秩序搬运\"结论的重要输入。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T153800==z--投资分析-广发增强债券A.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--zz-20260530-投资分析-广发增强债券A.md"
+    ],
+    "searchQueries": [
+      "广发增强债券A 013997 2024年 季报 归因 久期",
+      "2024年 债券市场 利率债牛市 中证全债指数 表现",
+      "广发增强债券A 年报 持仓变化 2024"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b7aa2d62",
+    "resolved": false,
+    "createdAt": 1786903547732
+  },
+  {
+    "type": "suggestion",
+    "title": "FOF 双层费用的实证验证",
+    "description": "分析中提到 FOF 双层费用需通过长期业绩验证，但尚未有明确的费后对比数据。建议后续补充：与自建\"短债基金 + 宽基 ETF + 黄金 ETF\"组合的费后收益对比，验证 FOF 双层费用是否被超额收益覆盖。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T154000==z--投资分析-兴全优选稳健6个月A.md",
+    "searchQueries": [
+      "FOF double fee cost empirical validation China fund market",
+      "FOF双层费用实证研究 中国基金市场"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bd72235b",
+    "resolved": false,
+    "createdAt": 1786914143214
+  },
+  {
+    "type": "missing-page",
+    "title": "内部产品依赖风险",
+    "description": "兴全优选稳健6个月A前五大持仓全部为兴全系产品（合计37.97%），分析标注为\"利益输送嫌疑\"但未深入展开。现有[[concepts/机构持有人风险]]侧重机构赎回冲击风险，未覆盖基金公司内部产品占比过高这一特定风险。建议在概念层新建页面或更新现有相关概念，专门讨论FOF内部产品依赖的定义、识别信号、与利益输送的边界，以及透明度和业绩归因的挑战。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T154000==z--投资分析-兴全优选稳健6个月A.md",
+    "affectedPages": [
+      "wiki/concepts/机构持有人风险.md"
+    ],
+    "searchQueries": [
+      "FOF内部产品依赖 利益输送 基金从业资格考试",
+      "基金公司内部产品占比 FOF持仓透明度监管要求"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9cf60986",
+    "resolved": false,
+    "createdAt": 1786914143214
+  },
+  {
+    "type": "suggestion",
+    "title": "FOF双层费用的实证验证框架",
+    "description": "分析指出兴全优选稳健6个月A管理费0.30%+托管费0.10%之外，底层基金还有自身费用。但\"FOF价值必须覆盖双层成本\"这一论断缺乏具体对比数据。建议创建或补充一个概念页/案例页，系统梳理FOF双层费用的计算方法，并以兴全优选稳健6个月A为案例，与自建\"短债+宽基ETF+黄金ETF\"组合进行费后收益对比，验证其费后优势是否真实存在。这是判断该产品是否值得持有的核心财务问题。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T154000==z--投资分析-兴全优选稳健6个月A.md",
+    "searchQueries": [
+      "FOF双层费用实证计算 中国公募基金市场",
+      "FOF fund of fund double layer fees cost analysis China",
+      "兴全优选稳健6个月A 费率结构 底层基金费用"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e06f481b",
+    "resolved": false,
+    "createdAt": 1786914143214
+  },
+  {
+    "type": "suggestion",
+    "title": "2025年跑输同类的根因复盘",
+    "description": "分析明确指出\"2025年跑输同类平均244/512排名\"是一个关键未解问题，但原因仅列举三种假设（权益偏保守/债券配置失误/同类更激进）而未验证。建议补充一页或在一个新source页中做复盘分析：收集2025年同类稳健型FOF的平均配置结构，对比兴全优选稳健6个月A的实际权益仓位和债券久期配置，识别是战术失误还是风格漂移。这是评估\"内部产品选择是否真有超额\"的前提。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T154000==z--投资分析-兴全优选稳健6个月A.md",
+    "searchQueries": [
+      "兴全优选稳健6个月A 015377 2025年业绩归因 权益仓位",
+      "2025年稳健型FOF平均配置结构 同类比较",
+      "兴全优选稳健6个月A 季报权益配置比例变化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1c4cafa9",
+    "resolved": false,
+    "createdAt": 1786914143214
+  },
+  {
+    "type": "missing-page",
+    "title": "美团相关实体页缺失",
+    "description": "文档引用了多个重要竞争者和数据来源实体，当前 wiki 中不存在独立页面：\n\n| 实体 | 建议 |\n|------|------|\n| Keeta | 美团海外外卖品牌，有独立业务线信息，建议创建 `wiki/entities/keeta.md` |\n| 叮咚买菜 | 被收购方，有收购对价和战略意义信息，建议创建 `wiki/entities/叮咚买菜.md` |\n| 小美 / 小团 | 美团 AI 助手产品，有产品功能描述，可考虑合并或单独成页 |\n| Morningstar / etnet / CNBC / TechBuzz China / Hello China Tech | 数据来源，可在 source 页中引用，无需独立 entity 页 |\n| 阿里 / 淘宝 | 竞争者，与 `[[entities/腾讯]]` 等已有实体类似，建议补充 |\n| JD（京东） | 竞争者，建议创建 `wiki/entities/jd.md` |",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T174616==z--投资分析-美团.md",
+    "affectedPages": [
+      "wiki/entities/keeta.md",
+      "wiki/entities/叮咚买菜.md",
+      "wiki/entities/jd.md"
+    ],
+    "searchQueries": [
+      "美团 Keeta 海外外卖 2025 2026 业绩",
+      "叮咚买菜 被美团收购 2026 前置仓",
+      "京东 外卖 即时零售 2025 补贴战"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0ab40b03",
+    "resolved": false,
+    "createdAt": 1786914279949
+  },
+  {
+    "type": "duplicate",
+    "title": "飞轮结构概念可能重复",
+    "description": "`[[concepts/配置飞轮]]` 是基金配置领域的飞轮概念，与本文中的\"美团飞轮结构\"（用户高频下单→骑手商家密度→履约成本下降→品类扩展→更高频次）属于不同领域。两者命名相同但含义不同，建议在新建的 `wiki/concepts/秩序创造机器.md` 中明确区分，或在美团 entity 页中使用更具体的名称如\"履约密度飞轮\"。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T174616==z--投资分析-美团.md",
+    "affectedPages": [
+      "wiki/concepts/配置飞轮.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dff71462",
+    "resolved": false,
+    "createdAt": 1786914279949
+  },
+  {
+    "type": "missing-page",
+    "title": "Keeta、叮咚买菜实体页缺失",
+    "description": "文档中 Keeta（美团海外外卖品牌，2025 年在香港实现正单位经济，拓展至中东和巴西）和叮咚买菜（被美团以 US$7.17 亿收购中国业务）是两个重要的独立实体，但 wiki 中均无对应 entity 页。Keeta 的单位经济指标是\"假设五\"退出信号的关键验证点，叮咚买菜的交割进展影响\"假设四\"即时零售亏损判断，两者都值得独立成页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T174616==z--投资分析-美团.md",
+    "affectedPages": [
+      "wiki/entities/keeta.md",
+      "wiki/entities/叮咚买菜.md"
+    ],
+    "searchQueries": [
+      "美团 Keeta 海外外卖 2025 2026 业绩 单位经济",
+      "叮咚买菜 被美团收购 2026 前置仓 交割"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9ce39271",
+    "resolved": false,
+    "createdAt": 1786914279949
+  },
+  {
+    "type": "suggestion",
+    "title": "2026 Q1 美团核心本地商业亏损数据跟踪",
+    "description": "文档明确指出 2026-06-01 是一季度业绩发布日，这是当前最高优先级跟踪节点。建议将 query 页 `wiki/queries/meituan-core-local-commercial-profitability-2026.md` 与 log 中标记的日期节点绑定，并补充 2026 年二、三季度业绩发布日作为后续检查点。同时可考虑在 `wiki/log.md` 中建立定期跟踪模板。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T174616==z--投资分析-美团.md",
+    "affectedPages": [
+      "wiki/queries/meituan-core-local-commercial-profitability-2026.md",
+      "wiki/log.md"
+    ],
+    "searchQueries": [
+      "美团 2026年一季度业绩 核心本地商业 经营利润",
+      "美团 2026 Q1 财报 核心本地商业 亏损收窄"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-362cec39",
+    "resolved": false,
+    "createdAt": 1786914279949
+  },
+  {
+    "type": "contradiction",
+    "title": "秩序搬运 vs 秩序创造机器 的关系需双向链接确认",
+    "description": "`[[concepts/秩序搬运]]` 是已存在页面，新建的 `[[concepts/秩序创造机器]]` 与之形成对立对，但需要确认两个页面是否都已互链。同时文档中提到\"美团不是简单搬运旧秩序\"，但未提及是否存在其他秩序搬运案例公司（如早期电商平台），建议在秩序搬运页面补充对比案例以增强概念边界清晰度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T174616==z--投资分析-美团.md",
+    "affectedPages": [
+      "wiki/concepts/秩序搬运.md",
+      "wiki/concepts/秩序创造机器.md"
+    ],
+    "searchQueries": [
+      "秩序搬运 美团 早期电商 平台型公司 案例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-30ce7814",
+    "resolved": false,
+    "createdAt": 1786914279949
+  },
+  {
+    "type": "suggestion",
+    "title": "解读基金各原则的当代适用性校验",
+    "description": "《解读基金》写于2006-2007年，书中部分参考（如上海综指6000点、QDII额度管制早期阶段、FOF产品格局）与当下差异较大。建议做一版\"原则时效性校验\"：列出书中关键建议，标注哪些仍成立、哪些需要更新或补充约束条件。这对wiki中所有引用本书的页面都有参考价值。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T181201--拆书-解读基金__book.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--28-20260530t181201-拆书-解读基金book--xqts4e.md",
+      "wiki/concepts/目标-品种-操作三步曲.md",
+      "wiki/concepts/资产配置比率.md"
+    ],
+    "searchQueries": [
+      "解读基金 季凯帆 2024 再版 修订",
+      "中国公募基金市场 2024 变化 QDII额度 FOF规模",
+      "指数基金定投 2024 实操指南 沪深300"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bbbbe36e",
+    "resolved": false,
+    "createdAt": 1786914671050
+  },
+  {
+    "type": "missing-page",
+    "title": "基金评级体系（晨星评级方法论详解）",
+    "description": "页面 `晨星中国-morningstarcn` 存在，但仅作为实体条目；书中将晨星评级作为基金选择的核心参考工具，却未建立\"评级方法论\"层面的概念页。基金评级的星级体系、风险调整收益计算、以及评级滞后性/误导性，值得单独建页以支撑 `目标-品种-操作三步曲` 的第二步决策。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T181201--拆书-解读基金__book.md",
+    "affectedPages": [
+      "wiki/entities/晨星中国-morningstarcn.md",
+      "wiki/concepts/目标-品种-操作三步曲.md"
+    ],
+    "searchQueries": [
+      "晨星基金评级 方法论 星级体系 风险调整收益",
+      "Morningstar fund rating methodology risk-adjusted return",
+      "基金评级 滞后性 误导性 2024"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-66a2904f",
+    "resolved": false,
+    "createdAt": 1786914671050
+  },
+  {
+    "type": "suggestion",
+    "title": "核心式投资组合 vs 种田打猎资产配置法的结构对照",
+    "description": "`核心式投资组合` 和 `种田打猎资产配置法` 两个页面内容高度重叠，前者来自《解读基金》，后者已有独立概念页。建议明确两者的关系——是同一框架的不同表述，还是有实质差异（如卫星仓位的定义边界、再平衡触发条件）——并决定保留哪一套术语体系，避免 wiki 内重复建设。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T181201--拆书-解读基金__book.md",
+    "affectedPages": [
+      "wiki/concepts/核心式投资组合.md",
+      "wiki/concepts/种田打猎资产配置法.md"
+    ],
+    "searchQueries": [
+      "核心卫星投资策略 晨星 学术定义",
+      "core satellite investment strategy fund allocation",
+      "种田打猎资产配置法 原文 潘乱 出处"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bda43ea5",
+    "resolved": false,
+    "createdAt": 1786914671050
+  },
+  {
+    "type": "missing-page",
+    "title": "广发基金页面需补充海外团队",
+    "description": "[[wiki/entities/广发基金.md]]目前只覆盖固收团队（宋倩倩/陈韫慧/方抗/张芊），缺少李耀柱及其全球科技团队的介绍。本次生成的[[entities/李耀柱.md]]实体页可作为补充，但广发基金主体页面尚未更新。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T184900==z--投资分析-广发全球精选股票QDII人民币C.md",
+    "affectedPages": [
+      "wiki/entities/广发基金.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e34bbb39",
+    "resolved": false,
+    "createdAt": 1786915438415
+  },
+  {
+    "type": "suggestion",
+    "title": "可进一步研究的方向",
+    "description": "1. Knowledge Atlas Technology的前十大持仓背景：该持仓占5.10%但公开信息有限，建议跟踪其SEC filings或相关新闻\n2. 广发全球精选QDII的熊市表现：A类411pct超额的历史区间是否覆盖过下跌周期，需要补充数据\n\n---REVIEW: suggestion | 可进一步研究的方向---\n1. Knowledge Atlas Technology的前十大持仓背景：该持仓占5.10%但公开信息有限，建议跟踪其SEC filings或相关新闻\n2. 广发全球精选QDII的熊市表现：A类411pct超额的历史区间是否覆盖过下跌周期，需要补充数据",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T184900==z--投资分析-广发全球精选股票QDII人民币C.md",
+    "affectedPages": [
+      "wiki/entities/广发基金.md",
+      "SEARCH: Knowledge Atlas Technology ASML competitor AI chip | 李耀柱 广发基金 业绩 熊市 回撤 | 广发全球精选股票QDII 2022 2023 回撤"
+    ],
+    "searchQueries": [
+      "Knowledge Atlas Technology ASML competitor AI chip",
+      "李耀柱 广发基金 业绩 熊市 回撤",
+      "广发全球精选股票QDII 2022 2023 回撤"
+    ],
+    "options": [
+      {
+        "label": "Create",
+        "action": "Create"
+      }
+    ],
+    "id": "review-5d95223c",
+    "resolved": false,
+    "createdAt": 1786915438415
+  },
+  {
+    "type": "missing-page",
+    "title": "通道摩擦与额度稀缺需独立概念页",
+    "description": "分析中多次引用\"通道摩擦与额度稀缺\"概念（QDII额度限制、限大额信号），但[[concepts/通道摩擦与额度稀缺]]链接指向的页面目前不存在（git status显示为未跟踪文件）。同时，广发全球精选QDII的\"限大额\"与纳斯达克QDII限购的逻辑高度相似，值得建立统一框架。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T184900==z--投资分析-广发全球精选股票QDII人民币C.md",
+    "affectedPages": [
+      "wiki/concepts/通道摩擦与额度稀缺.md"
+    ],
+    "searchQueries": [
+      "QDII额度稀缺 限购 通道摩擦 基金",
+      "QDII额度限制 基金限购 信号解读"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-25a3eea7",
+    "resolved": false,
+    "createdAt": 1786915438415
+  },
+  {
+    "type": "suggestion",
+    "title": "Knowledge Atlas Technology持仓研究",
+    "description": "前十大持仓中Knowledge Atlas Technology占5.10%，但公开信息极为有限——该持仓对公司整体收益贡献显著，但其基本面、流动性、估值透明度均存疑。如果这是一个AI概念股或新兴科技标的，了解其业务模式和估值逻辑对判断基金后续调仓方向至关重要；如果是拼写变体或数据异常，也需确认。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T184900==z--投资分析-广发全球精选股票QDII人民币C.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--39-20260530t184900z--投资分析-广发全球精选股票QDII人民币C--1x3rxcp.md"
+    ],
+    "searchQueries": [
+      "Knowledge Atlas Technology AI company",
+      "Knowledge Atlas Technology stock NASDAQ",
+      "Knowledge Atlas Technology 广发基金持仓"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e4e1bfc0",
+    "resolved": false,
+    "createdAt": 1786915438415
+  },
+  {
+    "type": "missing-page",
+    "title": "广发基金页面缺少海外团队信息",
+    "description": "[[entities/广发基金.md]]目前只覆盖固收团队（宋倩倩/陈韫慧/方抗/张芊），缺少李耀柱及其全球科技团队的简介。虽然已新建[[entities/李耀柱.md]]，但广发基金主体页面未同步更新，导致投资者从基金公司视角查找信息时无法获得完整图景。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260530T184900==z--投资分析-广发全球精选股票QDII人民币C.md",
+    "affectedPages": [
+      "wiki/entities/广发基金.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d94464ac",
+    "resolved": false,
+    "createdAt": 1786915438415
+  },
+  {
+    "type": "missing-page",
+    "title": "美团实体页需要补充股价区间映射小节",
+    "description": "本备忘的核心产出（股价区间映射表、PE 分层表、四触发器状态表）应补充到现有 [[entities/美团.md]] 页面，建议在财务快照后新增\"股价区间映射\"小节，并将四个触发器状态作为\"当前评估\"条目追加。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T101805==z--美团估值跟踪备忘.md",
+    "affectedPages": [
+      "wiki/entities/美团.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-689e4cf3",
+    "resolved": false,
+    "createdAt": 1786915500522
+  },
+  {
+    "type": "missing-page",
+    "title": "美团 Query 页需更新触发器状态",
+    "description": "[[queries/美团核心本地商业-2026-能否恢复正经营利润]] 应追加本备忘的四个触发器状态表和前置指标跟踪方向，将\"检查节点\"从单一日期扩展为持续跟踪框架。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T101805==z--美团估值跟踪备忘.md",
+    "affectedPages": [
+      "wiki/queries/美团核心本地商业-2026-能否恢复正经营利润.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-350d28a8",
+    "resolved": false,
+    "createdAt": 1786915500522
+  },
+  {
+    "type": "suggestion",
+    "title": "闪购盈亏平衡时间线值得持续跟踪",
+    "description": "闪购单均亏损估计 2026Q1 约 RMB0.8/单，何时到达盈亏平衡仍不明确，是否依赖叮咚买菜交割后的供应链效率改善是关键变量，建议纳入 [[queries/美团核心本地商业-2026-能否恢复正经营利润]] 作为子问题持续跟踪。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T101805==z--美团估值跟踪备忘.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5d884532",
+    "resolved": false,
+    "createdAt": 1786915500522
+  },
+  {
+    "type": "missing-page",
+    "title": "美团实体页需补充股价区间映射小节",
+    "description": "本备忘的核心产出（股价区间映射表、PE 分层表、四触发器状态表）目前只存在于概念页和源文件，[[entities/美团.md]] 实体页尚无对应汇总。建议在财务快照后新增\"股价区间映射\"小节，将四触发器状态作为\"当前评估\"条目，避免同一主题的分析成果散落在多处。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T101805==z--美团估值跟踪备忘.md",
+    "affectedPages": [
+      "wiki/entities/美团.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-52fa3c66",
+    "resolved": false,
+    "createdAt": 1786915500522
+  },
+  {
+    "type": "missing-page",
+    "title": "美团 Query 页需追加触发器持续跟踪框架",
+    "description": "[[queries/美团核心本地商业-2026-能否恢复正经营利润]] 目前只有单一检查节点，本备忘构建的四触发器状态表和每周前置指标打分表应追加到此页，将\"检查节点\"从一次性验证扩展为持续跟踪框架，否则该 query 的操作性会迅速过时。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T101805==z--美团估值跟踪备忘.md",
+    "affectedPages": [
+      "wiki/queries/美团核心本地商业-2026-能否恢复正经营利润.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-15abedad",
+    "resolved": false,
+    "createdAt": 1786915500522
+  },
+  {
+    "type": "suggestion",
+    "title": "闪购盈亏平衡时间线值得作为子查询单独跟踪",
+    "description": "闪购单均亏损估计 2026Q1 约 RMB0.8/单，何时到达盈亏平衡仍不明确；是否依赖叮咚买菜交割后的供应链效率改善是关键变量，当前 wiki 缺少对应的跟踪页面或查询页。建议在此 query 下增设子问题，或在美团实体页下挂独立子项持续更新。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T101805==z--美团估值跟踪备忘.md",
+    "searchQueries": [
+      "美团闪购 单均盈利 盈亏平衡 2025 2026",
+      "美团闪购 GMV 增长 单位经济 券商研报",
+      "美团叮咚买菜交割 供应链效率 即时零售"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ed1ef22a",
+    "resolved": false,
+    "createdAt": 1786915500522
+  },
+  {
+    "type": "suggestion",
+    "title": "抖音团购「抖省省」App 的战略意图值得专门研究",
+    "description": "备忘指出抖音 Q1 补贴环比下降但同步上线独立团购 App「抖省省」，这既是战术调整也是战略信号——意味着抖音并未退出本地生活，而是在从粗放补贴转向精细化运营。当前 wiki 的[[entities/抖音]] 和[[concepts/到店竞争格局]] 均未覆盖这一变化，建议补充专项研究以判断其对美团到店利润池的长期威胁程度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T101805==z--美团估值跟踪备忘.md",
+    "searchQueries": [
+      "抖音 抖省省 独立团购App 本地生活 战略",
+      "抖音生活服务 补贴率下降 商家佣金 2025 2026",
+      "抖音团购 核销率 商家返佣 行业分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-435cee5b",
+    "resolved": false,
+    "createdAt": 1786915500522
+  },
+  {
+    "type": "missing-page",
+    "title": "阿里/京东实体缺失",
+    "description": "源文件多次提及淘宝闪购、京东秒送作为美团闪购的竞争对手，但未建立独立实体页。如需完善竞品跟踪体系，可考虑补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T103217==z--美团投资跟踪工具总结.md",
+    "affectedPages": [
+      "wiki/entities/阿里巴巴.md",
+      "wiki/entities/京东.md"
+    ],
+    "searchQueries": [
+      "淘宝闪购 即时零售 美团竞争",
+      "京东秒送 即时零售 美团竞争"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-836f6201",
+    "resolved": false,
+    "createdAt": 1786915781222
+  },
+  {
+    "type": "suggestion",
+    "title": "资讯媒体实体收集",
+    "description": "源文件列出 36氪、晚点 LatePost、TechBuzz China 等多个资讯媒体作为免费/半免费监测源，若后续需要追踪平台战略和组织变动，可考虑批量建立 entity 页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T103217==z--美团投资跟踪工具总结.md",
+    "affectedPages": [
+      "wiki/entities/36氪.md",
+      "wiki/entities/晚点-LatePost.md",
+      "wiki/entities/TechBuzz-China.md"
+    ],
+    "searchQueries": [
+      "36氪 本地生活 美团 抖音 行业报道",
+      "晚点 LatePost 即时零售 平台战略"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f70cfd90",
+    "resolved": false,
+    "createdAt": 1786915781222
+  },
+  {
+    "type": "suggestion",
+    "title": "五问自动化",
+    "description": "源文件提出\"五问周度检查法\"，但未提供自动化工具方案。若希望降低人工查阅成本，可探索是否有 API 或脚本可将四屏数据整合输出。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T103217==z--美团投资跟踪工具总结.md",
+    "affectedPages": [
+      "SEARCH: QuestMobile API 数据获取 | 蝉妈妈 API 团购数据"
+    ],
+    "searchQueries": [
+      "QuestMobile API 数据获取",
+      "蝉妈妈 API 团购数据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-371309c9",
+    "resolved": false,
+    "createdAt": 1786915781222
+  },
+  {
+    "type": "missing-page",
+    "title": "美团-W（03690.HK）股票实体缺失",
+    "description": "美团是全文分析对象，但实体页 `entities/美团.md` 仅覆盖业务分析，未建立股票代码页。投资跟踪场景中，股价数据、换手率、机构持仓变化等金融指标需要有独立实体页承载。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T103217==z--美团投资跟踪工具总结.md",
+    "affectedPages": [
+      "wiki/entities/美团-W.md"
+    ],
+    "searchQueries": [
+      "美团-W 03690.HK 港股 估值 市盈率 机构持仓 2025 2026"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4f999ce0",
+    "resolved": false,
+    "createdAt": 1786915781222
+  },
+  {
+    "type": "suggestion",
+    "title": "京东秒送 vs 美团闪购供给厚度对比",
+    "description": "源文件提及淘宝闪购、京东秒送与美团闪购存在价格收敛观察，但未做直接对比。建立三方即时零售平台供给厚度对比页可补全四屏框架中闪购维度的竞争全景。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T103217==z--美团投资跟踪工具总结.md",
+    "affectedPages": [
+      "wiki/comparisons/美团闪购 vs 淘宝闪购 vs 京东秒送.md"
+    ],
+    "searchQueries": [
+      "美团闪购 淘宝闪购 京东秒送 即时零售 价格差 SKU 对比 2025 2026"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d8826f49",
+    "resolved": false,
+    "createdAt": 1786915781222
+  },
+  {
+    "type": "suggestion",
+    "title": "博晓通/BXTData 可用性评估",
+    "description": "原文明确指出博晓通是闪购监测\"最重要\"工具，但开放问题第1条至今未答：个人投资者能否免费试用？若无可用路径，四屏框架的闪购屏幕将成为空窗，需确认替代方案或付费门槛。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T103217==z--美团投资跟踪工具总结.md",
+    "affectedPages": [
+      "wiki/concepts/闪购供给厚度.md"
+    ],
+    "searchQueries": [
+      "博晓通 BXTData 即时零售 数据工具 付费 试用 个人投资者"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9fb6ab7d",
+    "resolved": false,
+    "createdAt": 1786915781222
+  },
+  {
+    "type": "missing-page",
+    "title": "动态PE 相关细化概念",
+    "description": "原文提到了\"动态 PE\"但未在现有 wiki 中作为独立概念存在（仅在美团页面的 PE 表中分散体现）。已创建 `wiki/concepts/动态-PE.md`，但可以考虑是否需要更细粒度的利润质量维度页面（如自由现金流转化率、ROIC 等）。当前暂不创建，留作后续扩展。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111318==z--投资分析方法论-利润锚与天花板.md",
+    "searchQueries": [
+      "dynamic PE methodology multi-business company valuation quality of earnings"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6424df67",
+    "resolved": false,
+    "createdAt": 1786917059074
+  },
+  {
+    "type": "suggestion",
+    "title": "三轴框架与S曲线阶段判定的关联",
+    "description": "分析显示[[三根轴框架]]与[[S曲线阶段判定]]之间存在潜在关联：地板→利润锚→天花板的推进本身就是一种S曲线阶段判断。建议在[[S曲线阶段判定]]页面补充这一映射关系，或创建专门的\"三轴-S曲线映射\"页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111318==z--投资分析方法论-利润锚与天花板.md",
+    "searchQueries": [
+      "S-curve business lifecycle investment analysis Meituan Tencent Xiaomi Alibaba"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-73013f8a",
+    "resolved": false,
+    "createdAt": 1786917059074
+  },
+  {
+    "type": "duplicate",
+    "title": "地板业务/天花板业务独立页面必要性",
+    "description": "三根轴框架中的\"地板业务\"和\"天花板业务\"概念已在[[利润锚]]和[[三根轴框架]]页面中完整覆盖，无需单独创建概念页面。若未来需要更细粒度，可考虑拆分为独立页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111318==z--投资分析方法论-利润锚与天花板.md",
+    "affectedPages": [
+      "wiki/concepts/地板业务.md",
+      "wiki/concepts/天花板业务.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ca1402b0",
+    "resolved": false,
+    "createdAt": 1786917059074
+  },
+  {
+    "type": "suggestion",
+    "title": "工具实体页面与前置指标操作化",
+    "description": "来源文档的工具组合（萝卜投研、慧博、灰豚、飞瓜、极光、data.ai）未建 entity 页面，但原文强调\"最小组合：QuestMobile看人、蝉妈妈看抖音、博晓通看闪购、久谦看机构结论\"，这些工具在美团案例分析中是操作层的核心。建议创建这些实体的独立页面，建立\"工具→变量→前置指标\"的链接网络。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111318==z--投资分析方法论-利润锚与天花板.md",
+    "searchQueries": [
+      "萝卜投研 慧博 Wind Choice 机构调研平台 投资分析",
+      "灰豚 飞瓜 蝉妈妈 抖音数据分析 工具对比",
+      "QuestMobile 极光 data.ai 用户心智追踪 工具"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b471264d",
+    "resolved": false,
+    "createdAt": 1786917059074
+  },
+  {
+    "type": "missing-page",
+    "title": "价格阶梯区间与PE区间的显式映射",
+    "description": "原文的美团案例中，价格阶梯表（HK$50-160+）与动态PE表（8-22x）是两张独立表格，没有给出精确的区间对应关系。读者无法直接从利润额推算股价区间。这是一个方法论层面的缺口——建议在[[价格阶梯]]或[[动态-PE]]页面中补充一个\"价格区间↔PE区间↔利润状态\"的显式映射表，或使用函数/公式形式表达这个关系。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111318==z--投资分析方法论-利润锚与天花板.md",
+    "searchQueries": [
+      "stock valuation price ladder PE multiple mapping methodology"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f6d17c91",
+    "resolved": false,
+    "createdAt": 1786917059074
+  },
+  {
+    "type": "suggestion",
+    "title": "前置指标通用模板的公司定制化",
+    "description": "来源文档第五节的\"六类前置指标\"（用户/价格/供给/成本/竞争/组织）以美团为例给出了具体观察项，但未提供其他公司的模板化填充方法。考虑到[[腾讯]]和[[阿里]]的entity页面刚创建，建议在[[前置信号-财报滞后性]]页面补充：如何为不同行业/公司类型将六类变量操作化为可追踪指标的具体指南。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111318==z--投资分析方法论-利润锚与天花板.md",
+    "affectedPages": [
+      "wiki/concepts/前置信号-财报滞后性.md",
+      "wiki/entities/腾讯.md",
+      "wiki/entities/阿里.md"
+    ],
+    "searchQueries": [
+      "美团前置指标 腾讯前置指标 互联网投资跟踪 领先指标 行业差异"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-915fed90",
+    "resolved": false,
+    "createdAt": 1786917059074
+  },
+  {
+    "type": "missing-page",
+    "title": "腾讯实体页需扩充",
+    "description": "现有 `wiki/entities/腾讯.md` 内容较薄（仅引用潘乱\"没有强假设\"定性），缺少三层轴业务拆分、2025-2026Q1 财务快照、四层稀缺资产、与美团利润锚状态对比结论。建议大幅扩充，并注明时间线张力：2018 年\"投行思维\"批评 vs 2025-2026 财报实际表现。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111523==z--投资分析-腾讯.md",
+    "affectedPages": [
+      "wiki/entities/腾讯.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2fc70152",
+    "resolved": false,
+    "createdAt": 1786917209407
+  },
+  {
+    "type": "missing-page",
+    "title": "秩序创造机器概念页应补充腾讯案例",
+    "description": "现有 `wiki/concepts/秩序创造机器.md` 已有美团案例，但源文明确判定腾讯也是秩序创造机器，且处于\"已完成秩序固化→维护+再创生\"阶段，与美团创生期形成对比。建议补充腾讯案例并标注阶段差异。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111523==z--投资分析-腾讯.md",
+    "affectedPages": [
+      "wiki/concepts/秩序创造机器.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4663d904",
+    "resolved": false,
+    "createdAt": 1786917209407
+  },
+  {
+    "type": "missing-page",
+    "title": "核心假设-退出信号框架应补充腾讯完整案例",
+    "description": "现有 `wiki/concepts/核心假设-退出信号框架.md` 有概念定义，但源文第八节给出了完整的腾讯 5 假设+5 退出信号案例，尚未录入。建议补充作为该方法论的第二完整案例。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111523==z--投资分析-腾讯.md",
+    "affectedPages": [
+      "wiki/concepts/核心假设-退出信号框架.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dedc400a",
+    "resolved": false,
+    "createdAt": 1786917209407
+  },
+  {
+    "type": "suggestion",
+    "title": "AI 投入定量阈值需跟进财报验证",
+    "description": "源文退出信号中\"新 AI 产品持续拉低经营利润率超过 5pp\"是模糊阈值，实际 2026Q1 侵蚀 4.5pp，接近临界点。建议后续季度财报中跟踪：元宝/WorkBuddy 是否产生独立收入、AI 资本开支上限披露、回购下降幅度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T111523==z--投资分析-腾讯.md",
+    "searchQueries": [
+      "腾讯 2026 年 AI 资本开支 元宝 WorkBuddy 收入",
+      "腾讯 2026 一季度财报 AI 利润率侵蚀 4.5pp",
+      "Tencent AI CapEx 2026 Haoyuan Yuanbao revenue"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ff1b5e04",
+    "resolved": false,
+    "createdAt": 1786917209407
+  },
+  {
+    "type": "missing-page",
+    "title": "红利再投资页面需补充西格尔视角",
+    "description": "`[[concepts/红利再投资]]` 当前仅从季凯帆基金视角描述，缺少西格尔\"股利是股东收益发动机、熊市保护伞\"的论述。建议在现有页面底部补充一节\"西格尔视角\"，或保持两页分离但加强互链。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T112451--拆书-投资者的未来__book.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6b71ce92",
+    "resolved": false,
+    "createdAt": 1786918601604
+  },
+  {
+    "type": "suggestion",
+    "title": "增长率陷阱在A股/港股的验证",
+    "description": "西格尔的数据基础是美国长周期历史数据。A股/港股的估值结构（散户占比高、政策干预多、行业周期特征不同）可能使增长率陷阱的表现形式不同。建议后续追踪：",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T112451--拆书-投资者的未来__book.md",
+    "affectedPages": [
+      "wiki/queries/如何判断高增长行业是创造性毁灭还是创造被毁灭.md",
+      "wiki/concepts/增长率陷阱.md"
+    ],
+    "searchQueries": [
+      "增长率陷阱 A股 估值 收益 实证研究",
+      "中国市场 高增长行业 投资回报 市盈率",
+      "China stock market growth trap valuation evidence"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f56c548b",
+    "resolved": false,
+    "createdAt": 1786918601604
+  },
+  {
+    "type": "missing-page",
+    "title": "世界投资组合的A股可操作性",
+    "description": "`[[concepts/世界投资组合]]` 源文档仅提及但未展开，遗留问题明确指向\"A股/港股投资者的可操作路径\"。这是 wiki 中一个清晰的缺口——概念存在但缺少落地指引，对实际投资决策有实质价值。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T112451--拆书-投资者的未来__book.md",
+    "affectedPages": [
+      "wiki/concepts/世界投资组合.md"
+    ],
+    "searchQueries": [
+      "中国投资者 全球分散配置 可行路径 QDII 比例",
+      "世界投资组合 中国 A股 投资者 实操",
+      "global portfolio allocation Chinese investor QDII"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-77559bb1",
+    "resolved": false,
+    "createdAt": 1786918601604
+  },
+  {
+    "type": "suggestion",
+    "title": "创造性毁灭 vs 创造被毁灭的量化判据",
+    "description": "`[[concepts/创造性毁灭 vs 创造被毁灭]]` 和 `[[queries/如何判断高增长行业是创造性毁灭还是创造被毁灭]]` 目前只有观察性线索，没有可操作的判据。建一个独立的判定框架页（如\"增长质量诊断框架\"），把资本贪婪者信号、融资频率、自由现金流等指标整合成 checklist，会显著提升 wiki 的可执行性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T112451--拆书-投资者的未来__book.md",
+    "affectedPages": [
+      "wiki/concepts/创造性毁灭 vs 创造被毁灭.md",
+      "wiki/queries/如何判断高增长行业是创造性毁灭还是创造被毁灭.md"
+    ],
+    "searchQueries": [
+      "创新行业股东回报 量化指标 股权融资频率 自由现金流 ROIC",
+      "高增长行业 股东价值稀释 判据 财务指标",
+      "creative destruction shareholder return metrics"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e6de039d",
+    "resolved": false,
+    "createdAt": 1786918601604
+  },
+  {
+    "type": "suggestion",
+    "title": "可行性-商业模式验证框架",
+    "description": "《如何快速了解一个行业》第2章是全书骨架章之一，核心问题是\"商业模式能不能赚钱\"（而非\"有人买\"），但目前 wiki 中完全没有对应的独立概念页。这个判断在投资分析中极为实用——区分\"伪需求\"和\"真商业\"。与现有 `利润锚`（单点估算）形成互补：利润锚回答\"能赚多少\"，可行性回答\"能不能赚\"。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T124254--伴读-如何快速了解一个行业__reading.md",
+    "affectedPages": [
+      "wiki/concepts/可行性-商业模式验证.md",
+      "wiki/concepts/利润锚.md"
+    ],
+    "searchQueries": [
+      "商业模式验证 可行性 投资分析",
+      "business model viability framework investment",
+      "商业模式从0到1 判断标准"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-07728229",
+    "resolved": false,
+    "createdAt": 1786919308319
+  },
+  {
+    "type": "suggestion",
+    "title": "行业生命周期分析框架",
+    "description": "本书第1章专门讨论\"行业不同发展阶段的分析重点\"，与 wiki 中已有的 `S曲线阶段判定` 视角不同——前者关注宏观产业周期（导入/成长/成熟/衰退），后者似乎偏向微观产品/技术曲线。两个概念并存但未见关联页面，建议新建独立的\"行业生命周期\"页面并建立与 S 曲线的对照关系。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T124254--伴读-如何快速了解一个行业__reading.md",
+    "affectedPages": [
+      "wiki/concepts/S曲线阶段判定.md",
+      "wiki/concepts/行业生命周期.md"
+    ],
+    "searchQueries": [
+      "行业生命周期 导入期 成长期 成熟期 衰退期 分析框架",
+      "industry lifecycle stage analysis investment",
+      "PEST 行业阶段 投资分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a82262a8",
+    "resolved": false,
+    "createdAt": 1786919308319
+  },
+  {
+    "type": "missing-page",
+    "title": "市场规模测算方法",
+    "description": "本书第3章（规模性）系统讨论了市场规模的定义口径、测算方法和\"够大\"的判断标准，这是行业研究和投资分析的核心工具，但 wiki 中尚无对应概念页。当前只有 `宽基指数`、`三层稀缺资产` 等分散概念，缺少对 TAM/SAM/SOM 或类似口径的系统整理。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T124254--伴读-如何快速了解一个行业__reading.md",
+    "affectedPages": [
+      "wiki/concepts/市场规模测算方法.md"
+    ],
+    "searchQueries": [
+      "TAM SAM SOM 市场规模测算 投资分析",
+      "市场规模估算方法 top down bottom up",
+      "行业市场规模 测算口径"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fe64c892",
+    "resolved": false,
+    "createdAt": 1786919308319
+  },
+  {
+    "type": "missing-page",
+    "title": "麦肯锡组织实体缺失",
+    "description": "肖璟的麦肯锡12年研究分析师背景是全书方法论的来源背书，但wiki中尚无麦肯锡实体页。作为\"麦肯锡内部分析师训练心法\"的来源机构，补充此页有助于建立方法论可信度的上下文。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T215135--拆书-如何快速了解一个行业__book.md",
+    "affectedPages": [
+      "SEARCH: 麦肯锡 行业研究方法 分析师培训 内部方法论 | mckinsey industry research methodology analyst training"
+    ],
+    "searchQueries": [
+      "麦肯锡 行业研究方法 分析师培训 内部方法论",
+      "mckinsey industry research methodology analyst training"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0ebe8666",
+    "resolved": false,
+    "createdAt": 1786920107133
+  },
+  {
+    "type": "missing-page",
+    "title": "刘小鹰/老鹰基金实体缺失",
+    "description": "书中引用老鹰基金刘小鹰\"细分市场容量看不到500亿的基本不投\"作为TAM判断标准，这是全书最具操作性的投资决策门槛之一。若用户有二级/一级市场投资跟踪需求，补充此实体有助于追溯阈值来源和后续验证。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T215135--拆书-如何快速了解一个行业__book.md",
+    "affectedPages": [
+      "SEARCH: 老鹰基金 刘小鹰 投资观点 二级市场 | 刘小鹰 老鹰基金 投资 500亿 TAM",
+      "SEARCH: 老鹰基金 刘小鹰 投资观点 TAM 500亿 | 刘小鹰 老鹰基金 投资 一级市场"
+    ],
+    "searchQueries": [
+      "老鹰基金 刘小鹰 投资观点 二级市场",
+      "刘小鹰 老鹰基金 投资 500亿 TAM",
+      "老鹰基金 刘小鹰 投资观点 TAM 500亿",
+      "刘小鹰 老鹰基金 投资 一级市场"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fe735a03",
+    "resolved": false,
+    "createdAt": 1786920107133
+  },
+  {
+    "type": "suggestion",
+    "title": "产业生命周期与S曲线交叉深化",
+    "description": "描述：[[S曲线阶段判定]] 与本书提出的产业生命周期框架高度重合但角度不同。建议在两个页面互链，并在 synthesis 页面\n\n现在输出所有 FILE 块供批准。\n\n\n\n所有文件尚未创建，等待权限批准。以下是一次性输出全部 FILE 块：\n\n---FILE: wiki/sources/5-notes--34-20260531t215135-拆书-如何快速了解一个行业book--ffnop4.md---\n---\ntype: source\ntitle: 拆书《如何快速了解一个行业》— 肖璟：一套可复用的行业研究框架\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, type/book]\nrelated: [肖璟, 假设驱动研究, 行业资讯料理法, 报告幻觉, 产业链利润分配, 行业景气度跟踪, S曲线阶段判定, 前置信号-财报滞后性, 产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\nauthors: [肖璟]\nyear: null\nurl: \"\"\nvenue: \"\"\n---\n# 拆书《如何快速了解一个行业》\n\n**作者：肖璟 | 原书：《如何快速了解一个行业》**\n\n---\n\n## 核心问题\n\n本书回答的不是\"行业研究怎么做\"（商学院课本早已教过 PEST、波特五力），而是：\n\n> **为什么你学了一堆模型，到了老板面前还是一问就倒？**\n\n肖璟在麦肯锡做了 12 年研究分析师，亲手带过大量名校实习生（985/211、常春藤、券商研究部背景）。这些人简历漂亮，但在真实项目里照样眉毛胡子一把抓，生搬硬套模型，不得要领。\n\n痛点是：**理论与实战之间的鸿沟**——课本教的是零散的概念模型，彼此割裂，拼出来的报告应付外行可以，遇到真懂的老板百分之百被打回去。\n\n本书的价值在于：**把麦肯锡内部训练分析师的那套心法系统性地写出来**，填平那条鸿沟。目标读者是投资者、创业者、咨询顾问——需要在有限时间内做出\"够用判断\"的人，而非追求完美报告的研究员。\n\n---\n\n## 基础假设\n\n1. **行业研究是有方法论的，方法论可以被系统传授。** 一个聪明的外行可以在较短时间内达到及格线以上的行业认知。\n2. **行业研究的终极目的是做决策，不是写报告。** 分析本身没有价值，分析驱动的判断才有价值。追求\"可行动性\"而非\"完备性\"。\n3. **产业生命周期是行业分析的第一性原理。** 阶段不同，分析重点不同。\n4. **信息差是研究的变现路径。** 研究能赚钱，靠的是时间差、广度差、深度差。\n\n---\n\n## 核心框架：产业生命周期 × 分析维度矩阵\n\n六个分析维度（产业生命周期阶段→商业模式→市场规模→竞争格局→产业链→景气度指标）**不是平行罗列，而是按阶段取舍**：\n\n| 生命周期阶段 | 核心问题 | 分析重点 |\n|------------|---------|---------|\n| 导入期 | 商业模式成立吗？ | 商业模式验证 |\n| 成长期 | 市场空间有多大？ | 市场规模测算（TAM/SAM/SOM） |\n| 成熟期 | 蛋糕怎么分？ | 竞争格局（CRn集中度） |\n| 衰退期 | 谁在退出？ | 替代品威胁 |\n\n**全书最独占的 move：** 不是 PEST，不是波特五力，而是**用生命周期给所有分析维度排优先级**。\n\n---\n\n## 核心工具与方法\n\n### 产业生命周期四阶段\n\n- 导入期：商业模式验证，新车渗透率 < 10%\n- 成长期：市场空间测算，新车渗透率 10%～饱和\n- 成熟期：竞争格局分析，新车渗透率趋稳\n- 衰退期：替代品威胁评估\n\n**关键操作指标：新车渗透率 vs 存量渗透率**——用\"新车渗透率\"而非\"存量渗透率\"判断行业阶段，因为不同行业替换周期不同（汽车替换周期约 10 年，不能刻舟求剑）。详见 [[新车渗透率vs存量渗透率]]。\n\n### CRn 行业集中度四分法\n\n| 类型 | CR8 范围 | 特征 |\n|------|---------|------|\n| 分散竞争型 | CR8 < 20% | 无龙头，价格战常见 |\n| 低集中竞争型 | 20% ≤ CR8 < 40% | 初步形成梯队 |\n| 低集中寡占型 | 40% ≤ CR8 < 70% | 龙头初显 |\n| 极高寡占型 | 70% ≤ CR8 ≤ 100% | 双寡头或一超众弱 |\n\n详见 [[CRn行业集中度四分法]]。\n\n### TAM / SAM / SOM 三级市场规模\n\n| 口径 | 全称 | 含义 | 肖璟的比喻 |\n|------|------|------|----------|\n| TAM | Total Addressable Market | 潜在市场天花板 | 盒子有多大 |\n| SAM | Serviceable Addressable Market | 可服务市场 | 现在的蛋糕有多大 |\n| SOM | Serviceable Obtainable Market | 可获得市场 | 你能分到多少 |\n\n公式：\n- 渗透率 = SAM / TAM\n- 市场份额 = SOM / SAM\n\n**投资决策口径**（引用老鹰基金刘小鹰）：细分市场容量看不到 500 亿的基本不投（针对一级市场）。详见 [[TAM-SAM-SOM市场规模口径]]。\n\n### 三种信息差\n\n| 信息差类型 | 含义 | 获取路径 |\n|-----------|------|---------|\n| 时间差 | 比别人快 | 另类数据（爬虫、卫星图、草根调研） |\n| 广度差 | 比别人知道得多 | 多元思维模型（芒格 Lollapalooza 效应） |\n| 深度差 | 比别人看得更细 | 经验积累、垂直深耕 |\n\n详见 [[三种信息差]]。\n\n---\n\n## 全书结论（压缩版）\n\n> 给你一套框架（生命周期 × 六维度），教你怎么用（市场规模测算、竞争格局分析、景气度预判），告诉你怎么变现（三种信息差），然后给你一堆工具（数据源、AI 工具、搜索技巧）。\n\n全书最锋利的隐含判断：\n\n> **大多数行业研究报告之所以没用，是因为分析师不知道自己在哪个阶段、应该回答什么问题。**\n\n---\n\n## 与 wiki 已有内容的关联\n\n- [[假设驱动研究]] — 直接对应，本书是假设驱动方法论的行业研究版本\n- [[行业资讯料理法]] — 直接对应，本书第 11 章即讲此\n- [[报告幻觉]] — 本书批判的核心认知偏差\n- [[产业链利润分配]] — 直接对应，本书第 5 章核心内容，与[[利润锚]]互补\n- [[行业景气度跟踪]] — 直接对应，本书第 8 章通用前置信号框架\n- [[S曲线阶段判定]] — 强化关系，S曲线与产业生命周期高度重合，可做交叉引用\n- [[前置信号-财报滞后性]] — 延伸关系，三种信息差中的\"时间差\"正是前置信号的核心\n- [[行业分类-利润来源视角]] — 互补关系，本书补充了生命周期视角下的行业分类方法\n- [[集中度风险]] — 扩展关系，本书提供了 CRn 四分法标准，可嵌入此概念页\n\n---\n\n## 本书局限与适用边界\n\n- 方法论偏一级市场视角（TAM 500 亿线），二级市场投资者需调整阈值判断\n- 产业生命周期判定依赖渗透率等先行指标，但不同行业替换周期差异大，需结合行业特性灵活调整\n- 经典框架（PEST、波特五力）被定位为\"不够用\"而非\"无用\"——是补充关系，非替代关系\n- AI 工具定位为\"研究助手而非判断替代品\"\n- 与[[增长率陷阱]]存在表面张力：西格尔强调\"已计入股价的增长不可投资\"，肖璟强调\"成长期需测算空间\"——实质不矛盾，前者针对二级市场估值，后者针对一级市场判断\n\n---END FILE---\n---FILE: wiki/concepts/产业生命周期-行业分析第一性原理.md---\n---\ntype: concept\ntitle: 产业生命周期——行业分析第一性原理\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [S曲线阶段判定, 新车渗透率vs存量渗透率, CRn行业集中度四分法, 假设驱动研究, 行业资讯料理法, 行业景气度跟踪]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 产业生命周期——行业分析第一性原理\n\n行业分析的底层变量是**产业所处生命周期阶段**——阶段不同，分析重点不同，不能用同一套模板套所有行业。这是肖璟《如何快速了解一个行业》全书的脊柱，也是区别于商学院割裂模型教学的核心洞见。\n\n---\n\n## 四阶段划分\n\n| 阶段 | 核心问题 | 分析重点 | 典型指标 |\n|------|---------|---------|---------|\n| 导入期 | 商业模式成立吗？ | 商业模式验证 | 新车渗透率 < 10% |\n| 成长期 | 市场空间有多大？ | 市场规模测算 | 新车渗透率 10%～饱和 |\n| 成熟期 | 蛋糕怎么分？ | 竞争格局（CRn集中度） | 新车渗透率趋稳，CRn上升 |\n| 衰退期 | 谁在退出？ | 替代品威胁 | 新车渗透率下滑 |\n\n---\n\n## 六个分析维度按阶段取舍\n\n六个维度（产业生命周期阶段→商业模式→市场规模→竞争格局→产业链→景气度指标）**不是平行罗列，而是有先后逻辑**——先判断阶段，再按阶段决定重点看哪几个维度。\n\n- **导入期**：聚焦商业模式是否成立，市场规模测算优先级低\n- **成长期**：聚焦市场空间，竞争格局分析次之\n- **成熟期**：聚焦竞争格局，产业链利润分布优先级上升\n- **衰退期**：聚焦替代品威胁，景气度指标关注边际变化\n\n---\n\n## 全书最锋利的隐含判断\n\n> 大多数行业研究报告之所以没用，是因为分析师不知道自己在哪个阶段、应该回答什么问题。\n\n脱离具体行业，这个判断对任何需要做决策的人都成立——先问\"我们在哪\"，再问\"该看什么\"。\n\n---\n\n## 与相关概念的关系\n\n- [[S曲线阶段判定]]：两者高度重合，S曲线是产业生命周期的数学表达，本书的贡献在于给出了具体操作口径（新车渗透率阈值）\n- [[新车渗透率vs存量渗透率]]：用于判断生命周期的核心操作指标\n- [[CRn行业集中度四分法]]：成熟期的核心分析工具，集中度随生命周期演变\n- [[假设驱动研究]]：产业生命周期判断本身就是提出并验证假设的过程\n- [[行业资讯料理法]]：信息处理流程服务于生命周期判断\n\n---\n\n## 局限与边界\n\n- 生命周期判定依赖渗透率等先行指标，但不同行业替换周期不同，需结合行业特性调整\n- 本书偏一级市场视角，二级市场投资者需注意阈值调整\n- 经典分析框架（PEST、波特五力）未被否定，只是被定位为\"不够用\"——它们是补充，不是替代\n- 与[[增长率陷阱]]存在表面张力：西格尔强调\"已计入股价的增长不可投资\"，本书强调\"成长期需测算空间\"——前者针对二级市场估值，后者针对一级市场判断\n\n---END FILE---\n---FILE: wiki/concepts/TAM-SAM-SOM市场规模口径.md---\n---\ntype: concept\ntitle: TAM / SAM / SOM 市场规模口径\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 新车渗透率vs存量渗透率, 集中度风险, 行业分类-利润来源视角]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# TAM / SAM / SOM 市场规模口径\n\n一级市场投资决策的必要判断工具，用于量化市场天花板与可获取份额。\n\n---\n\n## 三级定义\n\n| 口径 | 全称 | 含义 | 肖璟的比喻 |\n|------|------|------|----------|\n| TAM | Total Addressable Market | 潜在市场天花板 | 盒子有多大 |\n| SAM | Serviceable Addressable Market | 可服务市场 | 现在的蛋糕有多大 |\n| SOM | Serviceable Obtainable Market | 可获得市场 | 你能分到多少 |\n\n---\n\n## 核心公式\n\n```\n渗透率 = SAM / TAM\n市场份额 = SOM / SAM\n```\n\n---\n\n## 投资决策口径\n\n**肖璟引用老鹰基金刘小鹰**：细分市场容量看不到 500 亿的基本不投。\n\n这是对 TAM 的硬性门槛判断，主要针对一级市场（VC/PE）。二级市场投资者需根据估值逻辑调整阈值。\n\n---\n\n## 与产业生命周期的关系\n\n| 生命周期阶段 | TAM/SAM/SOM 分析重点 |\n|------------|---------------------|\n| 导入期 | 重点测算 TAM，判断天花板是否足够高 |\n| 成长期 | 重点测算 SAM，判断当前市场空间与增速 |\n| 成熟期 | 重点测算 SOM，判断能否在现有格局中分得份额 |\n| 衰退期 | 三者均趋于收缩，重点转向替代品威胁评估 |\n\n此口径在 [[产业生命周期-行业分析第一性原理]] 框架下有明确的阶段优先级，不应脱离阶段孤立使用。\n\n---\n\n## 局限\n\n- TAM/SAM/SOM 本身是公开资料中的常见工具，肖璟的贡献在于给出了**操作口径**（新车渗透率、500 亿线）和**与生命周期的绑定关系**\n- 不同行业的 TAM 计算方式差异大，需结合行业特性调整\n- 500 亿线是 VC/PE 口径，二级市场应用需谨慎\n- 与[[增长率陷阱]]存在张力：TAM 大不等于投资价值高，需结合估值阶段判断\n\n---END FILE---\n---FILE: wiki/concepts/CRn行业集中度四分法.md---\n---\ntype: concept\ntitle: CRn 行业集中度四分法\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 集中度风险, 产业链利润分配, 行业分类-利润来源视角]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# CRn 行业集中度四分法\n\n量化竞争格局的标准工具，由肖璟在《如何快速了解一个行业》中系统阐述。\n\n---\n\n## 四分法标准\n\n| 类型 | CR8 范围 | 特征描述 | 典型表现 |\n|------|---------|---------|---------|\n| 分散竞争型 | CR8 < 20% | 无龙头，参与者众多 | 价格战常见，利润薄 |\n| 低集中竞争型 | 20% ≤ CR8 < 40% | 初步形成梯队 | 龙头初显，竞争仍激烈 |\n| 低集中寡占型 | 40% ≤ CR8 < 70% | 龙头格局初步稳定 | 头部占据主要利润 |\n| 极高寡占型 | 70% ≤ CR8 ≤ 100% | 双寡头或一超众弱 | 龙头定价权强，利润集中 |\n\nCRn 中 n 通常取 3、4、5、8，本书以 CR8 为主。\n\n---\n\n## 与产业生命周期的关系\n\n行业集中度随生命周期演变是本书的核心实证发现之一：\n\n- **导入期**：CRn 极低（< 10%），参与者鱼龙混杂\n- **成长期**：CRn 快速上升，龙头开始涌现\n- **成熟期**：CRn 趋稳，进入四分法中的某一档\n- **衰退期**：CRn 可能下降（弱者退出慢）或维持（强者通吃）\n\n书中案例：白酒/空调/挖掘机/智能手机四行业的 CRn 演变轨迹，演示了从分散竞争→极高寡占的典型路径。\n\n---\n\n## 与营业利润率的关系\n\n本书提出一个经验性观察：**行业集中度与营业利润率呈正向关系**——CRn 越高，头部企业的议价能力和利润捕获能力越强，行业平均利润率越高。\n\n这与 [[产业链利润分配]] 和 [[利润锚]] 形成呼应。\n\n---\n\n## 局限\n\n- CR8 阈值是经验性的，不同行业存在差异\n- 需结合 [[集中度风险]] 综合判断——高集中度不一定是好事（反垄断风险、单一客户依赖）\n- 中国市场与海外市场的集中度演进路径可能存在制度性差异\n- 在数字经济时代，网络效应可能导致集中度超越传统CRn阈值（如平台型市场）\n\n---END FILE---\n---FILE: wiki/concepts/三种信息差.md---\n---\ntype: concept\ntitle: 三种信息差\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 前置信号-财报滞后性, 假设驱动研究, 行业资讯料理法]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 三种信息差\n\n研究的价值创造机制——研究能赚钱，靠的是信息差，而非信息本身。这是连接研究与投资决策的桥梁概念。\n\n---\n\n## 三种类型\n\n| 信息差类型 | 含义 | 获取路径 | 典型手段 |\n|-----------|------|---------|---------|\n| 时间差 | 比别人快 | 另类数据 | 爬虫、卫星图、草根调研 |\n| 广度差 | 比别人知道得多 | 多元思维模型 | 芒格 Lollapalooza 效应 |\n| 深度差 | 比别人看得更细 | 经验积累、垂直深耕 | 长期跟踪、深度访谈 |\n\n---\n\n## 变现路径\n\n| 信息差类型 | 变现层面 | 操作方式 |\n|-----------|---------|---------|\n| 时间差 | 交易层面 | 在信息被市场定价之前行动 |\n| 广度差 | 配置层面 | 跨行业/跨资产类别的视角差异 |\n| 深度差 | 选股层面 | 对特定公司的理解深度形成 alpha |\n\n---\n\n## 与前置信号的关系\n\n**时间差正是前置信号的核心。** [[前置信号-财报滞后性]] 中的\"领先指标\"本质上就是时间差的一种——在财报发布之前，通过高频数据、草根调研等手段提前感知行业变化。\n\n---\n\n## 局限与思考\n\n- 时间差依赖另类数据，成本较高，难以规模化\n- 广度差需要长期积累多元思维模型，非短期可获\n- 深度差依赖个人经验，难以团队化复制\n- 在 AI 时代，时间差的获取成本正在快速下降，广度差和深度差的价值相对上升\n- 三种信息差可以叠加使用——芒格的\"Lollapalooza效应\"即指多种信息差同时作用时产生的放大效应\n\n---\n\n## 与生命周期框架的关系\n\n在 [[产业生命周期-行业分析第一性原理]] 框架下，三种信息差可分配至不同阶段：\n\n- **导入期**：深度差最重要——需要对商业模式进行深度验证\n- **成长期**：时间差最重要——需要快于市场发现空间\n- **成熟期**：广度差 + 深度差——需要在稳定格局中找到边际变化\n- **衰退期**：时间差——需要在市场确认衰退前提前退出\n\n---END FILE---\n---FILE: wiki/concepts/新车渗透率vs存量渗透率.md---\n---\ntype: concept\ntitle: 新车渗透率 vs 存量渗透率\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, S曲线阶段判定]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 新车渗透率 vs 存量渗透率\n\n判断行业生命周期阶段的关键操作指标。肖璟强调：必须用\"新车渗透率\"而非\"存量渗透率\"，因为不同行业的替换周期差异巨大。\n\n---\n\n## 核心原则\n\n**渗透率 = 当前销量 / 潜在最大销量**\n\n但\"潜在最大销量\"的口径因行业而异：\n- 汽车行业：潜在最大销量 ≈ 新车年销量上限（替换周期约 10 年）\n- 手机行业：替换周期约 2-3 年\n- 家电行业：替换周期约 8-10 年\n\n用存量渗透率（保有量/总人口）会严重低估处于成长期的行业空间，因为存量数据的分母是历史累计，掩盖了年替换需求。\n\n---\n\n## 与产业生命周期的绑定\n\n| 阶段 | 新车渗透率区间 | 判断依据 |\n|------|-------------|---------|\n| 导入期 | < 10% | 早期采用者阶段，商业模式验证中 |\n| 成长期 | 10% ～ 饱和 | 大众市场接受，增速最快 |\n| 成熟期 | 趋稳 | 接近替换周期上限 |\n| 衰退期 | 下滑 | 被替代品侵蚀 |\n\n---\n\n## 实操意义\n\n1. **避免刻舟求剑**：不能套用某一行业的渗透率阈值来判断另一行业\n2. **选择正确的分母**：用年新车销量而非累计保有量作为分母\n3. **与 TAM 口径联动**：新车渗透率 = SAM/TAM 中 SAM 的实际测算工具\n\n---\n\n## 局限\n\n- 不同行业的\"饱和\"定义不同，需要结合替换周期判断\n- 政策干预（如补贴退坡）会扭曲渗透率曲线\n- 技术突破可能导致渗透率曲线跳跃式变化（如 AI 手机）\n- 需结合 [[产业生命周期-行业分析第一性原理]] 综合判断，不可替代阶段定性分析\n\n---END FILE---\n---FILE: wiki/entities/肖璟.md---\n---\ntype: entity\ntitle: 肖璟\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [person, author, finance, consulting]\nrelated: [产业生命周期-行业分析第一性原理, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率, TAM-SAM-SOM市场规模口径, 5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad]\nsources: [\"notes/20260531T124254--伴读-如何快速了解一个行业__reading.md\", \"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 肖璟\n\n麦肯锡前研究分析师，12 年行业研究经验。著有《如何快速了解一个行业》，系统输出麦肯锡内部分析师训练心法。\n\n---\n\n## 背景\n\n- 麦肯锡 12 年研究分析师\n- 亲手带过大量名校实习生（985/211、常春藤、券商研究部背景）\n- 观察到的核心痛点：简历漂亮的人在真实项目里照样眉毛胡子一把抓，生搬硬套模型，不得要领\n\n---\n\n## 核心贡献\n\n肖璟的著作填补了商学院理论与投资实战之间的鸿沟。其核心贡献可概括为三点：\n\n1. **产业生命周期作为第一性原理**：将行业所处阶段作为分析维度的优先级排序变量，而非并列罗列六个维度\n2. **操作口径的系统化**：给出新车渗透率、CRn 四分法、TAM/SAM/SOM 三级口径的具体使用规则\n3. **信息差变现路径**：将研究价值锚定在时间差、广度差、深度差三种信息差上\n\n---\n\n## 代表作\n\n- 《如何快速了解一个行业》\n\n---\n\n## 与 wiki 已有内容的关系\n\n- [[5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad]] — 伴读源，与本书拆书互为泛读/精读版本\n- [[产业生命周期-行业分析第一性原理]] — 本书框架脊柱\n- [[TAM-SAM-SOM市场规模口径]] — 本书核心工具之一\n- [[CRn行业集中度四分法]] — 本书核心工具之二\n- [[三种信息差]] — 本书价值变现框架\n- [[新车渗透率vs存量渗透率]] — 本书核心操作指标\n\n---END FILE---\n---FILE: wiki/sources/5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad.md---\n---\ntype: source\ntitle: \"伴读：如何快速了解一个行业\"\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, type/reading]\nrelated: [假设驱动研究, 行业资讯料理法, 报告幻觉, 产业链利润分配, 行业景气度跟踪, 肖璟, 产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率]\nsources: [\"notes/20260531T124254--伴读-如何快速了解一个行业__reading.md\"]\n---\n# 伴读：如何快速了解一个行业\n\n## 基本信息\n\n- **作者**：肖璟\n- **来源**：`/Users/haojunsheng\n\n所有文件均已准备好，等待权限批准。以下是完整输出：\n\n---FILE: wiki/sources/5-notes--34-20260531t215135-拆书-如何快速了解一个行业book--ffnop4.md---\n---\ntype: source\ntitle: 拆书《如何快速了解一个行业》— 肖璟：一套可复用的行业研究框架\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, type/book]\nrelated: [肖璟, 假设驱动研究, 行业资讯料理法, 报告幻觉, 产业链利润分配, 行业景气度跟踪, S曲线阶段判定, 前置信号-财报滞后性, 产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\nauthors: [肖璟]\nyear: null\nurl: \"\"\nvenue: \"\"\n---\n# 拆书《如何快速了解一个行业》\n\n**作者：肖璟 | 原书：《如何快速了解一个行业》**\n\n---\n\n## 核心问题\n\n本书回答的不是\"行业研究怎么做\"（商学院课本早已教过 PEST、波特五力），而是：\n\n> **为什么你学了一堆模型，到了老板面前还是一问就倒？**\n\n肖璟在麦肯锡做了 12 年研究分析师，亲手带过大量名校实习生（985/211、常春藤、券商研究部背景）。这些人简历漂亮，但在真实项目里照样眉毛胡子一把抓，生搬硬套模型，不得要领。\n\n痛点是：**理论与实战之间的鸿沟**——课本教的是零散的概念模型，彼此割裂，拼出来的报告应付外行可以，遇到真懂的老板百分之百被打回去。\n\n本书的价值在于：**把麦肯锡内部训练分析师的那套心法系统性地写出来**，填平那条鸿沟。目标读者是投资者、创业者、咨询顾问——需要在有限时间内做出\"够用判断\"的人，而非追求完美报告的研究员。\n\n---\n\n## 基础假设\n\n1. **行业研究是有方法论的，方法论可以被系统传授。** 一个聪明的外行可以在较短时间内达到及格线以上的行业认知。\n2. **行业研究的终极目的是做决策，不是写报告。** 分析本身没有价值，分析驱动的判断才有价值。追求\"可行动性\"而非\"完备性\"。\n3. **产业生命周期是行业分析的第一性原理。** 阶段不同，分析重点不同。\n4. **信息差是研究的变现路径。** 研究能赚钱，靠的是时间差、广度差、深度差。\n\n---\n\n## 核心框架：产业生命周期 × 分析维度矩阵\n\n六个分析维度（产业生命周期阶段→商业模式→市场规模→竞争格局→产业链→景气度指标）**不是平行罗列，而是按阶段取舍**：\n\n| 生命周期阶段 | 核心问题 | 分析重点 |\n|------------|---------|---------|\n| 导入期 | 商业模式成立吗？ | 商业模式验证 |\n| 成长期 | 市场空间有多大？ | 市场规模测算（TAM/SAM/SOM） |\n| 成熟期 | 蛋糕怎么分？ | 竞争格局（CRn集中度） |\n| 衰退期 | 谁在退出？ | 替代品威胁 |\n\n**全书最独占的 move：** 不是 PEST，不是波特五力，而是**用生命周期给所有分析维度排优先级**。\n\n---\n\n## 核心工具与方法\n\n### 产业生命周期四阶段\n\n- 导入期：商业模式验证，新车渗透率 < 10%\n- 成长期：市场空间测算，新车渗透率 10%～饱和\n- 成熟期：竞争格局分析，新车渗透率趋稳\n- 衰退期：替代品威胁评估\n\n**关键操作指标：新车渗透率 vs 存量渗透率**——用\"新车渗透率\"而非\"存量渗透率\"判断行业阶段，因为不同行业替换周期不同（汽车替换周期约 10 年，不能刻舟求剑）。详见 [[新车渗透率vs存量渗透率]]。\n\n### CRn 行业集中度四分法\n\n| 类型 | CR8 范围 | 特征 |\n|------|---------|------|\n| 分散竞争型 | CR8 < 20% | 无龙头，价格战常见 |\n| 低集中竞争型 | 20% ≤ CR8 < 40% | 初步形成梯队 |\n| 低集中寡占型 | 40% ≤ CR8 < 70% | 龙头初显 |\n| 极高寡占型 | 70% ≤ CR8 ≤ 100% | 双寡头或一超众弱 |\n\n详见 [[CRn行业集中度四分法]]。\n\n### TAM / SAM / SOM 三级市场规模\n\n| 口径 | 全称 | 含义 | 肖璟的比喻 |\n|------|------|------|----------|\n| TAM | Total Addressable Market | 潜在市场天花板 | 盒子有多大 |\n| SAM | Serviceable Addressable Market | 可服务市场 | 现在的蛋糕有多大 |\n| SOM | Serviceable Obtainable Market | 可获得市场 | 你能分到多少 |\n\n公式：\n- 渗透率 = SAM / TAM\n- 市场份额 = SOM / SAM\n\n**投资决策口径**（引用老鹰基金刘小鹰）：细分市场容量看不到 500 亿的基本不投（针对一级市场）。详见 [[TAM-SAM-SOM市场规模口径]]。\n\n### 三种信息差\n\n| 信息差类型 | 含义 | 获取路径 |\n|-----------|------|---------|\n| 时间差 | 比别人快 | 另类数据（爬虫、卫星图、草根调研） |\n| 广度差 | 比别人知道得多 | 多元思维模型（芒格 Lollapalooza 效应） |\n| 深度差 | 比别人看得更细 | 经验积累、垂直深耕 |\n\n详见 [[三种信息差]]。\n\n---\n\n## 全书结论（压缩版）\n\n> 给你一套框架（生命周期 × 六维度），教你怎么用（市场规模测算、竞争格局分析、景气度预判），告诉你怎么变现（三种信息差），然后给你一堆工具（数据源、AI 工具、搜索技巧）。\n\n全书最锋利的隐含判断：\n\n> **大多数行业研究报告之所以没用，是因为分析师不知道自己在哪个阶段、应该回答什么问题。**\n\n---\n\n## 与 wiki 已有内容的关联\n\n- [[假设驱动研究]] — 直接对应，本书是假设驱动方法论的行业研究版本\n- [[行业资讯料理法]] — 直接对应，本书第 11 章即讲此\n- [[报告幻觉]] — 本书批判的核心认知偏差\n- [[产业链利润分配]] — 直接对应，本书第 5 章核心内容，与[[利润锚]]互补\n- [[行业景气度跟踪]] — 直接对应，本书第 8 章通用前置信号框架\n- [[S曲线阶段判定]] — 强化关系，S曲线与产业生命周期高度重合，可做交叉引用\n- [[前置信号-财报滞后性]] — 延伸关系，三种信息差中的\"时间差\"正是前置信号的核心\n- [[行业分类-利润来源视角]] — 互补关系，本书补充了生命周期视角下的行业分类方法\n- [[集中度风险]] — 扩展关系，本书提供了 CRn 四分法标准，可嵌入此概念页\n\n---\n\n## 本书局限与适用边界\n\n- 方法论偏一级市场视角（TAM 500 亿线），二级市场投资者需调整阈值判断\n- 产业生命周期判定依赖渗透率等先行指标，但不同行业替换周期差异大，需结合行业特性灵活调整\n- 经典框架（PEST、波特五力）被定位为\"不够用\"而非\"无用\"——是补充关系，非替代关系\n- AI 工具定位为\"研究助手而非判断替代品\"\n- 与[[增长率陷阱]]存在表面张力：西格尔强调\"已计入股价的增长不可投资\"，肖璟强调\"成长期需测算空间\"——实质不矛盾，前者针对二级市场估值，后者针对一级市场判断\n\n---END FILE---\n---FILE: wiki/concepts/产业生命周期-行业分析第一性原理.md---\n---\ntype: concept\ntitle: 产业生命周期——行业分析第一性原理\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [S曲线阶段判定, 新车渗透率vs存量渗透率, CRn行业集中度四分法, 假设驱动研究, 行业资讯料理法, 行业景气度跟踪]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 产业生命周期——行业分析第一性原理\n\n行业分析的底层变量是**产业所处生命周期阶段**——阶段不同，分析重点不同，不能用同一套模板套所有行业。这是肖璟《如何快速了解一个行业》全书的脊柱，也是区别于商学院割裂模型教学的核心洞见。\n\n---\n\n## 四阶段划分\n\n| 阶段 | 核心问题 | 分析重点 | 典型指标 |\n|------|---------|---------|---------|\n| 导入期 | 商业模式成立吗？ | 商业模式验证 | 新车渗透率 < 10% |\n| 成长期 | 市场空间有多大？ | 市场规模测算 | 新车渗透率 10%～饱和 |\n| 成熟期 | 蛋糕怎么分？ | 竞争格局（CRn集中度） | 新车渗透率趋稳，CRn上升 |\n| 衰退期 | 谁在退出？ | 替代品威胁 | 新车渗透率下滑 |\n\n---\n\n## 六个分析维度按阶段取舍\n\n六个维度（产业生命周期阶段→商业模式→市场规模→竞争格局→产业链→景气度指标）**不是平行罗列，而是有先后逻辑**——先判断阶段，再按阶段决定重点看哪几个维度。\n\n- **导入期**：聚焦商业模式是否成立，市场规模测算优先级低\n- **成长期**：聚焦市场空间，竞争格局分析次之\n- **成熟期**：聚焦竞争格局，产业链利润分布优先级上升\n- **衰退期**：聚焦替代品威胁，景气度指标关注边际变化\n\n---\n\n## 全书最锋利的隐含判断\n\n> 大多数行业研究报告之所以没用，是因为分析师不知道自己在哪个阶段、应该回答什么问题。\n\n脱离具体行业，这个判断对任何需要做决策的人都成立——先问\"我们在哪\"，再问\"该看什么\"。\n\n---\n\n## 与相关概念的关系\n\n- [[S曲线阶段判定]]：两者高度重合，S曲线是产业生命周期的数学表达，本书的贡献在于给出了具体操作口径（新车渗透率阈值）\n- [[新车渗透率vs存量渗透率]]：用于判断生命周期的核心操作指标\n- [[CRn行业集中度四分法]]：成熟期的核心分析工具，集中度随生命周期演变\n- [[假设驱动研究]]：产业生命周期判断本身就是提出并验证假设的过程\n- [[行业资讯料理法]]：信息处理流程服务于生命周期判断\n\n---\n\n## 局限与边界\n\n- 生命周期判定依赖渗透率等先行指标，但不同行业替换周期不同，需结合行业特性调整\n- 本书偏一级市场视角，二级市场投资者需注意阈值调整\n- 经典分析框架（PEST、波特五力）未被否定，只是被定位为\"不够用\"——它们是补充，不是替代\n- 与[[增长率陷阱]]存在表面张力：西格尔强调\"已计入股价的增长不可投资\"，本书强调\"成长期需测算空间\"——前者针对二级市场估值，后者针对一级市场判断\n\n---END FILE---\n---FILE: wiki/concepts/TAM-SAM-SOM市场规模口径.md---\n---\ntype: concept\ntitle: TAM / SAM / SOM 市场规模口径\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 新车渗透率vs存量渗透率, 集中度风险, 行业分类-利润来源视角]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# TAM / SAM / SOM 市场规模口径\n\n一级市场投资决策的必要判断工具，用于量化市场天花板与可获取份额。\n\n---\n\n## 三级定义\n\n| 口径 | 全称 | 含义 | 肖璟的比喻 |\n|------|------|------|----------|\n| TAM | Total Addressable Market | 潜在市场天花板 | 盒子有多大 |\n| SAM | Serviceable Addressable Market | 可服务市场 | 现在的蛋糕有多大 |\n| SOM | Serviceable Obtainable Market | 可获得市场 | 你能分到多少 |\n\n---\n\n## 核心公式\n\n```\n渗透率 = SAM / TAM\n市场份额 = SOM / SAM\n```\n\n---\n\n## 投资决策口径\n\n**肖璟引用老鹰基金刘小鹰**：细分市场容量看不到 500 亿的基本不投。\n\n这是对 TAM 的硬性门槛判断，主要针对一级市场（VC/PE）。二级市场投资者需根据估值逻辑调整阈值。\n\n---\n\n## 与产业生命周期的关系\n\n| 生命周期阶段 | TAM/SAM/SOM 分析重点 |\n|------------|---------------------|\n| 导入期 | 重点测算 TAM，判断天花板是否足够高 |\n| 成长期 | 重点测算 SAM，判断当前市场空间与增速 |\n| 成熟期 | 重点测算 SOM，判断能否在现有格局中分得份额 |\n| 衰退期 | 三者均趋于收缩，重点转向替代品威胁评估 |\n\n此口径在 [[产业生命周期-行业分析第一性原理]] 框架下有明确的阶段优先级，不应脱离阶段孤立使用。\n\n---\n\n## 局限\n\n- TAM/SAM/SOM 本身是公开资料中的常见工具，肖璟的贡献在于给出了**操作口径**（新车渗透率、500 亿线）和**与生命周期的绑定关系**\n- 不同行业的 TAM 计算方式差异大，需结合行业特性调整\n- 500 亿线是 VC/PE 口径，二级市场应用需谨慎\n- 与[[增长率陷阱]]存在张力：TAM 大不等于投资价值高，需结合估值阶段判断\n\n---END FILE---\n---FILE: wiki/concepts/CRn行业集中度四分法.md---\n---\ntype: concept\ntitle: CRn 行业集中度四分法\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 集中度风险, 产业链利润分配, 行业分类-利润来源视角]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# CRn 行业集中度四分法\n\n量化竞争格局的标准工具，由肖璟在《如何快速了解一个行业》中系统阐述。\n\n---\n\n## 四分法标准\n\n| 类型 | CR8 范围 | 特征描述 | 典型表现 |\n|------|---------|---------|---------|\n| 分散竞争型 | CR8 < 20% | 无龙头，参与者众多 | 价格战常见，利润薄 |\n| 低集中竞争型 | 20% ≤ CR8 < 40% | 初步形成梯队 | 龙头初显，竞争仍激烈 |\n| 低集中寡占型 | 40% ≤ CR8 < 70% | 龙头格局初步稳定 | 头部占据主要利润 |\n| 极高寡占型 | 70% ≤ CR8 ≤ 100% | 双寡头或一超众弱 | 龙头定价权强，利润集中 |\n\nCRn 中 n 通常取 3、4、5、8，本书以 CR8 为主。\n\n---\n\n## 与产业生命周期的关系\n\n行业集中度随生命周期演变是本书的核心实证发现之一：\n\n- **导入期**：CRn 极低（< 10%），参与者鱼龙混杂\n- **成长期**：CRn 快速上升，龙头开始涌现\n- **成熟期**：CRn 趋稳，进入四分法中的某一档\n- **衰退期**：CRn 可能下降（弱者退出慢）或维持（强者通吃）\n\n书中案例：白酒/空调/挖掘机/智能手机四行业的 CRn 演变轨迹，演示了从分散竞争→极高寡占的典型路径。\n\n---\n\n## 与营业利润率的关系\n\n本书提出一个经验性观察：**行业集中度与营业利润率呈正向关系**——CRn 越高，头部企业的议价能力和利润捕获能力越强，行业平均利润率越高。\n\n这与 [[产业链利润分配]] 和 [[利润锚]] 形成呼应。\n\n---\n\n## 局限\n\n- CR8 阈值是经验性的，不同行业存在差异\n- 需结合 [[集中度风险]] 综合判断——高集中度不一定是好事（反垄断风险、单一客户依赖）\n- 中国市场与海外市场的集中度演进路径可能存在制度性差异\n- 在数字经济时代，网络效应可能导致集中度超越传统CRn阈值（如平台型市场）\n\n---END FILE---\n---FILE: wiki/concepts/三种信息差.md---\n---\ntype: concept\ntitle: 三种信息差\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 前置信号-财报滞后性, 假设驱动研究, 行业资讯料理法]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 三种信息差\n\n研究的价值创造机制——研究能赚钱，靠的是信息差，而非信息本身。这是连接研究与投资决策的桥梁概念。\n\n---\n\n## 三种类型\n\n| 信息差类型 | 含义 | 获取路径 | 典型手段 |\n|-----------|------|---------|---------|\n| 时间差 | 比别人快 | 另类数据 | 爬虫、卫星图、草根调研 |\n| 广度差 | 比别人知道得多 | 多元思维模型 | 芒格 Lollapalooza 效应 |\n| 深度差 | 比别人看得更细 | 经验积累、垂直深耕 | 长期跟踪、深度访谈 |\n\n---\n\n## 变现路径\n\n| 信息差类型 | 变现层面 | 操作方式 |\n|-----------|---------|---------|\n| 时间差 | 交易层面 | 在信息被市场定价之前行动 |\n| 广度差 | 配置层面 | 跨行业/跨资产类别的视角差异 |\n| 深度差 | 选股层面 | 对特定公司的理解深度形成 alpha |\n\n---\n\n## 与前置信号的关系\n\n**时间差正是前置信号的核心。** [[前置信号-财报滞后性]] 中的\"领先指标\"本质上就是时间差的一种——在财报发布之前，通过高频数据、草根调研等手段提前感知行业变化。\n\n---\n\n## 局限与思考\n\n- 时间差依赖另类数据，成本较高，难以规模化\n- 广度差需要长期积累多元思维模型，非短期可获\n- 深度差依赖个人经验，难以团队化复制\n- 在 AI 时代，时间差的获取成本正在快速下降，广度差和深度差的价值相对上升\n- 三种信息差可以叠加使用——芒格的\"Lollapalooza效应\"即指多种信息差同时作用时产生的放大效应\n\n---\n\n## 与生命周期框架的关系\n\n在 [[产业生命周期-行业分析第一性原理]] 框架下，三种信息差可分配至不同阶段：\n\n- **导入期**：深度差最重要——需要对商业模式进行深度验证\n- **成长期**：时间差最重要——需要快于市场发现空间\n- **成熟期**：广度差 + 深度差——需要在稳定格局中找到边际变化\n- **衰退期**：时间差——需要在市场确认衰退前提前退出\n\n---END FILE---\n---FILE: wiki/concepts/新车渗透率vs存量渗透率.md---\n---\ntype: concept\ntitle: 新车渗透率 vs 存量渗透率\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, S曲线阶段判定]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 新车渗透率 vs 存量渗透率\n\n判断行业生命周期阶段的关键操作指标。肖璟强调：必须用\"新车渗透率\"而非\"存量渗透率\"，因为不同行业的替换周期差异巨大。\n\n---\n\n## 核心原则\n\n**渗透率 = 当前销量 / 潜在最大销量**\n\n但\"潜在最大销量\"的口径因行业而异：\n- 汽车行业：潜在最大销量 ≈ 新车年销量上限（替换周期约 10 年）\n- 手机行业：替换周期约 2-3 年\n- 家电行业：替换周期约 8-10 年\n\n用存量渗透率（保有量/总人口）会严重低估处于成长期的行业空间，因为存量数据的分母是历史累计，掩盖了年替换需求。\n\n---\n\n## 与产业生命周期的绑定\n\n| 阶段 | 新车渗透率区间 | 判断依据 |\n|------|-------------|---------|\n| 导入期 | < 10% | 早期采用者阶段，商业模式验证中 |\n| 成长期 | 10% ～ 饱和 | 大众市场接受，增速最快 |\n| 成熟期 | 趋稳 | 接近替换周期上限 |\n| 衰退期 | 下滑 | 被替代品侵蚀 |\n\n---\n\n## 实操意义\n\n1. **避免刻舟求剑**：不能套用某一行业的渗透率阈值来判断另一行业\n2. **选择正确的分母**：用年新车销量而非累计保有量作为分母\n3. **与 TAM 口径联动**：新车渗透率 = SAM/TAM 中 SAM 的实际测算工具\n\n---\n\n## 局限\n\n- 不同行业的\"饱和\"定义不同，需要结合替换周期判断\n- 政策干预（如补贴退坡）会扭曲渗透率曲线\n- 技术突破可能导致渗透率曲线跳跃式变化（如 AI 手机）\n- 需结合 [[产业生命周期-行业分析第一性原理]] 综合判断，不可替代阶段定性分析\n\n---END FILE---\n---FILE: wiki/entities/肖璟.md---\n---\ntype: entity\ntitle: 肖璟\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [person, author, finance, consulting]\nrelated: [产业生命周期-行业分析第一性原理, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率, TAM-SAM-SOM市场规模口径, 5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad]\nsources: [\"notes/20260531T124254--伴读-如何快速了解一个行业__reading.md\", \"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 肖璟\n\n麦肯锡前研究分析师，12 年行业研究经验。著有《如何快速了解一个行业》，系统输出麦肯锡内部分析师训练心法。\n\n---\n\n## 背景\n\n- 麦肯锡 12 年研究分析师\n- 亲手带过大量名校实习生（985/211、常春藤、券商研究部背景）\n- 观察到的核心痛点：简历漂亮的人在真实项目里照样眉毛胡子一把抓，生搬硬套模型，不得要领\n\n---\n\n## 核心贡献\n\n肖璟的著作填补了商学院理论与投资实战之间的鸿沟。其核心贡献可概括为三点：\n\n1. **产业生命周期作为第一性原理**：将行业所处阶段作为分析维度的优先级排序变量，而非并列罗列六个维度\n2. **操作口径的系统化**：给出新车渗透率、CRn 四分法、TAM/SAM/SOM 三级口径的具体使用规则\n3. **信息差变现路径**：将研究价值锚定在时间差、广度差、深度差三种信息差上\n\n---\n\n## 代表作\n\n- 《如何快速了解一个行业》\n\n---\n\n## 与 wiki 已有内容的关系\n\n- [[5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad]] — 伴读源，与本书拆书互为泛读/精读版本\n- [[产业生命周期-行业分析第一性原理]] — 本书框架脊柱\n- [[TAM-SAM-SOM市场规模口径]] — 本书核心工具之一\n- [[CRn行业集中度四分法]] — 本书核心工具之二\n- [[三种信息差]] — 本书价值变现框架\n- [[新车渗透率vs存量渗透率]] — 本书核心操作指标\n\n---END FILE---\n---FILE: wiki/sources/5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad.md---\n---\ntype: source\ntitle: \"伴读：如何快速了解一个行业\"\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, type/reading]\nrelated: [假设驱动研究, 行业资讯料理法, 报告幻觉, 产业链利润分配, 行业景气度跟踪, 肖璟, 产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率]\nsources: [\"notes/20260531T124254--伴读-如何快速了解一个行业__reading.md\"]\n---\n# 伴读：如何快速了解一个行业\n\n## 基本信息\n\n- **作者**：肖璟\n- **来源**：`/Users/haojunsheng/Downloads/如何\n\n所有写入命令已提交，等待权限批准。以下是完整输出：\n\n---FILE: wiki/sources/5-notes--34-20260531t215135-拆书-如何快速了解一个行业book--ffnop4.md---\n---\ntype: source\ntitle: 拆书《如何快速了解一个行业》— 肖璟：一套可复用的行业研究框架\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, type/book]\nrelated: [肖璟, 假设驱动研究, 行业资讯料理法, 报告幻觉, 产业链利润分配, 行业景气度跟踪, S曲线阶段判定, 前置信号-财报滞后性, 产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\nauthors: [肖璟]\nyear: null\nurl: \"\"\nvenue: \"\"\n---\n# 拆书《如何快速了解一个行业》\n\n**作者：肖璟 | 原书：《如何快速了解一个行业》**\n\n---\n\n## 核心问题\n\n本书回答的不是\"行业研究怎么做\"，而是：\n\n> **为什么你学了一堆模型，到了老板面前还是一问就倒？**\n\n肖璟在麦肯锡做了 12 年研究分析师，观察到的核心痛点是：**理论与实战之间的鸿沟**。\n\n---\n\n## 基础假设\n\n1. 行业研究是有方法论的，可以被系统传授\n2. 行业研究的终极目的是做决策，不是写报告\n3. **产业生命周期是行业分析的第一性原理**\n4. 信息差是研究的变现路径\n\n---\n\n## 核心框架：产业生命周期 × 分析维度矩阵\n\n| 生命周期阶段 | 核心问题 | 分析重点 |\n|------------|---------|---------|\n| 导入期 | 商业模式成立吗？ | 商业模式验证 |\n| 成长期 | 市场空间有多大？ | 市场规模测算（TAM/SAM/SOM） |\n| 成熟期 | 蛋糕怎么分？ | 竞争格局（CRn集中度） |\n| 衰退期 | 谁在退出？ | 替代品威胁 |\n\n**全书最独占的 move：** 用生命周期给所有分析维度排优先级。\n\n---\n\n## 核心工具\n\n### 产业生命周期四阶段\n\n关键操作指标：**新车渗透率 vs 存量渗透率**——详见 [[新车渗透率vs存量渗透率]]\n\n### CRn 行业集中度四分法\n\n详见 [[CRn行业集中度四分法]]\n\n### TAM / SAM / SOM 三级市场规模\n\n详见 [[TAM-SAM-SOM市场规模口径]]\n\n### 三种信息差\n\n详见 [[三种信息差]]\n\n---\n\n## 全书最锋利的隐含判断\n\n> **大多数行业研究报告之所以没用，是因为分析师不知道自己在哪个阶段、应该回答什么问题。**\n\n---\n\n## 与 wiki 已有内容的关联\n\n- [[假设驱动研究]] — 直接对应\n- [[行业资讯料理法]] — 直接对应，第 11 章\n- [[报告幻觉]] — 批判的核心认知偏差\n- [[产业链利润分配]] — 直接对应，第 5 章\n- [[行业景气度跟踪]] — 直接对应，第 8 章\n- [[S曲线阶段判定]] — 强化关系\n- [[前置信号-财报滞后性]] — 延伸关系，时间差即前置信号\n- [[集中度风险]] — 扩展关系，CRn 四分法可嵌入\n\n---\n\n## 局限与适用边界\n\n- 偏一级市场视角（TAM 500 亿线），二级市场需调整\n- 与[[增长率陷阱]]存在表面张力，但实质不矛盾\n- 经典框架定位为\"不够用\"而非\"无用\"\n\n---END FILE---\n---FILE: wiki/concepts/产业生命周期-行业分析第一性原理.md---\n---\ntype: concept\ntitle: 产业生命周期——行业分析第一性原理\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [S曲线阶段判定, 新车渗透率vs存量渗透率, CRn行业集中度四分法, 假设驱动研究, 行业资讯料理法, 行业景气度跟踪]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 产业生命周期——行业分析第一性原理\n\n行业分析的底层变量是**产业所处生命周期阶段**——阶段不同，分析重点不同。这是肖璟《如何快速了解一个行业》全书的脊柱。\n\n---\n\n## 四阶段划分\n\n| 阶段 | 核心问题 | 分析重点 | 典型指标 |\n|------|---------|---------|---------|\n| 导入期 | 商业模式成立吗？ | 商业模式验证 | 新车渗透率 < 10% |\n| 成长期 | 市场空间有多大？ | 市场规模测算 | 新车渗透率 10%～饱和 |\n| 成熟期 | 蛋糕怎么分？ | 竞争格局（CRn集中度） | 新车渗透率趋稳，CRn上升 |\n| 衰退期 | 谁在退出？ | 替代品威胁 | 新车渗透率下滑 |\n\n---\n\n## 六维度按阶段取舍\n\n六个维度（产业生命周期→商业模式→市场规模→竞争格局→产业链→景气度）**不是平行罗列，而是先判断阶段，再按阶段决定重点**。\n\n---\n\n## 全书最锋利判断\n\n> 大多数行业研究报告之所以没用，是因为分析师不知道自己在哪个阶段、应该回答什么问题。\n\n---\n\n## 与相关概念的关系\n\n- [[S曲线阶段判定]]：两者高度重合，本书贡献在于给出具体操作口径\n- [[新车渗透率vs存量渗透率]]：判断生命周期的核心操作指标\n- [[CRn行业集中度四分法]]：成熟期的核心分析工具\n- [[假设驱动研究]]：生命周期判断本身就是提出并验证假设的过程\n\n---\n\n## 局限\n\n- 不同行业替换周期不同，阈值需灵活调整\n- 与[[增长率陷阱]]存在表面张力，前者针对一级市场，后者针对二级市场\n- 经典框架（PEST、波特五力）被定位为\"不够用\"而非\"无用\"\n\n---END FILE---\n---FILE: wiki/concepts/TAM-SAM-SOM市场规模口径.md---\n---\ntype: concept\ntitle: TAM / SAM / SOM 市场规模口径\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 新车渗透率vs存量渗透率, 集中度风险, 行业分类-利润来源视角]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# TAM / SAM / SOM 市场规模口径\n\n一级市场投资决策的必要判断工具，用于量化市场天花板与可获取份额。\n\n---\n\n## 三级定义\n\n| 口径 | 全称 | 含义 | 肖璟的比喻 |\n|------|------|------|----------|\n| TAM | Total Addressable Market | 潜在市场天花板 | 盒子有多大 |\n| SAM | Serviceable Addressable Market | 可服务市场 | 现在的蛋糕有多大 |\n| SOM | Serviceable Obtainable Market | 可获得市场 | 你能分到多少 |\n\n---\n\n## 核心公式\n\n```\n渗透率 = SAM / TAM\n市场份额 = SOM / SAM\n```\n\n---\n\n## 投资决策口径\n\n**引用老鹰基金刘小鹰**：细分市场容量看不到 500 亿的基本不投。\n\n针对一级市场（VC/PE），二级市场投资者需调整阈值。\n\n---\n\n## 与产业生命周期的关系\n\n| 生命周期阶段 | 分析重点 |\n|------------|---------|\n| 导入期 | 重点测算 TAM，判断天花板 |\n| 成长期 | 重点测算 SAM，判断市场空间与增速 |\n| 成熟期 | 重点测算 SOM，判断份额获取能力 |\n| 衰退期 | 三者收缩，转向替代品威胁评估 |\n\n详见 [[产业生命周期-行业分析第一性原理]]。\n\n---\n\n## 局限\n\n- 肖璟的贡献在于给出操作口径（新车渗透率、500 亿线）和与生命周期的绑定关系\n- 500 亿线是 VC/PE 口径，二级市场应用需谨慎\n- 与[[增长率陷阱]]存在张力：TAM 大不等于投资价值高\n\n---END FILE---\n---FILE: wiki/concepts/CRn行业集中度四分法.md---\n---\ntype: concept\ntitle: CRn 行业集中度四分法\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 集中度风险, 产业链利润分配, 行业分类-利润来源视角]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# CRn 行业集中度四分法\n\n量化竞争格局的标准工具，由肖璟在《如何快速了解一个行业》中系统阐述。\n\n---\n\n## 四分法标准\n\n| 类型 | CR8 范围 | 特征 |\n|------|---------|------|\n| 分散竞争型 | CR8 < 20% | 无龙头，价格战常见 |\n| 低集中竞争型 | 20% ≤ CR8 < 40% | 初步形成梯队 |\n| 低集中寡占型 | 40% ≤ CR8 < 70% | 龙头格局初步稳定 |\n| 极高寡占型 | 70% ≤ CR8 ≤ 100% | 双寡头或一超众弱 |\n\n---\n\n## 与产业生命周期的关系\n\n- **导入期**：CRn 极低（< 10%），参与者鱼龙混杂\n- **成长期**：CRn 快速上升，龙头涌现\n- **成熟期**：CRn 趋稳，进入四分法某一档\n- **衰退期**：CRn 可能下降或维持\n\n书中案例：白酒/空调/挖掘机/智能手机四行业 CRn 演变轨迹。\n\n---\n\n## 与营业利润率的关系\n\n经验观察：**行业集中度与营业利润率呈正向关系**——CRn 越高，头部议价能力和利润捕获能力越强。\n\n与 [[产业链利润分配]] 和 [[利润锚]] 形成呼应。\n\n---\n\n## 局限\n\n- CR8 阈值是经验性的，不同行业存在差异\n- 需结合 [[集中度风险]] 综合判断\n- 数字经济时代网络效应可能导致集中度超越传统阈值\n\n---END FILE---\n---FILE: wiki/concepts/三种信息差.md---\n---\ntype: concept\ntitle: 三种信息差\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, 前置信号-财报滞后性, 假设驱动研究, 行业资讯料理法]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 三种信息差\n\n研究的价值创造机制——研究能赚钱，靠的是信息差，而非信息本身。\n\n---\n\n## 三种类型\n\n| 信息差类型 | 含义 | 获取路径 | 典型手段 |\n|-----------|------|---------|---------|\n| 时间差 | 比别人快 | 另类数据 | 爬虫、卫星图、草根调研 |\n| 广度差 | 比别人知道得多 | 多元思维模型 | 芒格 Lollapalooza 效应 |\n| 深度差 | 比别人看得更细 | 经验积累、垂直深耕 | 长期跟踪、深度访谈 |\n\n---\n\n## 变现路径\n\n| 信息差类型 | 变现层面 | 操作方式 |\n|-----------|---------|---------|\n| 时间差 | 交易层面 | 在信息被市场定价之前行动 |\n| 广度差 | 配置层面 | 跨行业/跨资产类别的视角差异 |\n| 深度差 | 选股层面 | 对特定公司的理解深度形成 alpha |\n\n---\n\n## 与前置信号的关系\n\n**时间差正是前置信号的核心。** [[前置信号-财报滞后性]] 中的\"领先指标\"本质上就是时间差的一种。\n\n---\n\n## 与生命周期的关系\n\n| 生命周期阶段 | 最重要的信息差 |\n|------------|--------------|\n| 导入期 | 深度差——对商业模式深度验证 |\n| 成长期 | 时间差——快于市场发现空间 |\n| 成熟期 | 广度差 + 深度差——找到边际变化 |\n| 衰退期 | 时间差——提前退出 |\n\n---\n\n## 局限\n\n- 时间差依赖另类数据，成本高\n- 广度差需长期积累\n- 深度差难以团队化复制\n- AI 时代时间差获取成本快速下降，广度差和深度差价值上升\n\n---END FILE---\n---FILE: wiki/concepts/新车渗透率vs存量渗透率.md---\n---\ntype: concept\ntitle: 新车渗透率 vs 存量渗透率\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, domain/invest, topic/industry-method, methodology]\nrelated: [产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, S曲线阶段判定]\nsources: [\"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 新车渗透率 vs 存量渗透率\n\n判断行业生命周期阶段的关键操作指标。必须用\"新车渗透率\"而非\"存量渗透率\"，因为不同行业替换周期差异巨大。\n\n---\n\n## 核心原则\n\n**渗透率 = 当前销量 / 潜在最大销量**\n\n| 行业 | 替换周期 | 潜在最大销量口径 |\n|------|---------|----------------|\n| 汽车 | ~10 年 | 新车年销量上限 |\n| 手机 | 2-3 年 | 年换机量 |\n| 家电 | 8-10 年 | 年替换需求 |\n\n用存量渗透率（保有量/总人口）会严重低估成长期行业空间。\n\n---\n\n## 与生命周期的绑定\n\n| 阶段 | 新车渗透率区间 |\n|------|-------------|\n| 导入期 | < 10% |\n| 成长期 | 10% ～ 饱和 |\n| 成熟期 | 趋稳 |\n| 衰退期 | 下滑 |\n\n---\n\n## 实操要点\n\n1. 避免刻舟求剑——不能套用某一行业阈值判断另一行业\n2. 选择正确分母：用年销量而非累计保有量\n3. 与 TAM 口径联动：新车渗透率 = SAM/TAM\n\n---\n\n## 局限\n\n- 不同行业\"饱和\"定义不同，需结合替换周期判断\n- 政策干预（如补贴退坡）会扭曲渗透率曲线\n- 技术突破可能导致曲线跳跃式变化\n- 需结合 [[产业生命周期-行业分析第一性原理]] 综合判断\n\n---END FILE---\n---FILE: wiki/entities/肖璟.md---\n---\ntype: entity\ntitle: 肖璟\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [person, author, finance, consulting]\nrelated: [产业生命周期-行业分析第一性原理, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率, TAM-SAM-SOM市场规模口径, 5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad]\nsources: [\"notes/20260531T124254--伴读-如何快速了解一个行业__reading.md\", \"notes/20260531T215135--拆书-如何快速了解一个行业__book.md\"]\n---\n# 肖璟\n\n麦肯锡前研究分析师，12 年行业研究经验。著有《如何快速了解一个行业》，系统输出麦肯锡内部分析师训练心法。\n\n---\n\n## 背景\n\n- 麦肯锡 12 年研究分析师\n- 亲手带过大量名校实习生（985/211、常春藤、券商研究部背景）\n- 核心观察：简历漂亮的人在真实项目里照样不得要领，痛点在于理论与实战之间的鸿沟\n\n---\n\n## 核心贡献\n\n1. **产业生命周期作为第一性原理**：将阶段作为分析维度优先级排序变量\n2. **操作口径系统化**：新车渗透率、CRn 四分法、TAM/SAM/SOM 三级口径\n3. **信息差变现路径**：时间差、广度差、深度差\n\n---\n\n## 代表作\n\n- 《如何快速了解一个行业》\n\n---\n\n## 与 wiki 关联\n\n- [[5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad]] — 伴读源\n- [[产业生命周期-行业分析第一性原理]] — 框架脊柱\n- [[CRn行业集中度四分法]] — 核心工具\n- [[三种信息差]] — 变现框架\n- [[新车渗透率vs存量渗透率]] — 核心操作指标\n- [[TAM-SAM-SOM市场规模口径]] — 核心工具\n\n---END FILE---\n---FILE: wiki/sources/5-notes--37-20260531t124254-伴读-如何快速了解一个行业reading--108z4ad.md---\n---\ntype: source\ntitle: \"伴读：如何快速了解一个行业\"\ncreated: 2026-08-17\nupdated: 2026-08-17\ntags: [domain/industry, type/reading]\nrelated: [假设驱动研究, 行业资讯料理法, 报告幻觉, 产业链利润分配, 行业景气度跟踪, 肖璟, 产业生命周期-行业分析第一性原理, TAM-SAM-SOM市场规模口径, CRn行业集中度四分法, 三种信息差, 新车渗透率vs存量渗透率]\nsources: [\"notes/20260531T124254--伴读-如何快速了解一个行业__reading.md\"]\n---\n# 伴读：如何快速了解一个行业\n\n与 [[5-notes--34-20260531t215135-拆书-如何快速了解一个行业book--ffnop4]] 互为泛读/精读版本。\n\n---\n\n## 基本信息\n\n- **作者**：肖璟\n- **伴读日期**：2026-05-31\n\n---\n\n## 骨架章标记\n\n**[骨] 需精读**：第1章、第2章、第3章、第5章、第10章、第11章\n\n**[肌] 可先流读**：第7章、第8章、第9章、第12章、第13章\n\n---\n\n## 核心主张\n\n1. 行业研究不是天赋，是方法论训练\n2. 框架必须连接到决策场景\n3. 专业研究 = 假设→证据→修正判断（区别于普通搜索：问题→资料→摘抄）\n4. AI 是研究助手而非判断替代品\n\n---\n\n## 关联来源\n\n- [[5-notes--34-20260531t215135-拆书-如何快速了解一个行业book--ffnop4]] — 精读版，补充全书框架与方法论\n- [[肖璟]] — 本书作者\n\n---\n\n## 与拆书页的关系\n\n伴读为泛读版本，侧重快速把握全书脉络；拆书为精读版本，侧重提取可操作框架（产业生命周期×六维度矩阵、CRn 四分法、TAM/SAM/SOM 口径、三种信息差）。两者互链，建议配合阅读。\n\n---END FILE---\n---REVIEW: suggestion | 麦肯锡组织实体缺失---\n描述：肖璟背景平台\"麦肯锡\"在 wiki 中尚无独立实体页面，但书中方法论来源与其实战背景紧密相关。若用户后续有相关研究需求可补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T215135--拆书-如何快速了解一个行业__book.md",
+    "affectedPages": [
+      "SEARCH: 麦肯锡 行业研究方法 分析师培训 内部方法论 | mckinsey industry research methodology analyst training"
+    ],
+    "searchQueries": [
+      "麦肯锡 行业研究方法 分析师培训 内部方法论",
+      "mckinsey industry research methodology analyst training"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-27a79e89",
+    "resolved": false,
+    "createdAt": 1786920107133
+  },
+  {
+    "type": "suggestion",
+    "title": "刘小鹰/老鹰基金实体缺失",
+    "description": "描述：书中引用老鹰基金刘小鹰\"细分市场容量看不到500亿的基本不投\"作为TAM判断标准，但未收录为实体。若用户有进一步投资跟踪需求建议补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T215135--拆书-如何快速了解一个行业__book.md",
+    "affectedPages": [
+      "SEARCH: 老鹰基金 刘小鹰 投资观点 二级市场 | 刘小鹰 老鹰基金 投资 500亿 TAM"
+    ],
+    "searchQueries": [
+      "老鹰基金 刘小鹰 投资观点 二级市场",
+      "刘小鹰 老鹰基金 投资 500亿 TAM"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-eeaff3ab",
+    "resolved": false,
+    "createdAt": 1786920107133
+  },
+  {
+    "type": "suggestion",
+    "title": "产业生命周期与S曲线阶段判定需明确区分",
+    "description": "两个页面现已并存（[[产业生命周期-行业分析第一性原理]] 与 [[S曲线阶段判定]]），分析称两者\"高度重合\"但未给出清晰的分野边界。若不加区分，读者会混淆：S曲线侧重数学形式的扩散曲线，产业生命周期侧重分析维度的阶段优先级。建议在两页互链处增加明确的差异说明。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T215135--拆书-如何快速了解一个行业__book.md",
+    "affectedPages": [
+      "wiki/concepts/S曲线阶段判定.md",
+      "wiki/concepts/产业生命周期-行业分析第一性原理.md"
+    ],
+    "searchQueries": [
+      "S曲线 产业生命周期 区别 投资分析",
+      "S-curve vs industry lifecycle stage analysis"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-aba9d72e",
+    "resolved": false,
+    "createdAt": 1786920107133
+  },
+  {
+    "type": "contradiction",
+    "title": "500亿TAM门槛在二级市场的适用性",
+    "description": "书中引用的一级市场500亿TAM门槛与用户的二级市场投资框架存在潜在张力。[[增长率陷阱]]强调\"已计入股价的增长不可投资\"，而[[TAM-SAM-SOM市场规模口径]]的核心门槛来自一级市场视角。建议在[[TAM-SAM-SOM市场规模口径]]页面增加一段二级市场适用边界的讨论——哪些情况下二级市场也需要看TAM（如成长股估值），哪些情况下TAM已反映在价格中。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T215135--拆书-如何快速了解一个行业__book.md",
+    "affectedPages": [
+      "wiki/concepts/TAM-SAM-SOM市场规模口径.md",
+      "wiki/concepts/增长率陷阱.md"
+    ],
+    "searchQueries": [
+      "二级市场 TAM 市场规模 估值适用性",
+      "500亿 TAM门槛 二级市场 vs 一级市场"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ee2bfe51",
+    "resolved": false,
+    "createdAt": 1786920107133
+  },
+  {
+    "type": "suggestion",
+    "title": "行业研究颗粒度问题未形成独立条目",
+    "description": "分析中多次提到\"行业研究的颗粒度问题\"（横向/纵向界定行业边界、\"大行业小公司\"现象），这是实操中最容易出错的陷阱之一，但在wiki中尚未形成独立概念页。建议在[[产业生命周期-行业分析第一性原理]]或[[产业链利润分配]]页面增加一个\"颗粒度问题\"的专节，或在synthesis页面中补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260531T215135--拆书-如何快速了解一个行业__book.md",
+    "affectedPages": [
+      "wiki/concepts/产业生命周期-行业分析第一性原理.md",
+      "wiki/concepts/产业链利润分配.md"
+    ],
+    "searchQueries": [
+      "行业研究颗粒度 大行业小公司 行业边界界定",
+      "industry segmentation granularity research"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3b492076",
+    "resolved": false,
+    "createdAt": 1786920107133
+  },
+  {
+    "type": "missing-page",
+    "title": "标题9要素没有独立页面",
+    "description": "\"标题9要素\"（冲突/悬念/反差/热词/数字/疑问/诱惑/争议/好奇）是源文档中的核心方法论组件，但目前没有独立页面。它可与[[3字法-抄换创]]合并或独立成页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260613T174204--伴读-公众号小绿书实操入门到精通__reading.md",
+    "affectedPages": [
+      "wiki/concepts/标题9要素.md"
+    ],
+    "searchQueries": [
+      "公众号小绿书 标题公式 爆款文案 九要素"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1be3c704",
+    "resolved": false,
+    "createdAt": 1786927911741
+  },
+  {
+    "type": "suggestion",
+    "title": "网感训练方法学待探索",
+    "description": "源\n\n---REVIEW: suggestion | 网感训练方法学待探索---\n源文档暗示网感可被训练（21天起号计划本身是训练过程），但没有给出具体方法论。值得追踪：是否有系统化的网感训练框架？",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260613T174204--伴读-公众号小绿书实操入门到精通__reading.md",
+    "affectedPages": [
+      "SEARCH: 网感训练方法 内容创作者直觉培养 爆款判断力"
+    ],
+    "searchQueries": [
+      "网感训练方法 内容创作者直觉培养 爆款判断力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d2c226c2",
+    "resolved": false,
+    "createdAt": 1786927911741
+  },
+  {
+    "type": "missing-page",
+    "title": "标题9要素",
+    "description": "\"标题9要素\"（冲突/悬念/反差/热词/数字/疑问/诱惑/争议/好奇）是[[3字法-抄换创]]的核心配套方法论，引用频繁但尚无独立页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260613T174204--伴读-公众号小绿书实操入门到精通__reading.md",
+    "affectedPages": [
+      "wiki/concepts/标题9要素.md"
+    ],
+    "searchQueries": [
+      "公众号小绿书 标题公式 爆款文案九要素"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-59b0fba8",
+    "resolved": false,
+    "createdAt": 1786927911741
+  },
+  {
+    "type": "suggestion",
+    "title": "网感能否被系统训练？",
+    "description": "源文档明确说\"网感是你才有的\"，同时又说21天起号计划本身就是网感训练过程，但没有给出具体训练方法。这个张力值得追踪：是否存在可复用的网感训练框架？",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260613T174204--伴读-公众号小绿书实操入门到精通__reading.md",
+    "affectedPages": [
+      "wiki/concepts/网感.md"
+    ],
+    "searchQueries": [
+      "网感训练方法 内容直觉培养 爆款判断力训练"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9c4e769e",
+    "resolved": false,
+    "createdAt": 1786927911741
+  },
+  {
+    "type": "missing-page",
+    "title": "REITs 与 MLPs 分红结构特殊性",
+    "description": "Morningstar 来源明确指出 REITs 和 MLPs 是\"结构性高分红资产\"，不适用\"高股息率=风险信号\"规则。当前 wiki 缺少专门页面描述这两类资产的底层分红机制及其与普通股票的差异。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091501--qa-股息陷阱与收益追逐__qa.md",
+    "affectedPages": [
+      "wiki/concepts/reits-mlps-dividend-structure.md"
+    ],
+    "searchQueries": [
+      "REITs MLPs dividend distribution structure tax treatment",
+      "REITs MLPs vs common stock dividend differences"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-318f2245",
+    "resolved": false,
+    "createdAt": 1786928367898
+  },
+  {
+    "type": "suggestion",
+    "title": "股息贵族标准在中国 A 股的适配性",
+    "description": "来源提出了\"连续25年增息\"作为筛选标准，但 A 股整体分红历史较短（A 股平均成立年限约15年，许多优质分红公司尚不足25年）。可以探索构建 A 股本土化的\"股息成长股\"筛选框架，例如以\"连续10年正分红且分红额不低于某阈值\"作为等效标准。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091501--qa-股息陷阱与收益追逐__qa.md",
+    "affectedPages": [
+      "wiki/concepts/a股股息成长股筛选框架.md"
+    ],
+    "searchQueries": [
+      "A股 高股息 分红 连续增长 筛选标准 股息贵族 本土化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1f493ca8",
+    "resolved": false,
+    "createdAt": 1786928367898
+  },
+  {
+    "type": "missing-page",
+    "title": "REITs 与 MLPs 结构性高分红机制",
+    "description": "Morningstar 来源多次强调 REITs、MLPs 是\"结构性高分红资产\"，不适用\"高股息率=风险信号\"规则，但 wiki 缺少对其底层分红机制（强制分配比例、税务穿透、现金流结构）的专门描述。理解这两类资产与普通股票的根本差异，对正确运用高股息筛选框架至关重要。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091501--qa-股息陷阱与收益追逐__qa.md",
+    "affectedPages": [
+      "wiki/concepts/reits-mlps-dividend-structure.md"
+    ],
+    "searchQueries": [
+      "REITs MLPs dividend distribution requirement tax treatment difference from common stock",
+      "REITs MLPs 结构性高分红 强制分配 与普通股票区别"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6254bcd0",
+    "resolved": false,
+    "createdAt": 1786928367898
+  },
+  {
+    "type": "suggestion",
+    "title": "减息公告股价实证数据来源追踪",
+    "description": "来源声称\"减息后12个月股价平均跑输大盘5-10%\"，但未标注原始实证出处。该数据若来自 Morningstar 自有研究则可接受，若是引用学术文献则值得溯源——这将影响该结论在 wiki 中的可信度层级。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091501--qa-股息陷阱与收益追逐__qa.md",
+    "affectedPages": [
+      "wiki/concepts/减息信号效应.md"
+    ],
+    "searchQueries": [
+      "dividend cut announcement stock price underperformance 12 months event study",
+      "股息削减公告 股价表现 实证研究 event study"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6293dbb0",
+    "resolved": false,
+    "createdAt": 1786928367898
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/morningstar 需补充风格箱内容",
+    "description": "[[entities/morningstar]] 当前页面内容聚焦于股息/QA类来源，未包含晨星投资风格箱这一核心方法论贡献。建议在\"已发布的来源内容\"部分补充风格箱作为晨星最重要的投研工具之一。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091501--概念解剖-晨星投资风格箱__concept.md",
+    "affectedPages": [
+      "wiki/entities/morningstar.md"
+    ],
+    "searchQueries": [
+      "Morningstar Style Box methodology fund classification history"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-328eea6e",
+    "resolved": false,
+    "createdAt": 1786928639554
+  },
+  {
+    "type": "suggestion",
+    "title": "风格箱 10 因子模型具体因子待补充",
+    "description": "源文件提及价值-成长分值基于\"10 因子模型（价值 5 因子 + 成长 5 因子）\"，但未列出各因子具体名称与权重。这对读者理解风格箱的计算逻辑构成关键缺口，建议在晨星官方文档或英文原版中补全因子定义，并确认其在 A 股市场是否使用相同参数。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091501--概念解剖-晨星投资风格箱__concept.md",
+    "affectedPages": [
+      "SEARCH: Morningstar Style Box 10 factor model value growth factors definition A-share",
+      "wiki/concepts/晨星投资风格箱.md"
+    ],
+    "searchQueries": [
+      "Morningstar Style Box 10 factor model value growth factors definition A-share",
+      "Morningstar Style Box 10 factor model value growth factors PE PB dividend yield earnings growth",
+      "Morningstar style box valuation metrics definition A-share application"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-48df61ec",
+    "resolved": false,
+    "createdAt": 1786928639554
+  },
+  {
+    "type": "missing-page",
+    "title": "entities/morningstar 需补充风格箱核心方法论",
+    "description": "[[entities/morningstar]] 当前内容聚焦股息/QA类来源，缺失晨星投资风格箱（Style Box）这一最重要的投研工具贡献。建议在实体页补充风格箱历史（1992年推出）、设计初衷及与星级评价的关系。另注意 [[entities/morningstar-cn]]（晨星中国）与主实体页是否存在合并或交叉链接需求。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091501--概念解剖-晨星投资风格箱__concept.md",
+    "affectedPages": [
+      "wiki/entities/morningstar.md"
+    ],
+    "searchQueries": [
+      "Morningstar Style Box methodology history 1992 fund classification",
+      "Morningstar China 晨星中国 investment style box"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-60e3a78b",
+    "resolved": false,
+    "createdAt": 1786928639554
+  },
+  {
+    "type": "suggestion",
+    "title": "个人投资者层面的资产配置归因实证研究",
+    "description": "Q1 引用 Brinson 1986 养老基金研究得出 90% 归因，但明确标注\"对散户适用性有边界\"。目前 wiki 只有开放式 query，没有实证数据填补这个空白——行为偏差是否真的让散户的产品选择影响超过 10%，这是整个\"资产配置优先原则\"能否直接套用的关键证据缺口。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091502--qa-构建持久投资组合__qa.md",
+    "affectedPages": [
+      "wiki/concepts/资产配置优先原则.md",
+      "wiki/queries/个人投资者的资产配置归因比例到底是多少.md"
+    ],
+    "searchQueries": [
+      "retail investor asset allocation attribution study Brinson personal investor behavior",
+      "散户 资产配置 归因 行为偏差 实证研究",
+      "personal investor portfolio return attribution behavioral bias study"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-aa2571b6",
+    "resolved": false,
+    "createdAt": 1786928849527
+  },
+  {
+    "type": "suggestion",
+    "title": "卫星仓位上限的实证依据",
+    "description": "分析中提到 Q2 的 20-40% 卫星仓位是\"经验值，非定律\"，但未追溯其来源。如果卫星仓位缺乏实证支撑而只是经验法则，那么 wiki 中的表述需要更明确地标注不确定性，避免读者误以为是经过验证的投资定律。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091502--qa-构建持久投资组合__qa.md",
+    "affectedPages": [
+      "wiki/concepts/核心-卫星策略.md"
+    ],
+    "searchQueries": [
+      "satellite portfolio allocation empirical study Vanguard satellite core strategy research",
+      "核心卫星策略 仓位配置 实证研究 学术文献",
+      "active allocation satellite percentage evidence base portfolio management"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5d0a236d",
+    "resolved": false,
+    "createdAt": 1786928849527
+  },
+  {
+    "type": "contradiction",
+    "title": "资产配置优先原则 vs 卫星仓位集中风险",
+    "description": "[[concepts/资产配置优先原则]]强调全组合层面的资产类别配置是收益首要决定因素；[[concepts/核心-卫星策略]]允许 20-40% 卫星仓位做主动/主题投资，这本身包含行业集中度风险。这两个原则在组合设计上存在张力：卫星仓位的集中风险与资产配置分散化的大框架如何协调？需要明确卫星仓位在\"回报来源分散\"框架中的定位。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091502--qa-构建持久投资组合__qa.md",
+    "affectedPages": [
+      "wiki/concepts/资产配置优先原则.md",
+      "wiki/concepts/核心-卫星策略.md",
+      "wiki/concepts/回报来源分散.md"
+    ],
+    "searchQueries": [
+      "卫星仓位 集中度风险 资产配置 框架协调",
+      "core satellite portfolio concentration risk asset allocation tension",
+      "行业集中 卫星仓位 资产配置 一致性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9f0afe27",
+    "resolved": false,
+    "createdAt": 1786928849527
+  },
+  {
+    "type": "missing-page",
+    "title": "晨星策略会原文来源页",
+    "description": "本文引用的晨星文章《又到年终策略会！满天飞的预言哪条最靠谱？》没有独立来源页（仅有概念解剖版）。如需追溯原文，可创建 `wiki/sources/morningstar-2026-strategy-meeting-predictions.md`。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091502--概念解剖-市场预测的不可靠性__concept.md",
+    "affectedPages": [
+      "wiki/sources/morningstar-2026-strategy-meeting-predictions.md"
+    ],
+    "searchQueries": [
+      "morningstar 年终策略会 预言 靠谱 行为金融 2026",
+      "晨星 市场预测 不可靠 策略会 预言"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a6164151",
+    "resolved": false,
+    "createdAt": 1786929559795
+  },
+  {
+    "type": "suggestion",
+    "title": "估值方法与预测不可靠性的张力",
+    "description": "[[concepts/市场预测的不可靠性]] 提出\"方向可以猜，路径不能\"的开放问题，与 [[concepts/盈利收益率法]]、[[concepts/博格公式法]] 等估值工具的有效性边界存在张力。建议在相关估值页面标注此边界条件。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091502--概念解剖-市场预测的不可靠性__concept.md",
+    "affectedPages": [
+      "wiki/concepts/盈利收益率法.md",
+      "wiki/concepts/博格公式法.md"
+    ],
+    "searchQueries": [
+      "efficient market hypothesis forecasting accuracy valuation bounds",
+      "有效市场假说 估值边界 预测准确率"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-22c78ba8",
+    "resolved": false,
+    "createdAt": 1786929559795
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星行为金融团队更多研究成果",
+    "description": "本文仅引用了晨星行为金融团队关于市场预测的一项研究，晨星作为重要来源其完整研究框架（如行为偏差系列、预测准确性跨品类研究）尚未系统梳理。建立晨星方法论全集认知有助于后续对比不同来源的方法论一致性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091502--概念解剖-市场预测的不可靠性__concept.md",
+    "affectedPages": [
+      "wiki/entities/morningstar.md"
+    ],
+    "searchQueries": [
+      "morningstar behavioral finance team research predictions accuracy",
+      "晨星 行为金融 研究 预测准确率 方法论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-12ca7a1f",
+    "resolved": false,
+    "createdAt": 1786929559795
+  },
+  {
+    "type": "missing-page",
+    "title": "达里奥《赚钱还是做预测》论文原文",
+    "description": "本文引用了达里奥1987年论文的关键论点，但未追溯原文。该论文是论证\"预测价值低\"的核心学术依据，缺失原始引用削弱了论证链条的可验证性。建议在 [[concepts/市场预测的不可靠性]] 或新建来源页中补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091502--概念解剖-市场预测的不可靠性__concept.md",
+    "affectedPages": [
+      "wiki/concepts/市场预测的不可靠性.md"
+    ],
+    "searchQueries": [
+      "Ray Dalio 1987 paper \"making predictions\" \"profit from forecasting\"",
+      "Ray Dalio forecasting predictability market academic paper"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-40480351",
+    "resolved": false,
+    "createdAt": 1786929559795
+  },
+  {
+    "type": "suggestion",
+    "title": "卖方研究预测准确率的系统性数据",
+    "description": "本文以中金个案打脸为主，缺少对卖方（券商研究所）预测准确率的大样本统计。建立此类数据有助于区分\"个案偶然性\"与\"结构性问题\"，对是否新建 [[concepts/卖方研究预测准确性]] 有参考价值。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091502--概念解剖-市场预测的不可靠性__concept.md",
+    "affectedPages": [
+      "wiki/concepts/市场预测的不可靠性.md",
+      "wiki/entities/中金公司-cicc.md"
+    ],
+    "searchQueries": [
+      "券商研究所 盈利预测准确率 实证研究 卖方研报 偏差",
+      "sell-side analyst forecast accuracy empirical study bias"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4b9f06ad",
+    "resolved": false,
+    "createdAt": 1786929559795
+  },
+  {
+    "type": "suggestion",
+    "title": "中国市场主动基金失败率的实证数据",
+    "description": "本文核心数据（75%失败率、1.2% vs 0.1%费用差距、规模前25%基金跑输概率翻倍）均来自美国市场，wiki 中「市场效率」页面直接套用了这些数字。A股散户占比更高理论上无效性更大，但费用结构（申购费+管理费+托管费）与美国差异显著，实际失败率是更高还是更低尚无实证支撑。建议搜索中国公募基金的长期业绩归因研究，填补中美市场差异的认知缺口。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091504--qa-为什么大多数基金经理跑不赢指数__qa.md",
+    "affectedPages": [
+      "wiki/concepts/市场效率.md",
+      "wiki/concepts/主动-被动-结构性困境.md"
+    ],
+    "searchQueries": [
+      "中国公募基金 长期跑输指数 失败率 实证",
+      "active fund underperformance China A-share mutual funds study",
+      "晨星中国 主动基金 十年业绩 存活偏差"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9682c563",
+    "resolved": false,
+    "createdAt": 1786942301812
+  },
+  {
+    "type": "missing-page",
+    "title": "优质主动基金的筛选特征在A股是否成立",
+    "description": "Q6 给出了\"优质主动基金\"的四个特征：低费用(<0.5%)、小规模(<10亿)、基金经理跟投、风格稳定。这四个条件在美国市场有实证支撑，但A股管理费最低门槛较高（多数主动基金 >1.2%），且\"基金经理跟投\"在中国披露不规范，小规模策略在A股是否有效也缺乏验证。建议在 wiki 中补充 A 股市场适用性边界说明，或创建独立的对比页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091504--qa-为什么大多数基金经理跑不赢指数__qa.md",
+    "affectedPages": [
+      "wiki/concepts/主动-被动-结构性困境.md",
+      "wiki/concepts/规模困境.md"
+    ],
+    "searchQueries": [
+      "中国主动基金 低费率 小基金 超额收益 持续性研究",
+      "A股 基金经理跟投 业绩影响",
+      "中国公募 规模与业绩关系 实证"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9c96f0a7",
+    "resolved": false,
+    "createdAt": 1786942301812
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星\"主动 vs 被动\"年度完整报告索引",
+    "description": "来源仅引用了 Morningstar Commentary 中的一篇文章，未触及 Morningstar 年度报告 \"U.S. Funds Scorecard\" 或 \"Spirit of Stewardship\" 系列。这些年度报告包含更完整的分品类失败率数据（债券/大盘/小盘/国际）、历史趋势、以及按费用分组的对比。建议在 wiki 的 Morningstar entity 页面补充这些报告的具体链接和核心结论摘要，作为本主题的权威数据底座。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091504--qa-为什么大多数基金经理跑不赢指数__qa.md",
+    "affectedPages": [
+      "wiki/entities/morningstar.md"
+    ],
+    "searchQueries": [
+      "Morningstar \"U.S. Funds Scorecard\" SPIVA comparison 2024",
+      "Morningstar active vs passive fund report 2024 2023",
+      "SPIVA US semi-annual report 2024 fund underperformance"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-53978bc7",
+    "resolved": false,
+    "createdAt": 1786942301812
+  },
+  {
+    "type": "duplicate",
+    "title": "活跃讨论的相似概念需确认去重",
+    "description": "本次新增的「幸存者偏差（基金数据库）」与现有「行为代价-mind-the-gap」在逻辑上高度重叠：前者是数据层面的认知偏差（清盘基金被删除），后者是行为层面的偏差（追涨杀跌导致金额加权回报低于时间加权回报）。两者互为因果、叠加放大，建议在新页面中明确区分两者的作用层级，并在 log 中标注关联关系，避免读者误以为是同一概念的不同表述。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091504--qa-为什么大多数基金经理跑不赢指数__qa.md",
+    "affectedPages": [
+      "wiki/concepts/幸存者偏差-基金数据库.md",
+      "wiki/concepts/行为代价-mind-the-gap.md"
+    ],
+    "options": [
+      {
+        "label": "Review",
+        "action": "Review"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-016313ab",
+    "resolved": false,
+    "createdAt": 1786942301812
+  },
+  {
+    "type": "missing-page",
+    "title": "指数基金隐性成本（真实成本框架总览）",
+    "description": "分析阶段已推荐但尚未创建。当前 wiki 有跟踪误差、现金拖累、交易成本、税收效率、指数编制风险五个分散子页面，但缺少一个总览页将它们整合为「真实成本框架」。没有这个总览页，读者无法从「费用是复利的反面」顺畅进入完整的隐性成本决策树，概念之间存在断裂。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091505--qa-指数基金的隐性成本__qa.md",
+    "affectedPages": [
+      "wiki/concepts/跟踪误差.md",
+      "wiki/concepts/现金拖累.md",
+      "wiki/concepts/税收效率.md",
+      "wiki/concepts/费用是复利的反面.md"
+    ],
+    "searchQueries": [
+      "Morningstar hidden costs index funds tracking error cash drag tax efficiency",
+      "指数基金 隐性成本 跟踪误差 现金拖累 中国",
+      "true cost of index fund investing 2024 2025"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-30f3a27f",
+    "resolved": false,
+    "createdAt": 1786944097661
+  },
+  {
+    "type": "suggestion",
+    "title": "QDII 溢价是否应纳入指数基金隐性成本框架",
+    "description": "分析阶段提出：QDII 溢价可达 3–5%，若纳入隐性成本框架，其规模远超跟踪误差和现金拖累。这是一个值得用户 judgment 的框架边界问题——QDII 溢价是通道摩擦还是指数投资本身的隐性成本？目前 wiki 中「通道摩擦与额度稀缺」和「溢价纪律」两个概念尚未连接。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091505--qa-指数基金的隐性成本__qa.md",
+    "affectedPages": [
+      "wiki/concepts/通道摩擦与额度稀缺.md",
+      "wiki/concepts/溢价纪律.md",
+      "wiki/concepts/指数编制风险.md"
+    ],
+    "searchQueries": [
+      "QDII 基金 溢价 跟踪误差 中国 数据 2024 2025",
+      "纳斯达克QDII溢价 广发 国泰 溢价率 历史",
+      "QDII premium drag on index fund returns China"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-22c24a5f",
+    "resolved": false,
+    "createdAt": 1786944097661
+  },
+  {
+    "type": "suggestion",
+    "title": "中国指数基金跟踪误差实证数据",
+    "description": "分析阶段指出「暂无公开的统一数据支撑'小盘股指数误差>1%'的判断」。这是框架落地前的关键实证缺口：如果没有中国市场跟踪误差的实际数据，「真实成本框架」在中国语境下无法被量化验证，只能停留在理论层面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091505--qa-指数基金的隐性成本__qa.md",
+    "affectedPages": [
+      "wiki/concepts/跟踪误差.md",
+      "wiki/concepts/现金拖累.md"
+    ],
+    "searchQueries": [
+      "中国指数基金 跟踪误差 数据 富国 易方达 华夏",
+      "中证500 指数基金 跟踪误差 对比 2024 2025",
+      "中国 ETF 跟踪误差 排名 晨星"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1e559fd2",
+    "resolved": false,
+    "createdAt": 1786944097661
+  },
+  {
+    "type": "suggestion",
+    "title": "「错过最大涨幅天」的实证数据是否需要补充 A 股或全球多市场数据",
+    "description": "当前页面仅引用标普 500 1990–2020 一年的数据。对于中文读者，补充 A 股（沪深 300）或日本日经 225 等市场的同类数据，能验证该现象的普适性，并增强对本土投资者的说服力。同时可确认「这 10 天发生在最恐慌时」这一规律在不同市场是否同样成立。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091507--qa-择时的心理陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/错过最大涨幅天.md"
+    ],
+    "searchQueries": [
+      "错过最大涨幅天数 回报影响 S&P 500 data",
+      "沪深300 错过最佳交易日 回报损失 数据",
+      "错过 best days stocks market timing underperformance global data"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b18fa04b",
+    "resolved": false,
+    "createdAt": 1786945796917
+  },
+  {
+    "type": "suggestion",
+    "title": "「规则对抗本能」的实证对比：定投+再平衡 vs 纯买入持有",
+    "description": "Q8 提出「规则对抗本能」是核心方法论，但 wiki 目前没有直接的实证数据支持。晨星（Morningstar）或研究文献中是否有定投+再平衡策略 vs 纯买入持有策略的长期回报对比数据？这是从「知道不要择时」到「实际不择时」的桥梁，也是 wiki 投资框架的关键实证支撑。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091507--qa-择时的心理陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/规则对抗本能.md",
+      "wiki/concepts/择时的心理陷阱.md"
+    ],
+    "searchQueries": [
+      "DCA rebalancing vs buy and hold returns long term study",
+      "定投再平衡 vs 买入持有 长期收益 实证",
+      "dollar cost averaging rebalancing outperformance research data"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e92c769c",
+    "resolved": false,
+    "createdAt": 1786945796917
+  },
+  {
+    "type": "missing-page",
+    "title": "标普 500（S&P 500）指数",
+    "description": "源和已生成页面多次引用 S&P 500 作为核心数据基准（年化 10%、错过 10 天年化降至 5%、2008 年跌 40%、2020 年 3 月疫情跌幅等），但没有独立的实体页面。作为 wiki 投资领域最基础的参考基准，应补充一个简介页，包含指数定义、历史回报概况、波动特征等，以便其他页面交叉引用。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091507--qa-择时的心理陷阱__qa.md",
+    "affectedPages": [
+      "wiki/entities/s-and-p.md"
+    ],
+    "searchQueries": [
+      "S&P 500 index history total return volatility overview",
+      "标普500 指数 历史年化回报 最大回撤 数据",
+      "S&P 500 1990 2020 annualized return drawdown statistics"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ff620ed1",
+    "resolved": false,
+    "createdAt": 1786945796917
+  },
+  {
+    "type": "missing-page",
+    "title": "2000 年互联网泡沫 / 2007–2008 年金融危机 事件页",
+    "description": "源中用 2000 年互联网泡沫、2007 年次贷危机、2021 年加密货币作为「这次不一样」叙事的三大案例，每次只用了 1–2 句话。事件本身有独立认知价值——理解泡沫的形成机制、叙事特征和破裂过程，是 wiki 投资行为学板块的重要基础素材。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091507--qa-择时的心理陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/择时的心理陷阱.md",
+      "wiki/sources/5-notes--29-20260614t091507-qa-择时的心理陷阱qa--1vjbufq.md"
+    ],
+    "searchQueries": [
+      "2000年互联网泡沫 纳斯达克 估值叙事 破裂原因",
+      "2008年次贷危机 房价叙事 金融市场影响",
+      "加密货币泡沫 2021 比特币 叙事 崩盘 复盘"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e8ec50be",
+    "resolved": false,
+    "createdAt": 1786945796917
+  },
+  {
+    "type": "suggestion",
+    "title": "72法则的波动修正",
+    "description": "72法则假设收益率恒定，但现实中收益率波动剧烈。可补充\"有效年化收益率\"（考虑波动率拖累）的概念，讨论波动如何影响翻倍时间估算。这对投资实践有直接影响：高波动资产的实际翻倍时间可能远超72法则预测。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091507--概念解剖-72法则与财富翻倍__concept.md",
+    "affectedPages": [
+      "wiki/concepts/72法则与财富翻倍.md"
+    ],
+    "searchQueries": [
+      "波动率拖累 volatility drag 复利 有效年化收益率",
+      "几何平均收益率 vs 算术平均收益率 投资",
+      "volatility drag compound returns formula"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-43257a37",
+    "resolved": false,
+    "createdAt": 1786945830661
+  },
+  {
+    "type": "suggestion",
+    "title": "不同通胀假设下的资产对比",
+    "description": "文章中\"147年\"的现金翻倍时间依赖统一通胀假设，可补充不同通胀情景下的分析，或标注为情景推演而非确定预测。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091507--概念解剖-72法则与财富翻倍__concept.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ddf415dc",
+    "resolved": false,
+    "createdAt": 1786945830661
+  },
+  {
+    "type": "suggestion",
+    "title": "不同通胀假设下的资产真实回报",
+    "description": "文章\"147年\"现金翻倍时间依赖统一通胀假设，不同资产的通胀敏感度实际不同。建议补充不同通胀情景下的各资产真实翻倍时间分布，或将此标注为情景推演而非确定预测。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091507--概念解剖-72法则与财富翻倍__concept.md",
+    "affectedPages": [
+      "wiki/concepts/72法则与财富翻倍.md",
+      "wiki/concepts/费用是复利的反面.md"
+    ],
+    "searchQueries": [
+      "通胀对不同资产类别的差异化影响 现金vs股票实际回报",
+      "real return inflation hedging stocks bonds cash historical data China",
+      "实际收益率 通胀预期 资产配置 长期回报"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6941ef11",
+    "resolved": false,
+    "createdAt": 1786945830661
+  },
+  {
+    "type": "missing-page",
+    "title": "波动率拖累（Volatility Drag）",
+    "description": "72法则相关但未单独成页。波动率拖累是理解\"高波动≠高回报\"的关键概念，与[[concepts/72法则与财富翻倍]]、[[concepts/费用是复利的反面]]形成完整链条。建议新建独立页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091507--概念解剖-72法则与财富翻倍__concept.md",
+    "affectedPages": [
+      "wiki/concepts/72法则与财富翻倍.md"
+    ],
+    "searchQueries": [
+      "波动率拖累 volatility drag 几何平均收益 复利公式",
+      "volatility drag impact on compound returns calculation",
+      "复合回报率 波动损耗 投资数学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9348238b",
+    "resolved": false,
+    "createdAt": 1786945830661
+  },
+  {
+    "type": "missing-page",
+    "title": "纳斯达克、思科、雅虎、VIX、格林斯潘、美联储",
+    "description": "源文中多个关键实体没有独立页面，但作为历史案例的锚点有引用价值：纳斯达克（Q3、Q7 泡沫破裂案例）、思科和雅虎（Q7 龙头股先行下跌）、VIX 指数（Q7 恐慌指标）、格林斯潘（Q8 \"非理性繁荣\"讲话）、美联储（Q5 利率决策）。若 wiki 追求案例可追溯性，建议建立；若仅保留框架级内容，可在现有概念中交叉引用即可。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091508--qa-泡沫识别指南__qa.md",
+    "affectedPages": [
+      "wiki/entities/nasdaq.md",
+      "wiki/entities/cisco.md",
+      "wiki/entities/yahoo.md",
+      "wiki/entities/vix-index.md",
+      "wiki/entities/alan-greenspan.md",
+      "wiki/entities/federal-reserve.md"
+    ],
+    "searchQueries": [
+      "VIX index history bubbles 2000 2008",
+      "Alan Greenspan irrational exuberance speech 1996",
+      "Federal Reserve interest rate bubble formation",
+      "Alan Greenspan irrational exuberance 1996 speech",
+      "Federal Reserve rate policy bubble formation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d39d2625",
+    "resolved": false,
+    "createdAt": 1786947100163
+  },
+  {
+    "type": "duplicate",
+    "title": "\"这次不一样\"叙事陷阱",
+    "description": "概念名 `\"这次不一样\"叙事陷阱` 使用了引号，slug 中不含引号，与 `wiki/concepts/自信偏差.md` 有部分语义重叠，但角度不同（自信偏差讲从业者行为，这里是叙事自我欺骗）。建议确认是否需要合并或保持独立。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091508--qa-泡沫识别指南__qa.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-109907e6",
+    "resolved": false,
+    "createdAt": 1786947100163
+  },
+  {
+    "type": "duplicate",
+    "title": "\"这次不一样\"叙事陷阱 vs 自信偏差",
+    "description": "`[[concepts/这次不一样叙事陷阱]]` 与 `[[concepts/自信偏差]]` 语义部分重叠：前者讲\"叙事自我欺骗\"（投资者用故事合理化高估值），后者讲\"从业者行为偏差\"（从业者因自信存活）。两者角度不同，但读者可能困惑边界在哪里。建议确认是保持独立还是合并为一个更宽的\"叙事幻觉\"概念。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091508--qa-泡沫识别指南__qa.md",
+    "affectedPages": [
+      "wiki/concepts/自信偏差.md",
+      "wiki/concepts/这次不一样叙事陷阱.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2a092dcb",
+    "resolved": false,
+    "createdAt": 1786947100163
+  },
+  {
+    "type": "suggestion",
+    "title": "量化情绪指标：新基金发行量、融资余额、社交媒体热度",
+    "description": "原文 Q4、Q6 提到市场情绪指标，但只用了轶事（出租车司机、退休大妈）。对于 wiki 的实用性，建议补充客观可量化的情绪先行指标：新基金发行规模峰值、A 股融资余额/GDP 比率、社交媒体讨论密度指数。这将使三维框架从定性走向可操作。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091508--qa-泡沫识别指南__qa.md",
+    "searchQueries": [
+      "A股融资余额历史峰值 泡沫信号",
+      "新基金发行规模 投资者情绪指标 中国",
+      "social media sentiment index stock bubble"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3d78c631",
+    "resolved": false,
+    "createdAt": 1786947100163
+  },
+  {
+    "type": "missing-page",
+    "title": "詹森阿尔法（Jensen's Alpha）",
+    "description": "来源中将\"詹森阿尔法公式\"列为关键形式锚点，但wiki中没有独立的「詹森阿尔法」概念页，只有「阿尔法是解释剩余」和「Fama-French三因子模型」两个页面提到它。作为Alpha学术源头的单独条目有助于理解后续因子模型的演进脉络，也方便读者从CAPM的单一市场因子跳到多因子框架。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091508--概念解剖-阿尔法的本质与幻象__concept.md",
+    "affectedPages": [
+      "wiki/concepts/阿尔法是解释剩余.md",
+      "wiki/concepts/fama-french三因子模型.md",
+      "wiki/entities/michael-jensen.md"
+    ],
+    "searchQueries": [
+      "Jensen's Alpha formula derivation history",
+      "詹森阿尔法 定义 计算方法",
+      "Jensen 1968 mutual fund performance"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-69fb36a2",
+    "resolved": false,
+    "createdAt": 1786947489127
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星原文《消失的阿尔法回来了？》溯源与数据核实",
+    "description": "来源引用了两个关键数据点：\"主动基金战胜率14%→28%\"和\"A股主动基金70%以上是成长风格\"，但未标注具体出处。这些数据支撑了\"风格顺风而非能力回归\"的核心论点，建议查证晨星原文，确认统计口径（全市场还是特定类别、时间区间、计算方式），以确保wiki中引用的数据准确可靠。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091508--概念解剖-阿尔法的本质与幻象__concept.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--38-20260614t091508-概念解剖-阿尔法的本质与幻象concept--17gl5s9.md"
+    ],
+    "searchQueries": [
+      "晨星 \"消失的阿尔法回来了\" 主动基金战胜率",
+      "Morningstar alpha disappeared returned active fund",
+      "主动权益基金 战胜率 28% 2025 晨星"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3223c08b",
+    "resolved": false,
+    "createdAt": 1786947489127
+  },
+  {
+    "type": "missing-page",
+    "title": "Fama-French五因子模型",
+    "description": "来源在「Fama-French三因子模型」页面中仅用一句话提及2010年代五因子模型（RMW盈利因子、CMA投资因子），未做展开。五因子模型是Alpha边界的进一步收缩，对理解\"今天的Alpha是明天的Beta\"这一论点有直接支撑作用，值得独立成页或至少在三因子页面中补充完整。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091508--概念解剖-阿尔法的本质与幻象__concept.md",
+    "affectedPages": [
+      "wiki/concepts/fama-french三因子模型.md",
+      "wiki/concepts/阿尔法是解释剩余.md"
+    ],
+    "searchQueries": [
+      "Fama French five factor model RMW CMA explanation",
+      "五因子模型 盈利因子 投资因子",
+      "Fama French 2015 five factor alpha"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-916af0af",
+    "resolved": false,
+    "createdAt": 1786947489127
+  },
+  {
+    "type": "contradiction",
+    "title": "晨星的自我指涉张力",
+    "description": "来源指出：晨星作为基金评价机构，天然需要\"区分能力\"；但如果Alpha本身不可靠，晨星的评价体系也需要反思。这一张力未被wiki中的「晨星中国」实体页讨论。建议在该页或新增页面中记录这一立场矛盾，有助于读者理解基金评级行业的内在利益冲突。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091508--概念解剖-阿尔法的本质与幻象__concept.md",
+    "affectedPages": [
+      "wiki/entities/晨星中国-morningstarcn.md"
+    ],
+    "searchQueries": [
+      "晨星 Morningstar alpha evaluation methodology critique",
+      "基金评级机构 利益冲突 alpha定义",
+      "Morningstar alpha research methodology"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-df8f7885",
+    "resolved": false,
+    "createdAt": 1786947489127
+  },
+  {
+    "type": "missing-page",
+    "title": "MSCI EAFE 与彭博巴克莱综合债券指数索引缺失",
+    "description": "Q2 引用的两只基准指数（MSCI EAFE、Bloomberg Barclays 综合债券指数）在 wiki 中没有独立实体页面。两者是指数而非机构，可考虑合并入 entities/s-and-p.md 或单独创建 entity 页，以便后续引用时能追溯到指数编制规则。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--qa-简化投资的力量__qa.md",
+    "affectedPages": [
+      "SEARCH: MSCI EAFE index definition coverage | Bloomberg Barclays Aggregate Bond Index composition"
+    ],
+    "searchQueries": [
+      "MSCI EAFE index definition coverage",
+      "Bloomberg Barclays Aggregate Bond Index composition"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-95df4dc6",
+    "resolved": false,
+    "createdAt": 1786947872794
+  },
+  {
+    "type": "suggestion",
+    "title": "Fidelity 研究与 Vanguard 研究原始出处待追溯",
+    "description": "文中引用的两项关键实证（Fidelity 「主人去世/忘记密码」账户研究、Vanguard 3 基金 vs 10 基金 20 年回报对比）缺乏具体报告名称和年份，无法追溯到原始数据，也削弱了 wiki 的可验证性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--qa-简化投资的力量__qa.md",
+    "affectedPages": [
+      "SEARCH: Fidelity \"deceased owner forgot password\" account study report year | Vanguard three-fund portfolio versus ten-fund portfolio annualized return comparison study"
+    ],
+    "searchQueries": [
+      "Fidelity \"deceased owner forgot password\" account study report year",
+      "Vanguard three-fund portfolio versus ten-fund portfolio annualized return comparison study"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6581714e",
+    "resolved": false,
+    "createdAt": 1786947872794
+  },
+  {
+    "type": "duplicate",
+    "title": "三基金组合 vs 核心式投资组合高度重叠",
+    "description": "wiki 中已有 [[concepts/核心式投资组合]]（来源：季凯帆《解读基金》拆书），与新建的 [[concepts/三基金组合]] 在概念上有较大重合。建议在后续整理时统一两者关系，或将三基金组合作为核心式投资组合的一个典型实现。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--qa-简化投资的力量__qa.md",
+    "affectedPages": [
+      "wiki/concepts/三基金组合.md",
+      "wiki/concepts/核心式投资组合.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c306799b",
+    "resolved": false,
+    "createdAt": 1786947872794
+  },
+  {
+    "type": "duplicate",
+    "title": "三基金组合 vs 核心式投资组合概念重叠",
+    "description": "新建的 [[concepts/三基金组合]] 与已有的 [[concepts/核心式投资组合]]（来源：季凯帆《解读基金》拆书）在概念上有较大重合，建议在后续整理时统一两者关系，或将三基金组合作为核心式投资组合的一个典型实现形态。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--qa-简化投资的力量__qa.md",
+    "affectedPages": [
+      "wiki/concepts/三基金组合.md",
+      "wiki/concepts/核心式投资组合.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e4c25320",
+    "resolved": false,
+    "createdAt": 1786947872794
+  },
+  {
+    "type": "missing-page",
+    "title": "SPDR S&P 500 ETF",
+    "description": "来源提及\"1993年首只ETF（SPDR S&P 500 ETF）\"作为历史锚点，但未单独建立实体页。建议创建该实体以补全 ETF 历史脉络。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--概念解剖-ETF投资的五问框架__concept.md",
+    "affectedPages": [
+      "wiki/entities/spdr-sp-500-etf.md"
+    ],
+    "searchQueries": [
+      "SPDR S&P 500 ETF first ETF 1993 State Street",
+      "SPDR 001 first exchange traded fund history"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6ad9f259",
+    "resolved": false,
+    "createdAt": 1786948374581
+  },
+  {
+    "type": "suggestion",
+    "title": "Brinson 90% 收益归因溯源",
+    "description": "来源中\"指数决定约 90% 的收益\"这一数字源自 Brinson et al. 研究（常被认为是 Brinson, Hood & Beebower 1986 或 Brinson, Singer & Beebower 1991），但原文未标注，建议后续溯源核实该数据的确切出处。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--概念解剖-ETF投资的五问框架__concept.md",
+    "affectedPages": [
+      "SEARCH: Brinson 1986 determinants of portfolio performance equity benchmark study | Brinson Singer Beebower 1991 performance attribution"
+    ],
+    "searchQueries": [
+      "Brinson 1986 determinants of portfolio performance equity benchmark study",
+      "Brinson Singer Beebower 1991 performance attribution"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e70bd95f",
+    "resolved": false,
+    "createdAt": 1786948374581
+  },
+  {
+    "type": "suggestion",
+    "title": "Smart Beta 在股息贵族筛选法中的角色",
+    "description": "[[concepts/股息贵族筛选法]]（NOBL）本质上是一种 Smart Beta 策略（等权重+分红筛选），但当前页面未标注来源中提出的 Smart Beta 批判视角。建议在股息贵族页面增加风险提示。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--概念解剖-ETF投资的五问框架__concept.md",
+    "affectedPages": [
+      "wiki/concepts/股息贵族筛选法.md"
+    ],
+    "searchQueries": [
+      "NOBL dividend aristocrats smart beta strategy index equal weight"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d8533962",
+    "resolved": false,
+    "createdAt": 1786948374581
+  },
+  {
+    "type": "missing-page",
+    "title": "SPDR S&P 500 ETF（首只 ETF 历史实体）",
+    "description": "来源提及\"1993年首只ETF（SPDR S&P 500 ETF）\"作为历史锚点，但未单独建立实体页。ETF 历史脉络中此实体是必要的认知锚点，建议补全。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--概念解剖-ETF投资的五问框架__concept.md",
+    "affectedPages": [
+      "SEARCH: SPDR S&P 500 ETF first ETF 1993 State Street | SPDR 001 exchange traded fund history"
+    ],
+    "searchQueries": [
+      "SPDR S&P 500 ETF first ETF 1993 State Street",
+      "SPDR 001 exchange traded fund history"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c450eebc",
+    "resolved": false,
+    "createdAt": 1786948374581
+  },
+  {
+    "type": "suggestion",
+    "title": "\"指数决定约 90% 收益\"的原始出处核实",
+    "description": "来源中\"指数决定约 90% 的收益\"是一个关键量化断言，作者声称源自 Brinson 研究但未标注具体论文。数字来源不明会影响整个五问框架第二问的可信度，建议溯源。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--概念解剖-ETF投资的五问框架__concept.md",
+    "affectedPages": [
+      "wiki/concepts/ETF投资五问框架.md"
+    ],
+    "searchQueries": [
+      "Brinson 1986 determinants of portfolio performance equity benchmark study",
+      "Brinson Singer Beebower 1991 performance attribution 90%"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-54de192d",
+    "resolved": false,
+    "createdAt": 1786948374581
+  },
+  {
+    "type": "suggestion",
+    "title": "股息贵族筛选法（NOBL）的 Smart Beta 属性未标注",
+    "description": "[[concepts/股息贵族筛选法]]（跟踪 NOBL 指数的策略）本质上是一种 Smart Beta 策略（等权重 + 分红筛选），但当前页面未引用来源中对 Smart Beta 的批判视角。存在认知盲区，建议补充风险提示。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091509--概念解剖-ETF投资的五问框架__concept.md",
+    "affectedPages": [
+      "wiki/concepts/股息贵族筛选法.md"
+    ],
+    "searchQueries": [
+      "NOBL dividend aristocrats smart beta strategy equal weight index"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-088ada65",
+    "resolved": false,
+    "createdAt": 1786948374581
+  },
+  {
+    "type": "suggestion",
+    "title": "Morningstar实体页需补充来源引用",
+    "description": "本文来自 Morningstar 的 *Why Your Portfolio Needs Alternatives*，建议在 [[entities/morningstar.md]] 中补充此来源链接。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091510--qa-另类投资的必要性__qa.md",
+    "affectedPages": [
+      "wiki/entities/morningstar.md"
+    ],
+    "searchQueries": [
+      "morningstar why your portfolio needs alternatives"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2d1048a3",
+    "resolved": false,
+    "createdAt": 1786948724103
+  },
+  {
+    "type": "suggestion",
+    "title": "私募股权和对冲基金缺少实体页面",
+    "description": "分析中提到私募股权和对冲基金作为高门槛/隐性风险案例，但未建立独立实体页。如需后续补充可创建。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091510--qa-另类投资的必要性__qa.md",
+    "affectedPages": [
+      "wiki/entities/私募股权",
+      "wiki/entities/对冲基金"
+    ],
+    "searchQueries": [
+      "私募股权 合格投资者 门槛 中国",
+      "对冲基金 流动性风险 中国市场"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-59e76194",
+    "resolved": false,
+    "createdAt": 1786948724103
+  },
+  {
+    "type": "missing-page",
+    "title": "彭博巴克莱综合债券指数",
+    "description": "2022年股债双杀的实证数据来自\"彭博巴克莱综合债券指数跌13%\"，该指数在wiki中无独立实体页，建议在 [[entities/s-and-p.md]] 附近补充或新建指数实体页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091510--qa-另类投资的必要性__qa.md",
+    "affectedPages": [
+      "wiki/entities/彭博巴克莱综合债券指数"
+    ],
+    "searchQueries": [
+      "Bloomberg Barclays Composite Index China bond index 2022"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f9d393cb",
+    "resolved": false,
+    "createdAt": 1786948724103
+  },
+  {
+    "type": "suggestion",
+    "title": "私募股权实体页缺失",
+    "description": "来源文中多次以私募股权和对冲基金作为高门槛/隐性风险案例，但 wiki 中无独立实体页，无法支撑后续对比分析（如公募REITs vs 私募REITs）。建议补建实体页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091510--qa-另类投资的必要性__qa.md",
+    "affectedPages": [
+      "wiki/entities/私募股权.md"
+    ],
+    "searchQueries": [
+      "私募股权 合格投资者 门槛 中国市场 2024",
+      "private equity qualified investor minimum China"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bdce8cb4",
+    "resolved": false,
+    "createdAt": 1786948724103
+  },
+  {
+    "type": "missing-page",
+    "title": "彭博巴克莱综合债券指数缺少实体页",
+    "description": "2022年股债双杀的核心数据\"彭博巴克莱综合债券指数跌13%\"依赖该指数，wiki 中仅有 S&P 500 实体页而无对应债券指数页，影响后续对股债双杀事件的引用准确性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091510--qa-另类投资的必要性__qa.md",
+    "affectedPages": [
+      "wiki/entities/s-and-p.md"
+    ],
+    "searchQueries": [
+      "Bloomberg Barclays Aggregate Bond Index history performance 2022",
+      "彭博巴克莱综合债券指数 2022年下跌"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-74516b4c",
+    "resolved": false,
+    "createdAt": 1786948724103
+  },
+  {
+    "type": "suggestion",
+    "title": "另类资产配置比例的精确选择标准缺失",
+    "description": "来源给出5-15%区间但声明未给出精确选择标准，这是一个开放问题。若补充\"如何为个人投资者确定配置比例\"的决策框架，可直接转化为行动指南，提升 wiki 实用性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091510--qa-另类投资的必要性__qa.md",
+    "affectedPages": [
+      "wiki/concepts/另类投资.md",
+      "wiki/concepts/资产配置比率.md"
+    ],
+    "searchQueries": [
+      "alternative asset allocation personal investor framework 2024",
+      "另类资产配置比例 个人投资者 决策框架"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2be0f841",
+    "resolved": false,
+    "createdAt": 1786948724103
+  },
+  {
+    "type": "missing-page",
+    "title": "假设有持仓决策测试",
+    "description": "Q6 提出了一个实用决策测试（\"如果我现在没有持有，我会以当前价格买入吗？\"），但未单独建概念页。当前已在上文的来源页和相关概念页中引用，但如需独立成页可考虑。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091511--qa-卖太早的陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/假设有持仓决策测试.md"
+    ],
+    "searchQueries": [
+      "prospect theory decision testing framework investing -- no external search needed, internal wiki question"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-07861c46",
+    "resolved": false,
+    "createdAt": 1786949134277
+  },
+  {
+    "type": "suggestion",
+    "title": "A股语境下止盈陷阱与分批卖出策略的适用性验证",
+    "description": "来源分析中明确指出 Q3 数值反例基于美股涨跌分布假设，而 A 股波动率更高、涨跌停制度不同，止盈陷阱效应可能更强；同时 Q7 分批卖出在 A 股高波动环境中的实际效果尚未验证。这是一个值得独立研究的 A 股适配性问题——直接影响策略的有效性判断。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091511--qa-卖太早的陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/止盈陷阱.md",
+      "wiki/concepts/分批卖出策略.md"
+    ],
+    "searchQueries": [
+      "A股 止盈策略 回测 行为偏差",
+      "A股 分批卖出 波动率 择时效果",
+      "中国股市 涨10%卖出 长期收益影响"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fdb6c640",
+    "resolved": false,
+    "createdAt": 1786949134277
+  },
+  {
+    "type": "missing-page",
+    "title": "投资者自我欺骗（Self-Deception in Investment）",
+    "description": "Q6 提出「假设有持仓决策测试」时明确指出其最大弱点是自欺风险——投资者会告诉自己「基本面没变」来逃避承认错误。这是一个独立的认知偏差类别：人们可以理性地做出错误的判断，因为他们的信念系统会自动过滤相反证据。现有 wiki 有 [[concepts/承认无知的价值]] 但角度不同（强调承认不懂），没有专门讨论「有信心的错误」。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091511--qa-卖太早的陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/承认无知的价值.md"
+    ],
+    "searchQueries": [
+      "investor self-deception cognitive bias confirmation bias investing -- how investors rationalize bad decisions",
+      "确认偏误 投资 自我合理化 认知失调"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9766953a",
+    "resolved": false,
+    "createdAt": 1786949134277
+  },
+  {
+    "type": "suggestion",
+    "title": "泡沫期vs正常上涨的实时区分信号",
+    "description": "Q4 和 Q8 的边界条件都指向同一个核心问题：如何区分「正常上涨后的正常回调」和「泡沫见顶」。来源分析标注这应与 [[concepts/泡沫识别三维框架]] 建立接口，但 wiki 中未见明确的互链或整合内容。这是整个「卖太早」系列的核心实战问题——知道何时该卖比知道为何卖得太早更重要。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091511--qa-卖太早的陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/泡沫识别三维框架.md",
+      "wiki/concepts/FOMO-害怕错过-投资语境.md"
+    ],
+    "searchQueries": [
+      "区分牛市回调与见顶信号 实用指标",
+      "bubble top indicators real-time vs hindsight",
+      "如何判断市场是否泡沫化 估值信号"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d1ff8024",
+    "resolved": false,
+    "createdAt": 1786949134277
+  },
+  {
+    "type": "missing-page",
+    "title": "巴菲特 / Berkshire Hathaway",
+    "description": "源文档以巴菲特股东信作为 CEO 认知窗口的标杆案例，当前 wiki 缺少独立的巴菲特实体页。该案例是理解年报阅读方法论中「看人」维度的核心参照，未来如需深入分析伯克希尔年报方法论或建立 CEO 认知评估基准，需要此页面支撑。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091512--qa-年报阅读指南__qa.md",
+    "affectedPages": [
+      "wiki/entities/warren-buffett.md"
+    ],
+    "searchQueries": [
+      "巴菲特股东信年度报告分析方法论",
+      "Berkshire Hathaway shareholder letter annual report",
+      "巴菲特股东信年度分析方法论 Berkshire Hathaway shareholder letter insights",
+      "巴郡年报股东信历年主题演变"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f42cffbf",
+    "resolved": false,
+    "createdAt": 1786949463210
+  },
+  {
+    "type": "suggestion",
+    "title": "A 股年报阅读框架本地化",
+    "description": "该源框架基于美股/港股年报实践，A 股年报在风险因素披露质量、审计意见类型分布、MD&A 规范程度上可能存在差异。如需要将年报阅读方法应用于 A 股个股分析，需验证框架的本地适用性，特别是：A 股公司风险因素披露的系统性低估程度、保留意见的实际发生率、管理层回避话题的常见模式。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091512--qa-年报阅读指南__qa.md",
+    "affectedPages": [
+      "wiki/queries/a股年报阅读框架适用性验证.md"
+    ],
+    "searchQueries": [
+      "A股年报风险因素披露质量分析 审计保留意见发生率",
+      "中国上市公司MD&A管理层讨论分析规范性研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-49a2654a",
+    "resolved": false,
+    "createdAt": 1786949463210
+  },
+  {
+    "type": "suggestion",
+    "title": "A 股年报阅读框架本地化验证",
+    "description": "该源框架基于美股/港股年报实践，A 股年报在风险因素披露质量、审计保留意见发生率、MD&A 规范程度上可能存在系统性差异。若用户计划将此方法应用于 A 股个股分析，需验证框架的本地适用性边界——特别是 A 股公司风险因素的系统性低估程度和管理层回避话题的常见模式。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091512--qa-年报阅读指南__qa.md",
+    "affectedPages": [
+      "wiki/queries/a股年报阅读框架适用性验证.md"
+    ],
+    "searchQueries": [
+      "A股年报风险因素披露质量研究 上市公司风险披露充分性",
+      "中国上市公司审计保留意见发生率 财务造假案例 审计报告非标准意见"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0592b209",
+    "resolved": false,
+    "createdAt": 1786949463210
+  },
+  {
+    "type": "missing-page",
+    "title": "低利率追逐链",
+    "description": "「低利率追逐链」机制（无风险利率过低→被迫涌向高息资产→推高价格压低收益→风险被低估）在源文件中被反复引用，是理解当前宏观环境下收益陷阱形成机制的核心框架。现有 wiki 中仅在相关页面的「开放问题」或「互引」中被提及，未独立建页。若建立，可与 [[总回报优先原则]]、[[高股息陷阱风险]]、[[REITs]] 形成结构性关联。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091513--qa-追逐收益的危险__qa.md",
+    "affectedPages": [
+      "wiki/concepts/低利率追逐链.md"
+    ],
+    "searchQueries": [
+      "yield chase low interest rate environment behavioral finance",
+      "低利率 追逐收益 行为金融学",
+      "yield chase low interest rate forced searching behavioral finance",
+      "低利率 追逐收益 行为金融学 被动风险承担"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-36d707fa",
+    "resolved": false,
+    "createdAt": 1786950007375
+  },
+  {
+    "type": "suggestion",
+    "title": "高收益债回收率数据来源",
+    "description": "Q5 的「高收益债违约回收率 40-50%」和「衰退期违约率 5-10%」数据未标注原始来源。建议追踪 Morningstar 原文或相关实证研究（如 S&P Global 高收益债违约统计）以增强可信度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091513--qa-追逐收益的危险__qa.md",
+    "affectedPages": [
+      "SEARCH: high yield bond default recovery rate statistics S&P Global | 高收益债违约回收率 统计数据"
+    ],
+    "searchQueries": [
+      "high yield bond default recovery rate statistics S&P Global",
+      "高收益债违约回收率 统计数据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-73fedc8b",
+    "resolved": false,
+    "createdAt": 1786950007376
+  },
+  {
+    "type": "suggestion",
+    "title": "无风险利率阈值实证",
+    "description": "Q3 末尾提到「利率回升到 4-5% 时追逐高息的冲动减弱」，这是一个可检验的经验判断，但无明确数据支撑。建议补充历史数据验证（如 2022 年加息周期中高股息资产的超额收益表现）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091513--qa-追逐收益的危险__qa.md",
+    "affectedPages": [
+      "SEARCH: 2022 interest rate hike high dividend stock performance | 加息周期 高股息 股票表现 2022"
+    ],
+    "searchQueries": [
+      "2022 interest rate hike high dividend stock performance",
+      "加息周期 高股息 股票表现 2022"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-30fae147",
+    "resolved": false,
+    "createdAt": 1786950007376
+  },
+  {
+    "type": "suggestion",
+    "title": "高收益债违约回收率数据来源",
+    "description": "Q5 中的两个关键数据——「衰退期违约率 5-10%」和「违约回收率 40-50%」——均未标注来源。这些数据是区分高收益债与高息股风险等级的核心论据，缺少原始引用会削弱 wiki 的可信度。建议追踪 Morningstar 原文或 S&P Global / Bloomberg 的高收益债统计报告。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091513--qa-追逐收益的危险__qa.md",
+    "affectedPages": [
+      "wiki/concepts/高收益债违约风险.md"
+    ],
+    "searchQueries": [
+      "high yield bond default recovery rate S&P Global statistics",
+      "高收益债违约回收率 统计 数据来源"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b001b756",
+    "resolved": false,
+    "createdAt": 1786950007376
+  },
+  {
+    "type": "suggestion",
+    "title": "无风险利率阈值实证验证",
+    "description": "Q3 末尾断言「利率回升到 4-5% 时追逐高息的冲动减弱」，这是一个可检验的经验判断，但无任何数据支撑。若能在 wiki 中补充 2022 年加息周期中高股息资产（如 REITs、公用事业）的实际超额收益表现，可使该论点从推测升级为有实证支撑的分析框架。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091513--qa-追逐收益的危险__qa.md",
+    "affectedPages": [
+      "wiki/concepts/总回报优先原则.md"
+    ],
+    "searchQueries": [
+      "2022 interest rate hike high dividend REITs underperformance",
+      "加息周期 高股息 公用事业 超额收益 2022"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4d98eef0",
+    "resolved": false,
+    "createdAt": 1786950007376
+  },
+  {
+    "type": "duplicate",
+    "title": "耐心-投资语境 vs 规则对抗本能",
+    "description": "[[concepts/规则对抗本能]] 已高度覆盖 Q8（用规则代替情绪）的内容。新建的 [[concepts/耐心-投资语境]] 聚焦于 Q4（耐心的定义与进化根源），与规则对抗本能有概念上的递进关系，并非重复。但建议在 [[concepts/规则对抗本能]] 页面补充一条指向 [[concepts/耐心-投资语境]] 的交叉引用，说明\"耐心是品格，规则是方法\"的关系。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091514--qa-长期思维的力量__qa.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bf91bb9a",
+    "resolved": false,
+    "createdAt": 1786950502306
+  },
+  {
+    "type": "missing-page",
+    "title": "时间与时机对比未单独成页",
+    "description": "[[concepts/时间是确定优势]] 页面将\"时间是确定优势\"作为独立概念呈现，但原文中\"时间 vs 时机\"的对比论证非常完整（Q7），且涉及\"预测不可靠性\"等深层论点。考虑是否在 [[concepts/时间是确定优势]] 中强化\"时机不可预测\"这一子维度，或与 [[concepts/市场预测的不可靠性]] 建立更紧密的引用关系。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091514--qa-长期思维的力量__qa.md",
+    "affectedPages": [
+      "wiki/concepts/时间是确定优势.md"
+    ],
+    "searchQueries": [
+      "Morningstar why long term thinking wins time vs timing data",
+      "rule of 72 compound interest half life behavioral finance patience investing"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2ec1496a",
+    "resolved": false,
+    "createdAt": 1786950502306
+  },
+  {
+    "type": "suggestion",
+    "title": "跟踪 Q6 中 Vanguard 三因子 vs 多因子策略差距<1% 的具体原始文献",
+    "description": "[[sources/5-notes--29-20260614t091514-qa-长期思维的力量qa--1xh9rf7]] 中引用了 \"Vanguard 研究显示三因子组合与多因子策略差距 <1%\" 作为简单策略优势的核心实证，但未标注具体研究报告名称。Vanguard 有多项类似研究（如 2019 年 Beichelt & Robinson 报告、2021 年 Factor Investing 白皮书），需要定位原文以验证数据准确性并补充到页面 sources 字段。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091514--qa-长期思维的力量__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--29-20260614t091514-qa-长期思维的力量qa--1xh9rf7.md",
+      "wiki/concepts/简化投资的力量.md"
+    ],
+    "searchQueries": [
+      "Vanguard three factor portfolio multi-factor underperformance less than 1 percent study",
+      "Vanguard simple vs complex strategy long term returns research"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-70bee905",
+    "resolved": false,
+    "createdAt": 1786950502306
+  },
+  {
+    "type": "suggestion",
+    "title": "补充 《风浪越大，鱼越贵》伴读已入库但 risk-reward-time 框架页面尚未深度建立",
+    "description": "[[sources/5-notes--34-20260531t103217z-伴读-风浪越大鱼越贵reading--16117q0]] 已被索引，但 wiki 中与\"风险-收益-时间\"三角关系直接对应的页面仅有 [[concepts/风险收益正相关与时间维度]]，缺少将本文 Q1（持有期-亏损概率）与该伴读中的\"风险定价视角\"做交叉综合的页面。这类跨源整合是 wiki 知识网络的核心价值所在。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091514--qa-长期思维的力量__qa.md",
+    "affectedPages": [
+      "wiki/concepts/风险收益正相关与时间维度.md",
+      "wiki/sources/5-notes--34-20260531t103217z-伴读-风浪越大鱼越贵reading--16117q0.md"
+    ],
+    "searchQueries": [
+      "风浪越大鱼越贵 风险收益 时间维度 投资框架 晨星"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-10e17e4d",
+    "resolved": false,
+    "createdAt": 1786950502306
+  },
+  {
+    "type": "duplicate",
+    "title": "时间是确定优势 vs 持有期-亏损概率递减规律 存在内容重叠",
+    "description": "新建的 [[concepts/时间是确定优势]] 和 [[concepts/持有期-亏损概率递减规律]] 均大量引用同一组标普 500 1926–2020 数据（1年/10年/20年亏损概率表）。前者定位是\"命题框架\"，后者是\"数据规律\"，概念上有递进而非重复。建议将亏损概率表格统一放在 [[concepts/持有期-亏损概率递减规律]]，[[concepts/时间是确定优势]] 仅保留对比论证（时间 vs 时机表格）及指向后者的链接，避免两段数据重复。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091514--qa-长期思维的力量__qa.md",
+    "affectedPages": [
+      "wiki/concepts/时间是确定优势.md",
+      "wiki/concepts/持有期-亏损概率递减规律.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7a575883",
+    "resolved": false,
+    "createdAt": 1786950502306
+  },
+  {
+    "type": "suggestion",
+    "title": "补全 A 股 vs 美股持有期-亏损概率对照专题页",
+    "description": "[[concepts/持有期-亏损概率递减规律]] 已列出标普 500 数据，[[concepts/投资时间框架原则]] 中有 A 股数据，两者呈互补关系但尚未在同一页面做系统性对比。考虑创建一个综合页面专门比较两个市场的持有期-亏损概率曲线差异及其原因（市场成熟度、经济增速、投资者结构），这对个人投资者选择合适的持有期限有直接参考价值。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091514--qa-长期思维的力量__qa.md",
+    "affectedPages": [
+      "wiki/concepts/持有期-亏损概率递减规律.md",
+      "wiki/concepts/投资时间框架原则.md"
+    ],
+    "searchQueries": [
+      "A股持有期亏损概率 标普500 持有期回报分布 跨市场对比 长期投资 A股 vs 美股"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-27d7fc83",
+    "resolved": false,
+    "createdAt": 1786950502306
+  },
+  {
+    "type": "missing-page",
+    "title": "再平衡页面需补充波动拖累机制",
+    "description": "[[再平衡]]现有页面强调\"剔除情绪干扰\"和\"强制逆向操作\"，但未涉及波动拖累这一核心数学机制。本文分析建议在该页面\"为什么有效\"部分补充波动拖累的解释，以建立完整的理论支撑链。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091630--伴读-波动之下零收益组合__reading.md",
+    "affectedPages": [
+      "wiki/concepts/再平衡.md"
+    ],
+    "searchQueries": [
+      "volatility drag rebalancing morningstar",
+      "Shannon's demon portfolio rebalancing math",
+      "波动拖累 再平衡 投资组合"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f221c552",
+    "resolved": false,
+    "createdAt": 1786951247515
+  },
+  {
+    "type": "suggestion",
+    "title": "网格交易策略关联研究",
+    "description": "描述：文末\"下一步线索\"提及网格交易策略，认为其与再平衡有相似逻辑。当前 wiki 无此页面，值得后续研究并建立关联。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091630--伴读-波动之下零收益组合__reading.md",
+    "affectedPages": [
+      "wiki/concepts/网格交易策略.md"
+    ],
+    "searchQueries": [
+      "网格交易策略 再平衡 区别",
+      "grid trading strategy vs rebalancing",
+      "晨星 网格交易 基金"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e9882399",
+    "resolved": false,
+    "createdAt": 1786951247515
+  },
+  {
+    "type": "missing-page",
+    "title": "风险承受能力",
+    "description": "\"投资决策应始于风险承受能力，而非目标收益\"是本文核心论点之一，但 wiki 中尚无专门的风险承受能力页面，仅在各处散见提及。值得补建一页以承接资产配置与再平衡的底层逻辑。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091630--伴读-波动之下零收益组合__reading.md",
+    "affectedPages": [
+      "wiki/concepts/波动拖累.md",
+      "wiki/concepts/再平衡.md"
+    ],
+    "searchQueries": [
+      "风险承受能力 定义 评估方法 晨星",
+      "risk tolerance assessment investor",
+      "风险承受能力测试 基金"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f94969de",
+    "resolved": false,
+    "createdAt": 1786951247516
+  },
+  {
+    "type": "missing-page",
+    "title": "余额宝（Yuebao）",
+    "description": "余额宝作为规模最大、最典型的货币基金案例，在[[concepts/货币基金业绩持续性]]来源文中被用作\"规模过大导致收益摊薄\"的代表案例，但尚未建立独立的实体页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091730--伴读-春节闲钱理财攻略__reading.md",
+    "affectedPages": [
+      "wiki/entities/余额宝-yuebao.md"
+    ],
+    "searchQueries": [
+      "余额宝 规模 收益率 2024 2025",
+      "余额宝 七日年化收益率 规模变化 趋势"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1f32152a",
+    "resolved": false,
+    "createdAt": 1786959779687
+  },
+  {
+    "type": "suggestion",
+    "title": "货币基金机构占比阈值待量化",
+    "description": "现有[[concepts/机构持有人风险]]对债券基金给出了清晰的 >30% 高风险阈值，但货币基金的机构占比阈值尚未有共识数据。本文提及风险但无具体数字，建议追踪晨星或基金定期报告中的行业研究。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091730--伴读-春节闲钱理财攻略__reading.md",
+    "affectedPages": [
+      "SEARCH: 货币基金 机构占比阈值 流动性风险 晨星 | 货币基金 大额赎回 散户 冲击成本 研究"
+    ],
+    "searchQueries": [
+      "货币基金 机构占比阈值 流动性风险 晨星",
+      "货币基金 大额赎回 散户 冲击成本 研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f727c168",
+    "resolved": false,
+    "createdAt": 1786959779687
   }
 ]
