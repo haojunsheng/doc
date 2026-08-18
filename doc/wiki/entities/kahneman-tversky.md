@@ -1,21 +1,33 @@
+
+
 ---
 type: entity
 title: Kahneman & Tversky
 created: 2026-08-17
 updated: 2026-08-17
 tags: [domain/psychology, behavioral-finance, prospect-theory]
-related: [investor-gap, behavioral-cost-mind-the-gap]
-sources: ["notes/20260614T091505--概念解剖-投资者回报差距（Investor Gap）__concept.md"]
+related: [investor-gap, behavioral-cost-mind-the-gap, 损失厌恶-投资语境, 参考点依赖, 确定性收益偏好, 目标三要素框架]
+sources: ["notes/20260614T091505--概念解剖-投资者回报差距（Investor Gap）__concept.md", "notes/20260614T092100--伴读-投资中的旷野求生__reading.md"]
 ---
 # Kahneman & Tversky
 
-Daniel Kahneman 与 Amos Tversky，前景理论（Prospect Theory）创立者，1979 年发表该理论，为行为金融学奠定基石。Kahneman 后于 2002 年获诺贝尔经济学奖。
+丹尼尔·卡尼曼（Daniel Kahneman）与阿莫斯·特沃斯基（Amos Tversky）是前景理论（Prospect Theory）的创立者，1979 年发表该理论。卡尼曼后于 2002 年获诺贝尔经济学奖，为行为金融学奠定基石。
 
 ## 前景理论核心命题（1979）
 
-- **损失厌恶**：亏损的痛苦 > 同等盈利的快乐（损失约 2 倍于等量收益的负效用）
+- **损失厌恶**：亏损的痛苦 > 同等盈利的快乐（约 2 倍）
 - **参考点依赖**：人们对得失的判断依赖于参考点（如买入价），而非绝对财富水平
-- **确定性效应**：确定收益风险厌恶，确定损失风险偏好
+- **确定性效应**：对确定性结果过度偏好——确定收益时风险厌恶，确定损失时风险偏好
+
+人类决策并不遵循期望效用理论，而是在不确定性下系统性地偏离理性。
+
+## 延伸：幸福感的对比机制
+
+> 源自对投资中的旷野求生的伴读笔记
+
+前景理论不仅解释投资决策偏差，还解释**幸福感的相对性**：人类的幸福感往往取决于对比（与参照对象比较），而非绝对财富数字。
+
+这解释了"致富"为什么是移动目标——当你达到一个层次，比较对象也会升级，形成西西弗斯式的循环。这也是为什么"投资致富"不是一个有效的目标：参照系永远在移动。
 
 ## 在投资行为中的应用
 
@@ -27,6 +39,12 @@ Daniel Kahneman 与 Amos Tversky，前景理论（Prospect Theory）创立者，
 ### 与 Investor Gap 的关系
 晨星文章引用前景理论解释 **`[[concepts/投资者回报差距]]`** 的心理根源：
 > 亏损痛苦 > 盈利快乐 → 追涨杀跌 → MWR < TWR
+
+### 对投资目标的启示
+理解前景理论的延伸应用，有助于投资者：
+1. 认识到"更富有≠更幸福"的心理机制
+2. 主动定义自己的"够"，而非跟随社会参照系
+3. 将投资目标从"赚更多钱"转向"过想要的生活"
 
 ## 其他相关概念
 

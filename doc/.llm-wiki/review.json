@@ -4916,5 +4916,5228 @@
     "id": "review-f727c168",
     "resolved": false,
     "createdAt": 1786959779687
+  },
+  {
+    "type": "missing-page",
+    "title": "开放式问题：其他基金类型的晨星分类体系",
+    "description": "本文仅提及股票型基金12分类，债券基金、商品基金等其他类型的晨星分类体系未涉及。如后续有相关来源，可补充至 [[晨星基金分类]] 或新建专题页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091830--伴读-揭秘晨星基金评价__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md"
+    ],
+    "searchQueries": [
+      "Morningstar fund classification bond funds commodity funds",
+      "晨星基金分类体系 债券基金 商品基金"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-053f1f3d",
+    "resolved": false,
+    "createdAt": 1786961766518
+  },
+  {
+    "type": "missing-page",
+    "title": "股票型基金12个子类别的具体名称与定义",
+    "description": "[[晨星基金分类]] 页面指出股票型基金有12个分类，但未列出具体名称。这是一个实质性的知识缺口——投资者要知道自己基金的类别归属，需要知道这12个类别分别是什么。建议从晨星中国官方文档中提取完整的12类分类名目。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091830--伴读-揭秘晨星基金评价__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md"
+    ],
+    "searchQueries": [
+      "Morningstar China fund classification 12 categories stock funds",
+      "晨星基金分类 股票型 12类 具体名称",
+      "晨星中国 公募基金分类标准 股票型"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dfacab39",
+    "resolved": false,
+    "createdAt": 1786961766518
+  },
+  {
+    "type": "missing-page",
+    "title": "债券基金与其他基金类型的晨星分类体系",
+    "description": "[[晨星基金分类]] 仅覆盖股票型基金12分类，债券基金、货币市场基金、商品基金、混合基金的分类维度与数量均未涉及。完整理解晨星评价体系需要补全其他类型的分类规则。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091830--伴读-揭秘晨星基金评价__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md"
+    ],
+    "searchQueries": [
+      "Morningstar bond fund classification China",
+      "晨星基金分类 债券基金 货币市场基金 商品基金",
+      "Morningstar fund classification methodology fixed income"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cc13ef61",
+    "resolved": false,
+    "createdAt": 1786961766518
+  },
+  {
+    "type": "suggestion",
+    "title": "如何在晨星平台上实际查看基金的分类与星级",
+    "description": "文章预告了\"即将推出的投资工具\"，但未给出当前可用的操作路径（小程序/网页端如何查找某只基金的晨星分类和星级）。补充实操指南可提升 wiki 的可用性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091830--伴读-揭秘晨星基金评价__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md",
+      "wiki/concepts/晨星星级评价.md"
+    ],
+    "searchQueries": [
+      "晨星中国基金小程序 查看基金分类 星级评价 操作步骤",
+      "晨星网 基金分类 投资风格箱 如何查询",
+      "Morningstar.cn fund classification lookup guide"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-60457bf5",
+    "resolved": false,
+    "createdAt": 1786961766518
+  },
+  {
+    "type": "suggestion",
+    "title": "A股语境下七种策略的适用性",
+    "description": "本文提出的七种策略谱系全部基于美股市场语境（道指、S&P 500、Fidelity Magellan），未讨论在 A 股市场的适用性差异。wiki 中已有 A 股语境页面如 [[concepts/风格轮动-a股语境]]、[[concepts/指数编制风险]]，建议考虑补充一篇对比分析，或在本来源页中增加 A 股适用性说明。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091900--伴读-3800点别乱追__reading.md",
+    "affectedPages": [
+      "wiki/concepts/dogs-of-the-dow-strategy.md",
+      "wiki/sources/5-notes--41-20260614t091900-伴读-3800点别乱追__reading.md"
+    ],
+    "searchQueries": [
+      "A股市场道琼斯策略有效性",
+      "A股低市盈率策略表现",
+      "中国A股因子投资有效性研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5c099da2",
+    "resolved": false,
+    "createdAt": 1786963045353
+  },
+  {
+    "type": "suggestion",
+    "title": "认知范围扩展边界",
+    "description": "文章核心命题\"你只能赚到你认知范围内的钱\"引出一个开放问题：认知范围是否可通过学习扩展？如果可以，扩展的边界在哪里？这与 [[concepts/能力圈风险]] 的边界条件形成有趣对照，值得追踪。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091900--伴读-3800点别乱追__reading.md",
+    "affectedPages": [
+      "wiki/concepts/strategy-fit.md",
+      "wiki/concepts/能力圈风险.md"
+    ],
+    "searchQueries": [
+      "能力圈扩展边界 投资学习",
+      "认知范围如何扩大 投资策略",
+      "巴菲特 能力圈 扩展"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9259a6ce",
+    "resolved": false,
+    "createdAt": 1786963045353
+  },
+  {
+    "type": "suggestion",
+    "title": "A股语境下七种策略的适用性验证",
+    "description": "本文提出的七种策略（指数投资、GARP、护城河、低市盈率、道狗、因子投资、套利）全部基于美股市场语境设计，未讨论在A股市场的适用性差异。wiki中已有[[concepts/风格轮动-a股语境]]、[[concepts/指数编制风险]]等本土化页面，建议考虑补充一篇A股适用性分析，或在来源页中增加本土化风险提示。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091900--伴读-3800点别乱追__reading.md",
+    "affectedPages": [
+      "wiki/concepts/dogs-of-the-dow-strategy.md",
+      "wiki/concepts/low-pe-strategy.md",
+      "wiki/sources/5-notes--41-20260614t091900-伴读-3800点别乱追__reading.md"
+    ],
+    "searchQueries": [
+      "A股道狗策略有效性回测",
+      "A股低市盈率因子超额收益",
+      "中国股市逆向投资可行性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-313abf31",
+    "resolved": false,
+    "createdAt": 1786963045353
+  },
+  {
+    "type": "suggestion",
+    "title": "认知范围的扩展边界",
+    "description": "文章核心命题\"你只能赚到你认知范围内的钱\"指向[[concepts/能力圈风险]]，但存在一个悬而未决的问题：认知范围是否可通过学习系统性扩展？扩展的边界在哪里？这与巴菲特本人关于\"能力圈是固定还是可扩大\"的争议直接相关，值得单独追踪以完善wiki的理论深度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T091900--伴读-3800点别乱追__reading.md",
+    "affectedPages": [
+      "wiki/concepts/strategy-fit.md",
+      "wiki/concepts/能力圈风险.md"
+    ],
+    "searchQueries": [
+      "巴菲特 能力圈 固定还是可扩展",
+      "投资认知边界 学习能力",
+      "circle of competence expand limit"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-73c0a8e4",
+    "resolved": false,
+    "createdAt": 1786963045353
+  },
+  {
+    "type": "missing-page",
+    "title": "标准差的局限性",
+    "description": "本文指出了标准差的局限性（将上下行波动一视同仁），分析建议将此内容并入 `[[波动率不是风险]]` 而非单独建页，已在该页补充说明中体现，无需单独建页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T092000--伴读-Hi 3000点我们的老朋友__reading.md",
+    "options": [
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-23f58387",
+    "resolved": false,
+    "createdAt": 1786963908910
+  },
+  {
+    "type": "suggestion",
+    "title": "风险的主观性与投资人格的关系",
+    "description": "`[[风险的主观性]]` 与 `[[投资人格]]`、`[[损失厌恶-投资语境]]` 关系密切，建议后续探索三者是否合并或保持独立。晨星风险系数的具体数学定义（如半方差还是其他方法）在当前来源中未明确给出，需查证晨星官方文档后补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T092000--伴读-Hi 3000点我们的老朋友__reading.md",
+    "searchQueries": [
+      "Morningstar risk measure formula semi-variance",
+      "Sortino ratio calculation method finance"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a1f3df77",
+    "resolved": false,
+    "createdAt": 1786963908910
+  },
+  {
+    "type": "missing-page",
+    "title": "晨星风险系数的具体计算方法",
+    "description": "`[[晨星风险系数]]` 当前页面仅描述了定性特征（给下行波动更大权重），但未给出具体数学定义。晨星官方文档中晨星风险系数与半方差或下行偏差的关系、以及在星级评价中的实际计算方式尚未明确，值得查证官方资料后补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T092000--伴读-Hi 3000点我们的老朋友__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星风险系数.md",
+      "wiki/concepts/晨星星级评价.md"
+    ],
+    "searchQueries": [
+      "Morningstar Risk Measure formula semi-variance",
+      "Morningstar risk rating methodology calculation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fb32034a",
+    "resolved": false,
+    "createdAt": 1786963908910
+  },
+  {
+    "type": "suggestion",
+    "title": "标准差局限性的计量论据整合",
+    "description": "`[[波动率不是风险]]` 页面已存在，且本文提供了标准差将上下行波动一视同仁的计量论据，建议在该页补充索提诺比率作为替代方案的具体公式与对比表格，使其不只是概念阐述而是有可操作的度量工具链。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T092000--伴读-Hi 3000点我们的老朋友__reading.md",
+    "affectedPages": [
+      "wiki/concepts/波动率不是风险.md",
+      "wiki/concepts/索提诺比率.md"
+    ],
+    "searchQueries": [
+      "标准差局限性 索提诺比率 下行风险 量化比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c9f0ae95",
+    "resolved": false,
+    "createdAt": 1786963908910
+  },
+  {
+    "type": "missing-page",
+    "title": "上证指数的历史波动参照",
+    "description": "文章以\"沪指重回3000点\"作为叙事起点，但未提供任何历史波动数据作为参照（例如近10年3000点附近的历史分布、均值回归周期等）。补充一张\"沪指关键点位历史分布\"图或数据表，可以让读者建立真实的风险感知基线，而非仅停留在抽象概念层面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T092000--伴读-Hi 3000点我们的老朋友__reading.md",
+    "affectedPages": [
+      "wiki/concepts/持有期-亏损概率递减规律.md",
+      "wiki/concepts/风险收益正相关与时间维度.md"
+    ],
+    "searchQueries": [
+      "上证指数 3000点 历史分布 均值回归周期"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4cee7834",
+    "resolved": false,
+    "createdAt": 1786963908910
+  },
+  {
+    "type": "missing-page",
+    "title": "晨星投资规划工具与方法论",
+    "description": "来源末尾提及「晨星的投资规划工具」作为下一步线索，但 wiki 中尚无对应页面。晨星作为基金评价与资产配置权威，其财务规划框架（如 retirement planner、goal-based planning 工具）与本文「以目标为导向」主题高度相关，填补此处可形成从理念到工具的完整链条。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T092100--伴读-投资中的旷野求生__reading.md",
+    "affectedPages": [
+      "wiki/concepts/以目标为导向的投资.md"
+    ],
+    "searchQueries": [
+      "晨星 Morningstar 财务规划工具 retirement planner 目标导向投资",
+      "Morningstar personal financial planning framework",
+      "晨星投资规划 工具 方法论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c167574d",
+    "resolved": false,
+    "createdAt": 1786964107338
+  },
+  {
+    "type": "suggestion",
+    "title": "从生活目标到财务数字的量化方法",
+    "description": "来源提出了四步自我提问，但缺少「如何将想要的生活转化为具体财务需求」的操作方法（如年度支出测算、通胀调整、目标金额倒推等）。这是「以目标为导向的投资」从理念落地到执行的关键缺失环节，值得单独研究。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T092100--伴读-投资中的旷野求生__reading.md",
+    "affectedPages": [
+      "wiki/concepts/以目标为导向的投资.md",
+      "wiki/concepts/目标三要素框架.md"
+    ],
+    "searchQueries": [
+      "财务目标量化 年度支出测算 投资目标倒推",
+      "goal-based investing financial planning methodology",
+      "晨星 退休规划 财务目标 计算"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f23c06fb",
+    "resolved": false,
+    "createdAt": 1786964107338
+  },
+  {
+    "type": "missing-page",
+    "title": "三层业绩归因框架.md（未生成）",
+    "description": "分析中识别此为核心新概念并已输出 FILE 块，但实际磁盘上不存在该文件。这是整篇文章的方法论骨架，缺失会导致 [[晨星投资风格箱]] 和 [[风格漂移]] 无法被有效串联起来——两个已有页面都需要这个框架作为归因依据。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100001--伴读-理解基金业绩__reading.md",
+    "affectedPages": [
+      "wiki/concepts/三层业绩归因框架.md"
+    ],
+    "searchQueries": [
+      "三层业绩归因 基金 alpha 分解 晨星 杨鑫鑫",
+      "Brinson attribution China mutual funds",
+      "晨星 基金业绩 风格行业选股 三层归因"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-014f5904",
+    "resolved": false,
+    "createdAt": 1786972423770
+  },
+  {
+    "type": "missing-page",
+    "title": "风格顺风与逆风.md（未生成）",
+    "description": "关键概念已定义但未写入。与已有的 [[风格轮动-a股语境]] 互补但角度不同：后者讲市场按年份切换领涨风格（时间序列），前者讲特定时期内风格与基金的匹配程度（截面/个案）。两者合并阅读才能完整理解\"景顺长城鼎益2017-2020赢、2021后输\"的现象。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100001--伴读-理解基金业绩__reading.md",
+    "affectedPages": [
+      "wiki/concepts/风格轮动-a股语境.md",
+      "wiki/concepts/风格漂移.md"
+    ],
+    "searchQueries": [
+      "风格顺风 风格逆风 投资风格匹配 晨星",
+      "style tailwind headwind mutual funds China",
+      "晨星 风格箱 市场偏好 匹配"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2abef2ce",
+    "resolved": false,
+    "createdAt": 1786972423770
+  },
+  {
+    "type": "contradiction",
+    "title": "Brinson 归因 vs 三层归因框架",
+    "description": "[[brinson]] 实体页记录 Brinson (1986) 的核心结论：资产配置解释 90% 以上回报波动。而本文提出的三层归因框架强调\"剥离风格噪音才能看到真实 alpha\"，隐含承认选股能力在特定阶段（如 2023 上半年）可以显著解释超额收益。两者并非直接矛盾——Brinson 针对大类资产配置，三层框架针对同类基金内部归因——但读者可能感到张力：如果资产配置决定 90%，为什么还要精细做三层归因？建议在 [[三层业绩归因框架]] 页面中补充这一边界说明。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100001--伴读-理解基金业绩__reading.md",
+    "affectedPages": [
+      "wiki/concepts/三层业绩归因框架.md",
+      "wiki/entities/brinson.md"
+    ],
+    "searchQueries": [
+      "Brinson 1986 asset allocation returns attribution critique",
+      "三层归因 基金选股 alpha 适用边界",
+      "资产配置解释 90% 回报 争议"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-92bac24f",
+    "resolved": false,
+    "createdAt": 1786972423770
+  },
+  {
+    "type": "missing-page",
+    "title": "5-notes--33-20260614t100001-伴读-理解基金业绩（未生成）",
+    "description": "source 页面也未写入磁盘。已有 [[sources/5-notes--35-20260614t091830-伴读-揭秘晨星基金评价reading--1dkyn8m]] 作为晨星方法论来源，本 source 是具体案例应用的延伸，两者结合可形成\"晨星评价体系\"的完整证据链（方法论 + 实战案例）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100001--伴读-理解基金业绩__reading.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--33-20260614t100001-伴读-理解基金业绩reading--qtjfsc.md"
+    ],
+    "searchQueries": [
+      "晨星 基金业绩归因 2023 价值成长分化 刘彦春 杨鑫鑫",
+      "morningstar china fund performance attribution style tailwind"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-283ede5a",
+    "resolved": false,
+    "createdAt": 1786972423770
+  },
+  {
+    "type": "missing-page",
+    "title": "查理·艾里斯（Charles Ellis）实体卡",
+    "description": "源文\"下一步线索\"推荐查尔斯·艾里斯《赢得输家的游戏》，该文与全文\"保持在场优于择时\"的论点高度一致——Ellis 的核心命题是\"投资是输家的游戏\"，业余投资者试图战胜市场的努力反而损害回报。当前 wiki 无此实体页，也无相关概念页，形成理论支撑断层。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100002--伴读-错过牛市十天__reading.md",
+    "affectedPages": [
+      "wiki/concepts/收益集中规律.md",
+      "wiki/concepts/择时的心理陷阱.md",
+      "wiki/concepts/投资者回报差距.md"
+    ],
+    "searchQueries": [
+      "Charles Ellis \"Winning the Loser's Game\" investment philosophy",
+      "查理·艾里斯 赢得输家的游戏 投资",
+      "Charles Ellis passive investing behavioral finance"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c319940a",
+    "resolved": false,
+    "createdAt": 1786973072567
+  },
+  {
+    "type": "suggestion",
+    "title": "定投能否规避\"错过最佳交易日\"风险的实证研究",
+    "description": "文章明确标注\"主要针对一次性买入\"，并留下开放问题：定投是否能有效规避错过关键交易日的风险？`80-20收益时间分布`页面提及定投可\"确保始终在场\"，但未给出定量分析。这是一个影响策略选择的实质性缺口——若定投同样存在错过关键天的风险，则需配套纪律（如定期不定额法）；若定投确实有效，则可更安心推荐。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100002--伴读-错过牛市十天__reading.md",
+    "affectedPages": [
+      "wiki/concepts/错过最大涨幅天.md",
+      "wiki/concepts/择时的心理陷阱.md",
+      "wiki/concepts/80-20收益时间分布.md"
+    ],
+    "searchQueries": [
+      "定投 错过最佳交易日 回测 沪深300",
+      "dollar cost averaging miss best days backtest China A-share",
+      "定投 vs 一次性买入 收益集中度 实证"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8022fde5",
+    "resolved": false,
+    "createdAt": 1786973072567
+  },
+  {
+    "type": "contradiction",
+    "title": "单日涨跌概率口径不一致：50% vs 55%",
+    "description": "`择时的心理陷阱` Q5 称\"单次择时正确率约 50%\"，本文（及新建的 `单日涨跌概率` 页）称\"55 开\"。两者方向一致但数值来源不明，若未注明数据差异可能误导读者认为存在精确共识。建议追溯原始数据来源并统一口径，或在两页中注明各自的证据等级。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100002--伴读-错过牛市十天__reading.md",
+    "affectedPages": [
+      "wiki/concepts/单日涨跌概率.md",
+      "wiki/concepts/择时的心理陷阱.md"
+    ],
+    "searchQueries": [
+      "单日涨跌概率 沪深300 统计 55开",
+      "market timing single day probability 55% backtest",
+      "中国股市单日涨跌概率历史数据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f2b58f31",
+    "resolved": false,
+    "createdAt": 1786973072567
+  },
+  {
+    "type": "suggestion",
+    "title": "极端回撤场景下\"保持在场\"的心理可行性框架",
+    "description": "文章行动建议为\"买入宽基指数长期持有\"，但未讨论极端回撤（2015年A股股灾-46%，2018年-25%）下普通投资者的心理承受力。现有 `组合压力测试` 和 `最大回撤` 页面偏量化，缺乏行为金融学层面的配套框架——即在已知可能面临-40%回撤的情况下，投资者如何从心理上坚持\"保持在场\"。补全此边界条件可增强\"保持在场\"建议的现实可信度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100002--伴读-错过牛市十天__reading.md",
+    "affectedPages": [
+      "wiki/concepts/择时的心理陷阱.md",
+      "wiki/concepts/收益集中规律.md",
+      "wiki/concepts/组合压力测试.md"
+    ],
+    "searchQueries": [
+      "最大回撤 心理承受力 投资者行为 A股股灾",
+      "drawdown psychological resilience investor behavior",
+      "极端行情下投资者恐慌抛售 行为金融"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-31b5723a",
+    "resolved": false,
+    "createdAt": 1786973072567
+  },
+  {
+    "type": "suggestion",
+    "title": "两只基金组合与三基金组合的实证业绩对比",
+    "description": "伴读笔记中提出了\"两只基金 vs 三基金\"的连续谱，但开放问题明确指出：两者在实证上的业绩差距如何？是否有数据支持\"越简单越好\"？这是值得补充的量化证据，能帮助读者判断极简策略的真实性价比。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100003--伴读-降息降准该做什么__reading.md",
+    "affectedPages": [
+      "wiki/concepts/两只基金组合.md",
+      "wiki/concepts/三基金组合.md"
+    ],
+    "searchQueries": [
+      "Jan Leyes two fund portfolio vs three fund portfolio empirical performance",
+      "两只基金组合 三基金组合 业绩对比 实证研究",
+      "all-weather portfolio backtest performance simple vs complex"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c58d0a5b",
+    "resolved": false,
+    "createdAt": 1786973169786
+  },
+  {
+    "type": "missing-page",
+    "title": "无为-投资语境（道家哲学与行为金融的交叉）",
+    "description": "\"战略性无为\"页面已建立，但未单独建立\"无为\"作为跨文化思想谱系的概念页。道家\"无为\"与冥想\"坐禅\"在投资纪律训练中的类比，目前仅依附于一个具体概念，缺乏独立的跨学科视角。补全后可以与[[投资人格的进化维度]]、[[规则对抗本能]]形成更深的行为金融理论链。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100003--伴读-降息降准该做什么__reading.md",
+    "affectedPages": [
+      "wiki/concepts/战略性无为.md"
+    ],
+    "searchQueries": [
+      "道家无为 投资纪律 行为金融 冥想 投资者心理学",
+      "zazen meditation investor discipline behavioral finance",
+      "stoicism investing non-action philosophy"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-27d10654",
+    "resolved": false,
+    "createdAt": 1786973169786
+  },
+  {
+    "type": "suggestion",
+    "title": "宽基ETF作为战略性无为的执行工具",
+    "description": "文中多次提及\"宽基ETF\"是\"什么都不做\"策略的执行载体，但未建立独立的概念或实体页。作为连接\"战略性无为\"与实际操作层的关键工具类型，宽基ETF的定义、类型（沪深300、中证500、标普500等）、费用率和流动性指标，是读者从理念到行动之间的必要知识桥梁。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100003--伴读-降息降准该做什么__reading.md",
+    "affectedPages": [
+      "wiki/concepts/战略性无为.md",
+      "wiki/concepts/两只基金组合.md"
+    ],
+    "searchQueries": [
+      "宽基ETF 定义 类型 费用率 流动性 中国A股",
+      "broad-based ETF definition expense ratio liquidity comparison",
+      "沪深300ETF 中证500ETF 规模对比 追踪误差"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-82f9e7b4",
+    "resolved": false,
+    "createdAt": 1786973169786
+  },
+  {
+    "type": "suggestion",
+    "title": "中国政策市环境下\"什么都不做\"策略的有效性检验",
+    "description": "伴读笔记明确标注本文发布于2024年9月中国政策密集期（降息、降准、降首付），并提出了关键开放问题：\"什么都不做\"策略在中国政策市环境下，是否因政策信号更强而失效风险更高？这是一个需要补充的本土化检验——现有wiki中已有大量来自美股/全球市场的概念，但中国特定政策环境下的策略有效性尚缺实证讨论。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100003--伴读-降息降准该做什么__reading.md",
+    "affectedPages": [
+      "wiki/concepts/战略性无为.md"
+    ],
+    "searchQueries": [
+      "中国政策市 投资者行为 资产配置 影响",
+      "A股政策底 市场反弹 投资者择时行为 实证研究",
+      "降息降准周期 ETF申购 资金流向 2024"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f35fe776",
+    "resolved": false,
+    "createdAt": 1786973169786
+  },
+  {
+    "type": "missing-page",
+    "title": "晨星风险系数页面缺失",
+    "description": "来源中提到的\"晨星风险系数\"（Morningstar Risk-Adjusted Return）已有多处引用，但未创建独立概念页。建议补充该页面以完善风险指标体系。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100004--伴读-基金波动稳如老狗__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星风险系数.md"
+    ],
+    "searchQueries": [
+      "晨星风险系数 Morningstar risk adjusted return formula calculation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ad23542c",
+    "resolved": false,
+    "createdAt": 1786975013665
+  },
+  {
+    "type": "missing-page",
+    "title": "风险调整后收益页面需补充",
+    "description": "[[风险调整后收益]]页面已存在但内容较简略，可补充夏普比率与晨星风险调整收益的详细对比。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100004--伴读-基金波动稳如老狗__reading.md",
+    "affectedPages": [
+      "wiki/concepts/风险调整后收益.md"
+    ],
+    "searchQueries": [
+      "Sharpe ratio vs Morningstar risk adjusted return comparison"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d5914daa",
+    "resolved": false,
+    "createdAt": 1786975013665
+  },
+  {
+    "type": "missing-page",
+    "title": "夏普比率 (Sharpe Ratio) 需独立成页",
+    "description": "`风险调整后收益.md` 已存在但只简要提及夏普比率，未展开。本文强调它是判断基金\"性价比\"的核心指标之一，与晨星风险系数形成对比。应创建独立页面说明公式、计算方法、与晨星风险系数的差异，以及如何使用它做基金筛选。缺少这个概念会让后续任何涉及风险调整收益的内容都缺乏基础定义。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100004--伴读-基金波动稳如老狗__reading.md",
+    "affectedPages": [
+      "wiki/concepts/风险调整后收益.md",
+      "wiki/concepts/晨星风险系数.md"
+    ],
+    "searchQueries": [
+      "夏普比率 Sharpe Ratio 基金 计算公式 使用方法",
+      "Sharpe ratio vs Morningstar risk measure comparison"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9083ad5a",
+    "resolved": false,
+    "createdAt": 1786975013665
+  },
+  {
+    "type": "missing-page",
+    "title": "下行风险 (Downside Risk) 独立概念缺失",
+    "description": "本文首次系统引入\"下行风险\"作为连接标准差与最大回撤的桥梁概念，并明确指出它与[[索提诺比率]]的对应关系（索提诺比率的分母即为下行风险）。现有 wiki 中[[索提诺比率]]页面可能引用了它，但下行风险本身没有独立定义页。这个概念对理解为什么\"标准差 ≠ 风险\"至关重要，是本文核心论点\"风险可知，恐惧可控\"的量化基础。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100004--伴读-基金波动稳如老狗__reading.md",
+    "affectedPages": [
+      "wiki/concepts/索提诺比率.md",
+      "wiki/concepts/波动率不是风险.md"
+    ],
+    "searchQueries": [
+      "下行风险 Downside Risk 定义 计算 与标准差区别",
+      "Downside deviation vs standard deviation investment"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-011ca29b",
+    "resolved": false,
+    "createdAt": 1786975013665
+  },
+  {
+    "type": "suggestion",
+    "title": "将\"恐惧源于不了解\"作为恐慌性离场的前置解释补充",
+    "description": "[[恐慌性离场负反馈循环]]描述了行为后果，但缺少对其触发机制的解释——即\"恐惧来自认知不足而非心理素质差\"这一核心论点。本文提供了很好的因果链前置：投资者不了解持仓的最大回撤 → 出现未知亏损 → 触发恐慌性卖出 → 负反馈循环。建议在恐慌性离场页面补充这一认知层面解释，使两个页面形成完整的\"因→果\"关系。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100004--伴读-基金波动稳如老狗__reading.md",
+    "affectedPages": [
+      "wiki/concepts/恐慌性离场负反馈循环.md"
+    ],
+    "searchQueries": [
+      "恐慌性离场 投资心理 认知不足 恐惧 最大回撤"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4db76e5e",
+    "resolved": false,
+    "createdAt": 1786975013665
+  },
+  {
+    "type": "duplicate",
+    "title": "星级评价局限性重复检查",
+    "description": "本文在\"风险调整后收益\"段落中详细列出了[[晨星星级评价]]的三个注意事项（定量反映过往、不反映基金经理变化、仅适用于同类比较）。请确认[[晨星星级评价]]页面是否已完整收录这三条，避免重复内容或信息遗漏。这是本文最强调的实操陷阱，值得单独复核。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100004--伴读-基金波动稳如老狗__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星星级评价.md"
+    ],
+    "options": [
+      {
+        "label": "Review",
+        "action": "Review"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8c23e61f",
+    "resolved": false,
+    "createdAt": 1786975013665
+  },
+  {
+    "type": "duplicate",
+    "title": "主题基金清盘率数据存在差异",
+    "description": "`主题基金存活率模型`引用晨星数据称\"全球一半以上（>50%）主题基金已清盘\"，本文引用《2024全球主题基金研究报告》称\"超过60%的主题基金已清盘\"。两个数据口径可能不同（全球 vs 中国、不同年份区间），需确认是否统一引用或标注差异。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100005--伴读-选新基金五件事__reading.md",
+    "affectedPages": [
+      "wiki/concepts/主题基金存活率模型.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-11b0a664",
+    "resolved": false,
+    "createdAt": 1786975154010
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星《费率解码：基金的生存和制胜之道》报告",
+    "description": "本文末尾的\"下一步线索\"中提到了晨星《费率解码：基金的生存和制胜之道》——这是一份独立研究报告，包含\"费率与存活率正相关\"的实证数据，可作为`费用是复利的反面`和`新基金筛选五维度框架`维度的5的重要证据源。目前 wiki 中未收录该报告，若能获取并摘录关键数据将显著增强低费率论点的权威性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100005--伴读-选新基金五件事__reading.md",
+    "affectedPages": [
+      "wiki/concepts/费用是复利的反面.md",
+      "wiki/concepts/新基金筛选五维度框架.md"
+    ],
+    "searchQueries": [
+      "晨星 费率解码 基金的生存和制胜之道 报告",
+      "Morningstar fund fee survival report 2024",
+      "公募基金浮动管理费 证监会 推动高质量发展行动方案"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-32198d22",
+    "resolved": false,
+    "createdAt": 1786975154011
+  },
+  {
+    "type": "suggestion",
+    "title": "算术收益率 vs 几何收益率 应有独立页面",
+    "description": "伴读\"波动之下零收益组合\"已生成`波动拖累`和`算术收益率vs几何收益率`两个概念页，但后者在 wiki 索引中未见收录（git status 中有新增但未出现在 Recently Updated）。这是理解复利、72法则、香农魔鬼等概念的基础数学框架，若缺失将影响多页的知识连贯性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100005--伴读-选新基金五件事__reading.md",
+    "affectedPages": [
+      "wiki/concepts/波动拖累.md",
+      "wiki/concepts/72法则与财富翻倍.md",
+      "wiki/concepts/香农的魔鬼.md"
+    ],
+    "searchQueries": [
+      "算术收益率 几何收益率 复利 区别 公式",
+      "arithmetic vs geometric return compound interest formula",
+      "波动拖累 volatility drag 几何平均收益"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-696911e4",
+    "resolved": false,
+    "createdAt": 1786975154011
+  },
+  {
+    "type": "missing-page",
+    "title": "相关资产经验优先于从业总年限",
+    "description": "本文维度3提出的\"相关资产经验 > 从业总年限\"是一个反直觉但高度实用的判断标准，目前仅嵌入在`新基金筛选五维度框架`内部，未独立成页。这一原则可推广到所有资产类别的经理评估（债券经理转股票、港股经理转A股等场景），值得单独提炼为通用原则。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100005--伴读-选新基金五件事__reading.md",
+    "affectedPages": [
+      "wiki/concepts/新基金筛选五维度框架.md"
+    ],
+    "searchQueries": [
+      "基金经理 相关经验 从业年限 评估 晨星",
+      "fund manager relevant experience vs total tenure",
+      "基金经理经验评估 资产配置经验 年限"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f0ecd17d",
+    "resolved": false,
+    "createdAt": 1786975154011
+  },
+  {
+    "type": "suggestion",
+    "title": "现金流思维相关子概念待确认",
+    "description": "新建的 `现金流思维-个人理财版` concept 页面在 related 字段中列出了以下子概念名称：`固定支出vs可自由支配支出`、`DCF模型-个人版`、`买车即签负现金流协议`、`可自由支配支出最大化`。这些可能是独立的子概念，也可能只是正文中的表述。建议人工判断是否需要为它们分别创建独立概念页，或仅保留为正文内的叙述性概念。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100006--伴读-财务自由关键__reading.md",
+    "searchQueries": [
+      "个人理财 DCF 估值模型 自由现金流 阈值",
+      "discretionary spending ratio 50 30 20 personal finance",
+      "固定支出与可自由支配支出 比例 经验法则"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c979b877",
+    "resolved": false,
+    "createdAt": 1786975608983
+  },
+  {
+    "type": "missing-page",
+    "title": "买车即签负现金流协议概念",
+    "description": "源文中\"全款买车实际签下系列负现金流协议\"是一个有力的具体案例论证，在相关概念中已有提及（出现在现金流思维页面的 related 字段和原文摘要中），但未单独成页。若需要强化这个论证点，可考虑新建独立概念页；否则在正文中展开即可。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100006--伴读-财务自由关键__reading.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-adbacf8f",
+    "resolved": false,
+    "createdAt": 1786975608983
+  },
+  {
+    "type": "suggestion",
+    "title": "现金流思维相关子概念命名待确认",
+    "description": "新建的 `现金流思维-个人理财版` concept 页面在 `related` 字段中列出了以下可能不存在命名的子概念：`固定支出vs可自由支配支出`、`DCF模型-个人版`、`买车即签负现金流协议`、`可自由支配支出最大化`。建议人工判断这些是否应分别创建独立概念页，还是仅保留为正文叙述性概念，避免 wiki 中出现空链接或冗余页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100006--伴读-财务自由关键__reading.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-439e03cd",
+    "resolved": false,
+    "createdAt": 1786975608983
+  },
+  {
+    "type": "missing-page",
+    "title": "PNC 投资公司缺乏实体页",
+    "description": "源文中引用了 **PNC 投资公司（PNC Investment Advisory）** 的研究数据作为核心论据之一，但 wiki 中尚无对应实体页。其引用的是\"资产超1000万美元人群中超过1/3认为财富困扰>价值\"这一调查结论，属于事实性引用，是否需要为该机构单独建立实体页供未来交叉引用，值得确认。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100006--伴读-财务自由关键__reading.md",
+    "searchQueries": [
+      "PNC Investment Advisory research million dollar households survey",
+      "PNC 财富调查 百万富翁 幸福感研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8afb8784",
+    "resolved": false,
+    "createdAt": 1786975608983
+  },
+  {
+    "type": "suggestion",
+    "title": "现金流自由阈值未量化",
+    "description": "`现金流思维-个人理财版` 的开放问题中提到了关键盲区：**现金流自由的具体门槛**（被动收入覆盖基本支出 × N 个月安全垫）以及 **固定支出/可自由支配支出的比例阈值**（是否可用 50/30/20 法则或类似经验法则）。当前 wiki 仅有定性论述，缺少可操作的量化标准，建议补充或关联已有内容。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100006--伴读-财务自由关键__reading.md",
+    "searchQueries": [
+      "财务自由 被动收入覆盖支出 比例 阈值",
+      "50 30 20 法则 个人理财 固定支出",
+      "discretionary spending ratio personal finance benchmark"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-597cc1ab",
+    "resolved": false,
+    "createdAt": 1786975608983
+  },
+  {
+    "type": "suggestion",
+    "title": "开放问题：如何区分短期认知偏差与长期趋势转变",
+    "description": "文章提出了\"股价=集体认知\"框架，但没有给出判别\"短期认知偏差\"与\"长期趋势转变\"的边界标准。这是散户最难把握的决策边界——若无法区分，\"不要看\"的建议就失去了锚点（因为不知道什么该看、什么不该看）。建议在 `股价作为集体认知` 页面补充一个\"认知偏差 vs 趋势转变\"的判别框架或至少提出这个开放问题。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100007--伴读-节后A股收跌__reading.md",
+    "affectedPages": [
+      "wiki/concepts/股价作为集体认知.md",
+      "wiki/concepts/永久亏损 vs 波动.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9aed793c",
+    "resolved": false,
+    "createdAt": 1786976216512
+  },
+  {
+    "type": "suggestion",
+    "title": "与价值投资的张力需澄清",
+    "description": "文章隐含一种认知主义立场：股价只反映认知。但如果彻底采纳这个立场，价值投资\"低买高卖\"的逻辑基础会被动摇。需要澄清：短期认知偏差 vs 长期价值锚定之间的关系。建议在新建的概念页中补充这一张力。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100007--伴读-节后A股收跌__reading.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c57d94cf",
+    "resolved": false,
+    "createdAt": 1786976216512
+  },
+  {
+    "type": "suggestion",
+    "title": "与价值投资逻辑的张力需澄清",
+    "description": "文章隐含认知主义立场：股价只反映集体认知。但若彻底采纳此立场，价值投资\"低买高卖\"的逻辑基础会被动摇——如果价格纯粹是认知产物，那\"低买\"的依据是什么？建议在新建的概念页中明确区分\"短期认知噪声\"与\"长期价值锚\"，并补充价值投资对此问题的回应（如格雷厄姆的\"市场先生\"比喻）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100007--伴读-节后A股收跌__reading.md",
+    "affectedPages": [
+      "wiki/concepts/股价作为集体认知.md",
+      "wiki/concepts/价值投资.md"
+    ],
+    "searchQueries": [
+      "格雷厄姆 市场先生 认知偏差 价值投资",
+      "Graham value investing vs behavioral finance",
+      "霍华德马克斯 周期 认知 市场"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6fb81f17",
+    "resolved": false,
+    "createdAt": 1786976216512
+  },
+  {
+    "type": "missing-page",
+    "title": "\"不要看\"行为框架缺少专页",
+    "description": "文章给出的核心行动建议是\"不要看\"（减少查看持仓频率），但 wiki 中无对应专页。该建议虽合理但过于泛化——缺乏对\"什么情况下应该看\"的区分标准。可考虑新建一个简短的行为建议页，将其与 `择时的心理陷阱`、`耐心-投资语境` 等现有页面关联。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100007--伴读-节后A股收跌__reading.md",
+    "affectedPages": [
+      "wiki/concepts/择时的心理陷阱.md",
+      "wiki/concepts/耐心-投资语境.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-20d70245",
+    "resolved": false,
+    "createdAt": 1786976216512
+  },
+  {
+    "type": "suggestion",
+    "title": "语义效应实证数据",
+    "description": "艾里斯提到\"若称'指数投资'而非'被动投资'，选择指数的人至少会比现在多 50%\"——这是一个有趣的观察，但需要确认是否有实证数据支撑。建议追踪这个数据的来源。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100011--伴读-赢得输家的游戏__reading.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e741b01c",
+    "resolved": false,
+    "createdAt": 1786984923551
+  },
+  {
+    "type": "suggestion",
+    "title": "机构占比数据来源",
+    "description": "文章中提到的\"机构投资者占比从 10% 到 90%\"数据来源需要确认——是晨星内部研究还是外部统计（如 SIFMA、Investment Company Institute 等）。建议补充数据来源以增强可信度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100011--伴读-赢得输家的游戏__reading.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ea8b9fb4",
+    "resolved": false,
+    "createdAt": 1786984923551
+  },
+  {
+    "type": "suggestion",
+    "title": "语义效应\"多50%\"是否有实证支撑",
+    "description": "艾里斯断言\"若称'指数投资'而非'被动投资'，选择指数的人至少会比现在多50%\"——措辞影响选择的论断很吸引人，但需确认是否来自某项具体调研或仅为推测。若为推测，应在wiki中明确标注；若有实证，补充来源将大幅提升该概念的说服力。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100011--伴读-赢得输家的游戏__reading.md",
+    "affectedPages": [
+      "wiki/concepts/无聊的投资.md"
+    ],
+    "searchQueries": [
+      "Charles Ellis \"index investing\" vs \"passive investing\" 50% survey",
+      "语义效应 被动投资 vs 指数投资 选择率",
+      "Morningstar survey index investing terminology bias"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2f23240a",
+    "resolved": false,
+    "createdAt": 1786984923552
+  },
+  {
+    "type": "suggestion",
+    "title": "机构占比90%数据来源追踪",
+    "description": "文章核心论据\"机构投资者占比从1960年代10%升至现在90%+\"若无明确出处，会削弱\"主动投资越来越难\"这一论点的可信度。建议追踪该数据源自晨星内部研究、ICI（Investment Company Institute）报告还是SIFMA统计，并在相关页面补充引用。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100011--伴读-赢得输家的游戏__reading.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--34-20260614t100011-伴读-赢得输家的游戏reading--8bulxt.md",
+      "wiki/concepts/市场效率.md"
+    ],
+    "searchQueries": [
+      "institutional investor share US market 1960s 10% to 90% historical data",
+      "ICI investment company institute institutional ownership statistics history",
+      "SIFMA institutional trading volume share 1960s 2020s"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-57b063d5",
+    "resolved": false,
+    "createdAt": 1786984923552
+  },
+  {
+    "type": "missing-page",
+    "title": "护城河策略页面需补全五维框架",
+    "description": "已有 `wiki/concepts/护城河策略.md` 页面，但仅列出三种护城河类型（网络效应、无形资产、成本优势），缺少本文强调的\"转换成本\"和\"有效规模\"两个维度，且未标注晨星来源。建议以本文补全五维框架。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100013--伴读-高成长结局不如想象__reading.md",
+    "affectedPages": [
+      "wiki/concepts/护城河策略.md"
+    ],
+    "searchQueries": [
+      "Pat Dorsey economic moat five sources switching costs effective scale",
+      "晨星经济护城河五维度转换成本有效规模"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-88f3b903",
+    "resolved": false,
+    "createdAt": 1786985605765
+  },
+  {
+    "type": "suggestion",
+    "title": "光伏装机量停滞期预测可跟踪验证",
+    "description": "本文引用晨星预测\"2025年全球装机量进入停滞期\"。若该预测成真，则\"绿电转型\"大叙事是否也属于\"简单且人人认可的事实\"类危险增长故事？值得一个独立 query 跟踪。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100013--伴读-高成长结局不如想象__reading.md",
+    "affectedPages": [
+      "wiki/queries/绿电转型叙事是否属于简单人人认可的错误增长故事.md"
+    ],
+    "searchQueries": [
+      "光伏行业 2025 2026 装机量 停滞 产能过剩 最新数据",
+      "green energy transition narrative overcapacity 2025 2026"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bda52e2e",
+    "resolved": false,
+    "createdAt": 1786985605765
+  },
+  {
+    "type": "missing-page",
+    "title": "护城河策略页面需补全晨星五维框架",
+    "description": "已有 `wiki/concepts/护城河策略.md`，但仅列三种类型（网络效应、无形资产、成本优势），缺少\"转换成本\"和\"有效规模\"两个维度，且未标注晨星来源。建议以本文补全五维框架。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100013--伴读-高成长结局不如想象__reading.md",
+    "affectedPages": [
+      "wiki/concepts/护城河策略.md"
+    ],
+    "searchQueries": [
+      "Pat Dorsey economic moat five sources switching costs effective scale",
+      "晨星经济护城河五维度转换成本有效规模"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d71ae55e",
+    "resolved": false,
+    "createdAt": 1786985605765
+  },
+  {
+    "type": "suggestion",
+    "title": "光伏装机量停滞期预测跟踪验证",
+    "description": "本文引用晨星预测\"2025年全球装机量进入停滞期\"。若该预测成真，则\"绿电转型\"大叙事是否也属于\"简单且人人认可的事实\"类危险增长故事？值得一个独立 query 跟踪。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100013--伴读-高成长结局不如想象__reading.md",
+    "affectedPages": [
+      "wiki/queries/光伏装机量停滞期与绿电叙事风险.md"
+    ],
+    "searchQueries": [
+      "光伏行业 2025 2026 装机量 停滞 产能过剩 最新数据",
+      "green energy transition narrative overcapacity 2025 2026"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dc3943b5",
+    "resolved": false,
+    "createdAt": 1786985605765
+  },
+  {
+    "type": "suggestion",
+    "title": "Brinson et al. 1986 研究原始出处确认",
+    "description": "分析指出\"指数决定约 90% 收益\"引用自 Brinson et al., 1986，但该年份有两篇相关论文：\n- Brinson, Hood & Beebower (1986): \"Determinants of Portfolio Performance\"\n- Brinson, Singer & Beebower (1991): \"Determinants of Portfolio Performance II: An Update\"\n\n建议确认原始出处是 1986 还是 1991 版本，以及是否补充 Brinson 在 wiki 中的具体论文标题。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100534--伴读-想要躺平赚贝塔ETF该怎么买__reading.md",
+    "searchQueries": [
+      "Brinson Hood Beebower 1986 determinants of portfolio performance",
+      "Brinson Singer Beebower 1991 portfolio performance update"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ca7fba4a",
+    "resolved": false,
+    "createdAt": 1786987654332
+  },
+  {
+    "type": "missing-page",
+    "title": "终局问题（5只ETF角色扮演）",
+    "description": "[[sources/5-notes--41-20260614t100534-伴读-想要躺平赚贝塔etf该怎么买reading--ojl3p2]] 中的\"终局问题\"——\"如果你现在持有 5 只不同的 ETF，你能说清楚每只 ETF 在你的组合中扮演什么角色吗？\"——是一个高质量自我审查工具，但目前没有对应页面记录。\n考虑是否为这类反思性问题建立通用模板或单独的记录方式。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100534--伴读-想要躺平赚贝塔ETF该怎么买__reading.md",
+    "searchQueries": [
+      "ETF portfolio role assignment framework morningstar"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a187595c",
+    "resolved": false,
+    "createdAt": 1786987654332
+  },
+  {
+    "type": "suggestion",
+    "title": "综合费率与跟踪误差的关系量化",
+    "description": "[[concepts/综合费率]] 页面提到\"综合费率是跟踪误差的重要来源之一\"，但这是定性描述，缺乏量化数据支撑。建议补充：不同费率水平（如 0.15% vs 0.50%）对跟踪误差的实际影响幅度，以及是否有实证研究支持这一关联。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100534--伴读-想要躺平赚贝塔ETF该怎么买__reading.md",
+    "searchQueries": [
+      "ETF expense ratio tracking error correlation study",
+      "ETF 费率与跟踪误差实证研究"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-00e41f50",
+    "resolved": false,
+    "createdAt": 1786987654332
+  },
+  {
+    "type": "missing-page",
+    "title": "复杂体系失败概率的量化依据",
+    "description": "[[sources/5-notes--41-20260614t100534-伴读-想要躺平赚贝塔etf该怎么买reading--ojl3p2]] 引用\"复杂体系失败的概率远高于单一系统\"这一论断，但未提供出处或数据。这与 [[concepts/聪明贝塔]] 中记录的争议形成张力——需要判断这是否仅为经验判断，还是有实证支持。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100534--伴读-想要躺平赚贝塔ETF该怎么买__reading.md",
+    "searchQueries": [
+      "complex investment strategy failure probability empirical study",
+      "smart beta underperformance persistence research"
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5e4658b1",
+    "resolved": false,
+    "createdAt": 1786987654332
+  },
+  {
+    "type": "contradiction",
+    "title": "\"指数决定90%收益\"与\"选便宜的最香\"的逻辑张力",
+    "description": "[[entities/brinson]] 指出资产配置决定约90%收益，意味着同一指数下的ETF选择差异被压缩至<10%。但第五问强调\"选便宜的最香\"暗示费率差异在可比较范围内成为决定性因素。这两个命题如何协调——当差异已小于10%，费率（通常0.1%-0.5%）是否真的构成\"决定性\"因素？建议补充这一张力的分析。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100534--伴读-想要躺平赚贝塔ETF该怎么买__reading.md",
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f262bb00",
+    "resolved": false,
+    "createdAt": 1786987654332
+  },
+  {
+    "type": "missing-page",
+    "title": "固收+评估量化框架缺失",
+    "description": "本文指出的核心问题：固收+产品评估缺乏量化指标（最大回撤、夏普比率、信息比率）。这些指标已有独立页面，但未针对固收+产品场景给出评估标准和使用阈值。建议补充一篇\"固收+产品量化评估框架\"页面，或在现有指标页面补充固收+适用性说明。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100535--伴读-好的固收加产品要看哪些方面__reading.md",
+    "affectedPages": [
+      "wiki/concepts/固收+评估框架.md"
+    ],
+    "searchQueries": [
+      "固收+基金 最大回撤 夏普比率 评估标准",
+      "普通债券型基金 可转债仓位 风险收益特征"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3025746e",
+    "resolved": false,
+    "createdAt": 1786987705162
+  },
+  {
+    "type": "suggestion",
+    "title": "固收+的\"+\"部分贡献度量化研究",
+    "description": "开放问题：固收+中\"+\"部分在不同市场环境下的贡献度如何量化？普通债券型（仅投可转债）与积极债券型（直接投股票）的风险收益特征差异是否有实证数据支撑？建议检索晨星或 Wind 数据进行实证分析，补充 wiki 中的定性结论。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100535--伴读-好的固收加产品要看哪些方面__reading.md",
+    "affectedPages": [
+      "SEARCH: 固收+基金 净值表现 实证研究 可转债 vs 股票 | 普通债券型 积极债券型 风险收益 对比"
+    ],
+    "searchQueries": [
+      "固收+基金 净值表现 实证研究 可转债 vs 股票",
+      "普通债券型 积极债券型 风险收益 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-437e9f91",
+    "resolved": false,
+    "createdAt": 1786987705162
+  },
+  {
+    "type": "missing-page",
+    "title": "固收+产品量化评估框架",
+    "description": "本文反复指出\"固收+\"评估缺乏量化指标（最大回撤、夏普比率、信息比率），这些概念已在 wiki 中存在独立页面，但未在固收+场景下给出适用标准与阈值。建议补充\"固收+产品量化评估框架\"页面，或在相关指标页面补充固收+适用说明，使读者能自行横向比较不同固收+产品。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100535--伴读-好的固收加产品要看哪些方面__reading.md",
+    "affectedPages": [
+      "SEARCH: 固收+基金 最大回撤 夏普比率 信息比率 评估标准 | 普通债券型基金 可转债仓位 风险收益 量化指标"
+    ],
+    "searchQueries": [
+      "固收+基金 最大回撤 夏普比率 信息比率 评估标准",
+      "普通债券型基金 可转债仓位 风险收益 量化指标"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-df314f7b",
+    "resolved": false,
+    "createdAt": 1786987705162
+  },
+  {
+    "type": "suggestion",
+    "title": "固收+\"+\"部分贡献度的市场环境敏感性",
+    "description": "开放问题：固收+中\"+\"部分（股票 vs 可转债）在不同市场环境下的收益贡献如何量化？2022 年债股双杀场景下，两类产品的回撤差异有多大？建议检索晨星或 Wind 数据进行实证，补充 wiki 中定性结论的实证支撑。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100535--伴读-好的固收加产品要看哪些方面__reading.md",
+    "affectedPages": [
+      "SEARCH: 固收+ 净值表现 实证研究 可转债 vs 股票 市场环境 | 2022年 债股双杀 固收+ 回撤对比"
+    ],
+    "searchQueries": [
+      "固收+ 净值表现 实证研究 可转债 vs 股票 市场环境",
+      "2022年 债股双杀 固收+ 回撤对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f8909d8b",
+    "resolved": false,
+    "createdAt": 1786987705162
+  },
+  {
+    "type": "suggestion",
+    "title": "行为优势的实操化研究",
+    "description": "新创建的 `四种认知优势框架.md` 引用了\"行为优势\"概念，但 wiki 中**没有独立的\"行为优势\"页面**（仅有 `结构性优势` 单独成页）。行为优势是散户最可主动培养的非对称优势，目前只在框架表格中一笔带过，缺乏深度展开——例如：如何识别自身行为偏差模式、行为优势的训练方法（如建立检查清单、预设决策规则）、以及行为优势与心理账户的关系。补充此页面将补齐四步框架的理解闭环。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100536--伴读-市场急涨急跌操作上如何应对__reading.md",
+    "affectedPages": [
+      "wiki/concepts/四种认知优势框架.md",
+      "wiki/concepts/结构性优势.md"
+    ],
+    "searchQueries": [
+      "行为优势 投资者 控制情绪 认知偏差",
+      "behavioral advantage investor discipline",
+      "行为金融学 投资者行为优势 实践"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-07e7d87d",
+    "resolved": false,
+    "createdAt": 1786988091916
+  },
+  {
+    "type": "missing-page",
+    "title": "确认偏误",
+    "description": "`三种正当买卖情形.md` 明确指出\"买入逻辑不再成立\"的判断存在确认偏误风险，但 wiki 中**没有\"确认偏误\"页面**。确认偏误在投资语境下是一个高频概念（与止盈陷阱、后悔厌恶、择时陷阱都有关联），却只出现在一个页面的脚注式提及中，缺少独立页面的系统性梳理。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100536--伴读-市场急涨急跌操作上如何应对__reading.md",
+    "affectedPages": [
+      "wiki/concepts/三种正当买卖情形.md",
+      "wiki/concepts/止盈陷阱.md"
+    ],
+    "searchQueries": [
+      "确认偏误 投资 认知偏差",
+      "confirmation bias investing behavioral finance",
+      "确认偏误 投资陷阱 选择性记忆"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-883d4d0d",
+    "resolved": false,
+    "createdAt": 1786988091916
+  },
+  {
+    "type": "suggestion",
+    "title": "买入逻辑检查清单工具",
+    "description": "`三种正当买卖情形.md` 的核心操作项是\"买入逻辑不再成立\"，但缺乏具体判断工具。这是一个**高度实用的研究缺口**：可以调研晨星或其他投顾机构是否有\"持仓检视清单\"或\"买入逻辑验证框架\"，将抽象的\"逻辑不再成立\"转化为可操作的检查项目（如：估值变化、基本面恶化、基金经理变更、行业周期拐点等信号）。这将极大提升框架的落地性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100536--伴读-市场急涨急跌操作上如何应对__reading.md",
+    "affectedPages": [
+      "wiki/concepts/三种正当买卖情形.md",
+      "wiki/concepts/投资策略四步框架.md"
+    ],
+    "searchQueries": [
+      "晨星 持仓检视清单 基金 买入逻辑",
+      "fund holding review checklist morningstar",
+      "投资者 持仓逻辑 验证框架 卖出信号"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bf86bebf",
+    "resolved": false,
+    "createdAt": 1786988091916
+  },
+  {
+    "type": "missing-page",
+    "title": "跨市场分散页面需更新",
+    "description": "[[concepts/跨市场分散]] 目前仅提及 QDII 的\"额度约束\"摩擦，未涵盖本文揭示的\"产品层面伪分散风险\"。建议在该页面新增\"QDII 产品伪分散风险\"小节，引用中证海外中国互联网指数与沪深 300 相关系数 0.71 的数据。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100538--伴读-QDII打假你的基金海外浓度有多高__reading.md",
+    "affectedPages": [
+      "wiki/concepts/跨市场分散.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-928df031",
+    "resolved": false,
+    "createdAt": 1786988773270
+  },
+  {
+    "type": "missing-page",
+    "title": "晨星基金分类页面需补充营收来源地分类维度",
+    "description": "[[concepts/晨星基金分类]] 目前提及\"投资区域\"维度，但未说明晨星同时存在\"按营收来源地\"的分类体系（比上市地分类更精确）。建议在该页面补充此细节。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100538--伴读-QDII打假你的基金海外浓度有多高__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a35a9958",
+    "resolved": false,
+    "createdAt": 1786988773270
+  },
+  {
+    "type": "suggestion",
+    "title": "QDII 基金伪分散风险的普遍性扫描",
+    "description": "本文以中概股和港股 QDII 为例揭示了\"伪分散风险\"，但未系统扫描其他常见标签品类（如\"全球成长\"\"亚太精选\"\"新兴市场\"\"日本\"\"欧洲\"等）是否存在类似的\"标签≠实质\"问题。这是一项高价值的延伸研究：如果伪分散是系统性现象而非个案，将重塑投资者对境外基金的配置逻辑。建议逐一穿透主流 QDII 基金的前十大持仓营收来源地分布，量化其\"中国含量\"\"美国含量\"等实际敞口，形成\"QDII 品类真实分散度排行榜\"。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100538--伴读-QDII打假你的基金海外浓度有多高__reading.md",
+    "affectedPages": [
+      "wiki/concepts/伪分散风险.md",
+      "wiki/concepts/上市地≠营收来源地.md"
+    ],
+    "searchQueries": [
+      "QDII 基金 中国含量 穿透持仓 晨星",
+      "中证海外中国互联网指数 沪深300 相关系数",
+      "港股基金 中国企占比 恒生指数"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-78ee2c5d",
+    "resolved": false,
+    "createdAt": 1786988773271
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星营收来源地分类数据获取路径",
+    "description": "文章提到了晨星按营收来源地的分类方法，但未说明普通投资者如何实际操作：是通过晨星 App、基金季报、还是第三方工具（如朝阳永续、天天基金）可查？如果查询门槛高，该框架的实际指导价值会大打折扣；如果能一键获取，则可建议配套工具页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100538--伴读-QDII打假你的基金海外浓度有多高__reading.md",
+    "affectedPages": [
+      "wiki/concepts/穿透持仓.md",
+      "wiki/entities/晨星中国-morningstarcn.md"
+    ],
+    "searchQueries": [
+      "晨星基金 营收来源地 分类 查询方法",
+      "Morningstar revenue by geography fund screen",
+      "基金季报 持仓穿透 国家敞口 获取"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-21e77d7d",
+    "resolved": false,
+    "createdAt": 1786988773271
+  },
+  {
+    "type": "missing-page",
+    "title": "恒生指数成分股权重明细缺失",
+    "description": "文章引用了\"恒生指数 60% 以上是中国企业\"这一关键数据点，但未给出具体权重构成明细（如腾讯、阿里巴巴、美团等各占多少）。作为实体页面，[[entities/恒生指数]] 目前仅有概念性描述，缺乏可供引用的结构化数据，影响后续引用可信度。建议补充恒生指数成分股权重表及最新变化趋势。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100538--伴读-QDII打假你的基金海外浓度有多高__reading.md",
+    "affectedPages": [
+      "wiki/entities/恒生指数.md"
+    ],
+    "searchQueries": [
+      "恒生指数 成分股权重 2024 2025",
+      "Hang Seng Index constituents weight breakdown China companies"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8e6fd89f",
+    "resolved": false,
+    "createdAt": 1786988773271
+  },
+  {
+    "type": "suggestion",
+    "title": "中证海外中国互联网指数 vs 沪深300 相关系数的时效性与口径",
+    "description": "文章引用 0.71 这一相关系数作为核心证据，但未说明计算时段（滚动 1 年/3 年？日频/月频？）和计算区间起点。在 A 股与港股市场分化明显的年份（如 2021-2022 调整期 vs 2024-2025 反弹期），该相关系数可能显著波动。建议补充时效性说明或更新为最新数据，以避免页面引用过时数字导致误判。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100538--伴读-QDII打假你的基金海外浓度有多高__reading.md",
+    "affectedPages": [
+      "wiki/entities/中证海外中国互联网指数.md"
+    ],
+    "searchQueries": [
+      "中证海外中国互联网指数 沪深300 相关系数 最新",
+      "CSI Overseas China Internet Index HS300 correlation 2024 2025"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0c6e3599",
+    "resolved": false,
+    "createdAt": 1786988773271
+  },
+  {
+    "type": "duplicate",
+    "title": "与\"散户出路何在\"伴读内容重叠检查",
+    "description": "分析发现，本文主题与已存在的 `[[sources/5-notes--33-20260614t091800-伴读-散户出路何在reading--dwo0av]]` 高度相似，两者均围绕散户优劣势展开。建议人工对照两篇内容，判断是否需要合并或建立对比页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100539--伴读-硬茬韭菜如何养成__reading.md",
+    "affectedPages": [
+      "SEARCH: 散户投资优势 机构劣势 晨星 基金持有期限 | 散户出路何在 投资者行为优势 晨星中国"
+    ],
+    "searchQueries": [
+      "散户投资优势 机构劣势 晨星 基金持有期限",
+      "散户出路何在 投资者行为优势 晨星中国"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c937f705",
+    "resolved": false,
+    "createdAt": 1786989040430
+  },
+  {
+    "type": "missing-page",
+    "title": "新鲜事物综合症（Fresh Thing Syndrome）",
+    "description": "文中提到散户面临\"新机会比老持仓更性感\"的认知偏差，但未独立成页。这是一个可操作的行为偏差概念，与 FOMO 有区分——FOMO 是害怕错过牛市，新鲜事物综合症是不断切换持仓追逐\"新故事\"，两者机制不同，都值得单独成页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100539--伴读-硬茬韭菜如何养成__reading.md",
+    "affectedPages": [
+      "wiki/concepts/FOMO-害怕错过-投资语境.md",
+      "wiki/concepts/择时的心理陷阱.md"
+    ],
+    "searchQueries": [
+      "fresh thing syndrome investing cognitive bias",
+      "新奇偏好 行为偏差 投资 持仓切换"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-34cd8188",
+    "resolved": false,
+    "createdAt": 1786989040430
+  },
+  {
+    "type": "suggestion",
+    "title": "散户 vs 机构的量化对比研究",
+    "description": "本文\"亏钱概率随持有期延长而降低\"的论断缺乏具体数据来源标注，若找到晨星原始研究（持有期-亏损概率曲线），可显著增强 wiki 中 `[[持有期-亏损概率递减规律]]` 的实证支撑。同时，散户与机构在持有期、换手率、收益分布上的量化对比，是本文定性论证的盲区。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100539--伴读-硬茬韭菜如何养成__reading.md",
+    "affectedPages": [
+      "wiki/concepts/持有期-亏损概率递减规律.md",
+      "wiki/concepts/资金自有性优势.md"
+    ],
+    "searchQueries": [
+      "morningstar investor gap study holding period loss probability data",
+      "持有期限 亏损概率 晨星 研究数据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-eca43aea",
+    "resolved": false,
+    "createdAt": 1786989040430
+  },
+  {
+    "type": "suggestion",
+    "title": "\"散户出路何在\" vs \"硬茬韭菜\" 内容重叠确认",
+    "description": "`[[sources/5-notes--33-20260614t091800-伴读-散户出路何在reading--dwo0av]]` 与本文主题高度相似，均需人工对照：两篇文章是否来自同一期节目？内容是否有重复或互补？若重叠，考虑合并来源；若互补，建立对比视角。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100539--伴读-硬茬韭菜如何养成__reading.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--33-20260614t091800-伴读-散户出路何在reading--dwo0av.md",
+      "wiki/sources/5-notes--39-20260614t100539-伴读-硬茬韭菜如何养成reading--in52w8.md"
+    ],
+    "searchQueries": [
+      "晨星中国 散户出路 硬茬韭菜 伴读 投资差异"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-268b7c5c",
+    "resolved": false,
+    "createdAt": 1786989040430
+  },
+  {
+    "type": "missing-page",
+    "title": "止盈陷阱需要补充收益序列风险维度",
+    "description": "[[wiki/concepts/止盈陷阱.md]] 当前内容未提及收益序列风险。建议在该页补充：\"本文从[[concepts/收益序列风险]]角度补充了止盈陷阱的新维度：机械止盈除了造成盈亏不对称外，还可能恰好卖在收益序列最不利的位置——在早期上涨后卖出，导致投资者错失后续收益。\"",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100541--伴读-长期投资该不该止盈__reading.md",
+    "affectedPages": [
+      "wiki/concepts/止盈陷阱.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-755e1ff7",
+    "resolved": false,
+    "createdAt": 1786989702979
+  },
+  {
+    "type": "missing-page",
+    "title": "time-weighted-return-vs-money-weighted-return 需要补充收益序列风险的具体案例",
+    "description": "[[wiki/concepts/time-weighted-return-vs-money-weighted-return.md]] 当前仅提供了 Investor Gap 的抽象表格，缺少本文提供的精确数值示例（三年回报率 +10%/+10%/-10%，TWR=2.88%，IRR 分别为 -0.35% 和 +6.4%）。建议在该页\"与其他概念的关系\"节之后新增一节展示此案例，强化 TWR vs MWR 的实际意义。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100541--伴读-长期投资该不该止盈__reading.md",
+    "affectedPages": [
+      "wiki/concepts/time-weighted-return-vs-money-weighted-return.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-515eb5d6",
+    "resolved": false,
+    "createdAt": 1786989702979
+  },
+  {
+    "type": "missing-page",
+    "title": "time-weighted-return vs money-weighted-return 缺少精确数值案例",
+    "description": "[[wiki/concepts/time-weighted-return-vs-money-weighted-return.md]] 当前仅提供抽象对比，缺少年化回报 2.88% vs IRR -0.35%/+6.4% 这一精确示例。建议在该页新增一节展示此案例，强化 TWR vs MWR 的实际投资意义，与[[concepts/收益序列风险]]页面形成双向引用。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100541--伴读-长期投资该不该止盈__reading.md",
+    "affectedPages": [
+      "wiki/concepts/time-weighted-return-vs-money-weighted-return.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b3fc5e13",
+    "resolved": false,
+    "createdAt": 1786989702979
+  },
+  {
+    "type": "missing-page",
+    "title": "阿尔法（Alpha）独立页面",
+    "description": "当前 wiki 仅有 `贝塔收益vs阿尔法收益` 对比页，缺少 `阿尔法` 独立概念页。本文核心论点\"阿尔法是解释性而非预测性工具\"、\"阿尔法作为相对概念（有阿尔法不代表正收益）\"、\"阿尔法不可预测未来\"等内容建议沉淀到独立阿尔法页面，与 `贝塔` 页面对称。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100542--伴读-躺平的贝塔冒险的阿尔法__reading.md",
+    "affectedPages": [
+      "wiki/concepts/阿尔法.md"
+    ],
+    "searchQueries": [
+      "alpha investing definition active management excess return",
+      "alpha fund performance persistence evidence",
+      "alpha vs beta return attribution framework"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5132d2aa",
+    "resolved": false,
+    "createdAt": 1786990191105
+  },
+  {
+    "type": "duplicate",
+    "title": "飞猪理论可能已存在",
+    "description": "\"飞猪理论\"作为贝塔的比喻出现在本文，建议检查是否已有独立页面（如 `concepts/飞猪理论.md` 或类似命名）。若有则合并引用；若无则考虑是否值得单独建页（仅作为比喻，非核心概念）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100542--伴读-躺平的贝塔冒险的阿尔法__reading.md",
+    "affectedPages": [
+      "SEARCH: 飞猪理论 雷军 贝塔 投资 风口"
+    ],
+    "searchQueries": [
+      "飞猪理论 雷军 贝塔 投资 风口"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3c272864",
+    "resolved": false,
+    "createdAt": 1786990191105
+  },
+  {
+    "type": "missing-page",
+    "title": "贝塔（Beta）独立概念页",
+    "description": "wiki 目前只有 `贝塔收益vs阿尔法收益` 对比页和 `聪明贝塔`，缺少 `贝塔` 独立页面。本次伴读提供了清晰的贝塔定义、贝塔系数三种情形（>1、=1、<1）以及\"飞猪理论\"比喻，这些内容值得沉淀为独立概念页，与 `阿尔法是解释剩余` 形成对称结构。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100542--伴读-躺平的贝塔冒险的阿尔法__reading.md",
+    "affectedPages": [
+      "wiki/concepts/贝塔.md"
+    ],
+    "searchQueries": [
+      "beta coefficient definition fund volatility systematic risk",
+      "贝塔系数 基金波动率 市场风险"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6ed8ad4c",
+    "resolved": false,
+    "createdAt": 1786990191105
+  },
+  {
+    "type": "suggestion",
+    "title": "解释性工具 vs 预测性工具：本文核心认知翻转",
+    "description": "本次伴读最具原创性的论点是\"阿尔法和贝塔是解释性工具，不是预测性工具\"——投资者常见错误是把理解历史收益当作预测未来业绩。这个认知框架目前没有独立页面承载，且与 [[择时的心理陷阱]]、[[承认无知的价值]] 形成重要呼应，值得单独沉淀。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100542--伴读-躺平的贝塔冒险的阿尔法__reading.md",
+    "affectedPages": [
+      "wiki/concepts/择时的心理陷阱.md",
+      "wiki/concepts/承认无知的价值.md",
+      "wiki/concepts/贝塔收益vs阿尔法收益.md"
+    ],
+    "searchQueries": [
+      "alpha beta explanatory tool not predictive tool investment",
+      "阿尔法贝塔 解释工具 预测工具 投资认知"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-090d0e4c",
+    "resolved": false,
+    "createdAt": 1786990191105
+  },
+  {
+    "type": "missing-page",
+    "title": "威廉·夏普实体页",
+    "description": "本次伴读首次明确提及威廉·夏普（William Sharpe）作为收益分解框架的开创者，但 wiki 中尚未有任何夏普相关实体页面。`夏普比率.md` 是概念页，不替代人物实体。建议新建独立实体页以承接 CAPM 模型、收益分解框架等后续引用。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100542--伴读-躺平的贝塔冒险的阿尔法__reading.md",
+    "affectedPages": [
+      "wiki/entities/夏普比率.md"
+    ],
+    "searchQueries": [
+      "William Sharpe Nobel economics CAPM alpha beta asset pricing",
+      "威廉夏普 资本资产定价模型 诺贝尔经济学奖"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0baaa68d",
+    "resolved": false,
+    "createdAt": 1786990191105
+  },
+  {
+    "type": "suggestion",
+    "title": "主动-被动-结构性困境 补充历史阿尔法不可预测论断",
+    "description": "`贝塔收益vs阿尔法收益` 和 `主动-被动-结构性困境` 两页均未体现本次伴读的核心论断：\"历史阿尔法不能预测未来\"。这一论断是关键桥梁，连接了\"阿尔法是解释剩余\"的认知与\"主动投资结构性困境\"的实践结论，建议在 `主动-被动-结构性困境` 页补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100542--伴读-躺平的贝塔冒险的阿尔法__reading.md",
+    "affectedPages": [
+      "wiki/concepts/主动-被动-结构性困境.md",
+      "wiki/concepts/贝塔收益vs阿尔法收益.md"
+    ],
+    "searchQueries": [
+      "active fund alpha persistence cannot predict future performance",
+      "历史阿尔法 预测未来 主动基金业绩持续性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7257278a",
+    "resolved": false,
+    "createdAt": 1786990191105
+  },
+  {
+    "type": "missing-page",
+    "title": "晨星基金分类 - 需检查内容重叠程度",
+    "description": "本文的核心论点是\"晨星分类揭示真实风格\"，与现有 [[晨星基金分类]] 概念页高度重叠（该页已涵盖\"先确认分类再看星级\"的核心论点）。建议人工检查两页内容差异后，决定是否合并或补充本文的\"思维转换\"角度（单品→组合）作为新维度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100543--伴读-万千基金精准选基第一步__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5a7a60fc",
+    "resolved": false,
+    "createdAt": 1786990477727
+  },
+  {
+    "type": "missing-page",
+    "title": "基金选择的第一步：单品→组合思维转换",
+    "description": "本文唯一的新贡献是明确提炼出「选基金不是选最好的，而是选最适合组合的」这一认知转变，但目前 wiki 中只有 `组合视角.md` 隐含了这个思想，没有以独立的\"思维转换\"形态存在。建议在 `组合视角.md` 中显式标注\"单品→组合\"作为其核心定义之一，或单独创建概念页面，以保留本文在该序列中的独特位置。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100543--伴读-万千基金精准选基第一步__reading.md",
+    "affectedPages": [
+      "wiki/concepts/组合视角.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a7325600",
+    "resolved": false,
+    "createdAt": 1786990477728
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星基金分类的具体12个子类别名称",
+    "description": "`晨星基金分类.md` 和 `5-notes--35-20260614t091830-伴读-揭秘晨星基金评价reading--1dkyn8m` 均承认\"未公开详细列出全部12个子类别的完整名称与定义\"。这是晨星体系的关键方法学空白，有实际选基价值：投资者需要知道每类基金的典型持仓特征，才能判断某只基金是否\"名不副实\"。建议查阅晨星官网的分类标准文档补齐。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100543--伴读-万千基金精准选基第一步__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md"
+    ],
+    "searchQueries": [
+      "Morningstar fund classification China 12 categories 晨星基金分类 子类别",
+      "晨星基金分类标准 股票型基金 12类 中国证监会",
+      "Morningstar category definitions China A-share equity funds"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8023961a",
+    "resolved": false,
+    "createdAt": 1786990477728
+  },
+  {
+    "type": "missing-page",
+    "title": "基金五类分类方式的独立概念页",
+    "description": "本文列出的五类常见基金分类方式（按投资标的/风格/策略/风险等级/运作方式）在 wiki 中没有独立页面归纳。虽然零散分布在 `组合视角`、`新基金筛选五维度框架` 等页面中，但缺乏一个总览页供读者快速建立分类坐标系。若补全，可帮助读者理解晨星分类与其他分类体系的关系与边界。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T100543--伴读-万千基金精准选基第一步__reading.md",
+    "affectedPages": [
+      "wiki/concepts/组合视角.md",
+      "wiki/concepts/新基金筛选五维度框架.md"
+    ],
+    "searchQueries": [
+      "公募基金分类方式 五类 投资标的 投资风格 风险等级 R1 R2 R3 R4 R5",
+      "主动基金 被动基金 ETF 分类标准 中国证监会基金分类"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-073e32f5",
+    "resolved": false,
+    "createdAt": 1786990477728
+  },
+  {
+    "type": "missing-page",
+    "title": "格兰特姆预测失败案例记录",
+    "description": "来源选择性叙述了格兰特姆的三次成功预警，但未提及 2008 年后美股十年牛市期间其持续看空的预测偏差。建议在 `entities/格兰特姆-jeremy-grantham.md` 中补充此反面案例以保持平衡，或新建查询页面跟踪。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T103015--伴读-泡沫与逆向投资__reading.md",
+    "affectedPages": [
+      "wiki/entities/格兰特姆-jeremy-grantham.md"
+    ],
+    "searchQueries": [
+      "Jeremy Grantham GMO stock market predictions failures bearish calls lost money",
+      "GMO grantham bearish calls missed bull market 2009 2020"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4d14a057",
+    "resolved": false,
+    "createdAt": 1786991131760
+  },
+  {
+    "type": "suggestion",
+    "title": "AI 宏大叙事验证",
+    "description": "来源提到\"人工智能\"正处于宏大叙事阶段，建议建立跟踪页面验证\"宏大叙事→泡沫→重生\"三阶段模型在 AI 领域的适用性。可在新建概念页中增加\"待验证案例\"字段。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T103015--伴读-泡沫与逆向投资__reading.md",
+    "affectedPages": [
+      "SEARCH: AI investment bubble grand narrative 2024 2025 2026 dot com parallel | artificial intelligence stock market bubble historical parallel"
+    ],
+    "searchQueries": [
+      "AI investment bubble grand narrative 2024 2025 2026 dot com parallel",
+      "artificial intelligence stock market bubble historical parallel"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-186cb560",
+    "resolved": false,
+    "createdAt": 1786991131760
+  },
+  {
+    "type": "missing-page",
+    "title": "Sheena Iyengar 实体页缺失",
+    "description": "源文中引用果酱实验（选择过载的经典实证）设计者 Sheena Iyengar，但未单独建实体页。现有 [[选择过载]] 页面仅以段落形式提及，缺少对其学术贡献（Choice Overload 理论奠基人）、代表作《The Art of Choosing》及后续研究的系统记录。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T114912--qa-选择过剩时认识自己才是稀缺资源__qa.md",
+    "affectedPages": [
+      "wiki/entities/sheena-iyengar.md"
+    ],
+    "searchQueries": [
+      "Sheena Iyengar choice overload psychology Stanford -- Sheena Iyengar果酱实验 选择过载",
+      "Sheena Iyengar choice overload Stanford psychology -- Sheena Iyengar The Art of Choosing -- Sheena Iyengar jam experiment study"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-70c19bff",
+    "resolved": false,
+    "createdAt": 1786991790005
+  },
+  {
+    "type": "missing-page",
+    "title": "基金清盘率的历史统计与A股适用性",
+    "description": "来源声称\"过去15年超60%主题基金清盘\"，但未明确统计口径（全球/中国/某地区）、基金类型范围（股票型/混合型/债券型）以及是否包含ETF清盘。A股基金清盘机制、退市规则与海外市场不同，该数据是否直接适用于当前A股市场存疑。建议核实原始晨星研究的具体定义和适用范围，避免将海外数据误用为中国市场的通用事实。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115912--qa-选新基金__qa.md",
+    "affectedPages": [
+      "wiki/concepts/热点基金陷阱.md"
+    ],
+    "searchQueries": [
+      "Morningstar theme fund liquidation rate 60% statistics",
+      "中国公募基金清盘率统计 2010-2025",
+      "主题基金清盘率 A股市场"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-05f604ad",
+    "resolved": false,
+    "createdAt": 1786993259741
+  },
+  {
+    "type": "missing-page",
+    "title": "基金经理\"相关经验\"的量化阈值",
+    "description": "来源指出\"15年经验但相关投管仅2年，信心要打折扣\"，但未给出量化标准：2年是否构成最低门槛？不同策略类型（股票/债券/量化）的\"相关经验\"所需年限是否不同？这是一个需要进一步研究的判断标准，直接影响选基实操的有效性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115912--qa-选新基金__qa.md",
+    "affectedPages": [
+      "wiki/concepts/新基金筛选五维度框架.md"
+    ],
+    "searchQueries": [
+      "基金经理从业年限 最小可投资经验 晨星评级",
+      "基金经理管龄与业绩相关性 研究",
+      "fund manager relevant experience minimum track record"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2947f230",
+    "resolved": false,
+    "createdAt": 1786993259741
+  },
+  {
+    "type": "suggestion",
+    "title": "因子投资 vs 主题基金的概念边界澄清",
+    "description": "源文档在边界条件中提到\"因子是系统化暴露，主题基金是主动管理产品，性质不同\"，但未在wiki中建立明确的概念区分页。`[[concepts/因子投资策略]]` 与 `[[concepts/热点基金陷阱]]` 存在潜在认知混淆风险——投资者可能将行业因子暴露误认为\"有长期趋势的主题\"，从而绕过热点陷阱的约束。建议创建或补充一页，明确两者的方法论差异和投资含义。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115912--qa-选新基金__qa.md",
+    "affectedPages": [
+      "wiki/concepts/因子投资策略.md",
+      "wiki/concepts/热点基金陷阱.md"
+    ],
+    "searchQueries": [
+      "因子投资 vs 主题投资 区别 主动管理",
+      "Smart beta 行业因子 与主题基金 差异"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5523f9a6",
+    "resolved": false,
+    "createdAt": 1786993259741
+  },
+  {
+    "type": "missing-page",
+    "title": "财务自由度概念页缺失",
+    "description": "\"财务自由度\"在当前 wiki 中仅作为公式存在于 [[concepts/现金流思维-个人理财版]] 和 [[sources/5-notes--27-20260614t115913-qa-现金流为王-qa]] 内，尚无独立概念页。该概念具有独立的理论价值（衡量个人财务健康的核心指标），值得单独建页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115913--qa-现金流为王__qa.md",
+    "affectedPages": [
+      "wiki/concepts/财务自由度.md"
+    ],
+    "searchQueries": [
+      "财务自由度 公式 计算 被动收入覆盖月数 个人理财 行为金融学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-49ef26c2",
+    "resolved": false,
+    "createdAt": 1786993563787
+  },
+  {
+    "type": "contradiction",
+    "title": "PNC研究的适用边界",
+    "description": "[[entities/pnc-investment-advisors]] 引用的 PNC 研究为相关性调查，非因果证明。[[concepts/现金流思维-个人理财版]] 中已有\"中等偏弱\"的判断，两者表述一致，无实质矛盾，但建议在两处均明确标注\"高净值人群样本\"的局限。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115913--qa-现金流为王__qa.md",
+    "affectedPages": [
+      "wiki/concepts/现金流思维-个人理财版.md",
+      "wiki/sources/5-notes--27-20260614t115913-qa-现金流为王-qa.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c7aeef56",
+    "resolved": false,
+    "createdAt": 1786993563787
+  },
+  {
+    "type": "suggestion",
+    "title": "储蓄陷阱与总回报原则的张力需进一步探索",
+    "description": "[[concepts/储蓄陷阱-省小钱背大债]] 揭示了\"储蓄行为\"的方向性问题，与 [[concepts/总回报优先原则]] 存在潜在张力：总回报强调账户增长，储蓄陷阱警示盲目储蓄可能适得其反。建议后续整合，明确\"好的储蓄\"（建立习惯、增加被动收入）与\"坏的储蓄\"（压缩当下换取更大未来支出）的区分标准。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115913--qa-现金流为王__qa.md",
+    "affectedPages": [
+      "wiki/concepts/总回报优先原则.md",
+      "wiki/concepts/储蓄陷阱-省小钱背大债.md"
+    ],
+    "searchQueries": [
+      "储蓄行为 财务自由度 被动收入 强制储蓄 行为经济学 认知偏差"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-94aaf33e",
+    "resolved": false,
+    "createdAt": 1786993563787
+  },
+  {
+    "type": "missing-page",
+    "title": "财务自由度独立概念页",
+    "description": "\"财务自由度\"公式目前仅内嵌于 [[concepts/现金流思维-个人理财版]] 和 QA 源中，尚无独立概念页。该指标具有独立的理论价值（个人财务健康的核心量化维度），且 wiki 的 open question 明确标注\"被动收入覆盖几个月的支出\"缺乏经验法则。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115913--qa-现金流为王__qa.md",
+    "affectedPages": [
+      "wiki/concepts/财务自由度.md"
+    ],
+    "searchQueries": [
+      "财务自由度 公式 计算 被动收入覆盖月数 个人理财 行为金融学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f7177c5c",
+    "resolved": false,
+    "createdAt": 1786993563787
+  },
+  {
+    "type": "suggestion",
+    "title": "储蓄陷阱与总回报优先原则的张力需整合",
+    "description": "[[concepts/储蓄陷阱-省小钱背大债]] 揭示了储蓄行为的方向性问题，与 [[concepts/总回报优先原则]]（仅出现在相关标签中，未有独立页面）存在潜在张力。建议确认总回报原则页面是否存在，并明确\"好的储蓄\"（增加被动收入）与\"坏的储蓄\"（压缩当下换取更大未来支出）的区分标准。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115913--qa-现金流为王__qa.md",
+    "affectedPages": [
+      "wiki/concepts/总回报优先原则.md",
+      "wiki/concepts/储蓄陷阱-省小钱背大债.md"
+    ],
+    "searchQueries": [
+      "总回报优先原则 财务自由 储蓄行为 行为经济学 认知偏差"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7618e1cc",
+    "resolved": false,
+    "createdAt": 1786993563787
+  },
+  {
+    "type": "suggestion",
+    "title": "PNC高净值研究的普适性边界",
+    "description": "[[entities/pnc-investment-advisors]] 引用的研究仅针对资产>1000万美元人群，wiki 虽已标注\"中等偏弱\"，但未进一步讨论该结论对普通投资者的外推限制。可补充搜索是否有更广泛的人群研究支持或反驳\"资产≠幸福\"这一论点。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115913--qa-现金流为王__qa.md",
+    "affectedPages": [
+      "wiki/entities/pnc-investment-advisors.md",
+      "wiki/concepts/现金流思维-个人理财版.md"
+    ],
+    "searchQueries": [
+      "PNC 百万富翁 财富困扰 研究 高净值 主观幸福感 财富与幸福 关系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-673b886a",
+    "resolved": false,
+    "createdAt": 1786993563787
+  },
+  {
+    "type": "duplicate",
+    "title": "同源内容存在双页面",
+    "description": "源文件 `notes/20260614T115914--qa-钱去哪了__qa.md` 的内容与已有源页 `[[sources/5-notes--33-20260614t100007-伴读-节后a股收跌reading--ibxa9]]` 完全一致，仅形式不同（QA vs 伴读）。两页并存但内容重复，人工决定是否合并或保留双格式。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115914--qa-钱去哪了__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--26-20260614t115914-qa-钱去哪了qa--7db239.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a8f77a03",
+    "resolved": false,
+    "createdAt": 1786993684601
+  },
+  {
+    "type": "missing-page",
+    "title": "永久亏损 vs 波动 概念页",
+    "description": "分析中提到应更新 `[[永久亏损 vs 波动]]` 页面以引用隐形缓冲论点，但该页面在现有索引中未找到对应文件，需确认是否已存在或需新建。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115914--qa-钱去哪了__qa.md",
+    "affectedPages": [
+      "wiki/concepts/永久亏损vs波动.md"
+    ],
+    "searchQueries": [
+      "永久亏损 账面浮亏 实际亏损 投资波动 行为金融学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1a7d05e7",
+    "resolved": false,
+    "createdAt": 1786993684601
+  },
+  {
+    "type": "suggestion",
+    "title": "隐性风险类概念整合",
+    "description": "Q2中\"信息优势者\"作为一类赢家，未展开量化分析其实际占比。可考虑在 `[[无效市场的收割风险]]` 或新建页面中补充：信息优势者在A股市场中的实际获利占比，以及监管层对此的规制措施（如内幕交易界定、减持新规等），使读者不至于高估\"被收割\"的程度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115914--qa-钱去哪了__qa.md",
+    "affectedPages": [
+      "SEARCH: A股市场信息优势者获利占比 大股东减持数据 内幕交易规制"
+    ],
+    "searchQueries": [
+      "A股市场信息优势者获利占比 大股东减持数据 内幕交易规制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1acc239f",
+    "resolved": false,
+    "createdAt": 1786993684601
+  },
+  {
+    "type": "missing-page",
+    "title": "隐形缓冲效应",
+    "description": "源分析中标注应新建 `wiki/concepts/隐形缓冲效应.md`，但该文件不存在。此概念描述\"房子安全感错觉\"的核心论点（无实时报价+低流动性=隐形缓冲），与 `[[永久亏损 vs 波动]]` 互补，值得补全。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115914--qa-钱去哪了__qa.md",
+    "affectedPages": [
+      "wiki/concepts/隐形缓冲效应.md"
+    ],
+    "searchQueries": [
+      "房产流动性溢价 房价波动 股票vs房产 风险感知偏差"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-848861b6",
+    "resolved": false,
+    "createdAt": 1786993684601
+  },
+  {
+    "type": "missing-page",
+    "title": "看盘频率-操作-收益链条",
+    "description": "源分析中标注应新建 `wiki/concepts/看盘频率-操作-收益链条.md`，形式化 Q4 因果链（看盘↑→操作↑→犯错↑→收益↓），但文件不存在。该链条整合了 `[[损失厌恶-投资语境]]` 和 `[[无聊的投资]]` 的建议，具有框架价值。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115914--qa-钱去哪了__qa.md",
+    "affectedPages": [
+      "wiki/concepts/看盘频率-操作-收益链条.md"
+    ],
+    "searchQueries": [
+      "看盘频率 交易频率 收益影响 行动偏见 action bias investing"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7e7eb6c2",
+    "resolved": false,
+    "createdAt": 1786993684601
+  },
+  {
+    "type": "suggestion",
+    "title": "三类赢家与单程车票效应补充",
+    "description": "`[[单程车票效应]]` 中未收录源分析提出的\"三类赢家\"表格（高点兑现者/上市公司/信息优势者），且 `[[时间是确定优势]]` 未补充\"买好资产\"的前提边界条件。两处更新会让概念更完整、更具操作性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115914--qa-钱去哪了__qa.md",
+    "affectedPages": [
+      "wiki/concepts/单程车票效应.md",
+      "wiki/concepts/时间是确定优势.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4c6d654d",
+    "resolved": false,
+    "createdAt": 1786993684601
+  },
+  {
+    "type": "duplicate",
+    "title": "同源内容双页面",
+    "description": "源文件 `notes/20260614T115914--qa-钱去哪了__qa.md` 与已有源页 `[[sources/5-notes--33-20260614t100007-伴读-节后a股收跌reading--ibxa9]]` 内容完全一致，仅形式不同（QA vs 伴读）。需人工判断是否合并或保留双格式。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115914--qa-钱去哪了__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--26-20260614t115914-qa-钱去哪了qa--7db239.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7f8959c3",
+    "resolved": false,
+    "createdAt": 1786993684601
+  },
+  {
+    "type": "duplicate",
+    "title": "网格交易 QA 与伴读来源高度重叠",
+    "description": "本 QA 源（`notes/20260614T115916`）与已有伴读源（`notes/20260614T100009`）来自同一篇晨星中国文章，核心论点与实证数据几乎完全重合。当前策略是保留双源便于对照，但需人工判断：是否合并为一个源页面，或明确标注两者的差异化定位（伴读=深度理解，QA=速查），避免 wiki 冗余。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115916--qa-网格交易陷阱__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--28-20260614t115916-qa-网格交易陷阱qa--uj23j.md",
+      "wiki/sources/5-notes--33-20260614t100009-伴读-网格交易陷阱reading--1xcose7.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2c72cad1",
+    "resolved": false,
+    "createdAt": 1786994972092
+  },
+  {
+    "type": "missing-page",
+    "title": "后视镜视角",
+    "description": "正文术语表中提到\"后视镜视角（Hindsight Bias）\"作为网格参数回测偏见的概念，但未独立成卡。建议创建 `wiki/concepts/后视镜视角.md`。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115916--qa-网格交易陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/后视镜视角.md"
+    ],
+    "searchQueries": [
+      "hindsight bias backtesting parameter optimization investment strategy",
+      "后视镜偏差 回测 参数优化 投资"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a75a0faf",
+    "resolved": false,
+    "createdAt": 1786994972092
+  },
+  {
+    "type": "missing-page",
+    "title": "网格交易单边下跌风险量化",
+    "description": "概念卡边界第1条提出\"单边下跌中网格持续买入接飞刀，亏损可能比持有更严重\"，但未提供任何数据或形式化论证。这是网格交易最重要的反方论据，缺此则概念卡结论不对称。建议补充回测或推导：网格在熊市中的亏损幅度 vs 买入持有的跌幅，以及两者盈亏平衡的临界条件。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115916--qa-网格交易陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/网格交易.md"
+    ],
+    "searchQueries": [
+      "grid trading bear market drawdown vs buy hold backtest",
+      "网格交易 熊市 回撤 对比 买入持有 回测",
+      "grid strategy downside risk comparison"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3a4de060",
+    "resolved": false,
+    "createdAt": 1786994972093
+  },
+  {
+    "type": "suggestion",
+    "title": "网格交易 vs 定投的系统性比较",
+    "description": "两者都采用\"分批买入\"机制，但目的不同：网格为低买高卖套利，定投为摊薄成本长期持有。概念卡边界第2条已标记此开放问题，但未展开。一张比较卡可帮助用户理解：同样\"分格买入\"，什么条件下选网格、什么条件下选定投，以及两者的风险收益特征差异。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115916--qa-网格交易陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/网格交易.md",
+      "wiki/concepts/策略适配性.md"
+    ],
+    "searchQueries": [
+      "grid trading vs dollar cost averaging comparison investment strategy",
+      "网格交易 vs 定投 区别 适用场景 比较",
+      "grid vs DCA investing"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1a3fd3d3",
+    "resolved": false,
+    "createdAt": 1786994972093
+  },
+  {
+    "type": "missing-page",
+    "title": "完美组合是否存在（Query 页）",
+    "description": "Stage 1 分析建议在 queries/ 目录创建开放问题追踪页，追踪\"何时追求精确模型 vs 简单策略\"的讨论。该页面未随本次 ingest 创建，属于有价值的持续性问题节点，适合纳入 Wiki 索引。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115917--qa-完美投资组合__qa.md",
+    "affectedPages": [
+      "wiki/queries/完美组合是否存在.md"
+    ],
+    "searchQueries": [
+      "罗闻全 追寻完美投资组合 Andrew Lo in search of super portfolios",
+      "optimal portfolio theory active vs passive investing debate",
+      "optimal portfolio theory active vs passive investing"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c7dd366c",
+    "resolved": false,
+    "createdAt": 1786995775893
+  },
+  {
+    "type": "suggestion",
+    "title": "日内瓦三十少女基金的历史细节",
+    "description": "Stage 1 分析提到日内瓦三十少女基金是分散化的最早实践案例，但来源材料仅以故事形式简要提及。建议补充该历史案例的可靠来源（如金融学史料），以增强 Wiki 叙述的可信度和深度，同时可作为分散化概念卡的内容延伸。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115917--qa-完美投资组合__qa.md",
+    "affectedPages": [
+      "wiki/concepts/分散化-起源与原理.md"
+    ],
+    "searchQueries": [
+      "日内瓦三十少女基金 18世纪 年金分散化 金融史",
+      "Geneva thirty maidens fund annuity diversification history",
+      "终身年金 瑞士银行家 分散化起源 金融史"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-df11a700",
+    "resolved": false,
+    "createdAt": 1786995775893
+  },
+  {
+    "type": "duplicate",
+    "title": "投资是输家的游戏 vs 无聊的投资",
+    "description": "[[concepts/无聊的投资]] 已覆盖\"无聊是好事\"的核心命题，本次新增的 [[投资是输家的游戏]] 是其底层隐喻框架（输家游戏→无聊优势）。两页内容高度重叠，建议确认是否合并或保留分层结构。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115931--qa-投资无聊指数基金__qa.md",
+    "affectedPages": [
+      "wiki/concepts/无聊的投资.md",
+      "wiki/concepts/投资是输家的游戏.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-08d8b8e2",
+    "resolved": false,
+    "createdAt": 1786996053900
+  },
+  {
+    "type": "missing-page",
+    "title": "Scudder, Stevens & Clark 实体缺失",
+    "description": "Q2 引用的 Scudder, Stevens & Clark 是管理费 1% 模式的起源公司，wiki 中无独立实体页。如需追溯管理费历史，可补充该实体。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115931--qa-投资无聊指数基金__qa.md",
+    "affectedPages": [
+      "wiki/entities/scudder-stevens-clark.md"
+    ],
+    "searchQueries": [
+      "Scudder Stevens Clark investment management company history fee structure",
+      "共同基金管理费历史 1% 模式起源",
+      "共同基金管理费历史 1% 模式起源 Scudder Stevens"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2f31440e",
+    "resolved": false,
+    "createdAt": 1786996053900
+  },
+  {
+    "type": "suggestion",
+    "title": "定价效率与主动管理空间的量化证据",
+    "description": "Q1 声称\"机构占比从 10% 升至 90%\"和\"主动管理超额收益趋近于零\"，但未标注数据来源。SPIVA 报告等权威数据可支撑或修正这一论断，建议补充实证来源以增强可信度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115931--qa-投资无聊指数基金__qa.md",
+    "affectedPages": [
+      "wiki/concepts/投资是输家的游戏.md"
+    ],
+    "searchQueries": [
+      "SPIVA report active vs passive fund performance 2024 2025",
+      "机构投资者占比 A股 主动管理超额收益 SPIVA",
+      "institutional investor market share growth since 1960s"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d9bd48ad",
+    "resolved": false,
+    "createdAt": 1786996053900
+  },
+  {
+    "type": "missing-page",
+    "title": "辜朝明资产负债表衰退理论关联",
+    "description": "本文未提及辜朝明的\"资产负债表衰退\"理论，但该理论是理解日本通缩螺旋更深一层机制的关键学术框架，建议考虑更新 [[entities/辜朝明]] 页面，补充该理论与本文通缩螺旋论述的对应关系。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115932--qa-通缩比通胀更可怕__qa.md",
+    "affectedPages": [
+      "wiki/entities/辜朝明.md"
+    ],
+    "searchQueries": [
+      "辜朝明 资产负债表衰退 日本 通缩 企业部门负债最小化",
+      "Makoto Kohyama balance sheet recession Japan deflation"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0c72b25b",
+    "resolved": false,
+    "createdAt": 1786996390572
+  },
+  {
+    "type": "missing-page",
+    "title": "2%通胀目标制的政策经济学",
+    "description": "本文核心论点之一是各国央行把2%而非零通胀作为目标，但 wiki 中尚无专门页面承载这一政策经济学框架。现有[[货币幻觉]]页面偏重行为偏差解释，[[通缩螺旋]]偏重恶性循环机制，两者均未系统展开\"2%目标如何作为经济润滑剂\"的政策逻辑，以及失控通胀（>5%）的反面边界。补充此页可将分散的论证收口，形成独立的决策参考。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115932--qa-通缩比通胀更可怕__qa.md",
+    "affectedPages": [
+      "wiki/concepts/货币幻觉.md",
+      "wiki/concepts/通缩螺旋.md"
+    ],
+    "searchQueries": [
+      "2% inflation target central bank rationale monetary policy",
+      "通胀目标制 2% 央行 政策依据",
+      "inflation targeting 2% target why central banks"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-85f49aeb",
+    "resolved": false,
+    "createdAt": 1786996390572
+  },
+  {
+    "type": "suggestion",
+    "title": "辜朝明资产负债表衰退与本文通缩螺旋的整合",
+    "description": "本文详述了通缩螺旋的宏观循环，但未触及辜朝明\"资产负债表衰退\"理论——该理论从企业部门\"负债最小化\"而非\"利润最大化\"的行为假设出发，解释了日本为何在零利率下仍不愿借贷、消费不恢复，是通缩螺旋更深层的微观机制。[[entities/辜朝明]] 页面虽已存在，但未与本文建立关联，读者无法由此串联学术框架与实务案例。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115932--qa-通缩比通胀更可怕__qa.md",
+    "affectedPages": [
+      "wiki/entities/辜朝明.md",
+      "wiki/concepts/通缩螺旋.md"
+    ],
+    "searchQueries": [
+      "辜朝明 资产负债表衰退 企业部门负债最小化 日本 通缩",
+      "Makoto Kohyama balance sheet recession Japan corporate sector deleveraging"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-41163b7f",
+    "resolved": false,
+    "createdAt": 1786996390572
+  },
+  {
+    "type": "duplicate",
+    "title": "同一 Morningstar 原文的 QA 版与伴读版",
+    "description": "本文（[[sources/5-notes--30-20260614t115932-qa-通缩比通胀更可怕qa--vzv7ck]]）与[[sources/5-notes--34-20260614t100012-伴读-日本终结负利率reading--c3eswa]]来自同一 Morningstar 原文，核心内容高度重叠，仅呈现形式不同（QA 问答 vs 伴读叙述）。建议确认两者是否都需要保留，或在其中一个页面做单向引用以避免信息重复。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115932--qa-通缩比通胀更可怕__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--30-20260614t115932-qa-通缩比通胀更可怕qa--vzv7ck.md",
+      "wiki/sources/5-notes--34-20260614t100012-伴读-日本终结负利率reading--c3eswa.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1a2cdfa7",
+    "resolved": false,
+    "createdAt": 1786996390572
+  },
+  {
+    "type": "suggestion",
+    "title": "资管新规页面",
+    "description": "来源中提及\"资管新规\"作为打破刚性兑付的制度背景，但未深入展开。是否值得单独建立 entity 或 concept 页？",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115936--qa-银行理财不保本__qa.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5dfe5a8d",
+    "resolved": false,
+    "createdAt": 1786997430574
+  },
+  {
+    "type": "missing-page",
+    "title": "庞氏结构",
+    "description": "来源中将刚性兑付形式化为\"庞氏结构\"（新产品资金 → 兑付老产品本息），这是理解刚兑本质的核心隐喻，但 wiki 中尚无对应页面。该概念在投资语境下有独立讨论价值，可强化刚性兑付页面的理论深度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115936--qa-银行理财不保本__qa.md",
+    "affectedPages": [
+      "wiki/concepts/刚性兑付.md"
+    ],
+    "searchQueries": [
+      "庞氏结构 金融 资管 刚性兑付 类比",
+      "庞氏结构 金融资管 资金盘 刚性兑付 类比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-11671d9d",
+    "resolved": false,
+    "createdAt": 1786997430574
+  },
+  {
+    "type": "missing-page",
+    "title": "资管新规",
+    "description": "来源多次将资管新规作为打破刚兑的制度背景，但未建立实体或概念页。这是一段影响中国资管行业格局的关键监管变革，缺失会影响读者理解刚兑为何被打破的历史脉络。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115936--qa-银行理财不保本__qa.md",
+    "affectedPages": [
+      "wiki/concepts/刚性兑付.md",
+      "wiki/concepts/底层资产决定风险.md"
+    ],
+    "searchQueries": [
+      "资管新规 2018 打破刚兑 中国资管"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9dc7b732",
+    "resolved": false,
+    "createdAt": 1786997430574
+  },
+  {
+    "type": "missing-page",
+    "title": "银行理财产品",
+    "description": "来源分析主体为\"银行理财产品\"，但 wiki 中尚无对应页面，仅散见于 [[固收+]] 等页面。作为普通投资者最常接触的低风险品类，独立建卡有助于形成系统认知，并与 [[公募基金]] 做对比。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115936--qa-银行理财不保本__qa.md",
+    "affectedPages": [
+      "wiki/concepts/固收+",
+      "wiki/concepts/穿透持仓.md"
+    ],
+    "searchQueries": [
+      "银行理财产品 净值化 理财子公司 资管新规后"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-447fcb3f",
+    "resolved": false,
+    "createdAt": 1786997430574
+  },
+  {
+    "type": "missing-page",
+    "title": "晨星（Morningstar）独立实体页缺失",
+    "description": "源文档明确指出方法论来自\"晨星\"（Morningstar），而现有 wiki 中仅有 `entities/晨星中国-morningstarcn`，缺少晨星总部的独立实体页。补充后有助于追溯方法论来源与晨星其他研究框架的关联。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115937--qa-优化投资四步骤__qa.md",
+    "affectedPages": [
+      "wiki/entities/morningstar.md"
+    ],
+    "searchQueries": [
+      "Morningstar investment advisory methodology four step framework",
+      "Morningstar asset allocation guidance"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-716b160d",
+    "resolved": false,
+    "createdAt": 1786997518172
+  },
+  {
+    "type": "missing-page",
+    "title": "A股市场实体缺失",
+    "description": "源文档以\"A股高波动市场\"作为引子语境，但 wiki 中暂无 A股整体市场实体页（仅有沪深300、中证500等指数）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115937--qa-优化投资四步骤__qa.md",
+    "affectedPages": [
+      "wiki/entities/a股市场.md"
+    ],
+    "searchQueries": [
+      "A股市场特征 波动性 投资者结构"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ddd6f98d",
+    "resolved": false,
+    "createdAt": 1786997518172
+  },
+  {
+    "type": "missing-page",
+    "title": "如何结合两派——操作性问题待解决",
+    "description": "文章指出\"很多成功投资者结合两种方法：用价值投资选股，用周期判断择时\"，但未提供具体操作指南。这是一个值得建立 query 页或 synthesis 页的开放问题，但目前暂不需要新建页面，可在后续 ingest 中补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115939--qa-估值两门派周期价值__qa.md",
+    "affectedPages": [
+      "SEARCH: 巴菲特 价值选股 周期择时 如何结合 | 价值投资 周期判断 择时 实操方法 | combining value investing and cyclical timing strategy"
+    ],
+    "searchQueries": [
+      "巴菲特 价值选股 周期择时 如何结合",
+      "价值投资 周期判断 择时 实操方法",
+      "combining value investing and cyclical timing strategy"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-77741ca0",
+    "resolved": false,
+    "createdAt": 1786999112927
+  },
+  {
+    "type": "missing-page",
+    "title": "两派结合的操作性问题",
+    "description": "文章指出\"很多成功投资者结合两种方法：用价值投资选股，用周期判断择时\"，但未提供具体操作指南。这是知识空白，建议后续 ingest 时补充。暂不需立即新建页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115939--qa-估值两门派周期价值__qa.md",
+    "affectedPages": [
+      "SEARCH: 巴菲特 价值选股 周期择时 如何结合 | 价值投资 周期判断 择时 实操方法 | combining value investing and cyclical timing strategy"
+    ],
+    "searchQueries": [
+      "巴菲特 价值选股 周期择时 如何结合",
+      "价值投资 周期判断 择时 实操方法",
+      "combining value investing and cyclical timing strategy"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bae44f8c",
+    "resolved": false,
+    "createdAt": 1786999112927
+  },
+  {
+    "type": "missing-page",
+    "title": "周期投资派 vs 内生价值投资派框架缺失",
+    "description": "估值两门派核心概念（周期投资派、内生价值投资派）及关联实体（凯恩斯、希勒、巴顿·比格斯、瑞泰兹）均未写入 wiki。这与[[低市盈率策略]]、[[护城河策略]]、[[股价作为集体认知]]三页形成重大知识断层：这三页引用了周期派/价值派框架，但相关页面不存在，导致 wiki 内部链接断裂、知识网络不完整。建议优先补全这 4 个 entity 和 3 个 concept 页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115939--qa-估值两门派周期价值__qa.md",
+    "affectedPages": [
+      "wiki/concepts/周期投资派.md",
+      "wiki/concepts/内生价值投资派.md",
+      "wiki/entities/凯恩斯-john-keynes.md",
+      "wiki/entities/罗伯特-希勒-robert-shiller.md"
+    ],
+    "searchQueries": [
+      "周期投资派 景气度投资 方法论 Barry Ritholtz",
+      "内生价值投资 DCF 现金流折现 巴菲特内在价值定义",
+      "Keynes beauty contest stock market analogy",
+      "Robert Shiller CAPE cyclically adjusted PE mean reversion"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1f18453d",
+    "resolved": false,
+    "createdAt": 1786999112927
+  },
+  {
+    "type": "missing-page",
+    "title": "巴菲特内在价值定义者角色缺失",
+    "description": "[[entities/沃伦巴菲特warren-buffett]] 当前页面仅涵盖\"指数推荐者\"和\"护城河策略创始人\"两个维度，缺少\"内在价值=现金流折现\"这一估值方法论核心定位。这是连接[[内生价值投资派]]和[[低市盈率策略]]的关键节点，也是整个 wiki 估值知识脉络的枢纽。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115939--qa-估值两门派周期价值__qa.md",
+    "affectedPages": [
+      "wiki/entities/沃伦巴菲特warren-buffett.md"
+    ],
+    "searchQueries": [
+      "巴菲特 内在价值定义 现金流折现 intrinsic value definition DCF",
+      "Warren Buffett intrinsic value cash flow discounting definition quote"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ec88dbe1",
+    "resolved": false,
+    "createdAt": 1786999112927
+  },
+  {
+    "type": "suggestion",
+    "title": "两派结合实操指南缺乏",
+    "description": "源材料提到\"很多成功投资者结合两种方法：用价值投资选股，用周期判断择时\"，但未提供具体操作框架。这是估值知识体系中最大的操作性空白——知道两派存在容易，知道何时切换较难。建议后续补充：（1）如何判断当前处于景气周期哪个阶段（先行指标）；（2）哪些信号触发从价值持仓切换到周期防御。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115939--qa-估值两门派周期价值__qa.md",
+    "affectedPages": [
+      "wiki/concepts/周期投资派.md",
+      "wiki/concepts/内生价值投资派.md"
+    ],
+    "searchQueries": [
+      "价值选股 周期择时 结合 实操框架",
+      "景气度指标 先行指标 周期判断 何时切换",
+      "combining value stock picking with cyclical timing practical guide"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c8161ae8",
+    "resolved": false,
+    "createdAt": 1786999112927
+  },
+  {
+    "type": "contradiction",
+    "title": "源文件处理状态与 wiki 内容缺失的矛盾",
+    "description": "源文件 `20260614T115939--qa-估值两门派周期价值__qa.md` 在 ingest queue 中状态为 \"processing\"，但此前一轮生成输出（未持久化到磁盘）已包含完整分析。若本轮处理失败，[[低市盈率策略]]、[[护城河策略]]、[[股价作为集体认知]]三页中对\"周期派\"/\"价值派\"框架的引用将永久悬空。建议检查 ingest 队列并确认是否需人工补写。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115939--qa-估值两门派周期价值__qa.md",
+    "affectedPages": [
+      "wiki/concepts/低市盈率策略.md",
+      "wiki/concepts/护城河策略.md",
+      "wiki/concepts/股价作为集体认知.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0a6ee5f6",
+    "resolved": false,
+    "createdAt": 1786999112927
+  },
+  {
+    "type": "suggestion",
+    "title": "价值成长趋同与 A 股实证数据",
+    "description": "本文仅定性论述\"价值≈成长长期趋同\"，未提供具体收益率数据。建议在 [[价值成长长期趋同]] 页面补充 A 股实证数据（如沪深300相对成长指数 vs 沪深300相对价值指数的年化收益率对比），以增强论证说服力。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115950--qa-九宫格风格箱选基__qa.md",
+    "affectedPages": [
+      "wiki/concepts/价值成长长期趋同.md"
+    ],
+    "searchQueries": [
+      "沪深300相对成长指数 年化收益 2010 2025",
+      "沪深300相对价值指数 累计收益 数据",
+      "HML因子 A股 价值溢价 实证"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-65b45e71",
+    "resolved": false,
+    "createdAt": 1786999851836
+  },
+  {
+    "type": "missing-page",
+    "title": "沪深300相对成长指数 / 沪深300相对价值指数",
+    "description": "[[QA — 九宫格风格箱选基]] 以这两个指数作为价值≈成长的核心论据，但 wiki 中尚无独立页面记录其定义、编制方法和历史表现。后续引用这些指数时会因缺少上下文而降低知识可信度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115950--qa-九宫格风格箱选基__qa.md",
+    "affectedPages": [
+      "wiki/concepts/沪深300相对成长指数.md",
+      "wiki/concepts/沪深300相对价值指数.md",
+      "wiki/concepts/价值成长长期趋同.md"
+    ],
+    "searchQueries": [
+      "沪深300相对成长指数 定义 计算方法",
+      "沪深300相对价值指数 晨星",
+      "HSI relative growth value index Morningstar",
+      "沪深300相对成长指数 编制方法 晨星",
+      "沪深300相对价值指数 定义 计算方法",
+      "CSI 300 relative growth value index Morningstar"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-728ce038",
+    "resolved": false,
+    "createdAt": 1786999851836
+  },
+  {
+    "type": "suggestion",
+    "title": "价值成长趋同的 A 股实证数据缺失",
+    "description": "[[价值成长长期趋同]] 仅定性陈述\"长期趋同\"，缺乏具体数据支撑。应在页面补充沪深300相对成长指数 vs 相对价值指数的年化收益率、最大回撤、均值回归周期等实证数据，否则该页面只是晨星的宣传性论断，而非可验证的知识卡。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115950--qa-九宫格风格箱选基__qa.md",
+    "affectedPages": [
+      "wiki/concepts/价值成长长期趋同.md"
+    ],
+    "searchQueries": [
+      "沪深300相对成长指数 年化收益率 2010 2024",
+      "沪深300相对价值指数 累计收益 历史数据",
+      "HML因子 A股 价值溢价 实证研究 2010-2024"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f118cf3e",
+    "resolved": false,
+    "createdAt": 1786999851836
+  },
+  {
+    "type": "suggestion",
+    "title": "九宫格九格的实证风险收益描述",
+    "description": "[[晨星投资风格箱]] 中的\"九种格子典型风险收益特征\"表来自 QA 源的定性描述，缺乏各格子的历史平均年化、波动率等数据。补充这些数据可以让\"大盘价值波动小、小盘成长波动大\"从口号变为可操作的选基依据。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115950--qa-九宫格风格箱选基__qa.md",
+    "affectedPages": [
+      "wiki/concepts/晨星投资风格箱.md"
+    ],
+    "searchQueries": [
+      "晨星风格箱 九宫格 各格 历史收益 波动率 数据",
+      "Morningstar Style Box returns by cell size value growth",
+      "A股 九宫格 基金风格 风险收益特征 实证"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-aaaedfc5",
+    "resolved": false,
+    "createdAt": 1786999851836
+  },
+  {
+    "type": "missing-page",
+    "title": "策略会作为营销行为",
+    "description": "Q3 提出\"策略会是营销行为\"这一结构化论点，但目前 wiki 中没有独立的 `[[concepts/策略会营销本质]]` 或类似概念页。该论点与 [[concepts/市场预测的不可靠性]] 中的\"结构性矛盾\"段落高度重叠，但若独立成页可更好地承接 Q5 的\"看逻辑不看结论\"建议。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115951--qa-市场预测为什么靠不住__qa.md",
+    "affectedPages": [
+      "SEARCH: 投资策略会 营销行为 券商研报 销售驱动 | 年终策略会 投资者教育 营销本质"
+    ],
+    "searchQueries": [
+      "投资策略会 营销行为 券商研报 销售驱动",
+      "年终策略会 投资者教育 营销本质"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-68647a13",
+    "resolved": false,
+    "createdAt": 1787000404177
+  },
+  {
+    "type": "missing-page",
+    "title": "确定性幻觉",
+    "description": "Q3 中提出的\"确定性幻觉\"概念——投资者需要笃定感，机构提供确定性而非真实判断——目前未在 wiki 中独立成页。它与 [[concepts/自信偏差]] 角度互补：自信偏差是供给侧行为，确定性幻觉是需求侧结构。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115951--qa-市场预测为什么靠不住__qa.md",
+    "affectedPages": [
+      "SEARCH: 确定性幻觉 投资者心理 认知偏差 投资行为金融学"
+    ],
+    "searchQueries": [
+      "确定性幻觉 投资者心理 认知偏差 投资行为金融学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b979d386",
+    "resolved": false,
+    "createdAt": 1787000404177
+  },
+  {
+    "type": "missing-page",
+    "title": "\"看逻辑不看结论\"操作框架",
+    "description": "Q5 的实用建议\"看逻辑不看结论\"——理解市场分歧而非抄作业——是一个独立的可操作方法论，目前没有被专门的概念页承载，仅在 [[concepts/核心假设-退出信号框架]] 中被部分提及。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115951--qa-市场预测为什么靠不住__qa.md",
+    "affectedPages": [
+      "SEARCH: 投资批判性思维 市场分歧分析 情景推演框架 | 投资策略会 批判性阅读 投资决策框架"
+    ],
+    "searchQueries": [
+      "投资批判性思维 市场分歧分析 情景推演框架",
+      "投资策略会 批判性阅读 投资决策框架"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-814821fa",
+    "resolved": false,
+    "createdAt": 1787000404177
+  },
+  {
+    "type": "missing-page",
+    "title": "确定性幻觉（投资者需求侧）",
+    "description": "Q3 首次系统提出\"确定性幻觉\"这一概念——投资者渴望笃定感，机构以策略会等方式满足这种需求，但提供的是幻觉而非真实判断。该概念目前仅在 [[concepts/市场预测的不可靠性]] 中被提及一次，未被独立命名。它与 [[concepts/自信偏差]]（供给侧）形成需求侧-供给侧的对偶结构，值得独立成页以完善行为金融知识图谱。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115951--qa-市场预测为什么靠不住__qa.md",
+    "affectedPages": [
+      "wiki/concepts/确定性幻觉.md"
+    ],
+    "searchQueries": [
+      "确定性幻觉 投资行为金融学 投资者心理需求 确定性偏好",
+      "券商策略会 营销驱动 机构投资者教育 行为偏差"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-63880c40",
+    "resolved": false,
+    "createdAt": 1787000404177
+  },
+  {
+    "type": "suggestion",
+    "title": "\"看逻辑不看结论\"操作化框架",
+    "description": "Q5 提出\"看逻辑不看结论\"作为对待策略会的可操作方法论，但 wiki 中尚无独立页面承载此框架。它介于 [[concepts/市场预测的不可靠性]]（批判层）与 [[concepts/核心假设-退出信号框架]]（执行层）之间，填补了\"如何实际消费策略会内容\"的方法论空白。建议新建概念页，结构化拆解\"看什么逻辑\"（情景推演、分歧识别、假设检验）与\"不看什么结论\"（单点预测、方向断言）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115951--qa-市场预测为什么靠不住__qa.md",
+    "affectedPages": [
+      "wiki/concepts/看逻辑不看结论.md"
+    ],
+    "searchQueries": [
+      "投资策略会 批判性阅读 市场分歧分析 情景推演框架",
+      "机构投资者教育 研报批判性思维 投资决策框架"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fc064f1c",
+    "resolved": false,
+    "createdAt": 1787000404177
+  },
+  {
+    "type": "contradiction",
+    "title": "自指悖论的闭环缺失",
+    "description": "QA 在 Q1 宣称\"市场预测准确率低于随机\"，但此论断本身是一种元预测（关于\"预测能否可靠\"的预测）。[[concepts/市场预测的不可靠性]] 仅在边界条件中用一句话提及\"存在自指悖论\"，未作展开。更关键的是：如果预测本身不可靠，那么\"市场预测普遍不可靠\"这一判断是否同样不可靠？这需要区分\"预测准确率\"的不同含义层次（单次事件预测 vs 趋势性判断 vs 元层面的方法反思），否则 QA 自身论证结构存在断裂。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115951--qa-市场预测为什么靠不住__qa.md",
+    "affectedPages": [
+      "wiki/concepts/市场预测的不可靠性.md"
+    ],
+    "searchQueries": [
+      "self-referential paradox forecasting epistemology",
+      "自指悖论 预测哲学 预测元层次 认识论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a8e9e11a",
+    "resolved": false,
+    "createdAt": 1787000404177
+  },
+  {
+    "type": "missing-page",
+    "title": "幸存者偏差（预测领域的反向证据）",
+    "description": "Q1 只展示中金公司连续两年预言全错的案例，源文已自行标注\"这是单家机构数据，不代表所有机构都这么差\"，但未讨论反向证据——哪些机构曾正确预测重大市场事件？正确预测的频率分布如何？是否存在\"幸存者偏差\"：只有失败的预测被广泛传播，而成功的预测被归功于\"专业能力\"？补充此视角可使 wiki 的预测可靠性论述更平衡，避免从一个极端跳到另一个极端（\"完全不可预测\"）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115951--qa-市场预测为什么靠不住__qa.md",
+    "affectedPages": [
+      "wiki/concepts/市场预测的不可靠性.md",
+      "wiki/sources/5-notes--51-20260614t115951-qa-市场预测为什么靠不住qa--63fynv.md"
+    ],
+    "searchQueries": [
+      "预测准确性 机构预测 幸存者偏差 金融市场预测 历史数据",
+      "accuracy of financial forecasts institutional analysts survival bias"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8e854305",
+    "resolved": false,
+    "createdAt": 1787000404177
+  },
+  {
+    "type": "missing-page",
+    "title": "投资人格进化维度已存在，无需新建",
+    "description": "[concepts/投资人格的进化维度]] 已在前期 ingest 中创建，本来源的补充观点（投资冲动源于进化本能）已覆盖。无需新建。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115954--qa-投资人格测试__qa.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-28a0dc11",
+    "resolved": false,
+    "createdAt": 1787001018650
+  },
+  {
+    "type": "missing-page",
+    "title": "锚定效应（Anchoring Bias）",
+    "description": "投资人格页引用了\"巴纳姆效应\"等认知偏差，但 wiki 尚未建立锚定效应的独立概念页。锚定效应是理解投资者行为代价（Mind the Gap）和净值恐高症的重要底层机制——投资者常将历史高点或买入价作为锚点，导致持有期决策系统性偏差。建立此页可强化整个行为金融学模块的学术基础。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115954--qa-投资人格测试__qa.md",
+    "affectedPages": [
+      "wiki/concepts/投资人格.md",
+      "wiki/concepts/行为代价-mind-the-gap.md"
+    ],
+    "searchQueries": [
+      "anchoring bias investing behavior",
+      "锚定效应 投资 认知偏差",
+      "anchoring effect financial decision making"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-85910dea",
+    "resolved": false,
+    "createdAt": 1787001018650
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星基金星级评价方法论深挖",
+    "description": "wiki 中多处引用\"晨星星级评价\"（entities 和 concepts 均有提及），但未见过独立 page。现有内容仅停留在名称层面，缺乏对风险调整后收益计算、相对评级 vs 绝对评级等核心方法细节。补全此页可显著提升晨星体系相关概念（风格箱、风险系数）的连贯性。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115954--qa-投资人格测试__qa.md",
+    "affectedPages": [
+      "wiki/concepts/晨星星级评价.md",
+      "wiki/concepts/晨星风险系数.md"
+    ],
+    "searchQueries": [
+      "morningstar fund rating methodology risk-adjusted returns",
+      "晨星基金星级评价 方法论 风险调整收益",
+      "Morningstar star rating how calculated"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d944a6c9",
+    "resolved": false,
+    "createdAt": 1787001018650
+  },
+  {
+    "type": "missing-page",
+    "title": "自信偏差（Overconfidence Bias）",
+    "description": "[[concepts/投资人格]] 将\"自信偏差\"列为 related 概念，但 wiki 无独立页面。自信偏差是解释散户高频交易、过度交易成本、以及\"风格逆风时归因于市场而非自己\"现象的核心认知偏差，与行为代价、后悔厌恶共同构成行为金融学基础三角。缺少此页导致行为偏差板块不完整。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115954--qa-投资人格测试__qa.md",
+    "affectedPages": [
+      "wiki/concepts/投资人格.md",
+      "wiki/concepts/后悔厌恶-投资语境.md"
+    ],
+    "searchQueries": [
+      "overconfidence bias investing trading frequency",
+      "自信偏差 投资 过度交易",
+      "overconfidence effect finance behavioral"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fcac99d9",
+    "resolved": false,
+    "createdAt": 1787001018650
+  },
+  {
+    "type": "missing-page",
+    "title": "75% 统计的幸存者偏差边界",
+    "description": "原文未交代 75% 统计数据是否剔除了已清盘基金。若存在幸存者偏差，实际差距可能更大。建议补充查询 Morningstar 原始报告或相关学术论文确认数据边界。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115955--qa-基金回报vs投资者回报__qa.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-23feeacb",
+    "resolved": false,
+    "createdAt": 1787001329321
+  },
+  {
+    "type": "suggestion",
+    "title": "定投能否弥合追涨杀跌损益侵蚀",
+    "description": "原文提到\"定投可以部分克服这个问题\"，但未给出定量数据。建议补充查找晨星或其他机构关于定投投资者回报 vs 基金回报的实证研究，量化定投对缩小 Investor Gap 的实际效果。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115955--qa-基金回报vs投资者回报__qa.md",
+    "searchQueries": [
+      "晨星 定投 投资者回报差距 实证研究",
+      "Morningstar investor gap dollar cost averaging quantitative study",
+      "定投能否减少追涨杀跌 收益率提升 实证数据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-41f75f43",
+    "resolved": false,
+    "createdAt": 1787001329322
+  },
+  {
+    "type": "suggestion",
+    "title": "日本终结负利率后的通缩预期转变",
+    "description": "日本央行在 2026 年 3 月结束了负利率政策，这一转折对\"通缩螺旋\"理论和当前中国市场通缩预期的讨论有直接影响。现有[[通缩螺旋]]和[[通缩比通胀更可怕]]页面基于的是日本长期零利率的历史背景，缺乏负利率终结后的新分析视角，建议补充对比研究：负利率政策退出后，通缩风险的实质变化如何？是否有再通胀迹象？",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115955--qa-基金回报vs投资者回报__qa.md",
+    "searchQueries": [
+      "日本负利率终结 2026 通缩预期变化",
+      "植田和男 退出负利率 经济影响 2026",
+      "Bank of Japan negative rate exit deflation outlook 2026"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-309c71b4",
+    "resolved": false,
+    "createdAt": 1787001329322
+  },
+  {
+    "type": "missing-page",
+    "title": "ETF 投资费率与综合费用详细对比",
+    "description": "[[综合费率]]页面目前只有框架性描述，缺乏各主流 ETF 类型（股票型、债券型、QDII）的综合费率区间对比数据，也缺少对\"申购费 + 管理费 + 托管费 + 交易佣金\"各环节的费用拆分说明。这对普通投资者做 ETF 选择决策参考价值有限，建议补充具体数据。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115955--qa-基金回报vs投资者回报__qa.md",
+    "searchQueries": [
+      "ETF 综合费率对比 股票型 债券型 QDII 2025 2026",
+      "申购费 管理费 托管费 ETF 费率明细",
+      "低费率ETF推荐 综合费率最低"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5404bd8b",
+    "resolved": false,
+    "createdAt": 1787001329322
+  },
+  {
+    "type": "suggestion",
+    "title": "香农的魔鬼数学推导与投资组合含义",
+    "description": "[[香农的魔鬼]]页面概念清晰但偏重故事性叙述，缺少核心的数学推导（几何平均收益 vs 算术平均收益的关系）和波动拖累公式。对于希望深入理解波动拖累对组合收益影响的读者，缺少形式化表达会降低页面的知识密度。建议补充 Shannon's Demon 数学模型及与[[波动拖累]]页的双向链接深化。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115955--qa-基金回报vs投资者回报__qa.md",
+    "searchQueries": [
+      "Shannon's Demon math derivation volatility drag formula",
+      "香农的魔鬼 数学推导 波动拖累公式",
+      "volatility drag geometric mean return formula"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8f45ed25",
+    "resolved": false,
+    "createdAt": 1787001329322
+  },
+  {
+    "type": "missing-page",
+    "title": "风格漂移量化识别方法",
+    "description": "[[风格漂移]]概念已有定义，但缺少可操作的识别方法——投资者如何判断一只基金的持仓风格是否发生了漂移？现有的晨星风格箱方法粒度有限（仅大/中/小盘 × 价值/平衡/成长），建议补充基于持仓占比的量化判断标准或第三方工具的实操指南。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115955--qa-基金回报vs投资者回报__qa.md",
+    "searchQueries": [
+      "基金风格漂移 量化识别方法 持仓占比判断",
+      "晨星风格箱 误判 风格漂移识别工具",
+      "fund style drift detection methodology quantitative"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-429094d0",
+    "resolved": false,
+    "createdAt": 1787001329322
+  },
+  {
+    "type": "missing-page",
+    "title": "房价躺赚逻辑终结",
+    "description": "Q4 提到\"房价承压、租金回报率仅2.2%-2.3%、居民负债增长40%+\"，但没有独立的 wiki 页面记录这一现象。当前已有 [[concepts/固收+]]、[[concepts/风险本身不是坏事]] 等页面，但没有专门记录房地产市场\"躺赚逻辑终结\"的概念页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115956--qa-普通人能靠炒股致富吗__qa.md",
+    "affectedPages": [
+      "SEARCH: 中国租金回报率 2024 2025 | 中国居民部门负债增长率 2024 | 中国高净值人群房地产财富占比变化"
+    ],
+    "searchQueries": [
+      "中国租金回报率 2024 2025",
+      "中国居民部门负债增长率 2024",
+      "中国高净值人群房地产财富占比变化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8bae81a6",
+    "resolved": false,
+    "createdAt": 1787001677821
+  },
+  {
+    "type": "suggestion",
+    "title": "企业主致富路径的幸存者偏差量化",
+    "description": "[[concepts/企业主致富路径]] 提到了幸存者偏差，但缺乏创业成功率的具体数据。补充这一数据可以增强论证力度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115956--qa-普通人能靠炒股致富吗__qa.md",
+    "affectedPages": [
+      "SEARCH: 中国创业成功率 统计 2024 | 中国企业失败率 数据来源 | 胡润财富报告 企业主占比 历年数据"
+    ],
+    "searchQueries": [
+      "中国创业成功率 统计 2024",
+      "中国企业失败率 数据来源",
+      "胡润财富报告 企业主占比 历年数据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0028c57f",
+    "resolved": false,
+    "createdAt": 1787001677821
+  },
+  {
+    "type": "duplicate",
+    "title": "高净值定义可能与已有内容重叠",
+    "description": "[[concepts/以目标为导向的投资]] 和 [[concepts/投资者回报差距]] 可能已经包含了部分高净值定义的内容，建议在更新这些页面时检查是否有重复信息。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115956--qa-普通人能靠炒股致富吗__qa.md",
+    "affectedPages": [
+      "wiki/concepts/以目标为导向的投资.md",
+      "wiki/concepts/投资者回报差距.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-59806671",
+    "resolved": false,
+    "createdAt": 1787001677821
+  },
+  {
+    "type": "missing-page",
+    "title": "费用是复利的反面",
+    "description": "`concepts/72法则与财富翻倍.md` 的 `related` 字段引用了 `[[concepts/费用是复利的反面]]`，但该概念页面在 Wiki Index 中不存在。此概念是理解费率如何侵蚀长期复利的关键桥梁，缺失会导致交叉引用断裂。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115957--qa-72法则资产翻倍__qa.md",
+    "affectedPages": [
+      "wiki/concepts/72法则与财富翻倍.md"
+    ],
+    "searchQueries": [
+      "费用是复利的反面 复利 费率侵蚀 长期投资"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e96a41ba",
+    "resolved": false,
+    "createdAt": 1787002122700
+  },
+  {
+    "type": "duplicate",
+    "title": "72法则资产翻倍 vs 从50万到100万——同源内容双源并存",
+    "description": "新生成的 source 页 `sources/5-notes--30-...72法则资产翻倍__qa--pv6o5u.md` 与已存在的 `sources/5-notes--42-...从50万到100万需要用多少年reading--8g68q6` 均出自晨星同一主题，数据高度重叠（翻倍年数表格、通胀影响、费率数据完全一致），仅形式不同（QA vs 伴读）。需确认是否合并或保留双源。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115957--qa-72法则资产翻倍__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--30-20260614t115957-qa-72法则资产翻倍__qa--pv6o5u.md",
+      "wiki/sources/5-notes--42-20260614t100538-伴读-从50万到100万需要用多少年reading--8g68q6"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c5ec945b",
+    "resolved": false,
+    "createdAt": 1787002122700
+  },
+  {
+    "type": "suggestion",
+    "title": "验证147年翻倍背后的通胀率假设",
+    "description": "源文称现金理财\"实际翻倍147年\"，但未明示所用通胀率。反推：若名义收益3%，147年翻倍意味着实际年化约0.49%，隐含通胀率约2.5%。该数值与当前中美通胀环境是否吻合需要验证——若通胀假设过时，核心论断\"现金理财在通胀面前近乎停滞\"的量化支撑会削弱。建议查证晨星原文使用的通胀假设。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115957--qa-72法则资产翻倍__qa.md",
+    "affectedPages": [
+      "wiki/concepts/72法则与财富翻倍.md",
+      "wiki/concepts/货币幻觉.md"
+    ],
+    "searchQueries": [
+      "Morningstar rule of 72 cash doubling inflation assumption 147 years",
+      "晨星 72法则 现金理财 147年 翻倍 通胀率"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6445ff78",
+    "resolved": false,
+    "createdAt": 1787002122700
+  },
+  {
+    "type": "missing-page",
+    "title": "Eugene Fama（尤金·法玛）独立实体页",
+    "description": "现有索引仅有 `entities/eugene-fama.md` 相关页面，但 Fama 在本文语境中的核心贡献是三因子模型（与 French 合作），而非仅 EMH。现有页面分类模糊，建议拆分或强化 Fama 作为因子模型开创者的角色，以便与 Jensen、French 形成清晰的学术传承脉络。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115958--qa-阿尔法消失又回来__qa.md",
+    "affectedPages": [
+      "wiki/entities/kenneth-french.md",
+      "wiki/entities/michael-jensen.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4a916ed5",
+    "resolved": false,
+    "createdAt": 1787002605997
+  },
+  {
+    "type": "suggestion",
+    "title": "Fama-French 三因子模型独立概念页",
+    "description": "现有概念库中有 `阿尔法是解释剩余.md` 和 `詹森阿尔法.md` 已引用三因子公式，但缺少独立的\"Fama-French 三因子模型\"概念页，无法单独承载 SMB/HML 因子的定义、实证发现历史及后续五因子扩展等内容，导致\"阿尔法消失\"的机制描述分散。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115958--qa-阿尔法消失又回来__qa.md",
+    "affectedPages": [
+      "wiki/concepts/阿尔法是解释剩余.md",
+      "wiki/concepts/詹森阿尔法.md",
+      "wiki/concepts/alpha变beta.md"
+    ],
+    "searchQueries": [
+      "Fama French three factor model SMB HML history empirical",
+      "Fama French five factor model RMW CMA extension",
+      "三因子模型 vs 五因子模型 阿尔法"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a5501a81",
+    "resolved": false,
+    "createdAt": 1787002605997
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星延伸阅读三篇补录",
+    "description": "原文末尾提及三篇延伸阅读：《躺平的贝塔，冒险的阿尔法》《好的基金经理都去哪了？》《如何识别\"聪明\"的指数？》——其中前两篇已在伴读笔记中出现（sources/5-notes--38-20260614t100542 和 sources/5-notes--40-20260614t100535），但第三篇《如何识别\"聪明\"的指数？》尚未建立任何笔记或页面，可作为 Smart Beta 批判性分析的切入点。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115958--qa-阿尔法消失又回来__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--38-20260614t100542-伴读-躺平的贝塔冒险的阿尔法reading--laowvm.md",
+      "wiki/sources/5-notes--40-20260614t100535-伴读-好的固收加产品要看哪些方面reading--a3fwi4.md"
+    ],
+    "searchQueries": [
+      "Morningstar 如何识别聪明的指数 Smart Beta 陷阱",
+      "smart beta fund products critique factor exposure",
+      "晨星 聪明贝塔 指数基金 批判"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e3b108a4",
+    "resolved": false,
+    "createdAt": 1787002605997
+  },
+  {
+    "type": "contradiction",
+    "title": "阿尔法动态定义下的实践悖论",
+    "description": "原文结论\"转向低成本贝塔\"与 wiki 中大量\"选基金经理\"\"风格择时\"相关内容存在潜在张力：若阿尔法永远趋近于零，则整个选基框架的理论基础需要重新审视；但若完全放弃主动管理，又与\"策略适配性\"\"投资人格\"等已有页面主张冲突。建议补充一篇讨论此张力的综合页面。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115958--qa-阿尔法消失又回来__qa.md",
+    "affectedPages": [
+      "wiki/concepts/阿尔法是解释剩余.md",
+      "wiki/concepts/策略适配性.md",
+      "wiki/concepts/投资人格.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a9a22d78",
+    "resolved": false,
+    "createdAt": 1787002605997
+  },
+  {
+    "type": "missing-page",
+    "title": "ETF 实体页缺失",
+    "description": "本 QA 全文围绕 ETF 展开，但 wiki 中尚无独立的 ETF 实体页面。现有内容分散在 [[concepts/ETF投资五问框架]]、[[concepts/聪明贝塔]] 等概念页中。若后续需要单独引用 ETF 的定义、分类或市场规模数据，建议补建实体页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115959--qa-ETF五步选择法__qa.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2a32da05",
+    "resolved": false,
+    "createdAt": 1787002774894
+  },
+  {
+    "type": "suggestion",
+    "title": "ETF 可投资性量化阈值研究",
+    "description": "[[concepts/好指数的四标准]] 中\"可投资性强\"缺乏操作化定义：成分股日均成交量阈值、买卖价差上限、指数调仓日的冲击成本。这些量化指标对实际选 ETF 有直接指导意义，但目前 wiki 中没有相关数据支撑。\n\n\n\n\n---REVIEW: missing-page | ETF 实体页缺失---\n本 QA 全文围绕 ETF 展开，但 wiki 中尚无独立的 ETF 实体页面。现有内容分散在 [[concepts/ETF投资五问框架]]、[[concepts/聪明贝塔]] 等概念页中。若后续需要单独引用 ETF 的定义、分类或市场规模数据，建议补建实体页。\nOPTIONS: Create Page | Skip",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115959--qa-ETF五步选择法__qa.md",
+    "affectedPages": [
+      "wiki/concepts/好指数的四标准.md",
+      "wiki/concepts/跟踪误差.md"
+    ],
+    "searchQueries": [
+      "ETF 可投资性 量化标准 成分股流动性阈值",
+      "指数跟踪误差 可投资性 买卖价差 要求",
+      "指数基金 流动性筛选标准 日均成交额"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c8f9d7fc",
+    "resolved": false,
+    "createdAt": 1787002774894
+  },
+  {
+    "type": "suggestion",
+    "title": "聪明贝塔适用场景的决策框架",
+    "description": "[[concepts/聪明贝塔]] 已有概念页，但本 QA 提出了一个值得深化的问题：投资者在什么条件下可以合理使用聪明贝塔？源文说\"如果你能理解复杂策略，可以尝试\"，但未给出\"理解\"的具体判断标准。建议补充聪明贝塔的使用条件与投资者能力匹配框架。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T115959--qa-ETF五步选择法__qa.md",
+    "affectedPages": [
+      "wiki/concepts/聪明贝塔.md",
+      "wiki/concepts/好指数的四标准.md"
+    ],
+    "searchQueries": [
+      "smart beta when to use investor sophistication criteria",
+      "聪明贝塔 适用条件 投资者能力 判断标准",
+      "smart beta versus smart beta failure empirical evidence"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1f015ce6",
+    "resolved": false,
+    "createdAt": 1787002774894
+  },
+  {
+    "type": "missing-page",
+    "title": "FOMO-害怕错过-投资语境",
+    "description": "`[[FOMO-害怕错过-投资语境]]` 被[[近因效应]]和[[蝗虫比喻-格雷厄姆]]交叉引用，但尚无独立页面。FOMO（错失恐惧）是近因效应被利益相关方放大的核心情绪杠杆，理解它有助于完善\"信息过滤×纪律执行\"的对抗框架，也值得与[[回本心理]]、[[后悔厌恶-投资语境]]建立关联。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120040--qa-近因效应让你追涨杀跌__qa.md",
+    "affectedPages": [
+      "wiki/concepts/FOMO-害怕错过-投资语境.md"
+    ],
+    "searchQueries": [
+      "FOMO fear of missing out investing behavioral finance",
+      "错失恐惧 投资心理 行为金融",
+      "FOMO fear of missing out behavioral finance investing",
+      "FOMO investing psychology herding"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ee5a400d",
+    "resolved": false,
+    "createdAt": 1787003638975
+  },
+  {
+    "type": "missing-page",
+    "title": "首因效应",
+    "description": "`[[首因效应]]` 在[[近因效应]]页面中作为对照概念被提及，但未独立成页。首因效应与近因效应同属系列位置效应，在投资语境中表现为对早期信息或历史估值锚定的过度依赖，与[[线性外推]]存在逻辑张力，建议合并为一个\"系列位置效应\"页面或分别成页后互链。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120040--qa-近因效应让你追涨杀跌__qa.md",
+    "affectedPages": [
+      "wiki/concepts/首因效应.md"
+    ],
+    "searchQueries": [
+      "primacy effect psychology investment anchoring",
+      "首因效应 投资 锚定偏差 认知偏差",
+      "primacy effect cognitive bias investment anchoring",
+      "首因效应 认知偏差 投资 锚定"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-15bbd307",
+    "resolved": false,
+    "createdAt": 1787003638975
+  },
+  {
+    "type": "missing-page",
+    "title": "真分散 vs 假分散 形式化框架",
+    "description": "[[伪分散风险]]聚焦QDII/港股标签陷阱这一具体场景，缺少本文提出的通用形式化框架：`真分散 = 不同资产类别 × 不同风格 × 不同风险因子`。这是理解多只基金≠真分散的关键框架，独立成页可避免[[伪分散风险]]过于狭窄，也便于后续扩展到其他场景（如同质行业主题基金）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120042--qa-放弃完美才能赚到钱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/真分散vs假分散.md"
+    ],
+    "searchQueries": [
+      "Morningstar true diversification vs false diversification fund overlapping holdings",
+      "晨星 真分散 假分散 基金重叠",
+      "Morningstar true diversification vs false diversification fund overlap holdings correlation",
+      "晨星 真分散 假分散 基金重叠度 底层资产"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-91129485",
+    "resolved": false,
+    "createdAt": 1787004029051
+  },
+  {
+    "type": "missing-page",
+    "title": "超额收益被费用吞噬",
+    "description": "本文提出了一个具体的论证角度：超额收益 = 毛收益 − 管理费 − 交易费 − 税费，大多数情况 ≤ 0。这与 [[阿尔法是解释剩余]] 和 [[能力-vs-运气]] 有关联，但侧重点不同——本文强调费用对超额收益的系统性侵蚀，是一个独立的量化论证。建议创建概念页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120042--qa-放弃完美才能赚到钱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/超额收益被费用吞噬.md"
+    ],
+    "searchQueries": [
+      "active fund fees eat alpha excess return net of costs underperform benchmark"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f61c0e6b",
+    "resolved": false,
+    "createdAt": 1787004029051
+  },
+  {
+    "type": "suggestion",
+    "title": "开放问题追踪",
+    "description": "本文提出三个开放问题值得后续追踪：\n1. \"可行\"的客观衡量标准——是否有晨星或学术界的研究用夏普比率/最大回撤量化\"可行性\"？\n2. 分散的最低有效数量（资金量 < 1万场景）——晨星是否有研究支持？\n3. \"有信息优势\"的界定标准——这是一个行为金融学中的经典问题（self-assessment bias），可关联 [[自信偏差]]",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120042--qa-放弃完美才能赚到钱__qa.md",
+    "affectedPages": [
+      "SEARCH: Morningstar diversification minimum number of funds small account | behavioral finance overconfidence self-assessment information advantage investors"
+    ],
+    "searchQueries": [
+      "Morningstar diversification minimum number of funds small account",
+      "behavioral finance overconfidence self-assessment information advantage investors"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7294da76",
+    "resolved": false,
+    "createdAt": 1787004029051
+  },
+  {
+    "type": "missing-page",
+    "title": "稳定的平庸 vs 波动的优秀",
+    "description": "本文最核心的原创贡献：公式 `实际收益 = 产品收益 × 持有行为`。该页面未创建，且目前 wiki 中无任何页面覆盖这一机制性洞见。[[投资者回报差距]]和[[追涨杀跌损益侵蚀]]只呈现了统计现象，缺少底层因果链条。此概念是连接行为偏差与最终收益的关键枢纽，值得独立成页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120042--qa-放弃完美才能赚到钱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/稳定的平庸vs波动的优秀.md"
+    ],
+    "searchQueries": [
+      "Morningstar stable mediocrity vs volatile excellence investor behavior return gap",
+      "晨星 稳定的平庸 波动的优秀 持有行为 实际收益"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fbdce904",
+    "resolved": false,
+    "createdAt": 1787004029051
+  },
+  {
+    "type": "suggestion",
+    "title": "开放问题追踪：可行性量化与\"信息优势\"界定",
+    "description": "本文提出三个开放问题，其中一个值得建立 wiki 页面或补充条目：\n1. `\"可行\"`的客观衡量标准——可用夏普比率/最大回撤/持有期等指标量化吗？是否有晨星或学术文献提供框架？\n2. 资金量<1万时的最低有效分散数量——晨星是否有研究？\n3. `\"有信息优势\"`的界定——关联[[自信偏差]]/[[Dunning-Kruger效应]]的行为金融学经典问题。\n这三个问题可直接作为对[[可行性即完美性]]和[[能力圈]]页面的内容补充，也可作为独立研究型条目。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120042--qa-放弃完美才能赚到钱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/可行性即完美性.md",
+      "wiki/concepts/能力圈.md"
+    ],
+    "searchQueries": [
+      "behavioral finance overconfidence bias self-assessment investors information advantage",
+      "晨星 可行性 量化 风险承受力 夏普比率 最大回撤 投资者筛选"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b4f84e38",
+    "resolved": false,
+    "createdAt": 1787004029051
+  },
+  {
+    "type": "missing-page",
+    "title": "投资策略四步框架",
+    "description": "来源第1篇明确提出\"目标设定→资产配置→选基→成本控制\"四步框架，与 [[新基金筛选五维度框架]]、[[三层业绩归因框架]] 并列，但 wiki 尚无对应概念页。该框架是全文方法论的骨架，值得独立成页并与五道防线形成对照。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120050--伴读-策略与配置__reading.md",
+    "affectedPages": [
+      "wiki/concepts/新基金筛选五维度框架.md",
+      "wiki/concepts/三层业绩归因框架.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3bf87689",
+    "resolved": false,
+    "createdAt": 1787015542773
+  },
+  {
+    "type": "missing-page",
+    "title": "硬茬韭菜五道防线",
+    "description": "来源第12篇明确提出\"目标、配置、选基、成本、纪律\"五道防线作为独立框架，但未在当前 wiki 中有汇总页面。现有 [[新基金筛选五维度框架]] 侧重产品筛选，五道防线是其更上位的系统性框架，建议创建独立概念页。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120050--伴读-策略与配置__reading.md",
+    "affectedPages": [
+      "wiki/concepts/新基金筛选五维度框架.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2161ca32",
+    "resolved": false,
+    "createdAt": 1787015542773
+  },
+  {
+    "type": "contradiction",
+    "title": "主动基金阿尔法 vs 保持在场",
+    "description": "来源第3/6篇暗示主动基金的\"阿尔法\"大多是伪阿尔法，第1篇却把\"挑选可持续创造超额收益的基金\"列为四步骤之一——两者之间存在微妙张力。原文解法在于区分\"风格顺风\"与真正的\"非共识正确\"决策，但这需要更强的判断力。建议在 [[詹森阿尔法]] 和 [[主动-被动-结构性困境]] 中整合这一张力。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120050--伴读-策略与配置__reading.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-52fe8edf",
+    "resolved": false,
+    "createdAt": 1787015542773
+  },
+  {
+    "type": "contradiction",
+    "title": "主动基金的阿尔法 vs 保持在场",
+    "description": "来源第3/6篇指出多数主动基金的\"阿尔法\"只是因子暴露的伪阿尔法，第1篇却将\"挑选可持续创造超额收益的基金\"列为四步骤之一。原文的解法是区分\"风格顺风\"与\"非共识正确\"，但这需要更强的判断力，两者之间存在结构性张力，建议在 [[詹森阿尔法]] 和 [[被动与指数-语义陷阱]] 中显式呈现这一矛盾及其解法。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120050--伴读-策略与配置__reading.md",
+    "affectedPages": [
+      "wiki/concepts/詹森阿尔法.md",
+      "wiki/concepts/被动与指数-语义陷阱.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bb4747db",
+    "resolved": false,
+    "createdAt": 1787015542775
+  },
+  {
+    "type": "missing-page",
+    "title": "李一鸣 / 王蕊 / 黄威 / 陈昱融 作者实体缺失",
+    "description": "上述四位作者均未在 wiki/entities/ 中存在独立实体页。屈辰晨已有实体页（屈辰晨.md），但这四位作者仅在本文集中出现，暂无独立研究价值。建议暂不新建。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120100--伴读-基金评估__reading.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ca026506",
+    "resolved": false,
+    "createdAt": 1787024780738
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星评价体系局限专题",
+    "description": "本文多处提到晨星评级有后视镜性质，但未系统化讨论其局限。建议新建 synthesis 页面：[[晨星评价体系的局限与边界]]，涵盖：星级评价的后视镜偏差、分类体系的滞后性、风格箱的静态快照问题、自持信号的稀释趋势。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120100--伴读-基金评估__reading.md",
+    "affectedPages": [
+      "wiki/synthesis/晨星评价体系局限与边界.md"
+    ],
+    "searchQueries": [
+      "Morningstar fund rating limitations methodology critique",
+      "晨星基金评级 局限性 批评",
+      "Morningstar style box limitations"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8bcade24",
+    "resolved": false,
+    "createdAt": 1787024780738
+  },
+  {
+    "type": "missing-page",
+    "title": "基金经理自持（Fund Manager Self-Holding）",
+    "description": "核心概念缺失：晨星12篇基金评估系列中#3-4的核心主题，已被 `wiki/sources/5-notes--36-20260614t115006-qa-基金经理自持利益绑定选基信号qa--1hsuo8j.md` 引用（该QA明确标注\"基金经理自持概念不存在于wiki\"），但相关 synthesize 页面仍未生成。关键数据（无自持43-45% vs 高档自持50-54%胜率；5%→46%信号稀释趋势）和三个边界条件（动机≠能力、不买≠不好、买不买是两件事）尚未结构化入库。该概念与 `晨星星级评价`、`三层业绩归因框架`、`风格漂移` 高度关联，是当前基金评估知识网络中的关键节点。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120100--伴读-基金评估__reading.md",
+    "affectedPages": [
+      "wiki/concepts/基金经理自持.md"
+    ],
+    "searchQueries": [
+      "基金经理自持 dogfooding 选基信号 胜率 晨星",
+      "fund manager self-holding win rate Morningstar",
+      "基金经理自购 利益绑定 选基指标"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-76003ad3",
+    "resolved": false,
+    "createdAt": 1787024780738
+  },
+  {
+    "type": "missing-page",
+    "title": "晨星评价体系四大基石",
+    "description": "四个分散概念（晨星基金分类、晨星投资风格箱、晨星星级评价、风险调整指标）已各自成页，但缺乏顶层统合。晨星系列#9明确阐述\"分类+风格箱+风险调整+长期视角\"四支柱协同框架，当前 wiki 中无任何页面承载这一方法论总纲。该页面是串联已有晨星相关概念的核心枢纽页，对理解晨星评级逻辑至关重要。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120100--伴读-基金评估__reading.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md",
+      "wiki/concepts/晨星投资风格箱.md",
+      "wiki/concepts/晨星星级评价.md",
+      "wiki/concepts/夏普比率.md"
+    ],
+    "searchQueries": [
+      "Morningstar fund evaluation framework four pillars classification style box risk-adjusted",
+      "晨星基金评价体系 四大基石 分类 风格箱",
+      "Morningstar rating methodology framework 2024"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5d05d976",
+    "resolved": false,
+    "createdAt": 1787024780738
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星评价体系的局限与边界专题",
+    "description": "12篇系列多处暗示晨星方法论的后视镜性质（星级滞后、分类固化、风格箱静态快照），但未系统化讨论。现有 wiki 中 `晨星投资心态与行为系列总览` 是唯一的晨星 synthesis 页，聚焦心态行为，未覆盖方法论批判维度。新建 `晨星评价体系的局限与边界` 可补充：星级评价的后视镜偏差、分类体系的滞后性（新策略基金如何归类）、自持信号稀释趋势、晨星作为评级机构的商业利益张力。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120100--伴读-基金评估__reading.md",
+    "affectedPages": [
+      "wiki/synthesis/晨星投资心态与行为系列总览.md"
+    ],
+    "searchQueries": [
+      "Morningstar fund rating limitations criticism methodology bias",
+      "晨星基金评级 局限性 后视镜偏差",
+      "Morningstar star rating limitations active management critique"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dbf5e233",
+    "resolved": false,
+    "createdAt": 1787024780738
+  },
+  {
+    "type": "duplicate",
+    "title": "晨星风险等级r1-r4 是否与晨星评价体系四大基石重叠",
+    "description": "[[concepts/晨星评价体系四大基石]] 提到了\"基石三：风险调整收益\"使用夏普比率/索提诺比率/晨星风险系数，但未展开 R1-R4 等级体系。本概念页独立成页有价值，不构成严格重复。请确认是否需要进一步合并说明。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120102--qa-风险与收益的时间博弈__qa.md",
+    "affectedPages": [
+      "wiki/concepts/晨星风险等级r1-r4.md",
+      "wiki/concepts/晨星评价体系四大基石.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0cc75b8f",
+    "resolved": false,
+    "createdAt": 1787025095529
+  },
+  {
+    "type": "missing-page",
+    "title": "持有期临界点是否应独立成概念页",
+    "description": "源文中\"3年恢复窗口\"是核心实证发现，但目前散落在[[concepts/风险收益正相关与时间维度]]和[[concepts/晨星风险等级r1-r4]]中。可考虑新建[[concepts/持有期临界点]]独立成页，或在现有两页中强化这一概念的定位。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120102--qa-风险与收益的时间博弈__qa.md",
+    "affectedPages": [
+      "wiki/concepts/晨星风险等级r1-r4.md"
+    ],
+    "searchQueries": [
+      "morningstar risk rating R1 R2 R3 R4 drawdown recovery period 3 years",
+      "晨星风险等级 R1-R4 最大回撤 持有期 恢复时间"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9e1827ff",
+    "resolved": false,
+    "createdAt": 1787025095529
+  },
+  {
+    "type": "missing-page",
+    "title": "R2-R3 断层的产品解决方案值得追踪",
+    "description": "源文指出晨星分类体系 R2（约-4%）到 R3（约-25%）存在巨大断层，并提及\"晨星表示未来会改进这一点\"。目前 wiki 仅在边界条件中一句话带过。值得追踪：1）晨星是否已推出过渡档位或新分类工具；2）市场上固收+、平衡型产品是否实质填补了这一断层；3）该断层对中国投资者选基的实际影响有多大。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120102--qa-风险与收益的时间博弈__qa.md",
+    "affectedPages": [
+      "wiki/concepts/晨星风险等级r1-r4.md",
+      "wiki/concepts/风险收益正相关与时间维度.md"
+    ],
+    "searchQueries": [
+      "Morningstar risk rating scale update R2 R3 gap transitional fund classification",
+      "晨星风险等级 分类改进 R2 R3 过渡档位",
+      "固收+ 平衡型基金 回撤区间 晨星风险评级"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0b53af83",
+    "resolved": false,
+    "createdAt": 1787025095529
+  },
+  {
+    "type": "suggestion",
+    "title": "\"3年恢复窗口\"在极端熊市中的有效性值得验证",
+    "description": "源文将3年作为高风险基金从最大回撤恢复的临界持有期，但明确指出这是历史平均数据。中国A股历史上多次出现3年以上未修复的深幅回撤（如2007-2014年、2015-2019年）。值得验证：晨星原数据是否覆盖A股周期、3年结论对中国投资者是否同样适用、是否存在市场周期使\"3年足够\"不成立。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120102--qa-风险与收益的时间博弈__qa.md",
+    "affectedPages": [
+      "wiki/concepts/风险收益正相关与时间维度.md",
+      "wiki/concepts/晨星风险等级r1-r4.md"
+    ],
+    "searchQueries": [
+      "Morningstar R1-R4 risk rating drawdown recovery A-share China history",
+      "A股最大回撤恢复时间 3年 历史周期 2007 2015 2018",
+      "晨星风险等级 中国基金 恢复时间 实证数据"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0ea9d44e",
+    "resolved": false,
+    "createdAt": 1787025095529
+  },
+  {
+    "type": "duplicate",
+    "title": "晨星风险等级r1-r4 与晨星评价体系四大基石 是否需要互链说明",
+    "description": "两者内容重叠度低——前者是R1-R4实证数据页，后者是晨星方法论框架概述页。但建议在各自\"参见\"中明确说明关系，避免读者误认为重复。当前生成内容已有互链，仅需确认链接措辞清晰。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120102--qa-风险与收益的时间博弈__qa.md",
+    "affectedPages": [
+      "wiki/concepts/晨星风险等级r1-r4.md",
+      "wiki/concepts/晨星评价体系四大基石.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-033851e7",
+    "resolved": false,
+    "createdAt": 1787025095529
+  },
+  {
+    "type": "suggestion",
+    "title": "\"塞勒斯列\"引用核实",
+    "description": "QA 中引用的\"塞勒斯列的 7 个成功特质\"疑似为 George Soros（乔治·索罗斯）的音译变体或误写。wiki 中已有 [[entities/乔治-索罗斯-george-soros]]，但需核实原文是否确实出自 Soros 或其著作，抑或源自其他投资家。该表述\"在别人恐惧时贪婪，在别人贪婪时恐惧\"通常归于巴菲特，此处可能存在张冠李戴。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120104--qa-新手投资避坑指南__qa.md",
+    "affectedPages": [
+      "wiki/concepts/频繁交易成本复利侵蚀.md",
+      "wiki/concepts/止损纪律与触发条件.md"
+    ],
+    "searchQueries": [
+      "\"塞勒斯列 投资 七种成功特质\"",
+      "\"Soros seven traits investing\"",
+      "\"在别人恐惧时贪婪 巴菲特 索罗斯 出处\"",
+      "\"在别人恐惧时贪婪 出处 巴菲特 索罗斯\""
+    ],
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ce9a0f10",
+    "resolved": false,
+    "createdAt": 1787026247886
+  },
+  {
+    "type": "duplicate",
+    "title": "\"小韭\"系列伴读与 QA 同源去重确认",
+    "description": "本 QA 与 [[5-notes--35-20260614t091600-伴读-投资路上的险小韭reading--otxkfm]] 同为晨星中国\"小韭\"叙事，分析称两者同源。需确认是否为同一 Morningstar 文章的不同格式解读，若是则应在 index 中建立主从引用关系而非平行并列。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120104--qa-新手投资避坑指南__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--35-20260614t091600-伴读-投资路上的险小韭reading--otxkfm.md",
+      "wiki/sources/5-notes--30-20260614t120104-qa-新手投资避坑指南qa--1jdjwi.md"
+    ],
+    "searchQueries": [
+      "\"晨星 小韭 投资路上所有的坑\"",
+      "\"Morningstar 小韭 QA 伴读 同源\""
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-24426e75",
+    "resolved": false,
+    "createdAt": 1787026247886
+  },
+  {
+    "type": "suggestion",
+    "title": "频繁交易成本复利侵蚀实证数据补充",
+    "description": "新建页面 [[频繁交易成本复利侵蚀]] 目前以推演示例为主，缺少来自晨星或学术研究的具体实证数据（如换手率与收益负相关的统计结果）。补充真实数据可显著提升该概念页的说服力。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120104--qa-新手投资避坑指南__qa.md",
+    "affectedPages": [
+      "wiki/concepts/频繁交易成本复利侵蚀.md"
+    ],
+    "searchQueries": [
+      "\"Morningstar 换手率 收益 负相关 实证\"",
+      "\"个人投资者交易频率 收益侵蚀 数据\"",
+      "\"trading frequency returns drag empirical study\""
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6c2bc1ac",
+    "resolved": false,
+    "createdAt": 1787026247886
+  },
+  {
+    "type": "missing-page",
+    "title": "均值回归假设",
+    "description": "本文明确提出\"均值回归\"是再平衡的理论基础，但 wiki 中暂无独立的均值回归概念页。现有 [[concepts/再平衡的价值与边界]] 已提及此假设，但缺少独立页面展开讨论其在投资中的适用范围、实证依据以及反例（如趋势市场中持续失效）。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120105--qa-再平衡的数学魔法与局限__qa.md",
+    "searchQueries": [
+      "均值回归 投资理论 趋势市场失效 实证研究",
+      "mean reversion investing empirical evidence trend markets",
+      "均值回归 投资理论 实证研究 趋势市场失效"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cbd3f647",
+    "resolved": false,
+    "createdAt": 1787026312102
+  },
+  {
+    "type": "suggestion",
+    "title": "香农魔鬼实验补充",
+    "description": "本文未提及香农的波动率套利实验（Shannon's Demon），而 wiki 中 [[concepts/香农的魔鬼]] 已有数学证明：即使零预期收益的两个资产组合，通过再平衡也能产生正几何收益。这是比\"均值回归\"更强的再平衡数学支撑，建议在 [[concepts/再平衡的价值与边界]] 中补充这一论证。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120105--qa-再平衡的数学魔法与局限__qa.md",
+    "searchQueries": [
+      "Shannon demon volatility rebalancing proof mathematical derivation",
+      "香农魔鬼实验 波动率红利 再平衡数学证明"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-90522990",
+    "resolved": false,
+    "createdAt": 1787026312102
+  },
+  {
+    "type": "suggestion",
+    "title": "香农魔鬼实验对再平衡的数学支撑",
+    "description": "本文未提及香农的波动率套利实验（Shannon's Demon），而 wiki 中 [[concepts/香农的魔鬼]] 已有数学证明：即使零预期收益的两个资产组合，通过固定比例再平衡也能产生正几何收益。这一论证比\"均值回归\"更强——它不依赖价格是否回归均值，而是依赖波动率本身。建议在 [[concepts/再平衡的价值与边界]] 中补充这一数学支撑，形成\"纪律定位 + 数学证明\"双轨论证。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120105--qa-再平衡的数学魔法与局限__qa.md",
+    "affectedPages": [
+      "wiki/concepts/再平衡的价值与边界.md"
+    ],
+    "searchQueries": [
+      "Shannon demon volatility rebalancing proof mathematical derivation",
+      "香农魔鬼实验 波动率红利 再平衡数学证明"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-43e3227a",
+    "resolved": false,
+    "createdAt": 1787026312102
+  },
+  {
+    "type": "missing-page",
+    "title": "均值回归（概念）",
+    "description": "拥挤交易页面使用了\"均值回归\"这一关键机制，但 wiki 中尚无独立的 `均值回归` 概念页。当前仅在 `价值成长长期趋同`、`低市盈率策略` 等页面中以行内方式提及。如需完善知识图谱，可考虑新建。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120106--qa-量化投资的真相与陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/均值回归.md"
+    ],
+    "searchQueries": [
+      "均值回归 投资 因子衰减 量化策略 金融学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ef1a756a",
+    "resolved": false,
+    "createdAt": 1787027299745
+  },
+  {
+    "type": "suggestion",
+    "title": "因子衰减理论页面",
+    "description": "`拥挤交易` 页面引用了 `[[concepts/因子投资策略]]` 中的\"因子衰减\"理论，但未单独建立 `因子衰减` 概念页。若希望细化因子生命周期的独立论述（发现→拥挤→衰减→消失），可考虑补充。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120106--qa-量化投资的真相与陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/因子衰减.md"
+    ],
+    "searchQueries": [
+      "factor decay quant investment alpha erosion lifecycle"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d3999c3f",
+    "resolved": false,
+    "createdAt": 1787027299745
+  },
+  {
+    "type": "missing-page",
+    "title": "均值回归",
+    "description": "`拥挤交易` 页面将\"均值回归\"作为核心机制（踩踏→均值回归），但 wiki 尚无独立的概念页。均值回归是理解因子失效、策略周期性的基础理论，缺少独立页面会导致知识图谱断裂。建议新建。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120106--qa-量化投资的真相与陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/均值回归.md"
+    ],
+    "searchQueries": [
+      "均值回归 投资 金融学 alpha decay",
+      "mean reversion stock returns quantitative"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fc23c5d6",
+    "resolved": false,
+    "createdAt": 1787027299745
+  },
+  {
+    "type": "missing-page",
+    "title": "因子衰减 / 因子生命周期",
+    "description": "`拥挤交易` 和 `因子投资策略` 均提及\"因子退潮期\"，但未展开因子从发现→拥挤→衰减→消失的完整生命周期理论。这是理解量化超额收益可持续性的关键机制，建议单独立项。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120106--qa-量化投资的真相与陷阱__qa.md",
+    "affectedPages": [
+      "wiki/concepts/因子衰减.md"
+    ],
+    "searchQueries": [
+      "factor decay alpha erosion quantitative investing lifecycle",
+      "因子衰减 量化投资 因子溢价 消失"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-75006fae",
+    "resolved": false,
+    "createdAt": 1787027299745
+  },
+  {
+    "type": "suggestion",
+    "title": "货币基金七日年化尖峰的量化识别标准",
+    "description": "[[concepts/短期收益尖峰陷阱]] 提出了「鹤立鸡群」式短期尖峰的概念，但缺乏具体量化阈值（如超过同类均值几个标准差）。补充足够的量化标准可显著提升实操价值。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120107--qa-货币基金挑选实战技巧__qa.md",
+    "affectedPages": [
+      "wiki/concepts/短期收益尖峰陷阱.md",
+      "wiki/concepts/七日年化收益率与万份收益.md"
+    ],
+    "searchQueries": [
+      "货币基金 七日年化 收益异常 统计阈值",
+      "money market fund seven-day yield spike detection threshold",
+      "晨星 货币基金 收益率异常 识别方法"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-27b1e617",
+    "resolved": false,
+    "createdAt": 1787027825583
+  },
+  {
+    "type": "suggestion",
+    "title": "余额宝规模-收益率衰减的实证数据",
+    "description": "[[concepts/规模困境]] 引用天弘余额宝作为货币基金规模困境的案例，但缺少具体的规模数字与收益率的对应关系。补充精确数据可以增强论证力度。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120107--qa-货币基金挑选实战技巧__qa.md",
+    "affectedPages": [
+      "wiki/concepts/规模困境.md",
+      "wiki/concepts/货币基金业绩持续性.md"
+    ],
+    "searchQueries": [
+      "天弘余额宝 规模 收益率 历史数据",
+      "余额宝 规模增长 收益率变化 2015-2025",
+      "中国货币基金规模与收益率相关性研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a1f8293f",
+    "resolved": false,
+    "createdAt": 1787027825583
+  },
+  {
+    "type": "missing-page",
+    "title": "货币基金流动性管理约束",
+    "description": "来源文章 Q2 提到「监管对货币基金投资操作（杠杆、久期）有严格限制，投资范围狭窄」，这是解释货币基金业绩持续性的核心机制，但 wiki 中尚无专门页面系统梳理货币基金的监管框架与投资约束。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120107--qa-货币基金挑选实战技巧__qa.md",
+    "affectedPages": [
+      "wiki/concepts/货币基金业绩持续性.md"
+    ],
+    "searchQueries": [
+      "中国货币基金 监管规定 杠杆限制 久期要求 投资范围",
+      "货币基金 监管约束 120天 加权久期 新规",
+      "证监会 货币基金 流动性风险管理规定"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-91c878c6",
+    "resolved": false,
+    "createdAt": 1787027825583
+  },
+  {
+    "type": "missing-page",
+    "title": "QDII 概念页未单独建立",
+    "description": "本 QA 将 QDII 列为中国市场基金分类的第一步前置维度（区分 QDII vs 非 QDII），但 QDII 目前仅有在伴读源 `[[sources/5-notes--44-20260614t100538-伴读-qdii打假你的基金海外浓度有多高reading--njc43l]]` 中提及，未有独立概念页。当前信息量不足以支撑完整 QDII 概念页，待后续整合后再决定。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120109--qa-晨星基金分类体系解析__qa.md",
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6287dcba",
+    "resolved": false,
+    "createdAt": 1787028538957
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星股票型12子类别详情待补充",
+    "description": "来源多次提及股票型基金分为12个子类别，但始终未列出具体名称。这是一个值得追踪的信息缺口：补全这12个子类别的具体名称和定义，将增强 `[[晨星基金分类]]` 和 `[[晨星投资风格箱]]` 的实用价值。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120109--qa-晨星基金分类体系解析__qa.md",
+    "searchQueries": [
+      "Morningstar fund classification 12 equity categories China",
+      "晨星基金分类 股票型 12个子类别 完整列表"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fbc84fad",
+    "resolved": false,
+    "createdAt": 1787028538957
+  },
+  {
+    "type": "suggestion",
+    "title": "晨星股票型12子类别具体名称待补全",
+    "description": "来源多次提及股票型基金分为12个子类别，但始终未列出具体名称与定义。补全这12个子类别将显著提升 `[[晨星基金分类]]` 的实用参考价值，也便于投资者快速定位自己持有或关注的基金归属。",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120109--qa-晨星基金分类体系解析__qa.md",
+    "affectedPages": [
+      "wiki/concepts/晨星基金分类.md",
+      "wiki/concepts/晨星投资风格箱.md"
+    ],
+    "searchQueries": [
+      "Morningstar equity fund classification 12 categories list",
+      "晨星基金分类 股票型 12个子类别 完整列表 中国"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-eed25700",
+    "resolved": false,
+    "createdAt": 1787028538957
+  },
+  {
+    "type": "duplicate",
+    "title": "QA版与伴读版同属一篇文章",
+    "description": "`wiki/sources/5-notes--30-20260614t120145-qa-投资策略制定方法qa--gcdlzl.md`（QA版）与 `wiki/sources/5-notes--40-20260614t100536-伴读-市场急涨急跌操作上如何应对reading--1fi9t5t.md`（伴读版）内容高度重叠，系同一 Morningstar 文章的两个产出形态。所有关联概念页面均已存在，无新增概念价值。是否将两个 source 合并为一个，或保留 QA 版但标注为衍生版本？",
+    "sourcePath": "/Users/haojunsheng/doc/doc/raw/sources/notes/20260614T120145--qa-投资策略制定方法__qa.md",
+    "affectedPages": [
+      "wiki/sources/5-notes--30-20260614t120145-qa-投资策略制定方法qa--gcdlzl.md",
+      "wiki/sources/5-notes--40-20260614t100536-伴读-市场急涨急跌操作上如何应对reading--1fi9t5t.md"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e427db65",
+    "resolved": false,
+    "createdAt": 1787040083860
   }
 ]
