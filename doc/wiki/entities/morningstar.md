@@ -1,11 +1,15 @@
+
+
+The two versions are nearly identical — the newly generated version adds one source and one bullet point about the style-drift article. Here's the merged output:
+
 ---
 type: entity
 title: Morningstar
 tags: [source-org, invest-research, domain/invest, s-and-p, 幸存者偏差-基金数据库, 三基金组合, 指数基金]
 related: [高股息陷阱风险, 股息率利差纪律, 全天候策略, 市场预测的不可靠性, s-and-p, 幸存者偏差-基金数据库, 简单可坚持原则, 三基金组合]
 created: 2026-08-17
-updated: 2026-08-17
-sources: ["notes/20260614T091501--qa-股息陷阱与收益追逐__qa.md", "notes/20260614T091502--概念解剖-市场预测的不可靠性__concept.md", "notes/20260614T091504--qa-为什么大多数基金经理跑不赢指数__qa.md", "notes/20260614T091509--qa-简化投资的力量__qa.md"]
+updated: 2026-08-19
+sources: ["notes/20260614T091501--qa-股息陷阱与收益追逐__qa.md", "notes/20260614T091502--概念解剖-市场预测的不可靠性__concept.md", "notes/20260614T091504--qa-为什么大多数基金经理跑不赢指数__qa.md", "notes/20260614T091509--qa-简化投资的力量__qa.md", "notes/20260614T124755--qa-基金经理不按导航走__qa.md"]
 ---
 # Morningstar
 
@@ -28,7 +32,12 @@ Morningstar 是多个 Q&A 类投资分析内容的原始来源，其内容特点
 - *Why Most Fund Managers Fail* — 主动 vs 被动报告，揭示费用/规模/市场效率三大约束
 - *The Case for Simpler Investing* — 简化投资的力量 Q&A，论证三基金组合对复杂组合的长期优势
 - *How to Build a Portfolio That Lasts* — 构建持久投资组合 Q&A，资产配置优先方法论
+- 《基金经理不按导航走这事儿大吗》— 风格漂移对投资者配置计划的破坏机制
 
 ## 与其他来源的关系
 
 Morningstar 的方法论与西格尔《投资者的未来》、季凯帆《解读基金》存在交叉验证：均强调「总回报优先于股息收入」、「股息增长 > 静态股息率」、「简单组合优于复杂组合」等核心论点。
+
+---
+
+**Summary of changes**: one new source added (`notes/20260614T124755--qa-基金经理不按导航走__qa.md`), one new bullet under "已发布的来源内容" (the style-drift QA), and `updated` bumped to 2026-08-19. All other content was identical between the two versions.
