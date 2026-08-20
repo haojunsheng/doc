@@ -1,0 +1,6 @@
+## 2026-08-20
+
+- ingest | QA — 国富深化价值混合长期业绩来源（晨星焦点基金系列）
+  - 新增 source：[[sources/5-notes--46-20260614t215503-qa-国富深化价值混合长期业绩来源__qa.md]]
+  - 新增 entity：[[entities/国富深化价值混合]]
+  - 新增 concept：[[concepts/深化价值]], [[concepts/戴维斯双击]]

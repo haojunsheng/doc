@@ -208,204 +208,314 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Recently Updated
-- [[sources/5-notes--31-20260614t210625-概念解剖-回本concept--pfjcny]] — 概念解剖 — 回本
-- [[concepts/回本]] — 回本
-- [[concepts/回本心理]] — 回本心理
-- [[sources/5-notes--31-20260614t210625-概念解剖-保本concept--dirg59]] — 概念解剖 — 保本
-- [[concepts/保本幻觉]] — 保本幻觉
-- [[sources/5-notes--31-20260614t203000-qa-理财计划净资产快照qa--oqfhi3]] — 5-notes--31-20260614t203000-qa-理财计划净资产快照qa--oqfhi3
-- [[concepts/净资产快照]] — 净资产快照
-- [[concepts/资产流动性分类]] — 资产流动性分类
-- [[concepts/现金垫标准]] — 现金垫标准
-- [[sources/5-notes--30-20260614t202000-qa-理财计划好好记账qa--1h02n5t]] — 5-notes--30-20260614t202000-qa-理财计划好好记账qa--1h02n5t
-- [[concepts/财务诊断链]] — 财务诊断链
-- [[concepts/记账是诊断仪而非治疗仪]] — 记账是诊断仪而非治疗仪
-- [[concepts/六步记账法]] — 六步记账法
-- [[sources/5-notes--30-20260614t201000-qa-理财计划设立目标qa--5lf99y]] — QA — 理财计划设立目标：SMART目标+时间分层是理财计划的起手式
-- [[sources/5-notes--30-20260614t200000-qa-攒多少钱体面退休qa--83zi5a]] — 攒多少钱体面退休 — QA
-- [[concepts/替代率与退休缺口]] — 替代率与退休缺口
-- [[concepts/养老三支柱框架]] — 养老三支柱框架
-- [[entities/世界银行]] — 世界银行
-- [[sources/5-notes--31-20260614t199000-qa-退休后比有钱更重要qa--1crv4m6]] — QA — 退休后比有钱更重要：退休是第二人生的起点设计
-- [[concepts/perma-v模型]] — PERMA-V 模型
-- [[concepts/退休满意度-财务×意义]] — 退休满意度——财务×意义
-- [[sources/5-notes--29-20260614t198000-qa-中产变中惨自救qa--m0z8b4]] — 中产变中惨自救
-- [[concepts/中产脆弱性]] — 中产脆弱性
-- [[concepts/应急金分层存放]] — 应急金分层存放
-- [[concepts/现金流断裂风险]] — 现金流断裂风险
-- [[concepts/不可能三角-收益流动安全]] — 不可能三角（收益-流动性-安全性）
-- [[concepts/自救能力优于投资能力]] — 自救能力优于投资能力
-- [[sources/5-notes--29-20260614t197000-qa-低利率环境理财qa--1q8d5vt]] — 低利率环境理财：票息躺赚结束，交易能力决定超额
-- [[concepts/票息躺赚]] — 票息躺赚
-- [[concepts/债券收益结构]] — 债券收益结构
-- [[concepts/盈利-估值拆分框架]] — 盈利-估值拆分框架
-- [[sources/5-notes--30-20260614t196000-qa-理财焦虑避坑指南qa--1temepx]] — QA — 理财焦虑避坑指南
-- [[concepts/理财焦虑避坑指南-忽略简单自动化]] — 理财焦虑避坑指南——忽略、简单、自动化三把刀
-- [[sources/5-notes--28-20260614t195000-qa-旅游资金储蓄qa--1m46z3x]] — QA — 旅游资金储蓄：短期目标配低风险，旅游钱别碰股票
-- [[concepts/短期刚性目标配置]] — 短期刚性目标配置
-- [[concepts/目标倒推法]] — 目标倒推法
-- [[concepts/三钱包分配法]] — 三钱包分配法
-- [[sources/5-notes--30-20260614t194000-qa-存钱为什么那么难qa--mqde00]] — QA — 存钱为什么那么难：存钱难的敌人不是收入低，是心理bug
-- [[concepts/双曲贴现]] — 双曲贴现
-- [[concepts/易得性直觉驱动目标]] — 易得性直觉驱动目标
-- [[sources/5-notes--32-20260614t193000-qa-打工到65岁fireqa--vu74t5]] — 打工到65岁FIRE — 真正的自由是有选择权，不是提前退休
-- [[sources/5-notes--28-20260614t192000-qa-熊市生存指南qa--1uno3z7]] — QA — 熊市生存指南：熊市里比的不是谁赚得多，是谁不犯错
-- [[concepts/浮亏与真亏的区分]] — 浮亏与真亏的区分
-- [[concepts/重复持仓陷阱]] — 重复持仓陷阱
-- [[sources/5-notes--29-20260614t191000-qa-三桶金无痛养老qa--e835sq]] — QA — 三桶金无痛养老：用"桶"隔离时间，让波动不伤生活
-- [[sources/5-notes--29-20260614t190000-qa-个人养老金攻略qa--e3d3ql]] — 个人养老金攻略 QA — 个税抵扣+费率双优惠撬动长期复利
-- [[concepts/个人养老金税收套利]] — 个人养老金税收套利
-- [[concepts/生命周期权益配置法则]] — 生命周期权益配置法则
-- [[concepts/费率复利侵蚀]] — 费率复利侵蚀
-- [[concepts/12000限额定位]] — 12000 限额定位
-- [[sources/5-notes--30-20260614t189000-qa-春节焦虑灵魂拷问qa--gqu5xk]] — QA — 春节焦虑灵魂拷问：大目标让人焦虑，小目标让人连接
-- [[concepts/目的焦虑]] — 目的焦虑
-- [[concepts/大目标与小目标框架]] — 大目标与小目标框架
-- [[entities/jordan-grumet]] — Jordan Grumet
-- [[concepts/人际关系幸福预测]] — 人际关系幸福预测
-- [[sources/5-notes--30-20260614t188000-qa-先投资还是先储蓄qa--1m2siux]] — QA — 先投资还是先储蓄
-- [[concepts/复利阶段切换]] — 复利阶段切换
-- [[concepts/债务复利]] — 债务复利
-- [[sources/5-notes--29-20260614t187000-qa-ai受益价值股qa--1nyb7ol]] — AI受益价值股
-- [[sources/5-notes--30-20260614t186000-qa-普通人理财靠存钱qa--12aasbo]] — QA — 普通人理财靠存钱
-- [[concepts/本金积累优先]] — 本金积累优先
-- [[concepts/生活方式膨胀]] — 生活方式膨胀
-- [[sources/5-notes--30-20260614t185000-qa-不同阶段资产配置qa--1ejg1ym]] — QA — 不同阶段资产配置：年龄只是起点，现金流结构才是核心
-- [[concepts/多维风险承受力公式]] — 多维风险承受力公式
-- [[concepts/人生五阶段资产配置]] — 人生五阶段资产配置
-- [[sources/5-notes--30-20260614t184000-qa-相对收益困住富足qa--1i7l1f8]] — QA — 相对收益困住富足
-- [[concepts/相对收益-绝对收益]] — 相对收益与绝对收益
-- [[concepts/地位消费]] — 地位消费
-- [[entities/carl-richards]] — Carl Richards
-- [[concepts/跑步机效应]] — 跑步机效应
-- [[concepts/足够-t-动态校准]] — 足够(t)动态校准
-- [[concepts/理财顾问的核心价值]] — 理财顾问的核心价值
-- [[concepts/实验方法发现足够]] — 实验方法发现足够
-- [[concepts/知足与不思进取的区分]] — 知足与不思进取的区分
-- [[sources/5-notes--27-20260614t183000-qa-会买不会卖qa--ucgbaj]] — 5-notes--27-20260614t183000-qa-会买不会卖qa--ucgbaj
-- [[concepts/显著性偏差]] — 显著性偏差
-- [[concepts/卖出流程化]] — 卖出流程化
-- [[sources/5-notes--30-20260614t182000-qa-不同人生阶段波动qa--1t05rzg]] — QA — 不同人生阶段波动
-- [[concepts/生命周期波动策略]] — 生命周期波动策略
-- [[concepts/人力资本]] — 人力资本
-- [[concepts/分层水池策略]] — 分层水池策略
-- [[concepts/行为风险]] — 行为风险
-- [[sources/5-notes--29-20260614t180000-qa-本金靠基金生活qa--k72taz]] — QA — 本金靠基金生活
-- [[concepts/安全提取率]] — 安全提取率（SWR, Safe Withdrawal Rate）
-- [[concepts/收益率序列风险]] — 收益率序列风险（Sequence of Returns Risk, 提取阶段）
-- [[sources/5-notes--30-20260614t124755-qa-香农的魔鬼再平衡qa--h0red2]] — 香农的魔鬼再平衡 QA
-- [[concepts/香农的魔鬼]] — 香农的魔鬼（Shannon's Demon）
-- [[concepts/波动拖累]] — 波动拖累（Volatility Drag）
-- [[entities/香农-claude-shannon]] — 克劳德·香农（Claude Shannon）
-- [[sources/5-notes--28-20260614t124755-qa-量化投资监管qa--fo04py]] — QA — 量化投资监管：被监管"重拳出击"的量化投资，到底是什么？
-- [[concepts/量化投资-监管视角]] — 量化投资的监管视角与公众认知纠偏
-- [[sources/5-notes--28-20260614t124755-qa-赛道基金陷阱qa--36lej1]] — QA — 赛道基金陷阱：把双刃剑
-- [[concepts/赛道生命周期轮动]] — 赛道生命周期轮动
-- [[sources/5-notes--31-20260614t124755-qa-止盈与收益序列风险qa--18to6vj]] — QA — 止盈与收益序列风险
-- [[concepts/收益序列风险]] — 收益序列风险
-- [[concepts/水桶策略]] — 水桶策略
-- [[concepts/止盈陷阱]] — 止盈陷阱
-- [[sources/5-notes--29-20260614t124755-qa-晨星基金排行榜qa--td1n4]] — QA — 年末基金"大考"即将放榜！一招教你看懂晨星基金排行榜
-- [[sources/5-notes--31-20260614t124755-qa-投资路上的风险案例qa--1hvi3by]] — QA — 投资路上的风险案例：从"小韭"的故事学投资
-- [[concepts/风险认知偏差-牛市高估]] — 风险认知偏差——牛市高估
-- [[concepts/投资计划优于市场预测]] — 投资计划优于市场预测
-- [[sources/5-notes--30-20260614t124755-qa-完美投资组合追寻qa--8k9hl5]] — QA — 完美投资组合追寻
-- [[concepts/有效前沿]] — 有效前沿（Efficient Frontier）
-- [[concepts/适应性市场假说]] — 适应性市场假说（Adaptive Markets Hypothesis, AMEH）
-- [[concepts/风险平价]] — 风险平价（Risk Parity）
-- [[sources/5-notes--30-20260614t124755-qa-基金风格漂移识别qa--1390d4t]] — QA — 基金风格漂移识别
-- [[sources/5-notes--31-20260614t124755-qa-基金经理不按导航走qa--prvxfu]] — QA — 基金经理不按导航走
-- [[entities/morningstar]] — Morningstar
-- [[entities/晨星中国-morningstarcn]] — 晨星中国 (Morningstar.cn)
-- [[sources/5-notes--29-20260614t124755-qa-固收加产品选择qa--1cu68us]] — QA — 固收+产品选择：不只是债券加点股票
-- [[sources/5-notes--29-20260614t124755-qa-五星基金闭眼买qa--wab2iv]] — 五星基金闭眼买就对了？
-- [[concepts/被动指数基金的星级局限]] — 被动指数基金的星级局限
-- [[concepts/星级下降决策框架]] — 星级下降决策框架
-- [[sources/5-notes--30-20260614t124755-qa-qdii海外浓度qa--16wskwl]] — QDII不等于真正的海外分散
-- [[concepts/上市地不等于营收来源地]] — 上市地不等于营收来源地
-- [[sources/5-notes--37-20260614t124155-qa-投资目标不是赚钱是过想要的生活qa--s5qaj]] — QA — 投资目标不是赚钱是过想要的生活
-- [[concepts/富有是副产品]] — 富有是副产品
-- [[concepts/投资指南针模型]] — 投资指南针模型
-- [[sources/5-notes--37-20260614t124153-qa-主动被动选择关键不在产品在行为qa--12dwe6q]] — QA — 主动被动选择关键不在产品在行为
-- [[sources/5-notes--36-20260614t124152-qa-历史业绩不是敌人信号有时有效qa--74aurc]] — QA — 历史业绩不是敌人，信号有时有效
-- [[entities/纳拉亚南-杰加迪-narayanan-jegadeesh]] — 纳拉亚南·杰加迪（Narayanan Jegadeesh）
-- [[entities/赫尔曼-蒂特曼-herbert-titman]] — 赫尔曼·蒂特曼（Sheridan Titman）
-- [[sources/5-notes--36-20260614t124151-qa-亏钱基金该割还是扛看投资逻辑qa--1wnml86]] — QA — 亏钱基金该割还是扛？看投资逻辑
-- [[concepts/牛市冲动买入]] — 牛市冲动买入
-- [[sources/5-notes--39-20260614t124150-qa-价值成长风格不是标签是风险收益特征qa--6q56vy]] — QA — 价值成长风格不是标签，是风险收益特征
-- [[entities/格雷厄姆]] — 格雷厄姆（Benjamin Graham）
-- [[entities/费雪]] — 费雪（Philip Fisher）
-- [[concepts/风格错配]] — 风格错配
+- [[sources/5-notes--34-20260614t215505-qa-兴全合润混合主动管理价值qa--1qrrd26]] — 兴全合润混合主动管理价值 QA
+- [[entities/兴全合润混合]] — 兴全合润混合
+- [[concepts/自下而上选股]] — 自下而上选股
+- [[concepts/错误定价]] — 错误定价
+- [[concepts/换手率与交易成本]] — 换手率与交易成本
+- [[sources/5-notes--38-20260614t215504-qa-9月基金月报政策利好驱动股债分化qa--btehxx]] — QA — 9月基金月报：政策利好驱动股债分化
+- [[concepts/政策驱动型市场反弹]] — 政策驱动型市场反弹
+- [[concepts/信用债收益率上行]] — 信用债收益率上行
+- [[concepts/港股弹性优于A股的三重驱动]] — 港股弹性优于A股的三重驱动
+- [[sources/5-notes--36-20260614t215503-qa-国富深化价值混合长期业绩来源qa--8o1tqm]] — QA — 国富深化价值混合长期业绩来源
+- [[entities/国富深化价值混合]] — 国富深化价值混合
+- [[concepts/深化价值]] — 深化价值
+- [[concepts/戴维斯双击]] — 戴维斯双击
+- [[sources/5-notes--38-20260614t215502-qa-10月基金月报中小盘成长风格领涨qa--1jpeodb]] — 10月基金月报——中小盘成长风格领涨
+- [[concepts/sfisf互换便利]] — SFISF（互换便利）
+- [[sources/5-notes--36-20260614t215501-qa-摩根亚洲增长基金双基金经理制qa--cfklu6]] — QA — 摩根亚洲增长基金双基金经理制
+- [[entities/摩根亚洲增长基金]] — 摩根亚洲增长基金
+- [[entities/Mark-Davids]] — Mark Davids
+- [[entities/郭为熹]] — 郭为熹
+- [[concepts/双基金经理制]] — 双基金经理制
+- [[concepts/投研一致性]] — 投研一致性
+- [[concepts/上行捕获率与下行捕获率]] — 上行捕获率与下行捕获率
+- [[concepts/乐观偏差（盈利预测偏高）]] — 乐观偏差（盈利预测偏高）
+- [[sources/5-notes--33-20260614t215455-qa-股债分化中小盘成长占优qa--1n3qhwg]] — QA — 股债分化中小盘成长占优
+- [[concepts/宽松预期抢跑]] — 宽松预期抢跑
+- [[sources/5-notes--35-20260614t214930-qa-主动投资击败市场的三条路径qa--vo44ms]] — 主动投资击败市场的三条路径
+- [[sources/5-notes--40-20260614t214900-qa-2025全球公募基金趋势海外配置中国qa--1xtpn5i]] — 2025全球公募基金趋势与海外配置中国
+- [[sources/5-notes--35-20260614t214830-qa-10月股债分化价值风格占优qa--1t780k7]] — 10月股债分化，价值风格占优
+- [[concepts/短端中长端收益率分化]] — 短端中长端收益率分化
+- [[sources/5-notes--34-20260614t214800-qa-7月香港互认基金摩根领跑qa--137t9xg]] — QA — 7月香港互认基金摩根领跑汇丰承压
+- [[entities/摩根资产管理-morgan-asset-management]] — 摩根资产管理（Morgan Asset Management）
+- [[entities/汇丰投资-hsbc-investment]] — 汇丰投资（HSBC Investment）
+- [[concepts/风险偏好下降]] — 风险偏好下降
+- [[sources/5-notes--35-20260614t214733-qa-主动持股比例衡量基金偏离度qa--1c1j801]] — QA — 主动持股比例衡量基金偏离度
+- [[sources/5-notes--30-20260614t214708-qa-价值成长中间策略qa--1kk6czm]] — QA — 价值成长中间策略
+- [[entities/兴全商业模式优选]] — 兴全商业模式优选混合基金
+- [[concepts/中间策略]] — 中间策略
 - [[concepts/价值陷阱]] — 价值陷阱
-- [[sources/5-notes--34-20260614t124149-qa-逆向投资不是和市场对着干qa--disj64]] — QA — 逆向投资不是和市场对着干
-- [[concepts/分散化对冲逆向风险]] — 分散化对冲逆向风险
-- [[concepts/隐藏价值]] — 隐藏价值
-- [[sources/5-notes--34-20260614t124148-qa-错过牛市十天决定全年收益qa--pd0u26]] — QA — 错过牛市十天决定全年收益
-- [[concepts/收益集中规律]] — 收益集中规律
-- [[concepts/择时的心理陷阱]] — 择时的心理陷阱
-- [[sources/5-notes--33-20260614t122827-伴读-市场平均回报reading--10ga1z0]] — 伴读：只拿市场平均回报，长期业绩能行吗？
-- [[entities/马克-塞勒斯-mark-cockerell]] — 马克·塞勒斯（Mark Cockerell）
-- [[concepts/巴菲特不可复制性]] — 巴菲特不可复制性
-- [[concepts/控制卖出决策优于买入决策]] — 控制卖出决策优于买入决策
-- [[sources/5-notes--31-20260614t122823-伴读-近因效应reading--3pntvu]] — 伴读：跟上趋势，赚钱就能像呼吸一样简单？
-- [[concepts/系列位置效应]] — 系列位置效应
-- [[concepts/热手谬误]] — 热手谬误
-- [[concepts/认知依赖]] — 认知依赖
-- [[entities/艾宾浩斯-hermann-ebbinghaus]] — 艾宾浩斯（Hermann Ebbinghaus）
-- [[entities/卢琴斯-luchins]] — 卢琴斯（Luchins）
-- [[sources/5-notes--31-20260614t122821-伴读-风格漂移reading--dnhjq4]] — 5-notes--31-20260614t122821-伴读-风格漂移reading--dnhjq4
-- [[concepts/羊群效应]] — 羊群效应
+- [[sources/5-notes--29-20260614t214700-qa-信用债利差捕手qa--zjv23o]] — QA — 信用债利差捕手策略解析
+- [[concepts/信用债利差捕手]] — 信用债利差捕手
+- [[concepts/信用债利差]] — 信用债利差
+- [[sources/5-notes--37-20260614t214636-qa-10月香港互认基金股债全面吸金qa--fjm18y]] — 11月香港互认基金：资金流向分化，求稳→逐险切换
+- [[entities/汇丰-互认基金业务]] — 汇丰（互认基金业务）
+- [[entities/惠理-hengyi]] — 惠理（Hengyuan/Hengyi）
+- [[entities/摩根太平洋科技基金]] — 摩根太平洋科技基金
+- [[concepts/科技板块反弹驱动资金回流]] — 科技板块反弹驱动资金回流
+- [[sources/5-notes--32-20260614t214608-qa-短期信用债基金避风港qa--9kpgyh]] — 利率波动下的避风港：短期信用债基金
+- [[sources/5-notes--32-20260614t214600-qa-8月基金月报股强债弱qa--1w7u2er]] — 8月基金月报：股强债弱
+- [[concepts/股强债弱]] — 股强债弱
+- [[sources/5-notes--35-20260614t214539-qa-高主动持股比例不等于高业绩qa--1l6d5ar]] — 高主动持股比例不等于高业绩
+- [[concepts/主动持股比例]] — 主动持股比例
+- [[concepts/战胜率]] — 战胜率
+- [[concepts/伪主动基金]] — 伪主动基金
+- [[concepts/盲目主动]] — 盲目主动
+- [[sources/5-notes--34-20260614t214508-qa-五月股债分化下的基金选择qa--g62a6z]] — QA — 五月股债分化下的基金选择
+- [[concepts/股债分化]] — 股债分化
+- [[sources/5-notes--34-20260614t214500-qa-8月香港互认基金资金分化qa--qgxkbq]] — QA — 8月香港互认基金资金流向分化
+- [[concepts/内地投资海外热情降温]] — 内地投资海外热情降温
+- [[sources/5-notes--34-20260614t214438-qa-瑞士百达全球灵活配置策略qa--gdwox2]] — QA — 瑞士百达全球灵活配置策略
+- [[entities/黄思远]] — 黄思远
+- [[concepts/本金侵蚀-每月派息份额风险]] — 本金侵蚀（每月派息份额风险）
+- [[sources/5-notes--34-20260614t214408-qa-降费改革两年投资成本变化qa--1d7l9d4]] — QA — 降费改革两年投资成本变化
+- [[concepts/显性费率与隐性费率]] — 显性费率与隐性费率
+- [[concepts/规模导向与回报导向]] — 规模导向与回报导向
+- [[sources/5-notes--32-20260614t214400-qa-中等波动固收攻守之策qa--1tkqgdj]] — 中等波动固收+基金的攻守之策
+- [[concepts/中等波动固收+]] — 中等波动固收+
+- [[concepts/回撤控制机制]] — 回撤控制机制
+- [[sources/5-notes--35-20260614t214336-qa-东方添益信用债交易增强策略qa--ad1cxs]] — QA — 东方添益信用债交易增强策略
+- [[entities/吴萍萍]] — 吴萍萍
+- [[entities/东方添益债券基金]] — 东方添益债券基金
+- [[concepts/票息打底-交易增强策略]] — 票息打底-交易增强策略
+- [[concepts/能力溢价]] — 能力溢价
+- [[concepts/城投债-产业债配置权衡]] — 城投债-产业债配置权衡
+- [[sources/5-notes--34-20260614t214308-qa-基金跑输基准的能力与运气qa--sm0a4d]] — QA — 基金跑输基准，是能力问题还是运气问题
+- [[concepts/业绩信噪比]] — 业绩信噪比
+- [[concepts/能力-vs-运气]] — 能力-vs-运气
+- [[sources/5-notes--33-20260614t214300-qa-浮动费率基金挑选不踩坑qa--dooepw]] — QA — 浮动费率基金挑选不踩坑
+- [[concepts/浮动费率]] — 浮动费率
+- [[concepts/业绩提成门槛]] — 业绩提成门槛
+- [[sources/5-notes--35-20260614t214227-qa-11月股债双杀价值风格占优qa--12pmtwq]] — 11月股债双杀，价值风格占优 QA
+- [[concepts/预期差交易]] — 预期差交易
+- [[concepts/股债双杀]] — 股债双杀
+- [[sources/5-notes--34-20260614t214200-qa-90基金用错基准超额假象qa--mq6zk]] — QA — 90%基金用错基准，超额收益假象
+- [[concepts/基准不匹配]] — 基准不匹配
+- [[concepts/超额收益假象]] — 超额收益假象
+- [[sources/5-notes--36-20260614t214117-qa-投顾份额解决双重收费利益冲突qa--17159jr]] — QA — 投顾份额解决双重收费利益冲突
+- [[concepts/投顾份额]] — 投顾份额
+- [[concepts/尾随佣金]] — 尾随佣金
+- [[concepts/清洁份额]] — 清洁份额
+- [[concepts/非捆绑式-半捆绑式-捆绑式份额]] — 非捆绑式-半捆绑式-捆绑式份额
+- [[sources/5-notes--30-20260614t214108-qa-明星基金回本难题qa--w9f1fc]] — QA — 明星基金回本难题
+- [[sources/5-notes--34-20260614t214100-qa-9月基金月报权益涨跌互现qa--8pchky]] — 9月基金月报——权益涨跌互现，债市承压
+- [[concepts/行业配置贡献度]] — 行业配置贡献度
+- [[sources/5-notes--37-20260614t214014-qa-11月香港互认基金资金流向分化qa--1vct2pm]] — 11月香港互认基金：资金流向分化，求稳→逐险切换
+- [[concepts/全球灵活配置策略]] — 全球灵活配置策略
+- [[concepts/新基金冷启动周期]] — 新基金冷启动周期
+- [[concepts/离岸与在岸资金分流]] — 离岸与在岸资金分流
+- [[entities/摩根亚洲股息基金]] — 摩根亚洲股息基金
+- [[sources/5-notes--32-20260614t214008-qa-制造业硬科技基金选择qa--1r6adab]] — QA — 制造业硬科技热潮下基金怎么选
+- [[concepts/超额收益来源的可持续性判断]] — 超额收益来源的可持续性判断
+- [[concepts/赛道型基金的三重驱动分析框架]] — 赛道型基金的三重驱动分析框架
+- [[sources/5-notes--34-20260614t214000-qa-香港互认基金风险偏好抬升qa--151xggg]] — QA — 香港互认基金风险偏好抬升
+- [[concepts/风险偏好抬升]] — 风险偏好抬升
+- [[concepts/全球化资产配置-香港互认渠道]] — 全球化资产配置（香港互认渠道）
+- [[sources/5-notes--32-20260614t213908-qa-低利率时代的债券布局qa--9wlhgv]] — QA — 低利率时代的债券布局
+- [[entities/东方红汇利债券基金]] — 东方红汇利债券基金
+- [[sources/5-notes--30-20260614t213900-qa-波动加剧固收策略qa--19u337]] — 波动加剧时固收+策略如何稳住收益
+- [[sources/5-notes--33-20260614t213856-qa-富国中小盘港股掘金逻辑qa--58m3lv]] — QA — 富国中小盘港股掘金逻辑
+- [[entities/张峰]] — 张峰
+- [[entities/富国中国中小盘混合]] — 富国中国中小盘混合（QDII）
+- [[concepts/合理估值成长策略]] — 合理估值成长策略
+- [[concepts/peg市盈率相对盈利增长比率]] — PEG（市盈率相对盈利增长比率）
+- [[concepts/费率复利效应]] — 费率复利效应
+- [[concepts/中小盘风格周期性]] — 中小盘风格周期性
+- [[sources/5-notes--33-20260614t213844-qa-十五五开局长期投资机会qa--1vc4dc]] — 5-notes--33-20260614t213844-qa-十五五开局长期投资机会qa--1vc4dc
+- [[entities/王晓宁]] — 王晓宁
+- [[entities/国富策略回报混合基金]] — 国富策略回报混合基金
+- [[concepts/三要素选股框架]] — 三要素选股框架
+- [[concepts/能力圈边界与策略调整]] — 能力圈边界与策略调整
+- [[sources/5-notes--34-20260614t213808-qa-六月股债双收下的基金选择qa--cstlca]] — QA — 六月股债双收下的基金选择
+- [[entities/陆家嘴论坛]] — 陆家嘴论坛
+- [[concepts/股债双收]] — 股债双收
+- [[concepts/可转债双重属性]] — 可转债双重属性
+- [[sources/5-notes--37-20260614t213742-qa-12月股暖债冷政策驱动a股收官qa--19wenzq]] — 12月股暖债冷政策驱动A股收官 QA
+- [[sources/5-notes--33-20260614t213728-qa-4000点牛市基金回本qa--e75mfe]] — QA — 4000点牛市基金回本难题
+- [[concepts/回撤与回本的非对称性]] — 回撤与回本的非对称性
+- [[concepts/高点买入风险]] — 高点买入风险
+- [[concepts/基金公司利益冲突]] — 基金公司利益冲突
+- [[sources/5-notes--32-20260614t213708-qa-摩根国际债券基金分析qa--1ifova8]] — QA — 摩根国际债券基金分析
+- [[entities/摩根国际债券基金]] — 摩根国际债券基金
+- [[entities/Arjun-Vij]] — Arjun Vij
+- [[entities/彭逸升]] — 彭逸升
+- [[concepts/收益来源结构分解]] — 收益来源结构分解
+- [[concepts/久期操作]] — 久期操作
+- [[sources/5-notes--37-20260614t213636-qa-基金翻倍业绩不可持续的底层原因qa--1uw3jp7]] — QA — 基金翻倍业绩不可持续的底层原因
+- [[concepts/基金业绩的短期随机性]] — 基金业绩的短期随机性
+- [[concepts/行业押注vs行业轮动]] — 行业押注 vs 行业轮动
+- [[sources/5-notes--33-20260614t213612-qa-基金经理稳定性超额收益qa--mi7ih3]] — 基金经理任职稳定性决定超额收益
+- [[entities/周蔚文]] — 周蔚文
+- [[entities/中欧新趋势混合]] — 中欧新趋势混合
+- [[concepts/基金经理任职稳定性]] — 基金经理任职稳定性
+- [[sources/5-notes--33-20260614t213608-qa-基金分类事后调整的逻辑qa--1kkggkm]] — QA — 基金分类事后调整的逻辑
+- [[concepts/事前分类与事后分类]] — 事前分类与事后分类
+- [[sources/5-notes--52-20260614t213530-qa-china-fixed-income-plus-stableqa--1voh5up]] — 固收+的典范——易方达稳健收益13年年化7.99%
+- [[entities/易方达稳健收益]] — 易方达稳健收益债券
+- [[entities/胡剑]] — 胡剑
+- [[concepts/三层仓位框架]] — 三层仓位框架
+- [[concepts/价值风格在固收+中的边界]] — 价值风格在固收+中的边界
+- [[concepts/可转债择时-估值分位驱动]] — 可转债择时：估值分位驱动仓位调整
+- [[sources/5-notes--60-20260614t213515-qa-china-convertible-bond-fund-comparisonqa--ctolli]] — 可转债基金对决：东方红聚利 vs 兴全可转债
+- [[entities/虞淼]] — 虞淼
+- [[entities/东方红聚利]] — 东方红聚利
+- [[concepts/偏债型vs偏股型转债]] — 偏债型 vs 偏股型转债
+- [[concepts/可转债仓位灵活调整]] — 可转债仓位灵活调整
+- [[sources/5-notes--32-20260614t213508-qa-qdii出海组合构建qa--1erc2fv]] — QA — QDII出海：额度松绑后怎么构建组合
+- [[concepts/qdii-出海组合构建框架]] — QDII出海组合构建框架
+- [[concepts/跨境理财通]] — 跨境理财通
+- [[entities/外汇管理局-safe]] — 外汇管理局（SAFE）
+- [[entities/朱鹤新]] — 朱鹤新
+- [[sources/5-notes--48-20260614t213500-qa-china-fund-market-jan-2026qa--vfg34a]] — QA — 2026年1月基金市场：AI算力领涨，中小盘成长风格碾压大盘价值
+- [[concepts/融资保证金比例]] — 融资保证金比例
+- [[concepts/基金费率新规影响]] — 基金费率新规影响
+- [[concepts/地缘政治溢价]] — 地缘政治溢价
+- [[concepts/信用利差分层]] — 信用利差分层
+- [[sources/5-notes--45-20260614t213445-qa-hk-mutual-fund-jan-2026qa--aahyu]] — QA — 1月香港互认基金：瑞士百达单月吸金47.53亿，摩根债券流出19.52亿
+- [[entities/东亚联丰-fubon]] — 东亚联丰（Fubon）
+- [[concepts/头部稳固-腰部竞争激烈]] — 头部稳固、腰部竞争激烈
+- [[sources/5-notes--37-20260614t213430-qa-政策放宽引爆香港互认基金申购潮qa--1dsg2dn]] — QA — 政策放宽引爆香港互认基金申购潮
+- [[concepts/额度耗尽反噬]] — 额度耗尽反噬
+- [[entities/摩根互认基金业务]] — 摩根互认基金业务
+- [[sources/5-notes--44-20260614t213430-qa-china-active-etf-trendqa--1w0lyaf]] — ETF不只是被动指数：主动ETF在海外崛起的逻辑与陷阱
+- [[concepts/主动ETF的结构困境]] — 主动ETF的结构困境
+- [[concepts/持仓透明度反噬]] — 持仓透明度反噬
+- [[entities/ARK-Innovation]] — ARK Innovation（ARKK）
+- [[entities/JPMorgan-Equity-Premium-Income-ETF-JEPI]] — JPMorgan Equity Premium Income ETF（JEPI）
+- [[concepts/定制化篮子申赎]] — 定制化篮子申赎
 - [[concepts/风格漂移]] — 风格漂移
-- [[sources/5-notes--33-20260614t122820-伴读-历史业绩预测reading--rx2d44]] — 伴读：历史业绩是投资的公敌？
-- [[entities/理查德-塞勒-richard-thaler]] — 理查德·塞勒（Richard Thaler）
-- [[entities/约翰-德邦特-victor-de-bondt]] — 约翰·德邦特（Victor De Bondt）
-- [[concepts/预测光谱]] — 预测光谱
-- [[concepts/随机漫步]] — 随机漫步
-- [[concepts/输者赢者效应]] — 输者赢者效应
-- [[concepts/动量投资]] — 动量投资
-- [[sources/5-notes--32-20260614t122819-伴读-金钱心理学reading--z4oj1d]] — 伴读：对话《金钱心理学》作者——不要让不切实际的预期成为你理财路上的绊脚石
-- [[entities/摩根-豪泽尔-morgan-housel]] — 摩根·豪泽尔（Morgan Housel）
-- [[concepts/理财没有统一答案]] — 理财没有统一答案
-- [[concepts/足够-财务满足的临界点]] — 足够-财务满足的临界点
-- [[concepts/享乐适应]] — 享乐适应
-- [[concepts/控制期望]] — 控制期望
-- [[synthesis/摩根-豪泽尔-金钱心理学对话补充]] — 摩根·豪泽尔对话补充
-- [[sources/5-notes--32-20260614t122816-伴读-晨星排行榜reading--17ftequ]] — 伴读：年末基金"大考"即将放榜！一招教你看懂晨星基金排行榜
-- [[concepts/冠军魔咒]] — 冠军魔咒
-- [[entities/沪深300指数]] — 沪深300指数
-- [[entities/中证全债指数]] — 中证全债指数
-- [[sources/5-notes--34-20260614t122815-伴读-亏钱基金怎么办reading--1blz2ch]] — 伴读：硬抗还是割肉？亏了很多钱的基金到底怎么办
-- [[concepts/相对收益评价]] — 相对收益评价
-- [[concepts/买入逻辑检验]] — 买入逻辑检验
-- [[concepts/投资逻辑的可证伪性]] — 投资逻辑的可证伪性
-- [[sources/5-notes--31-20260614t122814-伴读-投资风格reading--1p6ecna]] — 伴读：选基避坑第一步——了解投资风格
-- [[entities/菲利普-费雪]] — 菲利普·费雪（Philip Fisher）
-- [[concepts/价值投资]] — 价值投资
-- [[concepts/成长投资]] — 成长投资
-- [[concepts/平衡投资]] — 平衡投资
-- [[sources/5-notes--31-20260614t122813-伴读-逆向投资reading--yfi3ky]] — 伴读：越跌越买？赚钱的关键不在于你有多叛逆
-- [[entities/约翰-邓普顿-sir-john-templeton]] — 约翰·邓普顿爵士（Sir John Templeton）
-- [[concepts/虚假的逆向]] — 虚假的逆向
-- [[concepts/均值回归]] — 均值回归
-- [[concepts/安全边际]] — 安全边际
-- [[concepts/烟蒂投资法]] — 烟蒂投资法
-- [[sources/5-notes--33-20260614t122812-伴读-基金经理跟投reading--vlpeaf]] — 5-notes--33-20260614t122812-伴读-基金经理跟投reading--vlpeaf
-- [[concepts/共痛效应]] — 共痛效应
-- [[queries/自持超额来自绑定效应还是信心筛选]] — 自持超额来自绑定效应还是信心筛选
-- [[sources/5-notes--33-20260614t122811-伴读-红利基金选择reading--1j70com]] — 5-notes--33-20260614t122811-伴读-红利基金选择reading--1j70com
-- [[concepts/红利全收益指数与价格指数的口径差异]] — 红利全收益指数与价格指数的口径差异
-- [[concepts/红利基金费率滞后现象]] — 红利基金费率滞后现象
-- [[concepts/高风险不等于高收益]] — 高风险不等于高收益
-- [[sources/5-notes--28-20260614t121449-qa-泡沫宏大叙事qa--1iuxebj]] — QA — 泡沫宏大叙事
-- [[concepts/格兰特姆微盘股教训]] — 格兰特姆微盘股教训
-- [[sources/5-notes--29-20260614t121423-qa-指数涨个股不涨qa--1ujmvlq]] — 指数涨个股不涨——指数靠少数赢家，个股靠运气
-- [[concepts/赢家补贴输家]] — 赢家补贴输家
-- [[sources/5-notes--30-20260614t121410-qa-风险的定义和衡量qa--rju2vh]] — QA — 风险的定义和衡量
-- [[concepts/索提诺比率]] — 索提诺比率（Sortino Ratio）
-- [[concepts/最大回撤]] — 最大回撤
-- [[concepts/下行风险]] — 下行风险
-- [[concepts/个性化风险]] — 个性化风险（Personalized Risk）
-- [[sources/5-notes--30-20260614t121410-qa-红利基金选择方法qa--1yzgjyf]] — QA — 红利基金选择方法
-- [[concepts/红利基金]] — 红利基金
-- [[concepts/Smart-Beta红利]] — Smart Beta 红利
+- [[concepts/主动-被动-结构性困境]] — 主动-被动-结构性困境
+- [[sources/5-notes--52-20260614t213415-qa-china-fund-wealth-creation-10yqa--1cbi31s]] — 十年财富创造6.27万亿：宽基指数是最大的功臣
+- [[entities/易方达基金]] — 易方达基金
+- [[entities/前海开源基金]] — 前海开源基金
+- [[sources/5-notes--29-20260614t213408-qa-固收加攻守之道qa--a2fss7]] — 固收+攻守之道：华泰保兴尊合 vs 光大保德信增利
+- [[concepts/转债选券偏好：低价高等级vs高弹性]] — 转债选券偏好：低价高等级 vs 高弹性
+- [[sources/5-notes--48-20260614t213400-qa-china-fund-market-feb-2026qa--1b9972d]] — QA — 2026年2月基金市场：政策利好推动股债双收，中小盘风格占优
+- [[concepts/收益率曲线陡峭化]] — 收益率曲线陡峭化
+- [[sources/5-notes--45-20260614t213345-qa-china-growth-stock-fundqa--1wjz3p0]] — QA — 成长股投资的残酷真相：选股能力比行业配置更重要
+- [[entities/詹成]] — 詹成
+- [[concepts/行业轮动判断vs个股选股能力]] — 行业轮动判断 vs 个股选股能力
+- [[sources/5-notes--45-20260614t213330-qa-hk-mutual-fund-feb-2026qa--uo327p]] — QA — 2月香港互认基金：高股息策略吸金，债基受额度限制
+- [[concepts/股债冰火两重天]] — 股债冰火两重天
+- [[concepts/规模正循环]] — 规模正循环
+- [[concepts/结构重于总量]] — 结构重于总量
+- [[sources/5-notes--34-20260614t213323-qa-爆款基金规模激增业绩反转qa--lm95o8]] — QA — 爆款基金的规模激增与业绩反转
+- [[concepts/规模有机增长率]] — 规模有机增长率
+- [[concepts/规模激增与业绩反转]] — 规模激增与业绩反转
+- [[concepts/策略容量瓶颈]] — 策略容量瓶颈
+- [[sources/5-notes--50-20260614t213315-qa-china-fund-market-march-2026qa--12lmc58]] — 晨星2026年3月基金月报：地缘冲击下的股债分化与风格轮动
+- [[sources/5-notes--33-20260614t213308-qa-股债跷跷板下的基金选择qa--1pvujpt]] — QA — 股债跷跷板下的基金选择
+- [[concepts/固收加的权益暴露度权衡]] — 固收+的权益暴露度权衡
+- [[concepts/成长-vs-价值风格的驱动因素]] — 成长 vs 价值风格的驱动因素
