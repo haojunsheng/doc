@@ -1,0 +1,6 @@
+## 2026-08-21 ingest | 2024年基金五大趋势QA
+
+- 新增源页面 [[sources/morningstar-2024-fund-trends]]
+- 新增实体页面 [[entities/morningstar]]
+- 新增概念页面 [[concepts/基金清盘常态化]]、[[concepts/主动管理失效周期]]、[[concepts/ETF]]
+- 更新/扩展概念页面：[[concepts/被动投资崛起]]（补充2024年5万亿/ETF 1.1万亿数据）、[[concepts/短端中长端收益率分化]]（补充无风险利率下行全景）、[[concepts/无风险利率下行]]（新建）、[[concepts/能力-vs-运气]]（引入主动战胜率暴跌证据）

@@ -1,0 +1,4 @@
+# 请执行以下编辑：将 frontmatter 中 sources 字段从：
+sources: ["notes/20260614T091504--概念解剖-投资人格（MBTI式投资风格）__concept.md", "notes/20260614T115954--qa-投资人格测试__qa.md"]
+# 更新为：
+sources: ["notes/20260614T091504--概念解剖-投资人格（MBTI式投资风格）__concept.md", "notes/20260614T115954--qa-投资人格测试__qa.md", "notes/20260626T122744--伴读-投资MBTI人格__reading.md"]

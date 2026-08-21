@@ -4051,6 +4051,1454 @@
         "wiki/log.md",
         "wiki/index.md"
       ]
+    },
+    "notes/20260614T215506--qa-工银精选平衡混合股债配置策略__qa.md": {
+      "hash": "bf56a202693ce51b47654b00cec207cac62830f99bdb2b6e3ac5b3cb99d27c98",
+      "timestamp": 1787220287591,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260614t215506-qa-工银精选平衡混合股债配置策略qa--j9ymzx.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215507--qa-持有期基金到期亏损不是骗局__qa.md": {
+      "hash": "f64dc4b61111d28ccebf979488d604f0d94fce26d3a6547df34222f2e244c98b",
+      "timestamp": 1787221557240,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260614t215507-qa-持有期基金到期亏损不是骗局qa--1y23zme.md",
+        "wiki/concepts/持有期基金.md",
+        "wiki/concepts/到期亏损现象.md",
+        "wiki/concepts/持有期与流动性权衡.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T215508--qa-伯克希尔哈撒韦零费率基金分析__qa.md": {
+      "hash": "7b508b841c93fcf8688b342db612c97c815518776213eca74ad098d28c5efebd",
+      "timestamp": 1787222194029,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260614t215508-qa-伯克希尔哈撒韦零费率基金分析qa--1ikc6we.md",
+        "wiki/entities/伯克希尔-哈撒韦.md",
+        "wiki/concepts/保险浮存金.md",
+        "wiki/concepts/零费率基金.md",
+        "wiki/concepts/集中投资.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T215509--qa-易方达裕丰回报债券固收加策略__qa.md": {
+      "hash": "c8d963230895584e1dfe8912075b725a3eab1bce5fa475a30deddbfbd393e13b",
+      "timestamp": 1787223200352,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260614t215509-qa-易方达裕丰回报债券固收加策略qa--nm19f.md",
+        "wiki/entities/易方达-裕丰回报债券.md",
+        "wiki/concepts/信用下沉.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T215510--qa-7月基金月报股市下挫债市分化__qa.md": {
+      "hash": "dddce662590882aabb21d3e10f5775c2cbb0f4e2f594c0df3aa525e7c9834153",
+      "timestamp": 1787224480216,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260614t215510-qa-7月基金月报股市下挫债市分化qa--gwxdti.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215511--qa-广发内需增长混合消费投资逻辑__qa.md": {
+      "hash": "65f3aa027d124c71b12f8c81adc5144f9fa5723c67399655a6823b05b7f14097",
+      "timestamp": 1787225126206,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260614t215511-qa-广发内需增长混合消费投资逻辑qa--m3ia8g.md",
+        "wiki/entities/广发内需增长混合.md",
+        "wiki/concepts/内需增长.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215512--qa-鹏华丰享债券纯债基金稳健配置__qa.md": {
+      "hash": "e42f924066c35b45057e3fabab51583ab68f6ec975edff26acd3da9dbabdeeaa",
+      "timestamp": 1787225934389,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260614t215512-qa-鹏华丰享债券纯债基金稳健配置qa--gwvy5v.md",
+        "wiki/entities/鹏华丰享债券.md",
+        "wiki/concepts/纯债基金.md",
+        "wiki/concepts/债券稳定器.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215513--qa-6月基金月报股市承压债市稳健__qa.md": {
+      "hash": "3249b9e71e58b9cbff322bcdfa25b5b387d4cd24158fdba91a9baac70a6b1d22",
+      "timestamp": 1787226520935,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260614t215513-qa-6月基金月报股市承压债市稳健qa--ivt9es.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215514--qa-processing-summary.org": {
+      "hash": "7adf7664a9b62ab076d2af106153102d93f8158466e51f666ebf72bab00a537b",
+      "timestamp": 1787227082207,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--38-20260614t215514-qa-processing-summary--17c36z5.md"
+      ]
+    },
+    "notes/20260614T215647--qa-2023基金业五大趋势__qa.md": {
+      "hash": "28682019e3424fc2516ee1ed798f5d0da8eb3a77ef0c161fb2941ca7a8623db8",
+      "timestamp": 1787227971262,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t215647-qa-2023基金业五大趋势qa--r897jw.md",
+        "wiki/concepts/被动投资崛起.md",
+        "wiki/concepts/QDII两极分化.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215647--qa-爆款基金盛极必衰__qa.md": {
+      "hash": "9f703b83a5da603cc981f16ad197be90773605bbac58e0a8006013e8f258d0ab",
+      "timestamp": 1787229581934,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260614t215647-qa-爆款基金盛极必衰qa--t6oim3.md",
+        "wiki/concepts/爆款基金发行逆周期信号.md",
+        "wiki/concepts/高位建仓风险.md",
+        "wiki/concepts/认购费与申购费差异.md",
+        "wiki/concepts/尾随佣金驱动的销售导向.md",
+        "wiki/concepts/基金发行规模与市场估值负相关.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215731--qa-基金费率结构与降费__qa.md": {
+      "hash": "2f00ee264826f9d1bc0deb5ca07d9953a07d252945102c2b061ad5c017706294",
+      "timestamp": 1787232552046,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260614t215731-qa-基金费率结构与降费qa--1qob5lr.md",
+        "wiki/concepts/软美元机制.md",
+        "wiki/concepts/基金费率三环节.md",
+        "wiki/concepts/显性费率与隐性费率.md",
+        "wiki/concepts/费率复利效应.md",
+        "wiki/concepts/尾随佣金驱动的销售导向.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T215804--qa-东方红新动力选股策略__qa.md": {
+      "hash": "5e24a95cca0518f5a03ed52654028e47ab99d72dabc993151408e6625693a715",
+      "timestamp": 1787234972837,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t215804-qa-东方红新动力选股策略qa--2rkd2t.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215815--qa-基金经理经验与业绩关联__qa.md": {
+      "hash": "d0cd988e250d546139c88136a9fe3d3f1e6af062c5e3a96d40516dd4fa36edfd",
+      "timestamp": 1787236298807,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t215815-qa-基金经理经验与业绩关联qa--1qtvlpr.md",
+        "wiki/entities/王宗合.md",
+        "wiki/entities/鹏华匠心精选.md",
+        "wiki/concepts/自我服务偏见（基金经理归因偏差）.md",
+        "wiki/concepts/敬畏市场.md",
+        "wiki/concepts/基金经理任职稳定性.md",
+        "wiki/concepts/基金业绩的短期随机性.md",
+        "wiki/concepts/业绩归因.md",
+        "wiki/concepts/最大回撤.md",
+        "wiki/entities/王宗合.md",
+        "wiki/entities/鹏华匠心精选.md",
+        "wiki/concepts/自我服务偏见（基金经理归因偏差）.md",
+        "wiki/concepts/敬畏市场.md",
+        "wiki/concepts/基金经理任职稳定性.md",
+        "wiki/concepts/基金业绩的短期随机性.md",
+        "wiki/concepts/业绩归因.md",
+        "wiki/concepts/最大回撤.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T215900--qa-大成高鑫刘旭长期价值投资__qa.md": {
+      "hash": "4ddef0b9e0e59796dad4a3f6d8f8705c9c3b295884140c4ebcefdbbb4e2b9569",
+      "timestamp": 1787237376853,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260614t215900-qa-大成高鑫刘旭长期价值投资qa--au3380.md",
+        "wiki/entities/刘旭.md",
+        "wiki/entities/大成高鑫股票.md",
+        "wiki/concepts/合理价格买好公司.md",
+        "wiki/concepts/风格中性选股.md",
+        "wiki/concepts/集中持股.md",
+        "wiki/sources/5-notes--34-20260614t215900-qa-大成高鑫刘旭长期价值投资qa--au3380.md",
+        "wiki/entities/刘旭.md",
+        "wiki/entities/大成高鑫股票.md",
+        "wiki/concepts/合理价格买好公司.md",
+        "wiki/concepts/风格中性选股.md",
+        "wiki/concepts/集中持股.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215902--qa-基金限购的逻辑与信号__qa.md": {
+      "hash": "63df725fe62753f527d4d3bf2ddb4e914733ec68adc3d2a36e877d88382d474c",
+      "timestamp": 1787238306837,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t215902-qa-基金限购的逻辑与信号qa--s25iud.md",
+        "wiki/concepts/基金限购的逻辑与信号.md",
+        "wiki/concepts/双十原则与规模约束.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T215951--qa-养老目标基金选择框架__qa.md": {
+      "hash": "7f796a6dae1ed7a0df815d2ddc5b9441b586babad5180515575fab32ad398e28",
+      "timestamp": 1787238909210,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t215951-qa-养老目标基金选择框架qa--vuu5v1.md",
+        "wiki/entities/桑磊.md",
+        "wiki/entities/蒋华安.md",
+        "wiki/concepts/目标日期基金.md",
+        "wiki/concepts/目标风险基金.md",
+        "wiki/concepts/养老目标基金.md",
+        "wiki/log.md",
+        "wiki/concepts/费率复利效应.md",
+        "wiki/concepts/基金费率三环节.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220037--qa-自我服务偏见与基金经理行为__qa.md": {
+      "hash": "bb6b8f7fbf18a04c892007395b88006cf63a6ec230369a091a330ce0de85bc25",
+      "timestamp": 1787239783236,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260614t220037-qa-自我服务偏见与基金经理行为qa--13anb5r.md",
+        "wiki/concepts/自我服务偏见（基金经理归因偏差）.md",
+        "wiki/concepts/敬畏市场.md",
+        "wiki/concepts/业绩归因.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220122--qa-纯债基金选择与风险收益特征__qa.md": {
+      "hash": "c3fb156ccd1de72f90e044083fe80eb743c87a63ded92efa2fc086aca4b57426",
+      "timestamp": 1787242765013,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260614t220122-qa-纯债基金选择与风险收益特征qa--m8c666.md",
+        "wiki/concepts/利率债波段操作.md",
+        "wiki/entities/工银纯债债券.md",
+        "wiki/entities/万家鑫璟纯债债券.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220202--qa-国家队入市信号与底部判断__qa.md": {
+      "hash": "72326d6bbb8e39f9fa22a222c97ad1af9bf838cb57236705d9433d459d6238be",
+      "timestamp": 1787243070785,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--34-20260614t220202-qa-国家队入市信号与底部判断qa--p7eqjv.md"
+      ]
+    },
+    "notes/20260614T220231--qa-12月基金月报大盘价值占优__qa.md": {
+      "hash": "ce7b4a1fc45ba0e429f26e96c40bfe205565dcac9a363e9dd523860b9449f4e2",
+      "timestamp": 1787244462155,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260614t220231-qa-12月基金月报大盘价值占优qa--1jo6ood.md",
+        "wiki/concepts/政策空窗期与风格轮动.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220241--qa-2023年10月市场回顾与基金表现__qa.md": {
+      "hash": "7856388561308250773c760f53d21b6ebe232cbf84bbb8fc6a9a88855e73278b",
+      "timestamp": 1787244628140,
+      "filesWritten": [
+        "wiki/sources/5-notes--39-20260614t220241-qa-2023年10月市场回顾与基金表现qa--1xn2v0m.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220323--qa-2024年基金五大趋势__qa.md": {
+      "hash": "5b1e4f49eba9abbd76a84f9f5ab92637cb2fe4cb22649790665f13417869748f",
+      "timestamp": 1787245593422,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220323-qa-2024年基金五大趋势qa--178rcba.md",
+        "wiki/entities/晨星morningstar.md",
+        "wiki/concepts/基金清盘常态化.md",
+        "wiki/concepts/主动管理失效周期.md",
+        "wiki/concepts/被动投资崛起.md",
+        "wiki/concepts/etf交易所交易基金.md",
+        "wiki/concepts/短端中长端收益率分化.md",
+        "wiki/concepts/无风险利率下行.md",
+        "wiki/concepts/能力-vs-运气.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220647--qa-富国产业债信用债投资__qa.md": {
+      "hash": "0f707f7b334393b3a5df91755e3aad1346df48cb125cd68e5970daccd5834e67",
+      "timestamp": 1787245878956,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220647-qa-富国产业债信用债投资qa--bezezf.md",
+        "wiki/entities/武磊.md",
+        "wiki/entities/富国产业债债券.md",
+        "wiki/concepts/产业债基金.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220738--qa-11月基金月报中小盘成长__qa.md": {
+      "hash": "d8b975cd1b52e6a0a13e68af2c838e2b05e28525e20e3d422d7cca0bcc74477b",
+      "timestamp": 1787246001164,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260614t220738-qa-11月基金月报中小盘成长qa--2ztx9p.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220821--qa-景顺长城vs汇添富成长基金__qa.md": {
+      "hash": "71083deed3aa77ac56b567b62ee470c7c9012a00c17dc63008eab58b61b81e85",
+      "timestamp": 1787246424417,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260614t220821-qa-景顺长城vs汇添富成长基金qa--1ud8kvw.md",
+        "wiki/entities/周寒颖.md",
+        "wiki/entities/蔡志文.md",
+        "wiki/entities/景顺长城成长之星.md",
+        "wiki/entities/汇添富外延增长主题股票.md",
+        "wiki/comparisons/景顺长城成长之星vs汇添富外延增长.md",
+        "wiki/concepts/中观行业配置策略.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220913--qa-浮动费率基金利益绑定非省钱__qa.md": {
+      "hash": "f56cc8cf4b94c9c158d2bd84f7ef73142ae650c233f61d6000d328c983f4b995",
+      "timestamp": 1787246757688,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260614t220913-qa-浮动费率基金利益绑定非省钱qa--15hbef8.md",
+        "wiki/concepts/浮动费率.md",
+        "wiki/concepts/业绩提成门槛.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220914--qa-基金经理自购不是业绩保证__qa.md": {
+      "hash": "879592f2c1cfa11ba0de39af603f9691aa19137c9916550ab0c9e3869b18d449",
+      "timestamp": 1787247403086,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260614t220914-qa-基金经理自购不是业绩保证qa--1rr3nzc.md",
+        "wiki/concepts/基金经理自持.md",
+        "wiki/log.md (append)",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220915--qa-4月股债分化大盘价值占优__qa.md": {
+      "hash": "ad9a19dd4fb2b10d0974db87c5fdbfb205fea54d2ce624f08a124f8137b41bd0",
+      "timestamp": 1787248918974,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260614t220915-qa-4月股债分化大盘价值占优qa--y5oy58.md",
+        "wiki/concepts/股债分化.md",
+        "wiki/concepts/风险偏好下降.md",
+        "wiki/concepts/成长-vs-价值风格的驱动因素.md",
+        "wiki/concepts/大盘价值风格的防御性.md",
+        "wiki/concepts/利率债波段操作.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220916--qa-国投瑞银瑞利中观行业比较__qa.md": {
+      "hash": "ea22f4dfb4131c2e0846cdd1f6710b53fd383bb5d97035235586963683b5cd67",
+      "timestamp": 1787249124917,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260614t220916-qa-国投瑞银瑞利中观行业比较qa--wwoj8p.md",
+        "wiki/entities/綦缚鹏.md",
+        "wiki/entities/国投瑞银瑞利混合.md",
+        "wiki/concepts/中观行业比较.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220917--qa-频繁交易是收益隐形杀手__qa.md": {
+      "hash": "235e93f89513ff75994495f9d74ee75bd96f273263219eee76c0353ea1fc1678",
+      "timestamp": 1787249704225,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220917-qa-频繁交易是收益隐形杀手qa--vfsv5e.md",
+        "wiki/concepts/基金收益与投资者收益差距扩大机制.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220918--qa-增聘基金经理不一定是跑路信号__qa.md": {
+      "hash": "707223346ee7653c3504eb5971dbdc34eed299dc15d2ce77685f19d240e2af79",
+      "timestamp": 1787250197667,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260614t220918-qa-增聘基金经理不一定是跑路信号qa--7gu4ti.md",
+        "wiki/concepts/增聘基金经理的判断框架.md",
+        "wiki/entities/丘栋荣.md",
+        "wiki/entities/马龙.md",
+        "wiki/entities/刘万锋.md",
+        "wiki/entities/欧阳凯.md",
+        "wiki/entities/黎颖芳.md",
+        "wiki/entities/彭紫云.md",
+        "wiki/entities/建信纯债债券.md",
+        "wiki/entities/兴全合宜混合.md",
+        "wiki/entities/工银双利债券.md",
+        "wiki/entities/招商产业债券.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220919--qa-摩根太平洋证券亚太成长__qa.md": {
+      "hash": "cafc092787f0935c6135977e46f3f0810ab865cbdf5bb189e7c7e5da2d4171bd",
+      "timestamp": 1787250512325,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220919-qa-摩根太平洋证券亚太成长qa--iyq60b.md",
+        "wiki/entities/摩根太平洋证券基金.md",
+        "wiki/entities/Asia-Ogoshi.md",
+        "wiki/entities/Robert-Lloyd.md",
+        "wiki/concepts/高质量成长风格.md",
+        "wiki/concepts/风格稳定性.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220920--qa-3月股债震荡分化__qa.md": {
+      "hash": "b5295995b501c05dc61bf526e9ca13568fed118c8dcb858f2f8a00c17825fff6",
+      "timestamp": 1787251846116,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260614t220920-qa-3月股债震荡分化qa--1ed7we5.md",
+        "wiki/concepts/股债分化.md",
+        "wiki/concepts/信用债利差.md",
+        "wiki/concepts/QDII两极分化.md",
+        "wiki/concepts/股债分化.md",
+        "wiki/concepts/信用债利差.md",
+        "wiki/concepts/QDII两极分化.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220921--qa-关税战下的优质基金选择__qa.md": {
+      "hash": "8ea8382cf87250110aeffb09e02a81c26614bfaf2f7541a850f0a6d6828e84d4",
+      "timestamp": 1787253055222,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220921-qa-关税战下的优质基金选择qa--1w98s7x.md",
+        "wiki/entities/姜诚.md",
+        "wiki/entities/中泰星元价值优选.md",
+        "wiki/concepts/关税战冲击下的基金选择框架.md",
+        "wiki/concepts/成本优势优先于产品差异化.md",
+        "wiki/log.md-append",
+        "wiki/sources/5-notes--33-20260614t220921-qa-关税战下的优质基金选择qa--1w98s7x.md",
+        "wiki/entities/姜诚.md",
+        "wiki/entities/中泰星元价值优选.md",
+        "wiki/concepts/关税战冲击下的基金选择框架.md",
+        "wiki/concepts/成本优势优先于产品差异化.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220922--qa-鹏华产业债信用转债双策略__qa.md": {
+      "hash": "979ae9ada2fd22e7ee3ccb6e4444010b09bb988d13b9743176be58ae3eb08d67",
+      "timestamp": 1787253347909,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260614t220922-qa-鹏华产业债信用转债双策略qa--ejlsj5.md",
+        "wiki/entities/祝松.md",
+        "wiki/entities/鹏华产业债债券.md",
+        "wiki/concepts/固收+基金.md",
+        "wiki/concepts/可转债仓位择时.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220923--qa-汇丰亚洲高收益债券策略__qa.md": {
+      "hash": "63ddc40987beb9fa21fe24ea048d93c58b3bf3806dc600255efd4ce502e7214c",
+      "timestamp": 1787253542401,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220923-qa-汇丰亚洲高收益债券策略qa--14h7cmw.md",
+        "wiki/entities/汇丰亚洲高收益债券基金.md",
+        "wiki/concepts/高收益债.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220924--qa-南方转型增长混合策略__qa.md": {
+      "hash": "318c570bf5ca900e2b6190535355adbf3860d76012bacbdbc5c7ceeddbd88072",
+      "timestamp": 1787254103609,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220924-qa-南方转型增长混合策略qa--1827pmp.md",
+        "wiki/entities/南方转型增长混合.md",
+        "wiki/concepts/转型增长策略.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220925--qa-2月基金月报中小盘成长__qa.md": {
+      "hash": "3fdea73655b4f863729998344b447ae96846aafdfe07737c0329058096de9685",
+      "timestamp": 1787254631221,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220925-qa-2月基金月报中小盘成长qa--72375j.md",
+        "wiki/concepts/固收基金内部轮动.md",
+        "wiki/concepts/降息预期与债市定价.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220926--qa-施罗德亚洲高息股债__qa.md": {
+      "hash": "a91c0a57243be3a69009afdde1ec921837be30629545a5e91a0ba7d2accfb04f",
+      "timestamp": 1787255153605,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260614t220926-qa-施罗德亚洲高息股债qa--pevz62.md",
+        "wiki/entities/施罗德亚洲高息股债.md",
+        "wiki/entities/施罗德.md",
+        "wiki/concepts/股债混合配置.md",
+        "wiki/concepts/亚洲市场收益优势.md",
+        "wiki/concepts/高收益债券与票息收益.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220927--qa-工银瑞信信用添利__qa.md": {
+      "hash": "14af1f4c1a63d405013727bf20ff01cad97d17ac05a55caf1e37c00f0cb70b0e",
+      "timestamp": 1787255722505,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260614t220927-qa-工银瑞信信用添利qa--g3x55p.md",
+        "wiki/entities/工银瑞信信用添利.md",
+        "wiki/entities/工银瑞信.md",
+        "wiki/concepts/信用研究能力.md",
+        "wiki/log.md",
+        "wiki/concepts/信用债利差.md",
+        "wiki/concepts/产业债基金.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220928--qa-1月股债分化中小盘成长__qa.md": {
+      "hash": "cf84f73f97d53a7c06351f241354a28fca120a2eef5453812f63b5aa30463a39",
+      "timestamp": 1787256811015,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220928-qa-1月股债分化中小盘成长qa--1uf8kn8.md",
+        "wiki/concepts/股债分化.md",
+        "wiki/concepts/QDII两极分化.md",
+        "wiki/concepts/宽松预期抢跑.md",
+        "wiki/concepts/政策驱动型市场反弹.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220929--qa-低费吸金全球基民偏好__qa.md": {
+      "hash": "100850ad8842826819ed8b688b323795a37487803946c78da4850e0267b1b786",
+      "timestamp": 1787256962991,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220929-qa-低费吸金全球基民偏好qa--gk60q8.md",
+        "wiki/concepts/债券基金确定性偏好.md",
+        "wiki/concepts/全球基金市场集中度.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220930--qa-东方红新动力全市场选股__qa.md": {
+      "hash": "52e45747f8b604dc54a18b106ac01e13f30f583e45f5675f1309e10f358e0fda",
+      "timestamp": 1787257032775,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220930-qa-东方红新动力全市场选股qa--vlvkjs.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220931--qa-大成高鑫刘旭长期价值__qa.md": {
+      "hash": "d7d7bea71d374351cb303693879756d810ab26c943228a6bd84dfca2275861f5",
+      "timestamp": 1787257285505,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220931-qa-大成高鑫刘旭长期价值qa--pmehbz.md",
+        "wiki/entities/刘旭.md",
+        "wiki/entities/大成高鑫股票.md",
+        "wiki/concepts/风格中性选股.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220932--qa-摩根亚洲股息高息股策略__qa.md": {
+      "hash": "4463d2c2a0d0a0e512a6235156fac48ef9a9b33bd33e486dd39610a5804a3f7b",
+      "timestamp": 1787257572659,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220932-qa-摩根亚洲股息高息股策略qa--b9eeyd.md",
+        "wiki/entities/jeffrey-roskell.md",
+        "wiki/entities/何世宁.md",
+        "wiki/entities/Ruben-Lienhard.md",
+        "wiki/concepts/低贝塔策略.md",
+        "wiki/concepts/高股息策略的正面框架.md",
+        "wiki/concepts/股息超额纪律.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220933--qa-QDII限购替代方案__qa.md": {
+      "hash": "18b670ec3932b4b597f8778157c00c634df337de64e657ab7b0376e149a88f6c",
+      "timestamp": 1787258343255,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220933-qa-qdii限购替代方案qa--je1gl4.md",
+        "wiki/concepts/QDII额度稀缺与通道选择.md",
+        "wiki/concepts/互认基金销售比例限制.md",
+        "wiki/concepts/跨境理财通.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220934--qa-基金排名逆向投资无效__qa.md": {
+      "hash": "9c160b7bcf9c92ca293670b9def70b31b8595dcad8646d35c419e5385cdddd20",
+      "timestamp": 1787258576391,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220934-qa-基金排名逆向投资无效qa--13ltpik.md",
+        "wiki/concepts/基金逆向投资无效.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220935--qa-12月大盘价值占优__qa.md": {
+      "hash": "709313c6f0115e1eeea197d7764fad76afa661c5dc69589b3000f7cb68076e4c",
+      "timestamp": 1787259606643,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260614t220935-qa-12月大盘价值占优qa--xlyzpk.md",
+        "wiki/concepts/宽松预期抢跑.md",
+        "wiki/concepts/QDII两极分化.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220936--qa-2024基金五大趋势__qa.md": {
+      "hash": "e5509e83ae86d2224034ba0667a7229b20f7dd9911ce0deb42999da2df10d8a2",
+      "timestamp": 1787259965403,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220936-qa-2024基金五大趋势qa--xgd5b8.md",
+        "wiki/entities/安硕.md",
+        "wiki/entities/先锋领航.md",
+        "wiki/entities/美洲基金.md",
+        "wiki/entities/普信.md",
+        "wiki/entities/富兰克林邓普顿.md",
+        "wiki/concepts/低费率产品偏好.md",
+        "wiki/concepts/银行渠道主动偏好.md",
+        "wiki/concepts/2024年基金降费趋势.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220937--qa-汇丰亚洲债券保守策略__qa.md": {
+      "hash": "b75b382e64b5e6e9c0bed4a26aeccc76612c3b1603626bd3cb8ea53231a34e11",
+      "timestamp": 1787260397812,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220937-qa-汇丰亚洲债券保守策略qa--1sannju.md",
+        "wiki/entities/汇丰亚洲债券基金.md",
+        "wiki/concepts/投资级债券.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220938--qa-适度宽松货币政策债市__qa.md": {
+      "hash": "05b0c5a2cbd3001789fb859199b060886a69f0cd0aecdb39958bb6434d070612",
+      "timestamp": 1787260450583,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220938-qa-适度宽松货币政策债市qa--13midse.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220939--qa-广发优企vs广发睿毅选股__qa.md": {
+      "hash": "a6c7128609ed4da543aa890be309ee8704de0e576c6c51b6b68dd41393701e5e",
+      "timestamp": 1787260552296,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260614t220939-qa-广发优企vs广发睿毅选股qa--1yuqlb1.md",
+        "wiki/entities/广发优企精选灵活配置混合.md",
+        "wiki/entities/广发睿毅领先混合.md",
+        "wiki/entities/广发基金.md",
+        "wiki/comparisons/广发优企精选vs广发睿毅领先.md",
+        "wiki/concepts/行业轮动策略.md",
+        "wiki/concepts/逆向投资.md",
+        "wiki/concepts/灵活配置型基金.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220940--qa-富国产业债信用策略__qa.md": {
+      "hash": "b92a9839cd23351fd0086c8f053e78e5fbfd115b486f64d341df6c4f52111b2d",
+      "timestamp": 1787260835196,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260614t220940-qa-富国产业债信用策略qa--8zv2sr.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220941--qa-11月股债双收__qa.md": {
+      "hash": "d2af6811cf1cb8322e992ced11277e16cddea38f532ec860832fa20b89305059",
+      "timestamp": 1787261234111,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260614t220941-qa-11月股债双收qa--bb0mw7.md",
+        "wiki/concepts/股债双收.md",
+        "wiki/concepts/风险偏好抬升.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220942--qa-景顺长城vs汇添富成长__qa.md": {
+      "hash": "ada9107db62fc022f5d11dca89ca35f94902c9968c3df43bd9cfbbc52898469f",
+      "timestamp": 1787261556945,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220942-qa-景顺长城vs汇添富成长qa--17464qj.md",
+        "wiki/concepts/内生增长vs外延增长.md",
+        "wiki/concepts/深度成长投资.md",
+        "wiki/concepts/外延增长投资.md",
+        "wiki/concepts/主题投资.md",
+        "wiki/concepts/增长方式互补配置.md",
+        "wiki/concepts/行业重叠风险.md",
+        "wiki/comparisons/景顺长城成长之星vs汇添富外延增长.md",
+        "wiki/entities/景顺长城成长之星.md",
+        "wiki/entities/汇添富外延增长主题股票.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220943--qa-货币基金收益率下降__qa.md": {
+      "hash": "c249a75c3723c1b8d5b5deebd323825ff5c5d3efbf39239453623473f749e45a",
+      "timestamp": 1787262643896,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260614t220943-qa-货币基金收益率下降qa--1hebjtu.md",
+        "wiki/concepts/货币基金收益率下行.md",
+        "wiki/concepts/无风险利率下行.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220944--qa-ETF债券配置被动策略__qa.md": {
+      "hash": "bf11b0ba3ca46dfb07a14113becb360d58ee7b1ea98d37f798774366bab234e3",
+      "timestamp": 1787262898489,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--33-20260614t220944-qa-etf债券配置被动策略qa--1wh5kkl.md"
+      ]
+    },
+    "notes/20260614T220945--qa-ETF费率地板价后价值__qa.md": {
+      "hash": "164bcd7237d50bfd2337cfcd36a1c1aff34fde346fb82a23a1027129fbd56df4",
+      "timestamp": 1787263234965,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220945-qa-etf费率地板价后价值qa--ci27s4.md",
+        "wiki/concepts/费率触底后的ETF竞争格局.md",
+        "wiki/concepts/ETF选基多维评估框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220946--qa-自由现金流ETF火了__qa.md": {
+      "hash": "c7be616ed551b0bbfe9ff364bd4fc9defdf75218b8f962484907194eae083ab6",
+      "timestamp": 1787263402170,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220946-qa-自由现金流etf火了qa--7ttr0o.md",
+        "wiki/concepts/自由现金流选股.md",
+        "wiki/concepts/质量因子暴露.md",
+        "wiki/concepts/因子周期.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220947--qa-ETF交易技巧新手少走弯路__qa.md": {
+      "hash": "91c3274463ce9aaf7d83931f11f8b061c9da61788eff1d06ce4ffb73f05f6954",
+      "timestamp": 1787263863338,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260614t220947-qa-etf交易技巧新手少走弯路qa--15ol8i1.md",
+        "wiki/concepts/ETF交易技巧与组合构建.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220948--qa-为什么买ETF赚不到钱__qa.md": {
+      "hash": "a35c1c0b403594e1c2f41445b1d5fac42732bcd425e12f54429796c29a277f47",
+      "timestamp": 1787264316124,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220948-qa-为什么买etf赚不到钱qa--16stf80.md",
+        "wiki/concepts/ETF的工具属性悖论.md",
+        "wiki/entities/先锋领航.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220949--qa-科创板指数怎么选__qa.md": {
+      "hash": "47c50879856935210b176080738214fce89bfdb1cff9eee3768d4e7424567955",
+      "timestamp": 1787264421448,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260614t220949-qa-科创板指数怎么选qa--1nf03od.md",
+        "wiki/concepts/科创板指数选择框架.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220950--qa-个人养老金聪明指数识别__qa.md": {
+      "hash": "e38601ed19227a9ed18bc6791208cbd59e5422ae1bb3fa312927fb8d0561b741",
+      "timestamp": 1787264708651,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260614t220950-qa-个人养老金聪明指数识别qa--1srwhqt.md",
+        "wiki/concepts/个人养老金指数选择框架.md",
+        "wiki/concepts/费率复利效应.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220951--qa-买指数基金成了接盘侠__qa.md": {
+      "hash": "2bd7b58854fa7f5eca070715216a8cbb861369ef228b6c30923b3c8707b8ec84",
+      "timestamp": 1787265049122,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220951-qa-买指数基金成了接盘侠qa--igvz94.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220952--qa-指数内卷对投资者利弊__qa.md": {
+      "hash": "1c5718e6751e64cad1dd0fa1dfb27a7e503b776c5271ca509e030bc320effda4",
+      "timestamp": 1787265235559,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220952-qa-指数内卷对投资者利弊qa--1k7et8v.md",
+        "wiki/concepts/指数内卷.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220953--qa-头部宽基ETF打折卖__qa.md": {
+      "hash": "364c0893231078a37b6a9f48e968a21725343d63a66e45faf94f3cd8e7f0efba",
+      "timestamp": 1787265445098,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220953-qa-头部宽基etf打折卖qa--wm29nu.md",
+        "wiki/concepts/etf规模效应驱动降费.md",
+        "wiki/concepts/降费的服务质量风险.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220954--qa-中证A系列指数新晋__qa.md": {
+      "hash": "625543e59034530173e0e6ba8495cb013c382931fc5d2d182ab470c1dea1d9a1",
+      "timestamp": 1787265778771,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260614t220954-qa-中证a系列指数新晋qa--7s5ooz.md",
+        "wiki/entities/中证A500指数.md",
+        "wiki/concepts/指数编制标准演变.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220955--qa-ETF前世今生__qa.md": {
+      "hash": "4e794449e88b32cab6befb26cc171ae5949918e4127d7e169adac86294e63ec1",
+      "timestamp": 1787266129851,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260614t220955-qa-etf前世今生qa--albsje.md",
+        "wiki/concepts/ETF发展历程.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220956--qa-加强版上证指数__qa.md": {
+      "hash": "21af87af087e7cccfb008db4ca0292f35c2b1d03efa29518d1e7c194116db3aa",
+      "timestamp": 1787266186550,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260614t220956-qa-加强版上证指数qa--pf718e.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220957--qa-主动不等于被动__qa.md": {
+      "hash": "450172a8b9cbd6df38ebefe7893b69b5b21c59878e54407a95e7ec1dbefd8961",
+      "timestamp": 1787266641420,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260614t220957-qa-主动不等于被动qa--vlua51.md",
+        "wiki/concepts/主动不等于被动.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220958--qa-同样买指数别人赚钱我亏钱__qa.md": {
+      "hash": "03dd68a265e0cc000c8974e9a4af77323580550ac3781afbdecc26d63ac2d222",
+      "timestamp": 1787266994728,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260614t220958-qa-同样买指数别人赚钱我亏钱qa--1qn9lwj.md",
+        "wiki/concepts/买入时机对指数基金收益的影响.md",
+        "wiki/concepts/追涨杀跌损益侵蚀.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260614T220959--qa-红利指数有多香__qa.md": {
+      "hash": "5f5149698803d98db958be1b1018385a6f2a3473cddc5c022ea736ffc830d813",
+      "timestamp": 1787267297788,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260614t220959-qa-红利指数有多香qa--gpnyr5.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260614T220960--qa-A股千亿级ETF问世__qa.md": {
+      "hash": "821c67c3285462bcab8e91972229d1612ab64d6e03419eedc4071a806a1e852f",
+      "timestamp": 1787267384213,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260614t220960-qa-a股千亿级etf问世qa--hd583v.md",
+        "wiki/concepts/千亿级ETF.md",
+        "wiki/concepts/市场冲击成本.md",
+        "wiki/concepts/ETF发展历程.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260615T122744--伴读-基金经理换手率段位__reading.md": {
+      "hash": "0c0e45fc1e9ef190b7a5ab066531875edc558c8ba6af295d45eb3d3474a80f0a",
+      "timestamp": 1787267614824,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260615t122744-伴读-基金经理换手率段位reading--lulh0q.md",
+        "wiki/entities/晨星morningstar.md",
+        "wiki/concepts/基金经理换手率评级.md",
+        "wiki/concepts/晨星星级评级.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260616T122744--伴读-熊市与经济周期关系__reading.md": {
+      "hash": "99fcb201878bb18a01c4966243ebdfd919145c738b26dff24b404f1dedfa9989",
+      "timestamp": 1787268652418,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260616t122744-伴读-熊市与经济周期关系reading--22es9r.md",
+        "wiki/concepts/熊市与信心危机.md",
+        "wiki/concepts/信心恶性循环.md",
+        "wiki/concepts/坏消息出尽效应.md",
+        "wiki/concepts/市场定价的未来与过去.md",
+        "wiki/synthesis/熊市与经济周期关系-伴读总结.md",
+        "wiki/sources/5-notes--36-20260616t122744-伴读-熊市与经济周期关系reading--22es9r.md",
+        "wiki/concepts/熊市与信心危机.md",
+        "wiki/concepts/信心恶性循环.md",
+        "wiki/concepts/坏消息出尽效应.md",
+        "wiki/concepts/市场定价的未来与过去.md",
+        "wiki/synthesis/熊市与经济周期关系-伴读总结.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260617T122744--伴读-银行理财保本之谜__reading.md": {
+      "hash": "771b71ebc6c3c12567c0740cebfb9aefa1b1e18c42f4dab417fc4bb419f4ef7b",
+      "timestamp": 1787268909902,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260617t122744-伴读-银行理财保本之谜reading--l10f5o.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260618T122744--伴读-优化投资回报四步骤__reading.md": {
+      "hash": "c3e1865a37bf49839ef373e5a36e900cc13c0b15609ac845e7db0af9f92ac2e1",
+      "timestamp": 1787269778872,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260618t122744-伴读-优化投资回报四步骤reading--11i5z.md",
+        "wiki/concepts/优化投资回报四步骤.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260619T122744--伴读-五星级基金闭眼买__reading.md": {
+      "hash": "9f865b829c1a0e7e402d0dd4389dc7940c55c59f52dab275b2318912275ad008",
+      "timestamp": 1787270099950,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260619t122744-伴读-五星级基金闭眼买reading--1rs20i8.md",
+        "wiki/concepts/晨星风险调整后收益.md",
+        "wiki/concepts/基金分类事前分类vs持仓分类.md",
+        "wiki/concepts/晨星星级强制分布.md",
+        "wiki/concepts/星级是筛选起点而非决策终点.md",
+        "wiki/concepts/风格逆风.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260620T122744--伴读-股票估值两门派__reading.md": {
+      "hash": "eadb8b322eb236b1eea3ff8eb9df93fdab1eafdb926135e357f77a669aa35492",
+      "timestamp": 1787270653969,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260620t122744-伴读-股票估值两门派reading--29eey9.md",
+        "wiki/concepts/周期投资派.md",
+        "wiki/concepts/内生价值投资派.md",
+        "wiki/concepts/景气度投资.md",
+        "wiki/comparisons/周期派vs价值派估值框架对比.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260621T122744--伴读-回本之后怎么办__reading.md": {
+      "hash": "12d58719141f478b19fe3d43009c676129aa04cdf6a1bf14a3f78180fab0f876",
+      "timestamp": 1787271671571,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260621t122744-伴读-回本之后怎么办reading--fef4xo.md",
+        "wiki/concepts/投资的锚.md",
+        "wiki/concepts/用不着急的钱做不着急的投资.md",
+        "wiki/concepts/预测市场短期走势是伪命题.md",
+        "wiki/concepts/卖出后的决策链.md",
+        "wiki/concepts/主动基金去留评估框架.md",
+        "wiki/concepts/被动基金去留评估框架.md",
+        "wiki/concepts/资产配置舒适区间.md",
+        "wiki/concepts/投资的锚.md",
+        "wiki/concepts/用不着急的钱做不着急的投资.md",
+        "wiki/concepts/预测市场短期走势是伪命题.md",
+        "wiki/concepts/卖出后的决策链.md",
+        "wiki/concepts/主动基金去留评估框架.md",
+        "wiki/concepts/被动基金去留评估框架.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260622T122744--伴读-基金九宫格风格箱__reading.md": {
+      "hash": "32c52de95ec04af20c7a5066b09eb8c94d6cad36a86921bdf51a7fdb9ab54c30",
+      "timestamp": 1787272784039,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260622t122744-伴读-基金九宫格风格箱reading--34ikd8.md",
+        "wiki/concepts/风格漂移识别.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260623T122744--伴读-年终策略会预言__reading.md": {
+      "hash": "f38d7ddd313962da1cdc7868eb68beb1d13388e5284bd2b41e2d4b2332725334",
+      "timestamp": 1787273530943,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260623t122744-伴读-年终策略会预言reading--1mwqu5e.md",
+        "wiki/entities/中金公司.md",
+        "wiki/entities/达利奥.md",
+        "wiki/entities/霍华德-马克斯.md",
+        "wiki/concepts/预测的自我毁灭性.md",
+        "wiki/concepts/年终策略会的营销本质.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260624T122744--伴读-选基导航仪详解__reading.md": {
+      "hash": "e28cd16c110b3566165d3b44ffd0037a42e7f9a83734d72b1c1e0bf154610742",
+      "timestamp": 1787273909091,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260624t122744-伴读-选基导航仪详解reading--15di77e.md",
+        "wiki/concepts/晨星投资风格箱.md",
+        "wiki/log.md",
+        "wiki/sources/5-notes--34-20260624t122744-伴读-选基导航仪详解reading--15di77e.md",
+        "wiki/concepts/晨星投资风格箱.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260625T122744--伴读-短债基金五指标__reading.md": {
+      "hash": "142df02e7f212c5cd6b1795b7c0b330b082cd93c1cf3d120b85bcba985eb11ed",
+      "timestamp": 1787274123125,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260625t122744-伴读-短债基金五指标reading--1fmekdd.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260626T122744--伴读-投资MBTI人格__reading.md": {
+      "hash": "dd205258ca03bb919faab89e4b20dc728de7dba68b9c9ea9e3bf63c7bb257655",
+      "timestamp": 1787276030237,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260626t122744-伴读-投资mbti人格reading--1bs0cg3.md",
+        "wiki/log.md-append",
+        "wiki/concepts/投资人格.md (partial update)",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260627T122744--伴读-基金回报与到手回报__reading.md": {
+      "hash": "4302b55c2c5c807b76f53521733244ea74c4b920a93b336061660d424cafe1bf",
+      "timestamp": 1787276371130,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260627t122744-伴读-基金回报与到手回报reading--12t45a9.md",
+        "wiki/concepts/风格轮动与业绩反转.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T151039--拆书-新摄影笔记__book.md": {
+      "hash": "05e5fcd1e9468f1d83e04141ddfb719141c77b60be7829f7733565220bce7a30",
+      "timestamp": 1787278726225,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260628t151039-拆书-新摄影笔记book--kszbxe.md",
+        "wiki/concepts/摄影技术可穷举性.md",
+        "wiki/concepts/取景四要素.md",
+        "wiki/concepts/焦距与题材匹配.md",
+        "wiki/concepts/器材非决定性.md",
+        "wiki/concepts/散点教学必然失败.md",
+        "wiki/concepts/影调三分类.md",
+        "wiki/concepts/测光模式二分.md",
+        "wiki/concepts/景深四要素.md",
+        "wiki/concepts/对焦三模式.md",
+        "wiki/concepts/安全快门.md",
+        "wiki/concepts/陷阱对焦.md",
+        "wiki/concepts/超焦距.md",
+        "wiki/concepts/前后帘闪光同步.md",
+        "wiki/concepts/居中法构图.md",
+        "wiki/concepts/三分法本质是不居中.md",
+        "wiki/concepts/主体朝向空旷面.md",
+        "wiki/concepts/三分法.md",
+        "wiki/concepts/有感而拍.md",
+        "wiki/concepts/取景作为排除.md",
+        "wiki/concepts/曝光作为情绪控制.md",
+        "wiki/concepts/虚实作为注意力阀门.md",
+        "wiki/concepts/构图是视线管理.md",
+        "wiki/concepts/摄影四件事框架.md",
+        "wiki/entities/宁思潇潇.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T153207--qa-SpaceX上市高估__qa.md": {
+      "hash": "c1c9ef918ecaa6e9302b65a1c77b6abe3d88b4286d304bb097c26ea85c0787ae",
+      "timestamp": 1787280063516,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t153207-qa-spacex上市高估qa--mgljl1.md",
+        "wiki/entities/spacex.md",
+        "wiki/entities/elon-musk.md",
+        "wiki/concepts/成本飞轮.md",
+        "wiki/concepts/AI叙事溢价.md",
+        "wiki/concepts/估值分歧-已验证价值vs未验证预期.md",
+        "wiki/concepts/模型替换成本.md",
+        "wiki/concepts/IPO解禁卖压.md",
+        "wiki/log.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T153258--qa-ai浪潮投资__qa.md": {
+      "hash": "729e3c8aa07419a7c824af4be17ab0eb0ad05b36e52079596a537111d7b615c1",
+      "timestamp": 1787281375441,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260628t153258-qa-ai浪潮投资qa--7irwzm.md",
+        "wiki/concepts/AI叙事溢价.md",
+        "wiki/concepts/创新三阶段模型.md",
+        "wiki/concepts/主题基金存活率模型.md",
+        "wiki/concepts/主题投资.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T153302--qa-货基破1时代__qa.md": {
+      "hash": "bfaa4b6dc47b762f7f0759b266ab454d0ecca9fcd3d7c0733586b7c50691f384",
+      "timestamp": 1787282336355,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260628t153302-qa-货基破1时代qa--es0yo8.md",
+        "wiki/entities/余额宝.md",
+        "wiki/concepts/货基功能重构.md",
+        "wiki/concepts/相对回报逻辑.md",
+        "wiki/concepts/场景绑定与货基存活.md",
+        "wiki/concepts/规模逆势攀升悖论.md",
+        "wiki/concepts/现金流底座.md",
+        "wiki/entities/余额宝.md",
+        "wiki/concepts/货基功能重构.md",
+        "wiki/concepts/相对回报逻辑.md",
+        "wiki/concepts/场景绑定与货基存活.md",
+        "wiki/concepts/规模逆势攀升悖论.md",
+        "wiki/concepts/现金流底座.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T153303--qa-主动持股比例看偏离__qa.md": {
+      "hash": "b14e773f13e398b5dd1b18b3d2933003ae599b0f2f67133877e88911469a5702",
+      "timestamp": 1787283228937,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260628t153303-qa-主动持股比例看偏离qa--1d3ovw3.md"
+      ]
+    },
+    "notes/20260628T153330--qa-内卷退潮时基金经理如何抉择__qa.md": {
+      "hash": "51eb5009076d064876de8cd402d207dbd366f6ee7b95cb3d930eb7f644231bdf",
+      "timestamp": 1787283979895,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t153330-qa-内卷退潮时基金经理如何抉择qa--h5tdkh.md",
+        "wiki/entities/程琨.md",
+        "wiki/entities/陈俊华.md",
+        "wiki/entities/蒋璆.md",
+        "wiki/concepts/反内卷政策与投资影响.md",
+        "wiki/concepts/烧钱抢份额.md",
+        "wiki/concepts/投资者自身投资框架.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153350--qa-etf资金流均衡__qa.md": {
+      "hash": "9b4d2d9b2df41ad84493917cd46e1a545e916d84136339039bb056642e146ed5",
+      "timestamp": 1787285250114,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t153350-qa-etf资金流均衡qa--roa53f.md",
+        "wiki/concepts/ETF资金流结构均衡.md",
+        "wiki/concepts/头部ETF集中度下降.md",
+        "wiki/log.md-append",
+        "wiki/sources/5-notes--30-20260628t153350-qa-etf资金流均衡qa--roa53f.md",
+        "wiki/concepts/ETF资金流结构均衡.md",
+        "wiki/concepts/ETF资金流结构均衡.md",
+        "wiki/concepts/头部ETF集中度下降.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153358--qa-五大流派穿越牛熊__qa.md": {
+      "hash": "7cf33b8b7bc4538c1e0f66e9d81cc2fda167389811b0f7b8d68218f31d82c46e",
+      "timestamp": 1787286306541,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t153358-qa-五大流派穿越牛熊qa--1wnes1e.md",
+        "wiki/entities/杨鑫鑫.md",
+        "wiki/entities/谢治宇.md",
+        "wiki/entities/王晓晨.md",
+        "wiki/entities/黄纪亮.md",
+        "wiki/synthesis/五大流派框架.md",
+        "wiki/concepts/产业趋势误判风险.md",
+        "wiki/concepts/策略一致性.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153405--qa-多资产指数选型__qa.md": {
+      "hash": "c4d9371af9b39db55ed6a7b49f5b19d88ba81009e8d010c3be60ff52a7bae332",
+      "timestamp": 1787287223966,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260628t153405-qa-多资产指数选型qa--1551imf.md",
+        "wiki/concepts/多资产指数.md",
+        "wiki/concepts/恒定比例指数.md",
+        "wiki/concepts/目标风险指数.md",
+        "wiki/concepts/风险平价.md",
+        "wiki/concepts/波动率控制指数.md",
+        "wiki/entities/中证目标风险系列.md",
+        "wiki/entities/沪深300波动率控制20%指数.md",
+        "wiki/entities/Vanguard-Balanced-Index.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153414--qa-博弈论看中美关税停战__qa.md": {
+      "hash": "ed244fbc97b4b4658a785742fef8037920b29e6e75e155cfcd1a4304fa6ccbe0",
+      "timestamp": 1787287580317,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t153414-qa-博弈论看中美关税停战qa--1s0h2jk.md",
+        "wiki/entities/屈辰晨.md",
+        "wiki/concepts/纳什均衡.md",
+        "wiki/concepts/囚徒困境.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153445--qa-女性基金经理__qa.md": {
+      "hash": "bed6ce4fd8e4686bb40af35da2bf2d84197078a7e321e5971dec894c78f904f9",
+      "timestamp": 1787288810400,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260628t153445-qa-女性基金经理qa--319n1p.md",
+        "wiki/entities/乔迁.md",
+        "wiki/entities/黄珺.md",
+        "wiki/entities/宋倩倩.md",
+        "wiki/concepts/内部培养路径.md",
+        "wiki/concepts/左侧布局.md",
+        "wiki/concepts/不追热点作为超额来源.md",
+        "wiki/concepts/三层增强固收策略.md",
+        "wiki/concepts/GARP均衡派.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153446--qa-新发基金五维度筛选法__qa.md": {
+      "hash": "f35df8b72339ba3bcadfd6dba49302c4efaa278d449dd5aa6cca8d38faaa38f3",
+      "timestamp": 1787289452723,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t153446-qa-新发基金五维度筛选法qa--1xfl39z.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153459--qa-基金基准重构实务__qa.md": {
+      "hash": "573fb852d633f0a9e98db522214f314f12655271619d44efb9c7f89e1a6958fd",
+      "timestamp": 1787289979611,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t153459-qa-基金基准重构实务qa--1ku8ehx.md",
+        "wiki/concepts/基准重构.md",
+        "wiki/concepts/基准-浮动费率挂钩机制.md",
+        "wiki/concepts/降低考核难度.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T153511--qa-楼市新房二手房分化__qa.md": {
+      "hash": "31d229e5feb1ec4e5de7aa601b3e0ac57928dbc181f8c30d92b447f37ce1b987",
+      "timestamp": 1787290226159,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t153511-qa-楼市新房二手房分化qa--15b2gb8.md",
+        "wiki/concepts/新房-二手房分化.md",
+        "wiki/concepts/供给可控性差异.md",
+        "wiki/concepts/被动房价改善.md",
+        "wiki/concepts/新房替代效应.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153512--qa-特朗普回宫100天市场回顾__qa.md": {
+      "hash": "f4a76f5b4da87fdc37271ee26f67f87efa32e571370affb6ebe7bdb4569eec26",
+      "timestamp": 1787291700533,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t153512-qa-特朗普回宫100天市场回顾qa--717ggz.md",
+        "wiki/entities/屈辰晨.md",
+        "wiki/concepts/股债分化.md",
+        "wiki/concepts/股债跷跷板脱钩.md",
+        "wiki/entities/屈辰晨.md",
+        "wiki/concepts/股债分化.md",
+        "wiki/concepts/股债跷跷板脱钩.md",
+        "wiki/concepts/贸易逆差的储蓄投资视角.md",
+        "wiki/concepts/比特币风险属性趋同.md",
+        "wiki/entities/唐纳德-特朗普.md",
+        "wiki/log.md (append)",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153514--qa-地产触底何时到__qa.md": {
+      "hash": "bbcbb79b20aef031f867ba69de21541e771fa8b539a07d970a01a577a7709044",
+      "timestamp": 1787292065066,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260628t153514-qa-地产触底何时到qa--19myg53.md",
+        "wiki/concepts/收储机制.md",
+        "wiki/concepts/期房交付风险.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153532--qa-刺激政策下的基金经理分歧__qa.md": {
+      "hash": "16f2ecb94215253ef06b49391506509eb9a5f42f3afafc4ac482abe614fb9da5",
+      "timestamp": 1787293634023,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t153532-qa-刺激政策下的基金经理分歧qa--1akwaqv.md",
+        "wiki/entities/王培.md",
+        "wiki/entities/徐荔蓉.md",
+        "wiki/entities/胡志利.md",
+        "wiki/entities/赵晓东.md",
+        "wiki/entities/秦毅.md",
+        "wiki/entities/王健.md",
+        "wiki/concepts/供给侧→需求侧政策转向.md",
+        "wiki/concepts/政策信号与盈利确认的时差.md",
+        "wiki/concepts/风格分歧作为认知透镜.md",
+        "wiki/entities/王培.md",
+        "wiki/entities/徐荔蓉.md",
+        "wiki/entities/胡志利.md",
+        "wiki/entities/赵晓东.md",
+        "wiki/entities/秦毅.md",
+        "wiki/entities/王健.md",
+        "wiki/concepts/供给侧→需求侧政策转向.md",
+        "wiki/concepts/政策信号与盈利确认的时差.md",
+        "wiki/concepts/风格分歧作为认知透镜.md",
+        "wiki/刺激落地成长与价值谁更受益.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153537--qa-楼市转折点__qa.md": {
+      "hash": "3487cda7b7602f6197a20871eb7e48d43904646eccf428fb7f9222eb50580726",
+      "timestamp": 1787295279816,
+      "filesWritten": [
+        "wiki/sources/5-notes--27-20260628t153537-qa-楼市转折点qa--1fbncym.md",
+        "wiki/concepts/楼市转折点-供给收缩驱动出清.md",
+        "wiki/concepts/企稳与反转的区分.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153539--qa-外资真金白银流向中国__qa.md": {
+      "hash": "18fd38fc576581344f07312ca7bec45618a6932e0468f5885a8fe58a17f1c7ec",
+      "timestamp": 1787295812651,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t153539-qa-外资真金白银流向中国qa--1ilww9g.md",
+        "wiki/concepts/外资中国资产配置结构.md",
+        "wiki/concepts/外资低配与低配收窄.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T153547--qa-美股叙事动摇分散配置__qa.md": {
+      "hash": "74fa4e5cde1ce7521635418cd52b0f917f23db82d8efd354b9f3b92674326cfa",
+      "timestamp": 1787296313544,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t153547-qa-美股叙事动摇分散配置qa--1n4bm72.md",
+        "wiki/concepts/叙事经济学.md",
+        "wiki/concepts/分散配置.md",
+        "wiki/entities/美银全球基金经理调查.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153555--qa-业绩基准看懂门道__qa.md": {
+      "hash": "1d1615ad8a27957d928a36a1e6b41326bc98bbbad7add34ae3e2bc594b1d8bee",
+      "timestamp": 1787299309092,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t153555-qa-业绩基准看懂门道qa--z9p53i.md",
+        "wiki/concepts/基准过滤超额收益.md",
+        "wiki/concepts/合成基准解读.md",
+        "wiki/concepts/价格指数vs全收益指数基准.md",
+        "wiki/concepts/基准调整决策框架.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153614--qa-货基费率敏感度__qa.md": {
+      "hash": "c1bc059f6360854ffd52a9b57f39922ee4515e7f043d4d128fd58e48d9e7a65e",
+      "timestamp": 1787300962226,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260628t153614-qa-货基费率敏感度qa--1vquqo2.md",
+        "wiki/concepts/货基费率侵蚀效应.md",
+        "wiki/concepts/规模加权费率vs简单平均费率.md",
+        "wiki/concepts/费率复利效应.md",
+        "wiki/entities/余额宝.md",
+        "wiki/concepts/货基功能重构.md",
+        "wiki/concepts/现金流底座.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T153616--qa-中国基民择时回报差研究__qa.md": {
+      "hash": "c70e529aed3842c6b444b835a54d49511a812395e7f7c05a1de09a7bba6eebe5",
+      "timestamp": 1787302801535,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t153616-qa-中国基民择时回报差研究qa--ydl0ck.md",
+        "wiki/entities/晨星中国.md",
+        "wiki/concepts/投资者回报差.md",
+        "wiki/concepts/羊群效应-资金追逐热门赛道.md",
+        "wiki/concepts/波动率对交易冲动的影响.md",
+        "wiki/concepts/定投平滑择时风险.md",
+        "wiki/concepts/赛道轮动.md",
+        "wiki/concepts/宽基指数正回报差悖论.md",
+        "wiki/log.md-append",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T153619--qa-固收加策略分化__qa.md": {
+      "hash": "543679c21fffb5db762396ae5d6bdf060d8f978d4c35fc40f0db6ae3d2f10516",
+      "timestamp": 1787303387852,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--29-20260628t153619-qa-固收加策略分化qa--37btsh.md"
+      ]
     }
   }
 }
