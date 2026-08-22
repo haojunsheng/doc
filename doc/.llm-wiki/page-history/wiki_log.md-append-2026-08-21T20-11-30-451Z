@@ -1,0 +1,10 @@
+## 2026-08-22
+
+- ingest | QA — 加密货币ETF革命
+  - 新增 source: [[sources/5-notes--31-20260628t153931-qa-加密货币ETF革命qa--1oydr48]]
+  - 新增 entity: [[entities/比特币]], [[entities/贝莱德（BlackRock）]], [[entities/SEC（美国证券交易委员会）]]
+  - 新增 concept: [[concepts/现货加密货币ETF-vs-期货加密货币ETF]], [[concepts/实物申赎模式]], [[concepts/加密资产国家战略]], [[concepts/新资产被传统金融收编]]
+  - 新增 synthesis: [[synthesis/加密货币ETF革命]]
+  - 更新 entity: [[entities/唐纳德·特朗普]]（补充加密政策承诺：战略储备、解雇Gensler、挖矿用电支持）
+  - 更新 concept: [[concepts/被动替代主动]]（补充加密货币ETF作为被动替代原生持有的延伸案例）
+  - 更新 concept: [[concepts/比特币风险属性趋同]]（补充ETF机构化对相关性结构的潜在中长期影响）
