@@ -6463,6 +6463,713 @@
         "wiki/log.md",
         "wiki/index.md"
       ]
+    },
+    "notes/20260628T154313--qa-美股150年崩盘复盘__qa.md": {
+      "hash": "914d804670de61677677ec85b1c064db82d967671c654d920601ce6b0942d25b",
+      "timestamp": 1787401598275,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154313-qa-美股150年崩盘复盘qa--2mx6k7.md",
+        "wiki/entities/托马斯索威尔thomas-sowell.md",
+        "wiki/concepts/崩盘常态化框架.md",
+        "wiki/concepts/痛苦指数.md",
+        "wiki/concepts/叠加崩盘效应.md",
+        "wiki/concepts/回本时间窗口.md",
+        "wiki/concepts/应对优于预测.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154318--qa-基金信披新规三亮点__qa.md": {
+      "hash": "151befb9c1de9b8676464271c338fe3b2dc90031520dd65aedd43ec8782d62cb",
+      "timestamp": 1787402040477,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t154318-qa-基金信披新规三亮点qa--shgf9k.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154319--qa-不确定市场找可持续回报__qa.md": {
+      "hash": "31f0c819bb7b567eb1d3a4f2b7707556d343c8521c128f4f43b07f9f4c0eeb7d",
+      "timestamp": 1787402213745,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154319-qa-不确定市场找可持续回报qa--1owcxwz.md",
+        "wiki/concepts/被动AI暴露.md",
+        "wiki/concepts/可持续回报框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154327--qa-黄金原油抗通胀真相__qa.md": {
+      "hash": "1bcb926ccfc525e77b8744ace4b80d8ab66595b78a6f0b8ea1407e57d9da3cbb",
+      "timestamp": 1787403422712,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260628t154327-qa-黄金原油抗通胀真相qa--1udmunm.md"
+      ]
+    },
+    "notes/20260628T154330--qa-择时为什么几乎不可能赚钱__qa.md": {
+      "hash": "0392477e4397ac557dc5fc8b0695f2183bd2cfc6c7c986a41857f4e335c4af03",
+      "timestamp": 1787404758311,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154330-qa-择时为什么几乎不可能赚钱qa--bjhbbm.md",
+        "wiki/entities/冯柳.md",
+        "wiki/concepts/择时成本四维分解.md",
+        "wiki/entities/彼得-林奇-peter-lynch.md",
+        "wiki/entities/查尔斯-艾里斯-charles-ellis.md",
+        "wiki/concepts/资产配置优先原则.md",
+        "wiki/concepts/择时的心理陷阱.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154334--qa-迷你基金陷阱__qa.md": {
+      "hash": "438550afebcd4422c59f9b0123a8a82f1fe2cb34279262f9c4bd0c876b1dd8e7",
+      "timestamp": 1787405744749,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260628t154334-qa-迷你基金陷阱qa--1fxmfr7.md",
+        "wiki/concepts/迷你基金三重困境.md",
+        "wiki/concepts/净值便宜误区.md",
+        "wiki/concepts/规模诅咒.md",
+        "wiki/concepts/清盘率主动被动分化.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154335--qa-基金选品适配市场__qa.md": {
+      "hash": "47da45366ec2eafb5417ead3a6cc5aed9c3054c75490636eb04baac4d44bf96c",
+      "timestamp": 1787407775630,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t154335-qa-基金选品适配市场qa--1ob3u88.md",
+        "wiki/entities/毕天宇.md",
+        "wiki/entities/詹成.md",
+        "wiki/entities/乔迁.md",
+        "wiki/entities/胡剑.md",
+        "wiki/entities/易方达稳健收益.md",
+        "wiki/concepts/上行捕获比.md",
+        "wiki/concepts/GARP策略.md",
+        "wiki/concepts/风格适配.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154337--qa-投资者回报差终章__qa.md": {
+      "hash": "3ebe188f4d8e67dcb4428b9de67318134897856ad668aeef4f42a2c3da3ed529",
+      "timestamp": 1787408045575,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t154337-qa-投资者回报差终章qa--13c7rsf.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154344--qa-QDII井喷背后的三大约束__qa.md": {
+      "hash": "c0825a74b9d61d6d3fc11be3d9794c0c8eaf9c559a71c68def2dabedf6e71def",
+      "timestamp": 1787408310752,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t154344-qa-qdii井喷背后的三大约束qa--1uy0fyo.md",
+        "wiki/concepts/qdii三重约束框架.md",
+        "wiki/entities/恒生科技指数.md",
+        "wiki/entities/中概互联网指数.md",
+        "wiki/entities/华夏恒生互联网科技业ETF(QDII).md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154349--qa-特朗普关税2.0对中国影响__qa.md": {
+      "hash": "a6a4b5830ee1330d08ec97639a5408ff7956a907cd5dbfa905e34e2e5c804ed3",
+      "timestamp": 1787411154892,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154349-qa-特朗普关税20对中国影响qa--13dgym5.md",
+        "wiki/entities/海尔.md",
+        "wiki/entities/美的.md",
+        "wiki/entities/比亚迪.md",
+        "wiki/entities/Temu.md",
+        "wiki/concepts/关税行业冲击分化框架.md",
+        "wiki/concepts/本地产能占比决定关税承受力.md",
+        "wiki/concepts/烧钱模式逆向关税效应.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154353--qa-美股现在上车还来得及吗__qa.md": {
+      "hash": "dbd78ff85f825d4f67d8613911df2825694e141d9b0d369400a4548ada66e663",
+      "timestamp": 1787411420311,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154353-qa-美股现在上车还来得及吗qa--igkmg.md",
+        "wiki/concepts/美股估值分化框架.md",
+        "wiki/concepts/纳指七雄集中度风险.md",
+        "wiki/concepts/FOMO行为偏差.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154400--qa-全球市场分化下的投资选择__qa.md": {
+      "hash": "198db3f777c00c8e1fee47c8134d12b97c68df82df8f603b6b4e9ac4547f0684",
+      "timestamp": 1787413544966,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154400-qa-全球市场分化下的投资选择qa--1cepu0s.md",
+        "wiki/concepts/估值隐含回报VIR框架.md",
+        "wiki/concepts/错杀-修复框架.md",
+        "wiki/concepts/纳指七雄集中度风险.md",
+        "wiki/concepts/关税通胀传导链.md",
+        "wiki/entities/英伟达-nvidia.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154410--qa-关税为什么解决不了贸易逆差__qa.md": {
+      "hash": "23d50d8ffe3ca257b7aa51c3d791d46a592534582f4a9e6e8617575494d9b14b",
+      "timestamp": 1787417516288,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t154410-qa-关税为什么解决不了贸易逆差qa--44zthb.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154414--qa-平衡风格基金选股力__qa.md": {
+      "hash": "91ec8a348ea2d012a2b7ed045a970b52f0e3f13a43d6375b7f9bd88783754a2a",
+      "timestamp": 1787417889852,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260628t154414-qa-平衡风格基金选股力qa--16clgb2.md"
+      ]
+    },
+    "notes/20260628T154429--qa-定投真能熨平波动吗__qa.md": {
+      "hash": "ab996ff3fdfd8aabb2f3436710bf7d7ecf6c1d96039ed08c4aa4ec15b655b800",
+      "timestamp": 1787419187008,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t154429-qa-定投真能熨平波动吗qa--1livtht.md",
+        "wiki/comparisons/一次性买入vs定投.md",
+        "wiki/concepts/定投跑输概率框架.md",
+        "wiki/concepts/已投入资金IRR等效.md",
+        "wiki/concepts/现金闲置成本.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154430--qa-中国资产为什么是新兴核心__qa.md": {
+      "hash": "24e1a54436b7ff766167c282b6d5f3480d80856c7bc9d1acce995c3bad06d467",
+      "timestamp": 1787419586029,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154430-qa-中国资产为什么是新兴核心qa--hgrvyb.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154432--qa-fof配置方向__qa.md": {
+      "hash": "8f1e7ca25b25b3414c643d5590006055227b2944645505001602ac1872ae05ce",
+      "timestamp": 1787422162540,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260628t154432-qa-fof配置方向qa--dr1c4a.md",
+        "wiki/concepts/FOF配置转向框架.md",
+        "wiki/concepts/短债基金被疯抢.md",
+        "wiki/concepts/债券配置场外转场内.md",
+        "wiki/concepts/黄金纳入FOF基准.md",
+        "wiki/concepts/权益风格切换-价值到成长.md",
+        "wiki/concepts/香港互认债基配置.md",
+        "wiki/concepts/赎回费政策对配置的影响.md",
+        "wiki/entities/海富通.md",
+        "wiki/concepts/FOF配置转向框架.md",
+        "wiki/concepts/短债基金被疯抢.md",
+        "wiki/concepts/债券配置场外转场内.md",
+        "wiki/concepts/黄金纳入FOF基准.md",
+        "wiki/concepts/权益风格切换-价值到成长.md",
+        "wiki/concepts/香港互认债基配置.md",
+        "wiki/concepts/赎回费政策对配置的影响.md",
+        "wiki/entities/海富通.md",
+        "wiki/entities/华安易富黄金ETF.md",
+        "wiki/entities/大成高鑫股票-FOF持仓.md",
+        "wiki/entities/摩根国际债券基金-FOF持仓.md",
+        "wiki/entities/易方达科融混合.md",
+        "wiki/entities/兴全合润混合-FOF持仓.md",
+        "wiki/entities/富国基金-FOF视角.md",
+        "wiki/entities/东方红基金-FOF视角.md",
+        "wiki/entities/中欧基金-FOF视角.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154433--qa-QDII基金怎么选__qa.md": {
+      "hash": "4eea6d378eb5b0a779d2c0263ecc2a0d5d88d8eac3876815a7469e9abc342873",
+      "timestamp": 1787422770299,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t154433-qa-qdii基金怎么选qa--17fw2vk.md",
+        "wiki/entities/宁君.md",
+        "wiki/entities/祁广东.md",
+        "wiki/entities/郑涛.md",
+        "wiki/concepts/海外投研能力框架.md",
+        "wiki/concepts/平台资源效应.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154433--qa-全球高处不胜寒还有多少空间__qa.md": {
+      "hash": "0523d7eb15b70c55072a18ac56051688695890fd72f025c15f74ee5c02ea21b3",
+      "timestamp": 1787423326744,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t154433-qa-全球高处不胜寒还有多少空间qa--9osyvz.md",
+        "wiki/concepts/高科技投资-GDP占比-过热信号.md",
+        "wiki/concepts/债券期限溢价.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154433--qa-选基金经理看什么__qa.md": {
+      "hash": "11b05645efedf4d7bf7e19fe7a8ff933c793f4af63f391c85916d98174055182",
+      "timestamp": 1787423877072,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t154433-qa-选基金经理看什么qa--jqbub1.md",
+        "wiki/concepts/选基适配框架.md",
+        "wiki/log.md",
+        "wiki/sources/5-notes--30-20260628t154433-qa-选基金经理看什么qa--jqbub1.md",
+        "wiki/concepts/选基适配框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154442--qa-A股赚钱难的原因__qa.md": {
+      "hash": "b694c9a38b447f47bf98be2f03745aa13be13caabbeb48e9342f9de265b8b25e",
+      "timestamp": 1787423963307,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t154442-qa-a股赚钱难的原因qa--z1h6rr.md",
+        "wiki/concepts/索取大于回馈.md",
+        "wiki/concepts/一股独大.md",
+        "wiki/comparisons/A股vs美股股东回报机制.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154448--qa-基金经理高光与遗憾__qa.md": {
+      "hash": "a6d28978857de7b32181923e082f8ce7b1973eb639a57f45f51c293e2f6be015",
+      "timestamp": 1787424823162,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t154448-qa-基金经理高光与遗憾qa--1fuckkt.md",
+        "wiki/entities/杨嘉文.md",
+        "wiki/entities/谷衡.md",
+        "wiki/concepts/基金经理自我迭代框架.md",
+        "wiki/concepts/资产久期特征.md",
+        "wiki/concepts/股息率-无风险利率比价模型.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154449--qa-2025基金经理风格展望__qa.md": {
+      "hash": "d57e22aa73f840a02c6b490100d5059ec695c8ebb301b3e120aadb6f25f3a807",
+      "timestamp": 1787425628389,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--34-20260628t154449-qa-2025基金经理风格展望qa--xzq6mf.md"
+      ]
+    },
+    "notes/20260628T154456--qa-ETF跟踪误差的三个来源__qa.md": {
+      "hash": "17cd2adc9876e0a66b2cf5a1e1ccf7ac8fcaa95cd5fd21279bb6e0bcd6a15c94",
+      "timestamp": 1787426093078,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--34-20260628t154456-qa-etf跟踪误差的三个来源qa--5viz4v.md"
+      ]
+    },
+    "notes/20260628T154500--qa-行业基金是组合必需品吗__qa.md": {
+      "hash": "127815b312268a323e717983dcbdb7aa46354f4a7ec7b6b50bda2d0eaaa1fb4e",
+      "timestamp": 1787426733909,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154500-qa-行业基金是组合必需品吗qa--hi0ypd.md",
+        "wiki/concepts/行业轮动策略.md",
+        "wiki/concepts/波动率对交易冲动的影响.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154510--qa-中国ETF市场2024大爆发__qa.md": {
+      "hash": "e6c0e560d50b3a5a362c8a8511bc6f782763745a8a7c3c8634b30133c5c74dbd",
+      "timestamp": 1787427703422,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--36-20260628t154510-qa-中国etf市场2024大爆发qa--15yfr8q.md"
+      ]
+    },
+    "notes/20260628T154520--qa-AI时代护城河重估__qa.md": {
+      "hash": "e2ec92bc809f392183049e8ca6358af77fd47f10e193f67c48c53f21dedc5997",
+      "timestamp": 1787428846772,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260628t154520-qa-ai时代护城河重估qa--2gxgvj.md"
+      ]
+    },
+    "notes/20260628T154529--qa-主动持股比例__qa.md": {
+      "hash": "065f2c8a9e73744f6a4acce3c8a79cfa1e0f61d857d718cc065890bedd085af2",
+      "timestamp": 1787429259227,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--28-20260628t154529-qa-主动持股比例qa--14fbr7l.md"
+      ]
+    },
+    "notes/20260628T154530--qa-红利投资四大误区是什么__qa.md": {
+      "hash": "c6a0af2b3377501319e884b35b1322cf474a0988505381852e0a21b5d3e10cd2",
+      "timestamp": 1787430212527,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154530-qa-红利投资四大误区是什么qa--1g1qmbj.md",
+        "wiki/concepts/目标导向vs产品导向.md",
+        "wiki/concepts/被动收入增长三驱动.md",
+        "wiki/concepts/高股息三种形态.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154533--qa-红利指数基金怎么挑__qa.md": {
+      "hash": "ae295a8a221baa7eba91197e8e082cb9d3c6bda3b06273b874c6637ae7d0ed1c",
+      "timestamp": 1787430665445,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260628t154533-qa-红利指数基金怎么挑qa--7pmqpg.md"
+      ]
+    },
+    "notes/20260628T154536--qa-凯利公式仓位管理__qa.md": {
+      "hash": "d97fc53453c06bd64ccbed10d2743dec8c44afb633e5582fe7d3294eda173902",
+      "timestamp": 1787430718398,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t154536-qa-凯利公式仓位管理qa--ys48x7.md",
+        "wiki/concepts/凯利公式仓位管理.md",
+        "wiki/entities/爱德华-索普-edward-thorp.md",
+        "wiki/entities/约翰-凯利-john-kelly.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154536--qa-目标日期基金下滑曲线__qa.md": {
+      "hash": "f397358269200f031ef6c7fdb7ed8ae785ec5be66b0323a6a6747f1e68093608",
+      "timestamp": 1787432582538,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154536-qa-目标日期基金下滑曲线qa--1se2qua.md",
+        "wiki/concepts/下滑曲线设计类型到点型与穿点型.md",
+        "wiki/concepts/核心卫星策略FOF应用.md",
+        "wiki/entities/中欧基金养老目标日期视角.md",
+        "wiki/entities/平安基金养老目标日期视角.md",
+        "wiki/entities/南方基金养老目标日期视角.md",
+        "wiki/entities/易方达基金养老目标日期视角.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154551--qa-高波动基金蜜糖陷阱__qa.md": {
+      "hash": "8e56c081107216c4038e4c254999e1c654ae0e258cb500c7be3af4a5771f811b",
+      "timestamp": 1787433134760,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260628t154551-qa-高波动基金蜜糖陷阱qa--19z2giz.md"
+      ]
+    },
+    "notes/20260628T154555--qa-全球配置哪些资产还值得买__qa.md": {
+      "hash": "c305f26c1dbd1021fd67af2075231f7654b01469875fce68f2c2bf27dee88f0b",
+      "timestamp": 1787433605599,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154555-qa-全球配置哪些资产还值得买qa--1y8uva7.md",
+        "wiki/concepts/季度再平衡框架.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154559--qa-基金费率越低生存能力越强__qa.md": {
+      "hash": "0d7a9021c7c49979fdd9d3f150dcd432da958467d4ae13486e8575f62986deab",
+      "timestamp": 1787433769945,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154559-qa-基金费率越低生存能力越强qa--m9eink.md",
+        "wiki/concepts/费率生存负相关框架.md",
+        "wiki/concepts/固收类产品费率敏感放大器.md",
+        "wiki/concepts/被动成长产品陷阱.md",
+        "wiki/concepts/费率逆袭良性循环.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154559--qa-美联储降息拐点__qa.md": {
+      "hash": "50e5e327fa46ec0cfffdfad0f4a630a666c3073ec0df0c8eab7e6a700a0f2ece",
+      "timestamp": 1787436264252,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260628t154559-qa-美联储降息拐点qa--1amc15f.md",
+        "wiki/concepts/降息原因决定市场反应.md",
+        "wiki/log.md",
+        "wiki/sources/5-notes--29-20260628t154559-qa-美联储降息拐点qa--1amc15f.md",
+        "wiki/concepts/降息原因决定市场反应.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154600--qa-分散投资在关税时代还管用吗__qa.md": {
+      "hash": "1241f843b2ac43359eb4d5089ef7762f0600856e8bd045e5d1b83be3f7f08c43",
+      "timestamp": 1787436867569,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t154600-qa-分散投资在关税时代还管用吗qa--1fz3k8z.md",
+        "wiki/concepts/分散化有效性条件.md",
+        "wiki/concepts/反脆弱组合框架.md",
+        "wiki/concepts/商品对冲价值.md",
+        "wiki/log.md",
+        "wiki/sources/5-notes--35-20260628t154600-qa-分散投资在关税时代还管用吗qa--1fz3k8z.md",
+        "wiki/concepts/分散化有效性条件.md",
+        "wiki/concepts/反脆弱组合框架.md",
+        "wiki/concepts/商品对冲价值.md",
+        "wiki/sources/5-notes--35-20260628t154600-qa-分散投资在关税时代还管用吗qa--1fz3k8z.md",
+        "wiki/concepts/分散化有效性条件.md",
+        "wiki/concepts/反脆弱组合框架.md",
+        "wiki/concepts/商品对冲价值.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154605--qa-银行股低估值高股息的底层逻辑__qa.md": {
+      "hash": "ae532eec96c71a4947684800309e21564428607a851d3155fb4f2ed56b13b689",
+      "timestamp": 1787437631357,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260628t154605-qa-银行股低估值高股息的底层逻辑qa--17exs3k.md",
+        "wiki/concepts/银行股息差-bottoming框架.md",
+        "wiki/concepts/银行股避风港逻辑.md",
+        "wiki/entities/工商银行.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154619--qa-关税抹去百年贸易开放成果__qa.md": {
+      "hash": "013cff6d9bd8bf629387b17b3be8eba909edfeb6fb349386901a64e2f9a11697",
+      "timestamp": 1787438153070,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--34-20260628t154619-qa-关税抹去百年贸易开放成果qa--jq196v.md"
+      ]
+    },
+    "notes/20260628T154625--qa-2025基金主被动大分化__qa.md": {
+      "hash": "18a5f7071eb54b117f49e3eece946c49827b2ff2d422a6d787882f1c164aab98",
+      "timestamp": 1787438576625,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154625-qa-2025基金主被动大分化qa--ssb6uv.md",
+        "wiki/concepts/被动贡献率框架.md",
+        "wiki/concepts/资本增值vs资金流入驱动.md",
+        "wiki/concepts/主动被动资金流分化.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154630--qa-黄金高台跳水该买还是跑__qa.md": {
+      "hash": "d1e18b7bf29c2fb9e39625a87686f04b145e517a4db7b7ee56395eaf3d90e3d7",
+      "timestamp": 1787438637981,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154630-qa-黄金高台跳水该买还是跑qa--t2k73d.md",
+        "wiki/concepts/黄金正反馈循环.md",
+        "wiki/concepts/黄金均值回归.md",
+        "wiki/log.md (append only)",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154632--qa-债券被动投资时代来了__qa.md": {
+      "hash": "de342319e66d6028903d0427072662bb03ae2642e4ffeac43e914789a8244344",
+      "timestamp": 1787438972159,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154632-qa-债券被动投资时代来了qa--gs1k8.md",
+        "wiki/concepts/债券被动化分化框架.md",
+        "wiki/concepts/被动化四重驱动.md",
+        "wiki/concepts/标准化程度决定被动化可行性.md",
+        "wiki/concepts/可转债ETF极端集中度.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154638--qa-美大选经济影响辨__qa.md": {
+      "hash": "e0c37310d1cabe5564f23a1673d84dbcbe223e1425f3cd819190c314fdc1d35b",
+      "timestamp": 1787446206632,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t154638-qa-美大选经济影响辨qa--eb6ie7.md",
+        "wiki/concepts/总统与市场走势无关框架.md",
+        "wiki/concepts/选举政策不确定性-波动放大机制.md",
+        "wiki/entities/卡玛拉-哈里斯-harris.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154640--qa-2025全球普涨后的配置__qa.md": {
+      "hash": "3f08641c6698e5d21cc3cd72c41f3d7d876ce7c4242f3c0146eec1ddeb15340a",
+      "timestamp": 1787448976605,
+      "filesWritten": [
+        "wiki/concepts/把波动交给配置把收益交给时间.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/sources/5-notes--34-20260628t154640-qa-2025全球普涨后的配置qa--76glqa.md"
+      ]
+    },
+    "notes/20260628T154649--qa-A股3000点保卫战__qa.md": {
+      "hash": "e271c48066bc8820b377546b4eb6eeb5da81ccbf550b5c4a5387aaeda35eac50",
+      "timestamp": 1787449817629,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154649-qa-a股3000点保卫战qa--1gj20sq.md",
+        "wiki/concepts/上香行情.md",
+        "wiki/concepts/反机构化投机.md",
+        "wiki/concepts/二极管思维-投资极端演绎.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154651--qa-全球机构减持美国配置新风向__qa.md": {
+      "hash": "15fd9c3db27372f6dbe8b4d8aff347d9adbdfea167cab13b2ff4d048f14487f0",
+      "timestamp": 1787452527815,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t154651-qa-全球机构减持美国配置新风向qa--1go0f6t.md",
+        "wiki/concepts/全球机构减持美国配置.md",
+        "wiki/concepts/私募资产配置上升.md",
+        "wiki/concepts/AI投资决策渗透.md",
+        "wiki/concepts/噪音vs趋势区分.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154656--qa-四只固收基金深度拆解__qa.md": {
+      "hash": "baab497731d70ba4922dc54002841daa4eae164c080fd508298f416cd7f8216b",
+      "timestamp": 1787453151813,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154656-qa-四只固收基金深度拆解qa--1wqqnti.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154700--qa-防御性资产真能防御吗__qa.md": {
+      "hash": "52109bc8185725268a95b9d6d0dc392894962fdb63451ae671043b6274eca447",
+      "timestamp": 1787453728359,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154700-qa-防御性资产真能防御吗qa--1rvkqur.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154704--qa-基金持股该集中还是分散__qa.md": {
+      "hash": "3381f138f2aadd03ab48eb526658fe486c7da7dc6a3f58e15354f9d97c8fe8ca",
+      "timestamp": 1787455417950,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154704-qa-基金持股该集中还是分散qa--12vlpt7.md",
+        "wiki/concepts/持股集中度评估框架.md",
+        "wiki/concepts/集中持股.md",
+        "wiki/concepts/核心卫星策略FOF应用.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154712--qa-值得托付基金公司三要素__qa.md": {
+      "hash": "5bb2a7b2b51cb0d6231d560d2c3592f2037e55cc8cbf0c24b63880eaaf7d7860",
+      "timestamp": 1787455727284,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154712-qa-值得托付基金公司三要素qa--r58lun.md",
+        "wiki/concepts/基金公司三要素评估框架.md",
+        "wiki/concepts/明星经理离职风险.md",
+        "wiki/concepts/追热点减分项.md",
+        "wiki/entities/资本集团-capital-group.md",
+        "wiki/entities/惠理集团-hillhouse.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154713--qa-公募基金经理薪酬改革__qa.md": {
+      "hash": "e02758d763af38a6c89f0a0f4072f2b6464527335781ef3662ee7d2c4ed992ac",
+      "timestamp": 1787457186872,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154713-qa-公募基金经理薪酬改革qa--106n869.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154742--qa-中证A500指数解析__qa.md": {
+      "hash": "c5e1824dd3fa83f0b59b2a48780f3d8793ae895e685400387dd23ebc7f08ea5f",
+      "timestamp": 1787458038579,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154742-qa-中证a500指数解析qa--u53ib0.md",
+        "wiki/entities/中证A50指数.md",
+        "wiki/concepts/宽基指数行业均衡框架.md",
+        "wiki/comparisons/沪深300vs中证A500.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154743--qa-CXO还是一门好生意吗__qa.md": {
+      "hash": "664d0fc4cf5c9bf923bcb23eb31e10d29dd4e21777bef6246450bb67003e0c04",
+      "timestamp": 1787458529560,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154743-qa-cxo还是一门好生意吗qa--24ur5i.md",
+        "wiki/entities/药明生物.md",
+        "wiki/concepts/CXO服务费商业模式.md",
+        "wiki/concepts/美联储加息传导链——医药外包.md",
+        "wiki/concepts/外包渗透率框架.md",
+        "wiki/concepts/DCT去中心化临床试验.md",
+        "wiki/concepts/龙头效应板块联动.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154756--qa-基金超市科学分散__qa.md": {
+      "hash": "6cbd078298b6b30777efeea0e71537014fb8fdd0e38961ae45f979f24250491e",
+      "timestamp": 1787467792212,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--30-20260628t154756-qa-基金超市科学分散qa--18llgdn.md"
+      ]
+    },
+    "notes/20260628T154756--qa-美元终结十年涨势的五因素__qa.md": {
+      "hash": "f6b2e55ac4c4e443ab7b5f629af5a6591dfb2e2b9e99cf776f51bdcf76468dc1",
+      "timestamp": 1787470417660,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154756-qa-美元终结十年涨势的五因素qa--1hk716v.md",
+        "wiki/concepts/美元五因素分析框架.md",
+        "wiki/concepts/美国例外论褪色.md",
+        "wiki/concepts/财政主导担忧.md",
+        "wiki/concepts/美元避险光环失效.md",
+        "wiki/concepts/减持—贬值—再减持负反馈循环.md",
+        "wiki/entities/莉萨-库克.md",
+        "wiki/concepts/美元五因素分析框架.md",
+        "wiki/concepts/美国例外论褪色.md",
+        "wiki/concepts/财政主导担忧.md",
+        "wiki/concepts/美元避险光环失效.md",
+        "wiki/concepts/减持—贬值—再减持负反馈循环.md",
+        "wiki/entities/莉萨-库克.md",
+        "wiki/log.md",
+        "wiki/entities/莉萨-库克.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154805--qa-ETF交易五大避坑技巧__qa.md": {
+      "hash": "088c4b6088b6f4ee3fe106929ce81283247a0fd312e3485983af057303feff68",
+      "timestamp": 1787470612462,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154805-qa-etf交易五大避坑技巧qa--1mfysvq.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T154808--qa-总统选举如何影响美股走势__qa.md": {
+      "hash": "86296e0935537144c3b8af789a887cd569d927674779067971040a0f05dc404c",
+      "timestamp": 1787471475526,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--34-20260628t154808-qa-总统选举如何影响美股走势qa--1yblo1d.md"
+      ]
+    },
+    "notes/20260628T154810--qa-晨星四只权益基金推荐__qa.md": {
+      "hash": "2e13e3cbaf693701e044d5cd7aff7698db5ffa18b644ae601500ef01c289bbf6",
+      "timestamp": 1787472262784,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--32-20260628t154810-qa-晨星四只权益基金推荐qa--13tp35i.md"
+      ]
+    },
+    "notes/20260628T154821--qa-基金零费率价格战真相__qa.md": {
+      "hash": "7098a1e05930ae7991f899ab659db94d3c0f01f87fb4954b6ac9b3bdb2eb072d",
+      "timestamp": 1787473382786,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--32-20260628t154821-qa-基金零费率价格战真相qa--hoz16t.md"
+      ]
+    },
+    "notes/20260628T154838--qa-2024年AI投资机遇__qa.md": {
+      "hash": "002d320a0d6dceacfc2a09241a53827da2024457e1985583b7f2d55fefeb6f36",
+      "timestamp": 1787473700289,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154838-qa-2024年ai投资机遇qa--4cj68e.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
     }
   }
 }

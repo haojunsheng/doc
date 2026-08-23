@@ -493,204 +493,251 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Recently Updated
+- [[sources/5-notes--33-20260628t154838-qa-2024年ai投资机遇qa--4cj68e]] — QA — 2024年AI投资机遇：从算力转向卖铲人
+- [[sources/5-notes--33-20260628t154805-qa-etf交易五大避坑技巧qa--1mfysvq]] — ETF交易五大避坑技巧
+- [[sources/5-notes--34-20260628t154756-qa-美元终结十年涨势的五因素qa--1hk716v]] — QA — 美元终结十年涨势的五因素
+- [[concepts/美元五因素分析框架]] — 美元五因素分析框架
+- [[concepts/美国例外论褪色]] — 美国例外论褪色
+- [[concepts/财政主导担忧]] — 财政主导担忧
+- [[concepts/美元避险光环失效]] — 美元避险光环失效
+- [[concepts/减持—贬值—再减持负反馈循环]] — 减持—贬值—再减持负反馈循环
+- [[entities/莉萨-库克]] — 莉萨·库克
+- [[sources/5-notes--33-20260628t154743-qa-cxo还是一门好生意吗qa--24ur5i]] — CXO还是一门好生意吗
+- [[entities/药明生物]] — 药明生物（WuXi Biologics）
+- [[concepts/CXO服务费商业模式]] — CXO服务费商业模式
+- [[concepts/美联储加息传导链——医药外包]] — 美联储加息传导链——医药外包
+- [[concepts/外包渗透率框架]] — 外包渗透率框架
+- [[concepts/DCT去中心化临床试验]] — DCT去中心化临床试验
+- [[concepts/龙头效应板块联动]] — 龙头效应板块联动
+- [[sources/5-notes--32-20260628t154742-qa-中证a500指数解析qa--u53ib0]] — 中证A500指数解析
+- [[entities/中证A50指数]] — 中证A50指数
+- [[concepts/宽基指数行业均衡框架]] — 宽基指数行业均衡框架
+- [[comparisons/沪深300vs中证A500]] — 沪深300 vs 中证A500
+- [[sources/5-notes--32-20260628t154713-qa-公募基金经理薪酬改革qa--106n869]] — 公募基金经理薪酬改革——晨星中国数据测算
+- [[sources/5-notes--33-20260628t154712-qa-值得托付基金公司三要素qa--r58lun]] — QA — 值得托付基金公司三要素
+- [[concepts/基金公司三要素评估框架]] — 基金公司三要素评估框架
+- [[concepts/明星经理离职风险]] — 明星经理离职风险
+- [[concepts/追热点减分项]] — 追热点新发产品减分项
+- [[entities/资本集团-capital-group]] — 资本集团（Capital Group）
+- [[entities/惠理集团-hillhouse]] — 惠理集团（Value Partners）
+- [[sources/5-notes--33-20260628t154704-qa-基金持股该集中还是分散qa--12vlpt7]] — QA — 基金持股该集中还是分散
+- [[concepts/持股集中度评估框架]] — 持股集中度评估框架
+- [[concepts/集中持股]] — 集中持股
+- [[sources/5-notes--32-20260628t154700-qa-防御性资产真能防御吗qa--1rvkqur]] — 5-notes--32-20260628t154700-qa-防御性资产真能防御吗qa--1rvkqur
+- [[sources/5-notes--32-20260628t154656-qa-四只固收基金深度拆解qa--1wqqnti]] — 四只固收基金深度拆解——选团队比选经理更重要
+- [[sources/5-notes--35-20260628t154651-qa-全球机构减持美国配置新风向qa--1go0f6t]] — QA — 全球机构减持美国配置新风向
+- [[concepts/全球机构减持美国配置]] — 全球机构减持美国配置
+- [[concepts/私募资产配置上升]] — 私募资产配置上升
+- [[concepts/AI投资决策渗透]] — AI投资决策渗透
+- [[concepts/噪音vs趋势区分]] — 噪音vs趋势区分
+- [[sources/5-notes--32-20260628t154649-qa-a股3000点保卫战qa--1gj20sq]] — A股3000点保卫战——A股反机构化投机走不远
+- [[concepts/上香行情]] — 上香行情
+- [[concepts/反机构化投机]] — 反机构化投机
+- [[concepts/二极管思维-投资极端演绎]] — 二极管思维-投资极端演绎
+- [[concepts/把波动交给配置把收益交给时间]] — 把波动交给配置把收益交给时间
+- [[sources/5-notes--34-20260628t154640-qa-2025全球普涨后的配置qa--76glqa]] — QA — 2025全球普涨后的配置：分散化最优
+- [[concepts/普涨后分散化最优框架]] — 普涨后分散化最优框架
+- [[concepts/安全边际压缩逻辑]] — 安全边际压缩逻辑
+- [[sources/5-notes--30-20260628t154638-qa-美大选经济影响辨qa--eb6ie7]] — QA — 美大选左右不了股市长期走势
+- [[concepts/总统与市场走势无关框架]] — 总统与市场走势无关框架
+- [[concepts/选举政策不确定性-波动放大机制]] — 选举政策不确定性-波动放大机制
+- [[entities/卡玛拉-哈里斯-harris]] — 卡玛拉·哈里斯（Kamala Harris）
+- [[sources/5-notes--32-20260628t154632-qa-债券被动投资时代来了qa--gs1k8]] — 债券被动投资时代来了
+- [[concepts/债券被动化分化框架]] — 债券被动化分化框架
+- [[concepts/被动化四重驱动]] — 被动化四重驱动
+- [[concepts/标准化程度决定被动化可行性]] — 标准化程度决定被动化可行性
+- [[concepts/可转债ETF极端集中度]] — 可转债ETF极端集中度
+- [[sources/5-notes--33-20260628t154630-qa-黄金高台跳水该买还是跑qa--t2k73d]] — 黄金高台跳水该买还是跑
+- [[concepts/黄金正反馈循环]] — 黄金正反馈循环
+- [[concepts/黄金均值回归]] — 黄金均值回归
+- [[sources/5-notes--34-20260628t154625-qa-2025基金主被动大分化qa--ssb6uv]] — 2025 基金主被动大分化
+- [[concepts/被动贡献率框架]] — 被动贡献率框架
+- [[concepts/资本增值vs资金流入驱动]] — 资本增值 vs 资金流入驱动
+- [[sources/5-notes--36-20260628t154605-qa-银行股低估值高股息的底层逻辑qa--17exs3k]] — QA — 银行股低估值高股息的底层逻辑
+- [[concepts/银行股息差-bottoming框架]] — 银行股息差-bottoming框架
+- [[concepts/银行股避风港逻辑]] — 银行股避风港逻辑
+- [[entities/工商银行]] — 工商银行
+- [[sources/5-notes--35-20260628t154600-qa-分散投资在关税时代还管用吗qa--1fz3k8z]] — QA — 分散投资在关税时代还管用吗
+- [[concepts/分散化有效性条件]] — 分散化有效性条件
+- [[concepts/反脆弱组合框架]] — 反脆弱组合框架
+- [[concepts/商品对冲价值]] — 商品对冲价值
+- [[sources/5-notes--29-20260628t154559-qa-美联储降息拐点qa--1amc15f]] — 美联储降息拐点
+- [[concepts/降息原因决定市场反应]] — 降息原因决定市场反应
+- [[sources/5-notes--34-20260628t154559-qa-基金费率越低生存能力越强qa--m9eink]] — QA — 基金费率越低生存能力越强
+- [[concepts/费率生存负相关框架]] — 费率生存负相关框架
+- [[concepts/固收类产品费率敏感放大器]] — 固收类产品费率敏感放大器
+- [[concepts/被动成长产品陷阱]] — 被动成长产品陷阱
+- [[concepts/费率逆袭良性循环]] — 费率逆袭良性循环
+- [[sources/5-notes--34-20260628t154555-qa-全球配置哪些资产还值得买qa--1y8uva7]] — 全球配置哪些资产还值得买
+- [[concepts/季度再平衡框架]] — 季度再平衡框架
+- [[sources/5-notes--32-20260628t154536-qa-目标日期基金下滑曲线qa--1se2qua]] — QA — 目标日期基金下滑曲线：穿点型与到点型的差异
+- [[concepts/下滑曲线设计类型到点型与穿点型]] — 下滑曲线设计类型：到点型与穿点型
+- [[concepts/核心卫星策略FOF应用]] — 核心+卫星策略在FOF中的应用
+- [[entities/中欧基金养老目标日期视角]] — 中欧基金（养老目标日期基金视角）
+- [[entities/平安基金养老目标日期视角]] — 平安基金（养老目标日期基金视角）
+- [[entities/南方基金养老目标日期视角]] — 南方基金（养老目标日期基金视角）
+- [[entities/易方达基金养老目标日期视角]] — 易方达基金（养老目标日期基金视角）
+- [[sources/5-notes--30-20260628t154536-qa-凯利公式仓位管理qa--ys48x7]] — QA — 凯利公式仓位管理
+- [[concepts/凯利公式仓位管理]] — 凯利公式仓位管理
+- [[entities/爱德华-索普-edward-thorp]] — 爱德华·索普（Edward Thorp）
+- [[entities/约翰-凯利-john-kelly]] — 约翰·凯利（John L. Kelly Jr.）
+- [[sources/5-notes--33-20260628t154530-qa-红利投资四大误区是什么qa--1g1qmbj]] — 红利投资四大误区是什么（晨星中国 QA）
+- [[concepts/目标导向vs产品导向]] — 目标导向 vs 产品导向
+- [[concepts/被动收入增长三驱动]] — 被动收入增长三驱动
+- [[sources/5-notes--33-20260628t154500-qa-行业基金是组合必需品吗qa--hi0ypd]] — QA — 行业基金是组合必需品吗
+- [[concepts/行业轮动策略]] — 行业轮动策略
+- [[concepts/波动率对交易冲动的影响]] — 波动率对交易冲动的影响
+- [[sources/5-notes--31-20260628t154448-qa-基金经理高光与遗憾qa--1fuckkt]] — QA — 基金经理的高光与遗憾
+- [[entities/杨嘉文]] — 杨嘉文
+- [[entities/谷衡]] — 谷衡
+- [[concepts/基金经理自我迭代框架]] — 基金经理自我迭代框架
+- [[concepts/资产久期特征]] — 资产久期特征
+- [[concepts/股息率-无风险利率比价模型]] — 股息率-无风险利率比价模型
+- [[sources/5-notes--30-20260628t154442-qa-a股赚钱难的原因qa--z1h6rr]] — QA — A股赚钱难的原因
+- [[concepts/索取大于回馈]] — 索取大于回馈
+- [[concepts/一股独大]] — 一股独大
+- [[comparisons/A股vs美股股东回报机制]] — A股 vs 美股 股东回报机制对比
+- [[sources/5-notes--30-20260628t154433-qa-选基金经理看什么qa--jqbub1]] — QA — 选基金经理看什么：不是选明星是选适配
+- [[concepts/选基适配框架]] — 选基适配框架
+- [[sources/5-notes--35-20260628t154433-qa-全球高处不胜寒还有多少空间qa--9osyvz]] — 全球高处不胜寒还有多少空间
+- [[concepts/高科技投资-GDP占比-过热信号]] — 高科技投资-GDP占比-过热信号
+- [[concepts/债券期限溢价]] — 债券期限溢价
+- [[sources/5-notes--31-20260628t154433-qa-qdii基金怎么选qa--17fw2vk]] — QDII基金怎么选——核心看海外投研能力
+- [[entities/宁君]] — 宁君
+- [[entities/祁广东]] — 祁广东
+- [[entities/郑涛]] — 郑涛
+- [[concepts/海外投研能力框架]] — 海外投研能力框架
+- [[concepts/平台资源效应]] — 平台资源效应
+- [[sources/5-notes--29-20260628t154432-qa-fof配置方向qa--dr1c4a]] — QA — FOF配置方向：从稳打底转向攻守兼备
+- [[concepts/FOF配置转向框架]] — FOF配置转向框架
+- [[concepts/短债基金被疯抢]] — 短债基金被疯抢
+- [[concepts/债券配置场外转场内]] — 债券配置场外转场内
+- [[concepts/黄金纳入FOF基准]] — 黄金纳入FOF基准
+- [[concepts/权益风格切换-价值到成长]] — 权益风格切换-价值到成长
+- [[concepts/香港互认债基配置]] — 香港互认债基配置
+- [[concepts/赎回费政策对配置的影响]] — 赎回费政策对配置的影响
+- [[entities/海富通]] — 海富通
+- [[entities/华安易富黄金ETF]] — 华安易富黄金ETF
+- [[entities/大成高鑫股票-FOF持仓]] — 大成高鑫股票-FOF持仓
+- [[entities/摩根国际债券基金-FOF持仓]] — 摩根国际债券基金-FOF持仓
+- [[entities/易方达科融混合]] — 易方达科融混合
+- [[entities/兴全合润混合-FOF持仓]] — 兴全合润混合-FOF持仓
+- [[entities/富国基金-FOF视角]] — 富国基金-FOF视角
+- [[entities/东方红基金-FOF视角]] — 东方红基金-FOF视角
+- [[entities/中欧基金-FOF视角]] — 中欧基金-FOF视角
+- [[sources/5-notes--34-20260628t154430-qa-中国资产为什么是新兴核心qa--hgrvyb]] — 中国资产为什么是新兴核心
+- [[sources/5-notes--31-20260628t154429-qa-定投真能熨平波动吗qa--1livtht]] — QA — 定投真能熨平波动吗：一次性买入碾压定投
+- [[comparisons/一次性买入vs定投]] — 一次性买入 vs 定投
+- [[concepts/定投跑输概率框架]] — 定投跑输概率框架
+- [[concepts/已投入资金IRR等效]] — 已投入资金IRR等效
+- [[concepts/现金闲置成本]] — 现金闲置成本
+- [[sources/5-notes--35-20260628t154410-qa-关税为什么解决不了贸易逆差qa--44zthb]] — 关税为什么解决不了贸易逆差
+- [[concepts/关税自我抵消机制]] — 关税自我抵消机制
+- [[concepts/经常账户-资本流入恒等式]] — 经常账户-资本流入恒等式
+- [[queries/关税能缩小贸易逆差吗]] — 关税能缩小贸易逆差吗
+- [[concepts/重商主义政策回归]] — 重商主义政策回归
+- [[concepts/页岩气革命案例]] — 页岩气革命案例
+- [[concepts/自由贸易秩序逆转]] — 自由贸易秩序逆转
+- [[sources/5-notes--34-20260628t154400-qa-全球市场分化下的投资选择qa--1cepu0s]] — 全球市场分化下的投资选择 — 估值是锚，不是预测未来的水晶球
+- [[concepts/估值隐含回报VIR框架]] — 估值隐含回报 VIR 框架
+- [[concepts/错杀-修复框架]] — 错杀-修复框架
+- [[entities/英伟达-nvidia]] — 英伟达（NVIDIA）
+- [[sources/5-notes--33-20260628t154353-qa-美股现在上车还来得及吗qa--igkmg]] — QA — 美股现在上车还来得及吗：配置思维比择时更能防踏空
+- [[concepts/美股估值分化框架]] — 美股估值分化框架
+- [[concepts/纳指七雄集中度风险]] — 纳指七雄集中度风险
+- [[sources/5-notes--34-20260628t154349-qa-特朗普关税20对中国影响qa--13dgym5]] — QA — 特朗普关税2.0对中国影响：关税战2.0整体可控，家电电车跨境电商分化
+- [[entities/海尔]] — 海尔
+- [[entities/美的]] — 美的
+- [[entities/比亚迪]] — 比亚迪
+- [[entities/Temu]] — Temu
+- [[concepts/关税行业冲击分化框架]] — 关税行业冲击分化框架
+- [[concepts/本地产能占比决定关税承受力]] — 本地产能占比决定关税承受力
+- [[concepts/烧钱模式逆向关税效应]] — 烧钱模式逆向关税效应
+- [[sources/5-notes--35-20260628t154344-qa-qdii井喷背后的三大约束qa--1uy0fyo]] — QA — QDII井喷背后的三大约束
+- [[concepts/qdii三重约束框架]] — QDII三重约束框架
+- [[entities/恒生科技指数]] — 恒生科技指数
+- [[entities/中概互联网指数]] — 中概互联网指数
+- [[entities/华夏恒生互联网科技业ETF(QDII)]] — 华夏恒生互联网科技业ETF(QDII)
+- [[sources/5-notes--30-20260628t154337-qa-投资者回报差终章qa--13c7rsf]] — QA — 投资者回报差终章：终极解药——长持有期+分散配置
+- [[sources/5-notes--30-20260628t154335-qa-基金选品适配市场qa--1ob3u88]] — QA — 基金选品适配市场——选基金就是选匹配
+- [[entities/毕天宇]] — 毕天宇
+- [[entities/詹成]] — 詹成
+- [[entities/乔迁]] — 乔迁
+- [[entities/胡剑]] — 胡剑
+- [[entities/易方达稳健收益]] — 易方达稳健收益
+- [[concepts/上行捕获比]] — 上行捕获比
+- [[concepts/GARP策略]] — GARP策略
+- [[concepts/风格适配]] — 风格适配
+- [[sources/5-notes--28-20260628t154334-qa-迷你基金陷阱qa--1fxmfr7]] — QA — 迷你基金陷阱
+- [[concepts/迷你基金三重困境]] — 迷你基金三重困境
+- [[concepts/净值便宜误区]] — 净值便宜误区
+- [[sources/5-notes--34-20260628t154330-qa-择时为什么几乎不可能赚钱qa--bjhbbm]] — QA — 择时为什么几乎不可能赚钱
+- [[entities/冯柳]] — 冯柳
+- [[concepts/择时成本四维分解]] — 择时成本四维分解
+- [[entities/彼得-林奇-peter-lynch]] — 彼得·林奇（Peter Lynch）
+- [[entities/查尔斯-艾里斯-charles-ellis]] — 查尔斯·艾里斯（Charles Ellis）
+- [[concepts/资产配置优先原则]] — 资产配置优先原则
+- [[concepts/择时的心理陷阱]] — 择时的心理陷阱
+- [[sources/5-notes--33-20260628t154319-qa-不确定市场找可持续回报qa--1owcxwz]] — 不确定市场找可持续回报——晨星2026展望
+- [[concepts/被动AI暴露]] — 被动AI暴露
+- [[concepts/可持续回报框架]] — 可持续回报框架
+- [[sources/5-notes--31-20260628t154318-qa-基金信披新规三亮点qa--shgf9k]] — 基金信披新规三亮点
+- [[sources/5-notes--32-20260628t154313-qa-美股150年崩盘复盘qa--2mx6k7]] — 5-notes--32-20260628t154313-qa-美股150年崩盘复盘qa--2mx6k7
+- [[entities/托马斯索威尔thomas-sowell]] — 托马斯·索威尔（Thomas Sowell）
+- [[concepts/崩盘常态化框架]] — 崩盘常态化框架
+- [[concepts/痛苦指数]] — 痛苦指数
+- [[concepts/叠加崩盘效应]] — 叠加崩盘效应
+- [[concepts/回本时间窗口]] — 回本时间窗口
+- [[concepts/应对优于预测]] — 应对优于预测
 - [[sources/5-notes--33-20260628t154300-qa-再平衡在什么情况才有用qa--1i5qcpt]] — 再平衡在什么情况才有用
 - [[concepts/再平衡收益的数学条件]] — 再平衡收益的数学条件
 - [[concepts/强势资产压制效应]] — 强势资产压制效应
 - [[sources/5-notes--30-20260628t154256-qa-日本股市泡沫重演qa--i7d93b]] — 日本股市是牛市修复非泡沫重演
-- [[entities/东京证券交易所]] — 东京证券交易所
-- [[entities/日经225指数]] — 日经225指数
-- [[concepts/日股三重驱动修复模型]] — 日股三重驱动修复模型
-- [[concepts/ETF溢价陷阱]] — ETF溢价陷阱
-- [[sources/5-notes--30-20260628t154238-qa-养老目标基金选择qa--zdxexa]] — QA — 养老目标基金选择——晨星中国
-- [[sources/5-notes--33-20260628t154236-qa-基金资金流与主被动变局qa--1imq0hl]] — 基金资金流与主被动变局
-- [[concepts/主动被动资金流分化]] — 主动被动资金流分化
-- [[sources/5-notes--34-20260628t154236-qa-基金回本后如何避免再被套qa--f31nkx]] — QA — 基金回本后如何避免再被套
-- [[concepts/期限错配风险]] — 期限错配风险
-- [[concepts/持有期四档分类]] — 持有期四档分类
-- [[sources/5-notes--35-20260628t154233-qa-自由现金流etf四个月爆发qa--wx5n07]] — QA — 自由现金流ETF四个月爆发：范式迁移还是泡沫？
-- [[concepts/自由现金流ETF]] — 自由现金流ETF
-- [[entities/国证自由现金流指数]] — 国证自由现金流指数
-- [[entities/中证全指自由现金流指数]] — 中证全指自由现金流指数
-- [[entities/华夏国证自由现金流ETF]] — 华夏国证自由现金流ETF
-- [[entities/建信人寿]] — 建信人寿
-- [[concepts/压舱石定位框架]] — 压舱石定位框架
-- [[sources/5-notes--32-20260628t154231-qa-债券etf类型与优势qa--1azxmut]] — 债券ETF类型与优势——晨星中国全景图
-- [[concepts/债券ETF三分法]] — 债券ETF三分法
-- [[concepts/基准做市信用债ETF]] — 基准做市信用债ETF
-- [[sources/5-notes--32-20260628t154220-qa-美股回调后的估值机会qa--1lhpxv]] — QA — 美股回调后的估值机会
-- [[concepts/杠铃策略]] — 杠铃策略
-- [[concepts/晨星公平值折价]] — 晨星公平值折价
-- [[concepts/能源板块估值周期翻转]] — 能源板块估值周期翻转
-- [[sources/5-notes--30-20260628t154215-qa-基金经理ai分歧qa--ggno5g]] — 基金经理AI分歧
-- [[sources/5-notes--33-20260628t154204-qa-全球多资产组合标准模板qa--1vv4uxy]] — 全球多资产组合标准模板 QA
-- [[concepts/市值加权中性起点]] — 市值加权中性起点
-- [[concepts/战术配置事后诸葛困境]] — 战术配置事后诸葛困境
-- [[concepts/本土偏好-量化框架]] — 本土偏好-量化框架
-- [[concepts/主流vs小众市场配置优先级]] — 主流vs小众市场配置优先级
-- [[concepts/偏离标准组合=主动表态]] — 偏离标准组合=主动表态
-- [[sources/5-notes--29-20260628t154139-qa-跨境理财通20qa--i3120l]] — 5-notes--29-20260628t154139-qa-跨境理财通20qa--i3120l
-- [[concepts/资金闭环汇划]] — 资金闭环汇划
-- [[concepts/南向通渠道额度分割]] — 南向通渠道额度分割
-- [[concepts/海外配置三重驱动]] — 海外配置三重驱动
-- [[sources/5-notes--28-20260628t154139-qa-检验主动基金qa--13jiumu]] — 检验主动基金——跑赢基准不等于有真本事 QA
-- [[sources/5-notes--35-20260628t154138-qa-美股9月回调是结束还是开始qa--7wacfd]] — 美股9月回调是结束还是开始
-- [[concepts/九月魔咒]] — 九月魔咒
-- [[concepts/四因素宏观环境框架]] — 四因素宏观环境框架
-- [[concepts/缓解性反弹]] — 缓解性反弹
-- [[concepts/市场先生]] — 市场先生
-- [[concepts/软着陆利好逻辑]] — 软着陆利好逻辑
-- [[entities/格雷厄姆]] — 格雷厄姆（Benjamin Graham）
-- [[sources/5-notes--33-20260628t154130-qa-全球配置中国最有吸引力qa--2tp8nw]] — 全球配置中国最有吸引力——晨星2025年市场展望
-- [[concepts/全球配置范式转变]] — 全球配置范式转变
-- [[concepts/长期预期回报率框架]] — 长期预期回报率框架
-- [[sources/5-notes--31-20260628t154129-qa-黄金是保险不是投资qa--1t0tqus]] — 黄金是保险不是投资 QA
-- [[concepts/黄金保险定位框架]] — 黄金保险定位框架
-- [[sources/5-notes--31-20260628t154128-qa-特朗普20美股展望qa--1tkw4ob]] — 特朗普20美股展望——晨星2025年市场前瞻
-- [[entities/dave-sekera]] — Dave Sekera
-- [[concepts/成长vs价值轮动-估值驱动型]] — 成长vs价值轮动——估值驱动型
-- [[concepts/AI投资阶段切换-硬件到应用]] — AI投资阶段切换——硬件到应用
-- [[sources/5-notes--33-20260628t154128-qa-主动偏股基金还能跑赢吗qa--70hoeh]] — 主动偏股基金还能跑赢吗
-- [[concepts/清盘率主动被动分化]] — 清盘率主动被动分化
-- [[sources/5-notes--31-20260628t154127-qa-现金不是零收益资产qa--4ufp25]] — QA — 现金不是零收益资产
-- [[concepts/现金作为战术配置]] — 现金作为战术配置
-- [[sources/5-notes--30-20260628t154126-qa-大宗商品配置价值qa--7u41h]] — QA — 大宗商品配置价值
-- [[sources/5-notes--30-20260628t154125-qa-债券价值并未消失qa--ltog8b]] — QA — 债券价值并未消失
-- [[concepts/债券稳定器]] — 债券稳定器
-- [[concepts/股债跷跷板脱钩]] — 股债跷跷板脱钩
-- [[sources/5-notes--30-20260628t154124-qa-股价过度波动之谜qa--3ozub6]] — 股价过度波动之谜 QA — 席勒经典谜题与泡泡玛特案例
-- [[concepts/股价过度波动之谜]] — 股价过度波动之谜
-- [[concepts/预期外推偏差]] — 预期外推偏差
-- [[entities/迪士尼]] — 迪士尼（Disney）
-- [[entities/三丽鸥-sanrio]] — 三丽鸥（Sanrio）
-- [[entities/罗伯特-希勒-robert-shiller]] — 罗伯特·希勒（Robert Shiller）
-- [[sources/5-notes--32-20260628t154123-qa-关税担忧资金转向欧洲qa--eyb1zf]] — 关税让资金流向欧洲——晨星2025年3月美国市场观察
-- [[concepts/跨市场资金轮动-关税驱动型]] — 跨市场资金轮动——关税驱动的宏观资本重配
-- [[concepts/关税贸易战中的防御性配置框架]] — 关税贸易战中的防御性配置框架
-- [[sources/5-notes--30-20260628t154123-qa-全球配置观点分化qa--1qqt2ci]] — 全球配置观点分化——晨星2026Q2宏观视角
-- [[entities/英国国债]] — 英国国债
-- [[entities/日本国债]] — 日本国债
-- [[concepts/英债性价比框架]] — 英债性价比框架
-- [[concepts/日债三重压力框架]] — 日债三重压力框架
-- [[concepts/叙事切换与信用债定价]] — 叙事切换与信用债定价
-- [[sources/5-notes--31-20260628t154122-qa-红利高股息三种形态qa--4nvrr2]] — QA — 红利高股息三种形态
-- [[concepts/高股息三种形态]] — 高股息三种形态
-- [[sources/5-notes--29-20260628t154121-qa-科技股抄底陷阱qa--fz1c2o]] — QA — 科技股抄底陷阱
-- [[concepts/科技股回调归因框架]] — 科技股回调归因框架
-- [[concepts/小盘股三条件共振]] — 小盘股三条件共振
-- [[concepts/公用事业AI电力需求泡沫]] — 公用事业AI电力需求泡沫
-- [[concepts/催化剂vs根源区分]] — 催化剂vs根源区分
-- [[concepts/成长vs价值风格切换-2026Q1案例]] — 成长vs价值风格切换-2026Q1案例
-- [[concepts/宽护城河企业当前价值]] — 宽护城河企业当前价值
-- [[sources/5-notes--33-20260628t154117-qa-增聘基金经理的四种解码qa--frhztg]] — QA — 增聘基金经理的四种解码
-- [[entities/俞晓斌]] — 俞晓斌
-- [[entities/陈倩]] — 陈倩
-- [[entities/中庚基金]] — 中庚基金
-- [[entities/刘晟]] — 刘晟
-- [[entities/吴承根]] — 吴承根
-- [[entities/徐博文]] — 徐博文
-- [[entities/李昱]] — 李昱
-- [[sources/5-notes--31-20260628t154108-qa-基金考核投资者本位qa--7gknqp]] — 基金考核投资者本位 QA
-- [[concepts/投资者回报差]] — 投资者回报差
-- [[sources/5-notes--34-20260628t154107-qa-巴菲特2024年致股东信qa--9cqjdc]] — 巴菲特2024年致股东信QA
-- [[entities/芒格-charlie-munger]] — 查理·芒格（Charlie Munger）
-- [[entities/西方石油]] — 西方石油（Occidental Petroleum）
-- [[entities/美国运通]] — 美国运通（American Express）
-- [[concepts/反向信号检验]] — 反向信号检验
-- [[concepts/好企业三要素]] — 好企业三要素
-- [[concepts/守的品质]] — 守的品质
-- [[concepts/芒格vs格雷厄姆投资框架对比]] — 芒格vs格雷厄姆投资框架对比
-- [[sources/5-notes--34-20260628t154051-qa-2026全球布局稳中求进qa--3bxca8]] — 2026全球布局稳中求进——晨星全球策略师圆桌
-- [[concepts/长期视角过滤噪音]] — 长期视角过滤噪音
-- [[concepts/关税通胀传导链]] — 关税通胀传导链
-- [[concepts/AI估值可持续条件]] — AI估值可持续条件
-- [[concepts/FOMO行为偏差]] — FOMO行为偏差
-- [[concepts/稳中求进框架]] — 稳中求进框架
-- [[concepts/被动投资者集中度困境]] — 被动投资者集中度困境
-- [[concepts/人力资本对冲]] — 人力资本对冲
-- [[sources/5-notes--29-20260628t154046-qa-四只etf拆解qa--1pbey7e]] — 选ETF看团队不只看指数——晨星四只ETF盘点
-- [[concepts/选ETF看团队不只看指数]] — 选ETF看团队不只看指数
-- [[concepts/主动超额衰减与中小盘机会并存]] — 主动超额衰减与中小盘机会并存
-- [[sources/5-notes--29-20260628t154037-qa-巴菲特减持抄底qa--17e2n5n]] — 巴菲特能抄的作业只有"心法"
-- [[sources/5-notes--32-20260628t154035-qa-基金策略容量怎么判断qa--km8v8w]] — 基金策略容量怎么判断
-- [[entities/广发创新升级混合]] — 广发创新升级混合
-- [[concepts/规模诅咒]] — 规模诅咒
-- [[sources/5-notes--33-20260628t154033-qa-行业基金主动跑赢被动吗qa--nymqfe]] — 行业基金主动跑赢被动吗
-- [[concepts/行业参照系偏差]] — 行业参照系偏差
-- [[concepts/等权平均收益率-vs-资产加权平均收益率]] — 等权平均收益率 vs 资产加权平均收益率
-- [[sources/5-notes--35-20260628t154030-qa-收益率新低后的债券策略分歧qa--6dq0gp]] — QA — 收益率新低后的债券策略分歧
-- [[sources/5-notes--32-20260628t154021-qa-基金经理换帅后怎么办qa--16x38cj]] — 基金经理换帅后怎么办——持有人该走还是留
-- [[entities/冯波]] — 冯波
-- [[entities/彭珂]] — 彭珂
-- [[entities/易方达行业领先混合]] — 易方达行业领先混合
-- [[concepts/单一基金经理依赖风险]] — 单一基金经理依赖风险
-- [[concepts/业绩时间窗口偏差]] — 业绩时间窗口偏差
-- [[concepts/完整市场周期检验]] — 完整市场周期检验
-- [[concepts/核心仓位-vs-卫星仓位框架]] — 核心仓位 vs 卫星仓位框架
-- [[sources/5-notes--34-20260628t154020-qa-新消费创新药基金经理分歧qa--rj6qcf]] — 新消费与创新药基金经理分歧：泡泡玛特与创新药的投资框架分歧
-- [[entities/熊潇雅]] — 熊潇雅
-- [[entities/萧楠]] — 萧楠
-- [[entities/戴军]] — 戴军
-- [[entities/刘晓]] — 刘晓
-- [[entities/泡泡玛特]] — 泡泡玛特
-- [[entities/老铺黄金]] — 老铺黄金
-- [[entities/蜜雪]] — 蜜雪
-- [[entities/中证香港创新药指数]] — 中证香港创新药指数
-- [[entities/Labubu]] — Labubu
-- [[concepts/泡沫定价四分类法]] — 泡沫定价四分类法
-- [[sources/5-notes--33-20260628t154015-qa-被动投资浪潮离中国多远qa--u6pyms]] — 被动投资浪潮离中国多远
-- [[concepts/被动逆袭趋势]] — 被动逆袭趋势
-- [[concepts/指数基金风险收益特征]] — 指数基金风险收益特征
-- [[sources/5-notes--31-20260628t154009-qa-ai信仰与真实增长qa--ypvrap]] — AI信仰与真实增长
-- [[sources/5-notes--33-20260628t154005-qa-油价冲击全球资产重定价qa--7h37r5]] — 油价冲击全球资产重定价 QA
-- [[concepts/油价冲击资产重定价传导链]] — 油价冲击资产重定价传导链
-- [[concepts/杀估值vs杀盈利]] — 杀估值 vs 杀盈利
-- [[concepts/三情景油价冲击投资组合应对]] — 三情景油价冲击投资组合应对
-- [[sources/5-notes--29-20260628t154002-qa-金属狂欢走多远qa--fqfs0k]] — 金属狂欢走多远 QA
-- [[concepts/大宗商品供需分化框架]] — 大宗商品供需分化框架
-- [[concepts/中国需求主导全球金属价格]] — 中国需求主导全球金属价格
-- [[concepts/ETF资金流驱动金价]] — ETF资金流驱动金价
-- [[concepts/铁矿石长期需求下行]] — 铁矿石长期需求下行
-- [[concepts/铜供应阶段性紧张]] — 铜供应阶段性紧张
-- [[concepts/锂产能出清周期]] — 锂产能出清周期
-- [[concepts/产能出清周期]] — 产能出清周期
-- [[concepts/商品边际驱动vs基础需求]] — 商品边际驱动vs基础需求
-- [[concepts/单一金属叙事谬误]] — 单一金属叙事谬误
-- [[entities/刚果民主共和国-铜矿]] — 刚果民主共和国-铜矿
-- [[sources/5-notes--31-20260628t153940-qa-四只fof基金优选qa--1dkm2h]] — 四只FOF基金优选
-- [[sources/5-notes--33-20260628t153937-qa-巴菲特2024致股东信qa--1qt2qgq]] — 巴菲特2024致股东信QA — 手握现金等待"大象"，继续加仓日本
-- [[entities/日本五大商社]] — 日本五大商社
-- [[concepts/现金持有作为等待机会策略]] — 现金持有作为等待机会策略
-- [[entities/伯克希尔-哈撒韦]] — 伯克希尔·哈撒韦（Berkshire Hathaway）
-- [[entities/沃伦-巴菲特-warren-buffett]] — 沃伦·巴菲特（Warren Buffett）
-- [[concepts/价值投资]] — 价值投资
-- [[concepts/复利阶段切换]] — 复利阶段切换
-- [[sources/5-notes--32-20260628t153935-qa-欧股估值修复接近终点qa--1qd13yz]] — 欧股估值修复接近终点 — QA
-- [[concepts/估值修复框架]] — 估值修复框架
-- [[concepts/指数权重集中风险]] — 指数权重集中风险
-- [[sources/5-notes--31-20260628t153931-qa-加密货币etf革命qa--1oydr48]] — QA — 加密货币ETF革命
-- [[entities/比特币]] — 比特币
-- [[entities/贝莱德]] — 贝莱德（BlackRock）
-- [[entities/sec美国证券交易委员会]] — SEC（美国证券交易委员会）
-- [[concepts/现货加密货币ETF-vs-期货加密货币ETF]] — 现货加密货币ETF vs 期货加密货币ETF
-- [[concepts/实物申赎模式]] — 实物申赎模式
-- [[concepts/加密资产国家战略]] — 加密资产国家战略
-- [[concepts/新资产被传统金融收编]] — 新资产被传统金融收编
-- [[synthesis/加密货币ETF革命]] — 加密货币ETF革命——新资产被传统金融收编的制度路径
-- [[concepts/自研芯片vs通用市场]] — 自研芯片 vs 通用市场
-- [[concepts/估值隐含过度乐观预期]] — 估值隐含过度乐观预期
-- [[concepts/美国出口管制政策-半导体与超算]] — 美国出口管制政策（半导体与超算）
-- [[sources/5-notes--34-20260628t153927-qa-英伟达ai顺风车坐稳了吗qa--8qx278]] — QA — 英伟达 AI 顺风车坐稳了吗
-- [[entities/英伟达-nvidia]] — 英伟达（NVIDIA）
-- [[entities/AMD]] — AMD
-- [[entities/特斯拉]] — 特斯拉（Tesla）
-- [[concepts/CUDA生态锁定]] — CUDA 生态锁定
-- [[concepts/GPU作为AI专用加速器]] — GPU 作为 AI 专用加速器
-- [[sources/5-notes--36-20260628t153917-qa-被动权益首超主动etf费率战qa--1srnvii]] — 被动权益首超主动，ETF费率战刚打到中局
-- [[concepts/宽基ETF价值创造-vs-主题ETF价值损失]] — 宽基ETF价值创造 vs 主题ETF价值损失
-- [[sources/5-notes--34-20260628t153916-qa-海外配置能否真正分散风险qa--1be46c3]] — QA — 海外配置能否真正分散风险
-- [[concepts/MSCI金龙指数-伪分散典型案例]] — MSCI金龙指数-伪分散典型案例
-- [[sources/5-notes--30-20260628t153915-qa-公募绩效考核新规qa--1iqbjgw]] — 公募绩效考核新规 QA
-- [[concepts/公募绩效考核新规]] — 公募绩效考核新规
-- [[concepts/强制跟投绑定]] — 强制跟投绑定
-- [[concepts/薪酬递延机制]] — 薪酬递延机制

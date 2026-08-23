@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1787390187139,
+  "updatedAt": 1787473701146,
   "files": {
     "purpose.md": {
       "hash": "77546dadbea32fdcf671400051e18f56",
@@ -3387,6 +3387,16 @@
       "size": 2078,
       "mtimeMs": 1786786662789
     },
+    "wiki/comparisons/A股vs美股股东回报机制.md": {
+      "hash": "d49c5e81d7d2a80b19d12ebdff2b7ba9",
+      "size": 2035,
+      "mtimeMs": 1787423962727
+    },
+    "wiki/comparisons/一次性买入vs定投.md": {
+      "hash": "77738a2f6dcdcd429a8bd65deccb75c4",
+      "size": 2257,
+      "mtimeMs": 1787419184829
+    },
     "wiki/comparisons/三种全天候策略对比.md": {
       "hash": "49a3f1a222791728d43f85983e240a25",
       "size": 3439,
@@ -3421,6 +3431,11 @@
       "hash": "dc800859bd0868028b0be18494d40c3e",
       "size": 7940,
       "mtimeMs": 1787261491047
+    },
+    "wiki/comparisons/沪深300vs中证A500.md": {
+      "hash": "7456beafabe82dfacd8c66a443486741",
+      "size": 3100,
+      "mtimeMs": 1787458038349
     },
     "wiki/comparisons/炒股vs创业vs指数基金.md": {
       "hash": "80646ee79e6b28e3bec2e44ec129ec37",
@@ -3477,6 +3492,11 @@
       "size": 2614,
       "mtimeMs": 1787280971994
     },
+    "wiki/concepts/AI投资决策渗透.md": {
+      "hash": "316349db011f275205a9b21157f70a71",
+      "size": 2025,
+      "mtimeMs": 1787452526100
+    },
     "wiki/concepts/AI投资阶段切换-硬件到应用.md": {
       "hash": "a9ab4dc3b3f74db12c6a975fd1ab8433",
       "size": 2777,
@@ -3517,10 +3537,20 @@
       "size": 3009,
       "mtimeMs": 1787335633180
     },
+    "wiki/concepts/CXO服务费商业模式.md": {
+      "hash": "a3f6d72d61e6e44253b9b6f140db3ebc",
+      "size": 2147,
+      "mtimeMs": 1787458529040
+    },
     "wiki/concepts/D-I-V directives.md": {
       "hash": "0fe92e821c229e37cb66bbf7938b6b62",
       "size": 1509,
       "mtimeMs": 1786918601514
+    },
+    "wiki/concepts/DCT去中心化临床试验.md": {
+      "hash": "10cf1deb4f1b451973913f6e3795f519",
+      "size": 1331,
+      "mtimeMs": 1787458529126
     },
     "wiki/concepts/ETF交易技巧与组合构建.md": {
       "hash": "beaf5fdc6e041205530a4fa7f3f72d51",
@@ -3572,15 +3602,20 @@
       "size": 2694,
       "mtimeMs": 1786914143126
     },
+    "wiki/concepts/FOF配置转向框架.md": {
+      "hash": "afd5464dd37bef1174d1a1a3d8405003",
+      "size": 4386,
+      "mtimeMs": 1787422161649
+    },
     "wiki/concepts/FOMO-害怕错过-投资语境.md": {
       "hash": "f1f9fdf4228a90772c7ddb9d6ae19a9b",
       "size": 1188,
       "mtimeMs": 1786945796854
     },
     "wiki/concepts/FOMO行为偏差.md": {
-      "hash": "42395ab9f1f7eda7515f6ba805d53faf",
-      "size": 2113,
-      "mtimeMs": 1787349815301
+      "hash": "3965c2460521717bd849ceab27345aab",
+      "size": 6473,
+      "mtimeMs": 1787411419842
     },
     "wiki/concepts/GARP均衡派.md": {
       "hash": "2757f6c74eef31572be9bce29edcb8ea",
@@ -3673,9 +3708,9 @@
       "mtimeMs": 1787265310423
     },
     "wiki/concepts/garp策略.md": {
-      "hash": "0cde6b4b8059ca36b796f44568c9b65e",
-      "size": 1889,
-      "mtimeMs": 1787029294203
+      "hash": "957b24c489bdb80e6b030a436c14d022",
+      "size": 3544,
+      "mtimeMs": 1787407775550
     },
     "wiki/concepts/peg市盈率相对盈利增长比率.md": {
       "hash": "5495a56f5285dba9b2564fc82b65a5b9",
@@ -3697,6 +3732,11 @@
       "size": 2091,
       "mtimeMs": 1787047615095
     },
+    "wiki/concepts/qdii三重约束框架.md": {
+      "hash": "41426caa557c492cd71da3dff2f94d2f",
+      "size": 2666,
+      "mtimeMs": 1787408310698
+    },
     "wiki/concepts/sfisf互换便利.md": {
       "hash": "b232c11af1f4bde10ce816e90e75eaf6",
       "size": 2835,
@@ -3711,6 +3751,11 @@
       "hash": "1d372e3ae8ed1fedd7450bf4ff64ca13",
       "size": 1176,
       "mtimeMs": 1786889762148
+    },
+    "wiki/concepts/一股独大.md": {
+      "hash": "bb3488df8ad48020e024bcdfed3cb6f3",
+      "size": 1677,
+      "mtimeMs": 1787423962682
     },
     "wiki/concepts/七日年化收益率与万份收益.md": {
       "hash": "1be6f26a482e6cd54378f249949710d7",
@@ -3797,10 +3842,25 @@
       "size": 3215,
       "mtimeMs": 1787152055030
     },
+    "wiki/concepts/上行捕获比.md": {
+      "hash": "59e40433dd65fbf7e806dc74edf1fa87",
+      "size": 1883,
+      "mtimeMs": 1787407432579
+    },
     "wiki/concepts/上行捕获率与下行捕获率.md": {
       "hash": "4475eadb89056359584b6f50bc17201b",
       "size": 1507,
       "mtimeMs": 1787213578824
+    },
+    "wiki/concepts/上香行情.md": {
+      "hash": "9891e84e1dbd8898021a83486a9c5b0f",
+      "size": 2690,
+      "mtimeMs": 1787449816652
+    },
+    "wiki/concepts/下滑曲线设计类型到点型与穿点型.md": {
+      "hash": "0786de1a852a023326995dae775f1d53",
+      "size": 1666,
+      "mtimeMs": 1787432582005
     },
     "wiki/concepts/下行风险.md": {
       "hash": "a51d03dd9bec0218867e1315cd44da15",
@@ -3958,9 +4018,9 @@
       "mtimeMs": 1787244722997
     },
     "wiki/concepts/主动被动资金流分化.md": {
-      "hash": "c0a7e55d3d2239ed5c431b1953ba71b7",
-      "size": 3008,
-      "mtimeMs": 1787388518590
+      "hash": "9b7b339b425fb6b775b09c7022ec73ef",
+      "size": 5151,
+      "mtimeMs": 1787438574396
     },
     "wiki/concepts/主动超额衰减与中小盘机会并存.md": {
       "hash": "ab6b5e893e00910e57f8a702fb39ca94",
@@ -4016,6 +4076,11 @@
       "hash": "28c7138c55e1704d67091b65a3165d24",
       "size": 3056,
       "mtimeMs": 1787180655762
+    },
+    "wiki/concepts/二极管思维-投资极端演绎.md": {
+      "hash": "7ec1779d614f0b07bdcc29375eed7c88",
+      "size": 3377,
+      "mtimeMs": 1787449816717
     },
     "wiki/concepts/互联网公司的两万人陷阱.md": {
       "hash": "21322e243d06a3d1784ab18177f9d0e4",
@@ -4197,6 +4262,11 @@
       "size": 1423,
       "mtimeMs": 1786947100143
     },
+    "wiki/concepts/估值隐含回报VIR框架.md": {
+      "hash": "31e191f73a1e44d6efa1de490ec63c0a",
+      "size": 2170,
+      "mtimeMs": 1787412977339
+    },
     "wiki/concepts/估值隐含过度乐观预期.md": {
       "hash": "8a4d5850e665608fd5def6555074b791",
       "size": 2224,
@@ -4317,10 +4387,25 @@
       "size": 1905,
       "mtimeMs": 1787119212328
     },
+    "wiki/concepts/债券期限溢价.md": {
+      "hash": "ecb7a939baa0322ce569a1658a2dec1e",
+      "size": 2143,
+      "mtimeMs": 1787423326485
+    },
     "wiki/concepts/债券稳定器.md": {
       "hash": "f77af29189f77bcb5b06bfe17ebace0d",
       "size": 4212,
       "mtimeMs": 1787357135614
+    },
+    "wiki/concepts/债券被动化分化框架.md": {
+      "hash": "bea9004c2d129ca3bcda8feff515fb1b",
+      "size": 2852,
+      "mtimeMs": 1787438971766
+    },
+    "wiki/concepts/债券配置场外转场内.md": {
+      "hash": "63602c410f3dec4f881d33efec03d064",
+      "size": 1301,
+      "mtimeMs": 1787422161675
     },
     "wiki/concepts/债务复利.md": {
       "hash": "91b38011e6c261670aea95b5bee84ac9",
@@ -4382,15 +4467,20 @@
       "size": 1586,
       "mtimeMs": 1787256859551
     },
+    "wiki/concepts/全球机构减持美国配置.md": {
+      "hash": "68dc3444f2bc3e56fa76b6b280d8ba32",
+      "size": 2336,
+      "mtimeMs": 1787452526009
+    },
     "wiki/concepts/全球灵活配置策略.md": {
       "hash": "15516aacdd1c77401b439cd0ed9c4cd0",
       "size": 2487,
       "mtimeMs": 1787183962463
     },
     "wiki/concepts/全球配置范式转变.md": {
-      "hash": "a1dde83d505ed6d627de46a2f12c6690",
-      "size": 3236,
-      "mtimeMs": 1787364107805
+      "hash": "081785b0f68b12d4e94087bcc365bab8",
+      "size": 4544,
+      "mtimeMs": 1787447540686
     },
     "wiki/concepts/公募基金高质量发展行动方案.md": {
       "hash": "f3c017d648cbaaf26a9a0ed665f4f64a",
@@ -4432,15 +4522,25 @@
       "size": 2014,
       "mtimeMs": 1787303799203
     },
+    "wiki/concepts/关税自我抵消机制.md": {
+      "hash": "2b46414092d143489f058302028f8f05",
+      "size": 2745,
+      "mtimeMs": 1787414304057
+    },
+    "wiki/concepts/关税行业冲击分化框架.md": {
+      "hash": "9586af956724989b26c5991623e52902",
+      "size": 2145,
+      "mtimeMs": 1787411150901
+    },
     "wiki/concepts/关税贸易战中的防御性配置框架.md": {
       "hash": "9eff76e31c5860d362344818c2ecff73",
       "size": 2930,
       "mtimeMs": 1787355626278
     },
     "wiki/concepts/关税通胀传导链.md": {
-      "hash": "97a65325d4e26cb445c8bc32ce90ee82",
-      "size": 2055,
-      "mtimeMs": 1787349815293
+      "hash": "b4bccd9a8427d15befe1e3291148566b",
+      "size": 3343,
+      "mtimeMs": 1787413290715
     },
     "wiki/concepts/关键日效应.md": {
       "hash": "e51d3a201dd37ebf6fa386d72e262ccd",
@@ -4512,6 +4612,11 @@
       "size": 1685,
       "mtimeMs": 1787160973417
     },
+    "wiki/concepts/净值便宜误区.md": {
+      "hash": "38234597650aa4bd2e72b69fec22360b",
+      "size": 1564,
+      "mtimeMs": 1787405474143
+    },
     "wiki/concepts/净值恐高症.md": {
       "hash": "c38b0e421861adbbbe87db75e5bd410f",
       "size": 1281,
@@ -4522,10 +4627,20 @@
       "size": 2196,
       "mtimeMs": 1787130741983
     },
+    "wiki/concepts/减持—贬值—再减持负反馈循环.md": {
+      "hash": "a825c15259519d8a799f051b5aad6cae",
+      "size": 2238,
+      "mtimeMs": 1787470417205
+    },
     "wiki/concepts/减法哲学.md": {
       "hash": "a6003a65746785818e9956ccd9b7c8d0",
       "size": 1856,
       "mtimeMs": 1787135155046
+    },
+    "wiki/concepts/凯利公式仓位管理.md": {
+      "hash": "f19c3d6c125c1fe5d6eface9d4af12f5",
+      "size": 3932,
+      "mtimeMs": 1787430717518
     },
     "wiki/concepts/凯恩斯-股票选美比喻.md": {
       "hash": "bf7cd9edd7b34ae353892353ed56f129",
@@ -4551,6 +4666,11 @@
       "hash": "bda7ac00d6429b22c3fdc53f5df5bb92",
       "size": 2456,
       "mtimeMs": 1787086723797
+    },
+    "wiki/concepts/分散化有效性条件.md": {
+      "hash": "53b1a198d7175363027c508389f20d6d",
+      "size": 3409,
+      "mtimeMs": 1787447103462
     },
     "wiki/concepts/分散配置.md": {
       "hash": "369752c186d8b24b13c27fb865bcc750",
@@ -4777,6 +4897,16 @@
       "size": 1149,
       "mtimeMs": 1787350014037
     },
+    "wiki/concepts/反机构化投机.md": {
+      "hash": "9586d01d0a986da3695d813357934b62",
+      "size": 3091,
+      "mtimeMs": 1787449816691
+    },
+    "wiki/concepts/反脆弱组合框架.md": {
+      "hash": "ac2229a834bf90e1eee7dccf4960a4d1",
+      "size": 2980,
+      "mtimeMs": 1787436865906
+    },
     "wiki/concepts/反脆弱验证期.md": {
       "hash": "4048b8ac4bf8925dc5fb23b5d1ccd059",
       "size": 1956,
@@ -4807,6 +4937,11 @@
       "size": 1928,
       "mtimeMs": 1787296046485
     },
+    "wiki/concepts/叠加崩盘效应.md": {
+      "hash": "38630f48f531d445645c54ea3ec5fad1",
+      "size": 2712,
+      "mtimeMs": 1787401596368
+    },
     "wiki/concepts/另类投资.md": {
       "hash": "a2402250523fa84ae217d5585230a3b0",
       "size": 1222,
@@ -4822,6 +4957,11 @@
       "size": 1021,
       "mtimeMs": 1786948723946
     },
+    "wiki/concepts/可持续回报框架.md": {
+      "hash": "e5d002c03a530d269d5c1c2dd2a56318",
+      "size": 2120,
+      "mtimeMs": 1787402212957
+    },
     "wiki/concepts/可行大于最优.md": {
       "hash": "4f19cc374cca5f1f3e37359291ad2802",
       "size": 3064,
@@ -4836,6 +4976,11 @@
       "hash": "43cfa07a6d3e31145032d229da390d6d",
       "size": 1682,
       "mtimeMs": 1786987705037
+    },
+    "wiki/concepts/可转债ETF极端集中度.md": {
+      "hash": "82d80b7d8460bcc6eb714877d7bffa94",
+      "size": 2838,
+      "mtimeMs": 1787438971897
     },
     "wiki/concepts/可转债仓位择时.md": {
       "hash": "a1e283b4c41b8fd25562676463a4011a",
@@ -4887,6 +5032,11 @@
       "size": 2684,
       "mtimeMs": 1787270582931
     },
+    "wiki/concepts/商品对冲价值.md": {
+      "hash": "c6d359b5db468037118850d0dce3d1e8",
+      "size": 2648,
+      "mtimeMs": 1787436865966
+    },
     "wiki/concepts/商品边际驱动vs基础需求.md": {
       "hash": "b290cf6cb3f2b9165145e6d5ee08c5c5",
       "size": 1485,
@@ -4901,6 +5051,11 @@
       "hash": "01a13d06ecd79352426efb52b3ecead4",
       "size": 1188,
       "mtimeMs": 1787278129024
+    },
+    "wiki/concepts/噪音vs趋势区分.md": {
+      "hash": "f9c2ffa8eff3ed3fa31db6cfd54c8a20",
+      "size": 1425,
+      "mtimeMs": 1787452526133
     },
     "wiki/concepts/囚徒困境.md": {
       "hash": "62e069c812dc01ed002153aec34baa08",
@@ -4957,6 +5112,11 @@
       "size": 2875,
       "mtimeMs": 1787132080243
     },
+    "wiki/concepts/回本时间窗口.md": {
+      "hash": "141ec9ea9e502c4285bcb3bfaacd688f",
+      "size": 2207,
+      "mtimeMs": 1787401596432
+    },
     "wiki/concepts/因为相信所以看见vs因为看见所以相信.md": {
       "hash": "8f96cc9d8e33d0c4a8ef60da52286201",
       "size": 2842,
@@ -4996,6 +5156,11 @@
       "hash": "3511764033d7648827f08b3fa3badf5b",
       "size": 3878,
       "mtimeMs": 1787254630899
+    },
+    "wiki/concepts/固收类产品费率敏感放大器.md": {
+      "hash": "48c7500c3858f10c390b18f5ba5796f2",
+      "size": 1591,
+      "mtimeMs": 1787433769348
     },
     "wiki/concepts/国债利率风险.md": {
       "hash": "147bf458fd3daecb27005be6e3a2f7dd",
@@ -5077,6 +5242,11 @@
       "size": 3456,
       "mtimeMs": 1787236268296
     },
+    "wiki/concepts/基金公司三要素评估框架.md": {
+      "hash": "15311ae540886448e60a6b645e44e3a5",
+      "size": 2658,
+      "mtimeMs": 1787455724119
+    },
     "wiki/concepts/基金公司利益冲突.md": {
       "hash": "363356f5cc2f3db727c7f586de9925fd",
       "size": 2598,
@@ -5126,6 +5296,11 @@
       "hash": "9d17a02053d8e6085070f2314e39e9ac",
       "size": 2304,
       "mtimeMs": 1787267480925
+    },
+    "wiki/concepts/基金经理自我迭代框架.md": {
+      "hash": "ee0df1f2f8074d271bf27d2c95a155b3",
+      "size": 2671,
+      "mtimeMs": 1787424821904
     },
     "wiki/concepts/基金经理自持.md": {
       "hash": "c635f6236daa576ebfc65114f45413bb",
@@ -5181,6 +5356,11 @@
       "hash": "ebff121edade2197d023a6dc95f01704",
       "size": 1358,
       "mtimeMs": 1786975013467
+    },
+    "wiki/concepts/外包渗透率框架.md": {
+      "hash": "6c2efee94feb240fb5272172d682d70e",
+      "size": 1409,
+      "mtimeMs": 1787458529098
     },
     "wiki/concepts/外延增长投资.md": {
       "hash": "962a1dd59c1224306da731200a5607a0",
@@ -5262,6 +5442,11 @@
       "size": 1767,
       "mtimeMs": 1787139155689
     },
+    "wiki/concepts/季度再平衡框架.md": {
+      "hash": "78bdf98ba7ff14970127f0cc2da8a835",
+      "size": 5887,
+      "mtimeMs": 1787433605385
+    },
     "wiki/concepts/守的品质.md": {
       "hash": "be10daa9dfe6de53e08f44c05a3ca1b5",
       "size": 1151,
@@ -5281,6 +5466,11 @@
       "hash": "6fc8503be22305ac957ac0d3a740fa5e",
       "size": 3185,
       "mtimeMs": 1787233297860
+    },
+    "wiki/concepts/安全边际压缩逻辑.md": {
+      "hash": "a779ff6da87aa5f4f005a90917232e9b",
+      "size": 2541,
+      "mtimeMs": 1787447031385
     },
     "wiki/concepts/完整市场周期检验.md": {
       "hash": "8ac7b7604b5393373e4ff573675ccd85",
@@ -5321,6 +5511,11 @@
       "hash": "d72c5c4f4a86ff254d16c35d52d19e16",
       "size": 767,
       "mtimeMs": 1787301100004
+    },
+    "wiki/concepts/定投跑输概率框架.md": {
+      "hash": "690c917437b2ae5c600f4520c721f21a",
+      "size": 1744,
+      "mtimeMs": 1787419184928
     },
     "wiki/concepts/定期不定额.md": {
       "hash": "f5706b191152cca8df1aefaca0c5654a",
@@ -5367,6 +5562,11 @@
       "size": 1663,
       "mtimeMs": 1787314955165
     },
+    "wiki/concepts/宽基指数行业均衡框架.md": {
+      "hash": "428780ec634f6994c6804280e08a671d",
+      "size": 2605,
+      "mtimeMs": 1787458038333
+    },
     "wiki/concepts/宽护城河企业当前价值.md": {
       "hash": "1d01bbcc17623cda986cd6bf91cbfede",
       "size": 1450,
@@ -5412,6 +5612,11 @@
       "size": 1752,
       "mtimeMs": 1787278131591
     },
+    "wiki/concepts/崩盘常态化框架.md": {
+      "hash": "0eadd5e6c6c1354dc0465ca8d61e4924",
+      "size": 2343,
+      "mtimeMs": 1787401596141
+    },
     "wiki/concepts/左侧布局.md": {
       "hash": "5ba5d9c158702cc48b9d1f34f4e8ceab",
       "size": 1543,
@@ -5421,6 +5626,11 @@
       "hash": "210a5c385a111351e03d17bb784c339e",
       "size": 1480,
       "mtimeMs": 1786914670926
+    },
+    "wiki/concepts/已投入资金IRR等效.md": {
+      "hash": "bc85781ae1e9b55c34cff92fe64d2705",
+      "size": 1810,
+      "mtimeMs": 1787419185003
     },
     "wiki/concepts/巴纳姆效应.md": {
       "hash": "392e3fcf97d282fffc6c809c9eafe998",
@@ -5482,6 +5692,11 @@
       "size": 1643,
       "mtimeMs": 1786991122834
     },
+    "wiki/concepts/平台资源效应.md": {
+      "hash": "311ec8e0ba9eecb130c30175806577e1",
+      "size": 1776,
+      "mtimeMs": 1787422769370
+    },
     "wiki/concepts/平衡投资.md": {
       "hash": "b743258fc2b901fe4a9781366c47f0a4",
       "size": 1398,
@@ -5521,6 +5736,11 @@
       "hash": "4d816c5543f25c173a0522fa2c4df710",
       "size": 1832,
       "mtimeMs": 1786944097469
+    },
+    "wiki/concepts/应对优于预测.md": {
+      "hash": "57cc06fea5f52cd513a080f89cf8bb42",
+      "size": 2093,
+      "mtimeMs": 1787401596506
     },
     "wiki/concepts/应急金分层存放.md": {
       "hash": "4545be4024e1d101f294c4edd69da61f",
@@ -5571,6 +5791,11 @@
       "hash": "5f37560d95e449f0fbdbf7c477417fdd",
       "size": 4713,
       "mtimeMs": 1787171128712
+    },
+    "wiki/concepts/总统与市场走势无关框架.md": {
+      "hash": "d3e6be497fd7b016a307e822188ca44b",
+      "size": 2654,
+      "mtimeMs": 1787446206144
     },
     "wiki/concepts/恐惧源于不了解风险.md": {
       "hash": "d59a167dbdcea338c7b8b124deb2c82d",
@@ -5656,6 +5881,11 @@
       "hash": "56aab2a497999f9a8dea11f969b1aac8",
       "size": 2063,
       "mtimeMs": 1786997294764
+    },
+    "wiki/concepts/把波动交给配置把收益交给时间.md": {
+      "hash": "13eb0a3ae0cedaa1bcda678315362dee",
+      "size": 2429,
+      "mtimeMs": 1787448976453
     },
     "wiki/concepts/投研一致性.md": {
       "hash": "7b5b1f7e02e779c4feae2c7ad25821cc",
@@ -5792,10 +6022,15 @@
       "size": 1893,
       "mtimeMs": 1787027299673
     },
+    "wiki/concepts/择时成本四维分解.md": {
+      "hash": "031967e9ae15533254ce4373e5743d81",
+      "size": 2150,
+      "mtimeMs": 1787404239778
+    },
     "wiki/concepts/择时的心理陷阱.md": {
-      "hash": "ea77ff59eae1df45ba5de9fd1efa3b88",
-      "size": 3560,
-      "mtimeMs": 1787086409254
+      "hash": "2288af12941f2a7cd73fddc2e64c881f",
+      "size": 5448,
+      "mtimeMs": 1787404758209
     },
     "wiki/concepts/持仓透明度反噬.md": {
       "hash": "6ab4a0f063d7d98045d1fb933f4f3a93",
@@ -5836,6 +6071,11 @@
       "hash": "ba72950fe5932b238501c2dc680b7cd9",
       "size": 1444,
       "mtimeMs": 1787316236817
+    },
+    "wiki/concepts/持股集中度评估框架.md": {
+      "hash": "4269a8d99c6d54380dd9a8f1e357ab77",
+      "size": 4419,
+      "mtimeMs": 1787455116689
     },
     "wiki/concepts/指数估值表.md": {
       "hash": "d445e5dc417ec27541eb906dcde65fe0",
@@ -6087,6 +6327,11 @@
       "size": 2314,
       "mtimeMs": 1786950502189
     },
+    "wiki/concepts/明星经理离职风险.md": {
+      "hash": "9ed41513414abfe8e19af18a21117b9f",
+      "size": 1659,
+      "mtimeMs": 1787455724177
+    },
     "wiki/concepts/易得性直觉驱动目标.md": {
       "hash": "65af03b9793bdfd3ecd957fc001b524b",
       "size": 2471,
@@ -6167,6 +6412,11 @@
       "size": 2161,
       "mtimeMs": 1787269850615
     },
+    "wiki/concepts/普涨后分散化最优框架.md": {
+      "hash": "ecdd06f6f50ab9674f62b6c13acd335e",
+      "size": 3272,
+      "mtimeMs": 1787447031152
+    },
     "wiki/concepts/景气度投资.md": {
       "hash": "641b1a496c51bb139f3a09b4b8520468",
       "size": 1779,
@@ -6242,6 +6492,11 @@
       "size": 2317,
       "mtimeMs": 1787380796632
     },
+    "wiki/concepts/本地产能占比决定关税承受力.md": {
+      "hash": "98006611868029099829c816b23a63db",
+      "size": 1285,
+      "mtimeMs": 1787411152551
+    },
     "wiki/concepts/本金侵蚀-每月派息份额风险.md": {
       "hash": "849b06d41e1177eebf4040e7725de442",
       "size": 2224,
@@ -6277,6 +6532,11 @@
       "size": 1626,
       "mtimeMs": 1787172578430
     },
+    "wiki/concepts/权益风格切换-价值到成长.md": {
+      "hash": "28f7198de5036bb7abf289c705f2e0be",
+      "size": 1506,
+      "mtimeMs": 1787422161681
+    },
     "wiki/concepts/杠铃策略.md": {
       "hash": "3fec150d82fb436b4e99e8b32ac75024",
       "size": 1612,
@@ -6291,6 +6551,11 @@
       "hash": "5781d91f01484437686fa374439a0abc",
       "size": 1765,
       "mtimeMs": 1787278531966
+    },
+    "wiki/concepts/标准化程度决定被动化可行性.md": {
+      "hash": "9d3b89c0733e04d931b4a3f438a35434",
+      "size": 2294,
+      "mtimeMs": 1787438971862
     },
     "wiki/concepts/标准差-基金波动率.md": {
       "hash": "538f39e8d3cb726596aba551a1c7e3e6",
@@ -6311,6 +6576,11 @@
       "hash": "710e0271f9e338c913b11f62e6ce4ec1",
       "size": 6705,
       "mtimeMs": 1786929559705
+    },
+    "wiki/concepts/核心卫星策略FOF应用.md": {
+      "hash": "b705255365644ca2baab2d8cc1e9bdae",
+      "size": 2556,
+      "mtimeMs": 1787455417741
     },
     "wiki/concepts/核心式投资组合.md": {
       "hash": "dd7241b20e92d54e54c1218d4bb06b7d",
@@ -6408,9 +6678,9 @@
       "mtimeMs": 1787139288741
     },
     "wiki/concepts/波动率对交易冲动的影响.md": {
-      "hash": "dd911196ecc3952735cb58f79a0b666c",
-      "size": 945,
-      "mtimeMs": 1787301099989
+      "hash": "e77c0b6d0567208d3daf3458a2bd4c1d",
+      "size": 1501,
+      "mtimeMs": 1787426733569
     },
     "wiki/concepts/波动率控制指数.md": {
       "hash": "61b8a0267afff741acc5245bc24a2e57",
@@ -6442,6 +6712,11 @@
       "size": 1413,
       "mtimeMs": 1787312145866
     },
+    "wiki/concepts/海外投研能力框架.md": {
+      "hash": "1407286e0df7a1c8effa48f056ec863d",
+      "size": 2737,
+      "mtimeMs": 1787422769350
+    },
     "wiki/concepts/海外配置三重驱动.md": {
       "hash": "af55d96d0aea21cd1328802fdd784196",
       "size": 1712,
@@ -6463,9 +6738,9 @@
       "mtimeMs": 1787184564674
     },
     "wiki/concepts/清盘率主动被动分化.md": {
-      "hash": "466161fd307a3053f1dfc809d9a5a264",
-      "size": 2733,
-      "mtimeMs": 1787360935326
+      "hash": "58dcca3973d27b01ecd80d7ae42e008a",
+      "size": 670,
+      "mtimeMs": 1787405744695
     },
     "wiki/concepts/港股弹性优于A股的三重驱动.md": {
       "hash": "3006fb1838cd87171c46f25be64c4f43",
@@ -6501,6 +6776,11 @@
       "hash": "7fc07a231fb7ed90a2b24b1aa39f498c",
       "size": 1790,
       "mtimeMs": 1787283979497
+    },
+    "wiki/concepts/烧钱模式逆向关税效应.md": {
+      "hash": "6a6bbe8ec758d9210f0ac76308b89424",
+      "size": 1705,
+      "mtimeMs": 1787411153107
     },
     "wiki/concepts/热手谬误.md": {
       "hash": "0d5238a917e993f6890bc61a0b971371",
@@ -6572,6 +6852,11 @@
       "size": 1757,
       "mtimeMs": 1787126914949
     },
+    "wiki/concepts/现金闲置成本.md": {
+      "hash": "e5e876ada4a965de30172b6b70e409ab",
+      "size": 2062,
+      "mtimeMs": 1787419185124
+    },
     "wiki/concepts/理财没有统一答案.md": {
       "hash": "38d83a21ec314edc4ea5d30bcada1c57",
       "size": 2330,
@@ -6632,6 +6917,11 @@
       "size": 1070,
       "mtimeMs": 1786889762191
     },
+    "wiki/concepts/痛苦指数.md": {
+      "hash": "cfa3d2511945a7fc05a69f45e323dade",
+      "size": 2391,
+      "mtimeMs": 1787401596246
+    },
     "wiki/concepts/白加黑减.md": {
       "hash": "6af36721cdf5da0ab4312a00a8c7f65d",
       "size": 704,
@@ -6661,6 +6951,11 @@
       "hash": "bc9667467ee9f4dcc2750e4bdd2e7396",
       "size": 2732,
       "mtimeMs": 1787111827266
+    },
+    "wiki/concepts/目标导向vs产品导向.md": {
+      "hash": "749d4ff2f71bcdadf14fc1190631232f",
+      "size": 2022,
+      "mtimeMs": 1787429885467
     },
     "wiki/concepts/目标日期基金.md": {
       "hash": "58c1868b115b2ff0a52088045ab45d0c",
@@ -6717,6 +7012,11 @@
       "size": 2318,
       "mtimeMs": 1786941652453
     },
+    "wiki/concepts/短债基金被疯抢.md": {
+      "hash": "278251b5e7305f4acb1426041867ebf1",
+      "size": 980,
+      "mtimeMs": 1787422161662
+    },
     "wiki/concepts/短期刚性目标配置.md": {
       "hash": "5f5d4d306f2eda1882ca9c902c87e9b0",
       "size": 2948,
@@ -6766,6 +7066,11 @@
       "hash": "3ab3e6943bc57a80dfc382b571bd1a51",
       "size": 2162,
       "mtimeMs": 1787183962489
+    },
+    "wiki/concepts/私募资产配置上升.md": {
+      "hash": "7263c263a466cebc33aa8977cd1cd6f5",
+      "size": 1892,
+      "mtimeMs": 1787452526050
     },
     "wiki/concepts/种田打猎资产配置法.md": {
       "hash": "c406f2c316a96e9faa0749d1a4b66bc6",
@@ -6882,6 +7187,11 @@
       "size": 2593,
       "mtimeMs": 1786995775850
     },
+    "wiki/concepts/索取大于回馈.md": {
+      "hash": "66ab467550095cfbed8777efd51a0bcc",
+      "size": 2307,
+      "mtimeMs": 1787423962598
+    },
     "wiki/concepts/索提诺比率.md": {
       "hash": "41db4112faa1f28323a414c3b4733716",
       "size": 3195,
@@ -6927,6 +7237,11 @@
       "size": 1059,
       "mtimeMs": 1787287413772
     },
+    "wiki/concepts/纳指七雄集中度风险.md": {
+      "hash": "4251069c4c98c62ffa82f35ca37ba3a2",
+      "size": 2329,
+      "mtimeMs": 1787413207273
+    },
     "wiki/concepts/线性外推.md": {
       "hash": "ff3950839499a86677b389ce0317c3cd",
       "size": 3144,
@@ -6946,6 +7261,11 @@
       "hash": "7713a5d8e7351b6b6c4ca9816b03971e",
       "size": 3785,
       "mtimeMs": 1786999179436
+    },
+    "wiki/concepts/经常账户-资本流入恒等式.md": {
+      "hash": "737482a32191c1bbc416306d8e3cf696",
+      "size": 2056,
+      "mtimeMs": 1787414304091
     },
     "wiki/concepts/经济四象限模型.md": {
       "hash": "32c3d5ea2b79ddfa37988b3529d58511",
@@ -6997,10 +7317,35 @@
       "size": 1284,
       "mtimeMs": 1787077997766
     },
+    "wiki/concepts/美元五因素分析框架.md": {
+      "hash": "5823e6838a213436f4c249195e1d4967",
+      "size": 3336,
+      "mtimeMs": 1787470417191
+    },
+    "wiki/concepts/美元避险光环失效.md": {
+      "hash": "9d9e27a4de255a950bd297d6b26c02a9",
+      "size": 2925,
+      "mtimeMs": 1787470417202
+    },
+    "wiki/concepts/美国例外论褪色.md": {
+      "hash": "83c67f32285668cfeac927e2d97b394b",
+      "size": 3239,
+      "mtimeMs": 1787470417194
+    },
     "wiki/concepts/美国出口管制政策-半导体与超算.md": {
       "hash": "0331007cbdc192994b59ec6ca908a8da",
       "size": 1992,
       "mtimeMs": 1787335894722
+    },
+    "wiki/concepts/美联储加息传导链——医药外包.md": {
+      "hash": "2d7525f3d0e0ad88b8a38a87ea4516e2",
+      "size": 1836,
+      "mtimeMs": 1787458529065
+    },
+    "wiki/concepts/美股估值分化框架.md": {
+      "hash": "cea5891773eb055fa5d2ff3719e064f5",
+      "size": 1801,
+      "mtimeMs": 1787411367845
     },
     "wiki/concepts/耐心-投资语境.md": {
       "hash": "ddd23bb7cb5b074c0550c5dd99c38be6",
@@ -7092,6 +7437,11 @@
       "size": 2642,
       "mtimeMs": 1787197527531
     },
+    "wiki/concepts/股息率-无风险利率比价模型.md": {
+      "hash": "3286dd4e3033d5e132b8407761912ddf",
+      "size": 1757,
+      "mtimeMs": 1787424822147
+    },
     "wiki/concepts/股息率利差纪律.md": {
       "hash": "4e771c0904651800dff13dde90346765",
       "size": 2011,
@@ -7171,6 +7521,11 @@
       "hash": "2eabeea70a531b0f7de4038027d16308",
       "size": 1696,
       "mtimeMs": 1787263293985
+    },
+    "wiki/concepts/自由贸易秩序逆转.md": {
+      "hash": "49aa9706d3c305a7f90f5321f2e44d2d",
+      "size": 1319,
+      "mtimeMs": 1787414304253
     },
     "wiki/concepts/自研芯片vs通用市场.md": {
       "hash": "cdf4658bec5b2a62c1a7ea8832295ea0",
@@ -7253,9 +7608,9 @@
       "mtimeMs": 1787174757019
     },
     "wiki/concepts/行业轮动策略.md": {
-      "hash": "4c44763bfb79a6dd61ff60c25bcee052",
-      "size": 1455,
-      "mtimeMs": 1787260534124
+      "hash": "5de25456f87168f6a36446ad71a18998",
+      "size": 14548,
+      "mtimeMs": 1787426561092
     },
     "wiki/concepts/行业配置贡献度.md": {
       "hash": "7c9ae5c258b0bbcce9b937353afccf20",
@@ -7297,15 +7652,30 @@
       "size": 1468,
       "mtimeMs": 1786914195192
     },
+    "wiki/concepts/被动AI暴露.md": {
+      "hash": "3699037284a5900c983240ff43e1f46f",
+      "size": 1589,
+      "mtimeMs": 1787402212951
+    },
     "wiki/concepts/被动与指数-语义陷阱.md": {
       "hash": "a7085ea48e8f617db056c42fd4902bc1",
       "size": 1931,
       "mtimeMs": 1786996053846
     },
+    "wiki/concepts/被动化四重驱动.md": {
+      "hash": "0b98e7b251d556df49075adbbb319f91",
+      "size": 2534,
+      "mtimeMs": 1787438971831
+    },
     "wiki/concepts/被动基金去留评估框架.md": {
       "hash": "6fe68005a67ece0c114d207eb39c0c3c",
       "size": 3547,
       "mtimeMs": 1787315217643
+    },
+    "wiki/concepts/被动成长产品陷阱.md": {
+      "hash": "a34429b61cda4d228212e608a23d969c",
+      "size": 1429,
+      "mtimeMs": 1787433769379
     },
     "wiki/concepts/被动房价改善.md": {
       "hash": "60aa0abd8728427480c905c9d9c65f83",
@@ -7327,10 +7697,20 @@
       "size": 3776,
       "mtimeMs": 1787088064654
     },
+    "wiki/concepts/被动收入增长三驱动.md": {
+      "hash": "401f18b0dbcf9624212cdaf5d8a739f2",
+      "size": 2446,
+      "mtimeMs": 1787429885479
+    },
     "wiki/concepts/被动替代主动.md": {
       "hash": "0ce308f8877e4340bcbda649cab4ba3f",
       "size": 2254,
       "mtimeMs": 1787316135600
+    },
+    "wiki/concepts/被动贡献率框架.md": {
+      "hash": "d45c57dd2aad3dacd0deb82f16689328",
+      "size": 1850,
+      "mtimeMs": 1787438472176
     },
     "wiki/concepts/被动逆袭趋势.md": {
       "hash": "f24deb1f58a15de76953813d38a272e2",
@@ -7373,9 +7753,9 @@
       "mtimeMs": 1787173953260
     },
     "wiki/concepts/规模诅咒.md": {
-      "hash": "a98e8f71b18a93e62b7842483a8b3b1c",
-      "size": 2987,
-      "mtimeMs": 1787347978002
+      "hash": "91be46dade22128a8d234c9ac7b67f6c",
+      "size": 1173,
+      "mtimeMs": 1787405545700
     },
     "wiki/concepts/规模逆势攀升悖论.md": {
       "hash": "a16411e6351fc284178034c1861b7ec3",
@@ -7447,6 +7827,11 @@
       "size": 3347,
       "mtimeMs": 1786945614133
     },
+    "wiki/concepts/财政主导担忧.md": {
+      "hash": "6752ce13cd56b50f01af4eaac6b252f0",
+      "size": 2486,
+      "mtimeMs": 1787470417198
+    },
     "wiki/concepts/货基功能重构.md": {
       "hash": "0ac091783c37c2bda324ed2fb8bd3b0d",
       "size": 6091,
@@ -7492,15 +7877,30 @@
       "size": 5629,
       "mtimeMs": 1787300650344
     },
+    "wiki/concepts/费率生存负相关框架.md": {
+      "hash": "67f31db63e569feea1d2140f8694ecff",
+      "size": 3152,
+      "mtimeMs": 1787433769319
+    },
     "wiki/concepts/费率触底后的ETF竞争格局.md": {
       "hash": "42e15dce4b8e3e6da630237e3cdc04b1",
       "size": 3088,
       "mtimeMs": 1787263234461
     },
+    "wiki/concepts/费率逆袭良性循环.md": {
+      "hash": "18889bb9f68bbdbb5c4a4844f2ddb054",
+      "size": 1381,
+      "mtimeMs": 1787433769408
+    },
     "wiki/concepts/费用是复利的反面.md": {
       "hash": "377523b62b13f8455aaf16b67a69db61",
       "size": 2970,
       "mtimeMs": 1786944097489
+    },
+    "wiki/concepts/资产久期特征.md": {
+      "hash": "8965f2e868806c5a313afb9d9396f5bd",
+      "size": 1912,
+      "mtimeMs": 1787424821946
     },
     "wiki/concepts/资产流动性分类.md": {
       "hash": "d03ece1c64d16420588876ba174ae433",
@@ -7523,9 +7923,9 @@
       "mtimeMs": 1787136533008
     },
     "wiki/concepts/资产配置优先原则.md": {
-      "hash": "7c2232fb2a776538116f3b5379c250ee",
-      "size": 1529,
-      "mtimeMs": 1786928849294
+      "hash": "cdb4749dbb41ad573188af847e235d6c",
+      "size": 2310,
+      "mtimeMs": 1787404647699
     },
     "wiki/concepts/资产配置反人性自动化策略.md": {
       "hash": "2b1c591b139a3b05c45bce0584cc0337",
@@ -7542,6 +7942,11 @@
       "size": 8269,
       "mtimeMs": 1787271668420
     },
+    "wiki/concepts/资本增值vs资金流入驱动.md": {
+      "hash": "8efa8de9c86a34cc99c18010113ba7c2",
+      "size": 2226,
+      "mtimeMs": 1787438472215
+    },
     "wiki/concepts/资本贪婪者.md": {
       "hash": "6dc7e97bd2123422cfb4980e7420482d",
       "size": 1373,
@@ -7556,6 +7961,11 @@
       "hash": "6c5ac12520975009a32b93ac259a29e5",
       "size": 1497,
       "mtimeMs": 1787378291678
+    },
+    "wiki/concepts/赎回费政策对配置的影响.md": {
+      "hash": "892d0879d7fbfba91cc3c4039d513bf1",
+      "size": 1386,
+      "mtimeMs": 1787422161688
     },
     "wiki/concepts/赛道估值透支.md": {
       "hash": "1aa2585b708713092a839d0ce97b428b",
@@ -7702,10 +8112,20 @@
       "size": 1523,
       "mtimeMs": 1787320363402
     },
+    "wiki/concepts/迷你基金三重困境.md": {
+      "hash": "b48efd7dbc6cc787787c544b615812f2",
+      "size": 3099,
+      "mtimeMs": 1787405474100
+    },
     "wiki/concepts/追涨杀跌损益侵蚀.md": {
       "hash": "fdf18177b0e32e52db56b938a5b8ce4c",
       "size": 4971,
       "mtimeMs": 1787266993118
+    },
+    "wiki/concepts/追热点减分项.md": {
+      "hash": "00c789ad3ac0374bd7e861af1b197d18",
+      "size": 1317,
+      "mtimeMs": 1787455724197
     },
     "wiki/concepts/退休满意度-财务×意义.md": {
       "hash": "ad4991caccc5086397b7a65d6c265858",
@@ -7726,6 +8146,16 @@
       "hash": "e6f8ea40d26037a9a0eda4e1b2839cac",
       "size": 1819,
       "mtimeMs": 1787348654058
+    },
+    "wiki/concepts/选举政策不确定性-波动放大机制.md": {
+      "hash": "3c6cd10a05470e7ebbc53aeca7bdbdb9",
+      "size": 2101,
+      "mtimeMs": 1787446206170
+    },
+    "wiki/concepts/选基适配框架.md": {
+      "hash": "f7203b46a3133606d9cc404ef479819c",
+      "size": 3593,
+      "mtimeMs": 1787423875148
     },
     "wiki/concepts/选择过载.md": {
       "hash": "ba74d216c6ed027f4fa0b48c135b30ea",
@@ -7756,6 +8186,11 @@
       "hash": "e836965d4cb60f01e17d1b904fecd8ec",
       "size": 1777,
       "mtimeMs": 1786891255446
+    },
+    "wiki/concepts/重商主义政策回归.md": {
+      "hash": "5e932f2eac3357c51dc9403b1fb153d1",
+      "size": 1982,
+      "mtimeMs": 1787414304123
     },
     "wiki/concepts/重复持仓陷阱.md": {
       "hash": "7c69ed496e97a895d082bf847af39061",
@@ -7797,10 +8232,25 @@
       "size": 1053,
       "mtimeMs": 1787259820806
     },
+    "wiki/concepts/银行股息差-bottoming框架.md": {
+      "hash": "ee0c9d8e0b7613a95461d6becce66b5b",
+      "size": 2595,
+      "mtimeMs": 1787437630193
+    },
+    "wiki/concepts/银行股避风港逻辑.md": {
+      "hash": "6323bf31f1dabcc088144da49dc1131c",
+      "size": 2558,
+      "mtimeMs": 1787437630220
+    },
     "wiki/concepts/锂产能出清周期.md": {
       "hash": "1cd49f44f6b561b655a0b6ce2bcb1706",
       "size": 1400,
       "mtimeMs": 1787340551538
+    },
+    "wiki/concepts/错杀-修复框架.md": {
+      "hash": "4ccabb10fb47b10e774066374a62967a",
+      "size": 1758,
+      "mtimeMs": 1787412977367
     },
     "wiki/concepts/错误定价.md": {
       "hash": "c89b2badde9fcba370a5d993c43541ed",
@@ -7852,6 +8302,11 @@
       "size": 3431,
       "mtimeMs": 1787312413365
     },
+    "wiki/concepts/降息原因决定市场反应.md": {
+      "hash": "30671d9482602d031d3add33260ad3de",
+      "size": 1857,
+      "mtimeMs": 1787436263545
+    },
     "wiki/concepts/降息环境基金配置分层.md": {
       "hash": "3c9056a4533b18b30bd7f0a477437921",
       "size": 3120,
@@ -7893,9 +8348,9 @@
       "mtimeMs": 1787222192913
     },
     "wiki/concepts/集中持股.md": {
-      "hash": "36ad38c164f5fb602a74b3984f6d927b",
-      "size": 3143,
-      "mtimeMs": 1787237376691
+      "hash": "376a8a7b637b94dd5b48474cb3008751",
+      "size": 4535,
+      "mtimeMs": 1787455341158
     },
     "wiki/concepts/零费率基金.md": {
       "hash": "36fb2af6a89588baa32feffb0acaed3c",
@@ -7911,6 +8366,11 @@
       "hash": "bdef490344c438c5df5a3c91296e7add",
       "size": 2195,
       "mtimeMs": 1787184564725
+    },
+    "wiki/concepts/页岩气革命案例.md": {
+      "hash": "0ac797c121c3cba5b13192f028836536",
+      "size": 1339,
+      "mtimeMs": 1787414304130
     },
     "wiki/concepts/预期可管理性.md": {
       "hash": "04c95e9451d3a3d9b555b0d0dc02c458",
@@ -8006,6 +8466,11 @@
       "hash": "603d0236c7107d28c34515bd2f39bfe0",
       "size": 2983,
       "mtimeMs": 1787276369839
+    },
+    "wiki/concepts/风格适配.md": {
+      "hash": "77bea2c3e61c379c5aff0200b9db0a2e",
+      "size": 2086,
+      "mtimeMs": 1787407775556
     },
     "wiki/concepts/风格逆风.md": {
       "hash": "2855003643012fbe9348f5a57aa008cc",
@@ -8107,6 +8572,11 @@
       "size": 2162,
       "mtimeMs": 1787100110708
     },
+    "wiki/concepts/香港互认债基配置.md": {
+      "hash": "92394277c39d3ef80177b7c6f632353d",
+      "size": 1303,
+      "mtimeMs": 1787422161685
+    },
     "wiki/concepts/高于平均效应-投资语境.md": {
       "hash": "79f1eda694f9a336344f7c7f43970352",
       "size": 2979,
@@ -8142,15 +8612,20 @@
       "size": 1662,
       "mtimeMs": 1787181751124
     },
+    "wiki/concepts/高科技投资-GDP占比-过热信号.md": {
+      "hash": "7a47beec79b66c9d85dd6166a34fdde9",
+      "size": 2122,
+      "mtimeMs": 1787423326479
+    },
     "wiki/concepts/高端化提价.md": {
       "hash": "8bb994549868112ece5053c20a24baf1",
       "size": 1766,
       "mtimeMs": 1787326031125
     },
     "wiki/concepts/高股息三种形态.md": {
-      "hash": "a458709897c99cbe5a6de773af433fb4",
-      "size": 2886,
-      "mtimeMs": 1787354304166
+      "hash": "2b6bacb96138f0ae8419b41f17bd426f",
+      "size": 4005,
+      "mtimeMs": 1787430211815
     },
     "wiki/concepts/高股息策略的正面框架.md": {
       "hash": "8fd6d485836b3cd8946ce8c449e6fc84",
@@ -8181,6 +8656,26 @@
       "hash": "ad4ad0188192276b3c31228cc84d24bd",
       "size": 3403,
       "mtimeMs": 1787363557184
+    },
+    "wiki/concepts/黄金均值回归.md": {
+      "hash": "e72328075ec380e74f00517d6e157aca",
+      "size": 1487,
+      "mtimeMs": 1787438637725
+    },
+    "wiki/concepts/黄金正反馈循环.md": {
+      "hash": "196e105784e41edf2d12a74710061523",
+      "size": 1637,
+      "mtimeMs": 1787438637641
+    },
+    "wiki/concepts/黄金纳入FOF基准.md": {
+      "hash": "e25d44012c9a598e553d4499abbcdaa0",
+      "size": 1500,
+      "mtimeMs": 1787422161677
+    },
+    "wiki/concepts/龙头效应板块联动.md": {
+      "hash": "66e6d97d7fb10b0b43e7b4c64db67402",
+      "size": 1418,
+      "mtimeMs": 1787458529133
     },
     "wiki/entities/AMD.md": {
       "hash": "3fcee686f5a5f976df68e32f108f5488",
@@ -8241,6 +8736,11 @@
       "hash": "e16a5da8cbec02ce38c1bc43b945d781",
       "size": 572,
       "mtimeMs": 1787257571303
+    },
+    "wiki/entities/Temu.md": {
+      "hash": "3300afe24adb49e6aecbf19379289cb3",
+      "size": 1264,
+      "mtimeMs": 1787411150746
     },
     "wiki/entities/TikTok.md": {
       "hash": "41c8a2b44cbafc920b292dbe435067de",
@@ -8397,6 +8897,11 @@
       "size": 2620,
       "mtimeMs": 1787188682332
     },
+    "wiki/entities/东方红基金-FOF视角.md": {
+      "hash": "9a358d69cda5998397a248d63dbb7249",
+      "size": 836,
+      "mtimeMs": 1787422161755
+    },
     "wiki/entities/东方红新动力.md": {
       "hash": "a278c83672f0f611c5534de0ea7eec27",
       "size": 2297,
@@ -8422,6 +8927,21 @@
       "size": 1207,
       "mtimeMs": 1787352654054
     },
+    "wiki/entities/中概互联网指数.md": {
+      "hash": "2f3d200c814fd311c731fcd2bb223302",
+      "size": 1123,
+      "mtimeMs": 1787408310703
+    },
+    "wiki/entities/中欧基金-FOF视角.md": {
+      "hash": "d0102a8b91212cc101fde257a3c31f6c",
+      "size": 1066,
+      "mtimeMs": 1787422161791
+    },
+    "wiki/entities/中欧基金养老目标日期视角.md": {
+      "hash": "d72e1204d77a4db996661e28b56d283a",
+      "size": 1219,
+      "mtimeMs": 1787432582063
+    },
     "wiki/entities/中欧新趋势混合.md": {
       "hash": "4c93e29800d1e07051c63d3aa673d08c",
       "size": 1900,
@@ -8446,6 +8966,11 @@
       "hash": "9fb686771e90c621e67ec2709ee3b98a",
       "size": 2335,
       "mtimeMs": 1787265778345
+    },
+    "wiki/entities/中证A50指数.md": {
+      "hash": "e2219f81af9dcc4ccd08baf822f17c7c",
+      "size": 1446,
+      "mtimeMs": 1787458038277
     },
     "wiki/entities/中证全债指数.md": {
       "hash": "46e45852ba008bd688264e93abdaf27f",
@@ -8503,9 +9028,9 @@
       "mtimeMs": 1786929504785
     },
     "wiki/entities/乔迁.md": {
-      "hash": "7ff8964fec8f4893c5d29e422dcb6c57",
-      "size": 1918,
-      "mtimeMs": 1787288807240
+      "hash": "f68902951f932cd32ef32ed2286877f5",
+      "size": 3085,
+      "mtimeMs": 1787406953821
     },
     "wiki/entities/五粮液.md": {
       "hash": "ad90908c7d4750a3d0ae20eda11e0930",
@@ -8552,6 +9077,11 @@
       "size": 1278,
       "mtimeMs": 1787250196379
     },
+    "wiki/entities/兴全合润混合-FOF持仓.md": {
+      "hash": "35011f45757e9625aa1f92b200c36d7a",
+      "size": 1113,
+      "mtimeMs": 1787422161744
+    },
     "wiki/entities/兴全合润混合.md": {
       "hash": "2f6cba1bf575fac81f495233d690e72f",
       "size": 2393,
@@ -8566,6 +9096,11 @@
       "hash": "a5d250b5d9260d10fd28241a338c38be",
       "size": 1279,
       "mtimeMs": 1786914143058
+    },
+    "wiki/entities/冯柳.md": {
+      "hash": "eae14a16b2e48da0cb87294cfe8d3853",
+      "size": 943,
+      "mtimeMs": 1787404239776
     },
     "wiki/entities/冯波.md": {
       "hash": "2e7836ba01665b6c8153adc42bc803b3",
@@ -8622,10 +9157,20 @@
       "size": 2531,
       "mtimeMs": 1787348728726
     },
+    "wiki/entities/华夏恒生互联网科技业ETF(QDII).md": {
+      "hash": "cba8212c7bbe5bd63ffd701edf8b7093",
+      "size": 1476,
+      "mtimeMs": 1787408310704
+    },
     "wiki/entities/华安基金.md": {
       "hash": "a7379b2b651b15190ac63e3885108cf5",
       "size": 1153,
       "mtimeMs": 1786902326014
+    },
+    "wiki/entities/华安易富黄金ETF.md": {
+      "hash": "dd867121c5531a2027ffc6000e14df9e",
+      "size": 1780,
+      "mtimeMs": 1787422161713
     },
     "wiki/entities/华泰柏瑞基金.md": {
       "hash": "4161b4c3356eedbad4f5c68f9a42b736",
@@ -8637,6 +9182,11 @@
       "size": 1210,
       "mtimeMs": 1786891255402
     },
+    "wiki/entities/南方基金养老目标日期视角.md": {
+      "hash": "a142a35d8ad732b1f0ba564d913353e4",
+      "size": 1312,
+      "mtimeMs": 1787432582094
+    },
     "wiki/entities/南方转型增长混合.md": {
       "hash": "7163e7127d7b21fa3d6219b91b36f5c4",
       "size": 1858,
@@ -8646,6 +9196,11 @@
       "hash": "ed4eef9e2962b8be71a46fffe5ec3807",
       "size": 1834,
       "mtimeMs": 1786915781112
+    },
+    "wiki/entities/卡玛拉-哈里斯-harris.md": {
+      "hash": "6c06b9a782cd082c94221fe16788075f",
+      "size": 1128,
+      "mtimeMs": 1787446206203
     },
     "wiki/entities/卢琴斯-luchins.md": {
       "hash": "2a3f29886f6c9fe985b0c5bad6fc5e04",
@@ -8727,6 +9282,11 @@
       "size": 2388,
       "mtimeMs": 1787178710061
     },
+    "wiki/entities/大成高鑫股票-FOF持仓.md": {
+      "hash": "6add0a972fd7ca170d1cc07815d96c08",
+      "size": 1473,
+      "mtimeMs": 1787422161717
+    },
     "wiki/entities/大成高鑫股票.md": {
       "hash": "6a52808debaa4ad0f699a6710727b125",
       "size": 2242,
@@ -8766,6 +9326,11 @@
       "hash": "2f90b08dd243cdfeee419fb75358f9d7",
       "size": 874,
       "mtimeMs": 1786914670828
+    },
+    "wiki/entities/宁君.md": {
+      "hash": "bf1989814a7c6f79b36c63dd6732a746",
+      "size": 1521,
+      "mtimeMs": 1787422769192
     },
     "wiki/entities/宁德时代.md": {
       "hash": "c196d1f68dd9c73644f942fd259f6bb5",
@@ -8807,6 +9372,11 @@
       "size": 1929,
       "mtimeMs": 1787245878333
     },
+    "wiki/entities/富国基金-FOF视角.md": {
+      "hash": "2a4c4385b1a8abe33dfd168abbce0adf",
+      "size": 831,
+      "mtimeMs": 1787422161748
+    },
     "wiki/entities/富达投资-fidelity.md": {
       "hash": "6a3c262d3cbcd5e266d565da5da0cd6a",
       "size": 1091,
@@ -8826,6 +9396,11 @@
       "hash": "607d228046998d2a0707843f8b2255d4",
       "size": 2758,
       "mtimeMs": 1787291369544
+    },
+    "wiki/entities/工商银行.md": {
+      "hash": "2fb97b346bcb8c7f8e9e18700056b2ae",
+      "size": 1476,
+      "mtimeMs": 1787437630253
     },
     "wiki/entities/工银双利债券.md": {
       "hash": "5e0a20acbad46e7d3a6a267ea9e0cd4a",
@@ -8861,6 +9436,11 @@
       "hash": "3d05daad5cf4142ca8f384fbbacff6b6",
       "size": 1304,
       "mtimeMs": 1786985605619
+    },
+    "wiki/entities/平安基金养老目标日期视角.md": {
+      "hash": "d2c274c17612640a933e2c70efe44efe",
+      "size": 1240,
+      "mtimeMs": 1787432582070
     },
     "wiki/entities/广发优企精选灵活配置混合.md": {
       "hash": "fec4d3522688a022e051c146c4b9e584",
@@ -8938,9 +9518,9 @@
       "mtimeMs": 1787181698803
     },
     "wiki/entities/彼得-林奇-peter-lynch.md": {
-      "hash": "fb9b51ad540684f6ad9060f5696e440f",
-      "size": 584,
-      "mtimeMs": 1787170894033
+      "hash": "16f029ba149f250f4ae2cae1e47af726",
+      "size": 2101,
+      "mtimeMs": 1787404404252
     },
     "wiki/entities/彼得林奇peter-lynch.md": {
       "hash": "a74650e6a30025e08683974a7779a7c9",
@@ -8967,10 +9547,20 @@
       "size": 1050,
       "mtimeMs": 1786988773046
     },
+    "wiki/entities/恒生科技指数.md": {
+      "hash": "a733cf7bb65c25d4c8144dbd63123083",
+      "size": 1257,
+      "mtimeMs": 1787408310702
+    },
     "wiki/entities/惠理-hengyi.md": {
       "hash": "4e9fdaebf4e52104b30f77f5b9a33277",
       "size": 2648,
       "mtimeMs": 1787199045536
+    },
+    "wiki/entities/惠理集团-hillhouse.md": {
+      "hash": "6272e19bb98efc31bb7663ed3f60b7b0",
+      "size": 1401,
+      "mtimeMs": 1787455724207
     },
     "wiki/entities/戴军.md": {
       "hash": "8f139c86efdcc4b6431902d32934ee7b",
@@ -8981,6 +9571,11 @@
       "hash": "8e787959aaac61d965b36b04ca8aaf61",
       "size": 1179,
       "mtimeMs": 1787321977814
+    },
+    "wiki/entities/托马斯索威尔thomas-sowell.md": {
+      "hash": "3e473be7e195ce4206965b747229b5ff",
+      "size": 1004,
+      "mtimeMs": 1787401596054
     },
     "wiki/entities/抖音.md": {
       "hash": "fa3bd90ecd6b3144d69d450cfb94a341",
@@ -9021,6 +9616,11 @@
       "hash": "729cf9d8168983232b6ae79f879a6ac8",
       "size": 4473,
       "mtimeMs": 1787199710913
+    },
+    "wiki/entities/摩根国际债券基金-FOF持仓.md": {
+      "hash": "58e1338396c94d476a74ae8383d37543",
+      "size": 1205,
+      "mtimeMs": 1787422161720
     },
     "wiki/entities/摩根国际债券基金.md": {
       "hash": "1c96f3e714d4637c395bc89abbca1499",
@@ -9087,10 +9687,20 @@
       "size": 1911,
       "mtimeMs": 1787310480159
     },
+    "wiki/entities/易方达基金养老目标日期视角.md": {
+      "hash": "becf7f846fe8fd89a6c6d1b13fe7c9d3",
+      "size": 1420,
+      "mtimeMs": 1787432582106
+    },
+    "wiki/entities/易方达科融混合.md": {
+      "hash": "6fa8fcce84811cc12ad63d09c0807863",
+      "size": 1122,
+      "mtimeMs": 1787422161733
+    },
     "wiki/entities/易方达稳健收益.md": {
-      "hash": "2c00ee18eb8502fb4383447e83df52f3",
-      "size": 4304,
-      "mtimeMs": 1787180354284
+      "hash": "de5a442e2abc591921c5f86f2c78f32d",
+      "size": 1374,
+      "mtimeMs": 1787407432572
     },
     "wiki/entities/易方达行业领先混合.md": {
       "hash": "9ad47fb868dbd5fd42dad1e9c9b02e83",
@@ -9152,6 +9762,11 @@
       "size": 2280,
       "mtimeMs": 1786915438322
     },
+    "wiki/entities/杨嘉文.md": {
+      "hash": "84112a020b784ec4dc2f276f726d7a0c",
+      "size": 1456,
+      "mtimeMs": 1787424821863
+    },
     "wiki/entities/杨鑫鑫.md": {
       "hash": "a8f8982030c29d0859a714e36e2d4253",
       "size": 1306,
@@ -9163,9 +9778,9 @@
       "mtimeMs": 1786918601436
     },
     "wiki/entities/查尔斯-艾里斯-charles-ellis.md": {
-      "hash": "df07444e2e10c834f14c35ff31522db5",
-      "size": 2327,
-      "mtimeMs": 1786984923399
+      "hash": "6eb071610eb35af1407eb4f54423c7e7",
+      "size": 2811,
+      "mtimeMs": 1787404511750
     },
     "wiki/entities/标普500指数.md": {
       "hash": "eca7f65a8185d3a858613312fc80a25b",
@@ -9217,10 +9832,20 @@
       "size": 1614,
       "mtimeMs": 1787245878270
     },
+    "wiki/entities/比亚迪.md": {
+      "hash": "92d4a5f554f623a31633756985f172c4",
+      "size": 1165,
+      "mtimeMs": 1787411150610
+    },
     "wiki/entities/比特币.md": {
       "hash": "eeab8c5494f8caccfdc0b8b3103ad211",
       "size": 1766,
       "mtimeMs": 1787337058589
+    },
+    "wiki/entities/毕天宇.md": {
+      "hash": "b92412646987f0cba4987cf33354c4ae",
+      "size": 1083,
+      "mtimeMs": 1787406524923
     },
     "wiki/entities/汇丰-互认基金业务.md": {
       "hash": "a74651232963eba932ee5858470073ce",
@@ -9287,6 +9912,16 @@
       "size": 1004,
       "mtimeMs": 1787326030919
     },
+    "wiki/entities/海富通.md": {
+      "hash": "03e910b3ca730e2d4d190312b68964ad",
+      "size": 1048,
+      "mtimeMs": 1787422161709
+    },
+    "wiki/entities/海尔.md": {
+      "hash": "909f3589a6845d20bc58246b5eb8a04b",
+      "size": 1273,
+      "mtimeMs": 1787411150185
+    },
     "wiki/entities/潘乱.md": {
       "hash": "fc63b49b84bec32927accf32d8ec4a27",
       "size": 1322,
@@ -9296,6 +9931,11 @@
       "hash": "3bba5c69558e2d671c471b9aac9309c4",
       "size": 1755,
       "mtimeMs": 1787344719869
+    },
+    "wiki/entities/爱德华-索普-edward-thorp.md": {
+      "hash": "02a1c340d92cf36139a799ff6a92a1c9",
+      "size": 1352,
+      "mtimeMs": 1787430717698
     },
     "wiki/entities/特斯拉.md": {
       "hash": "0feb7b643540f2abb0cbf1e38d9191ec",
@@ -9357,6 +9997,11 @@
       "size": 1328,
       "mtimeMs": 1786888506322
     },
+    "wiki/entities/祁广东.md": {
+      "hash": "541956e8d592a78195698dd7786c19d1",
+      "size": 1265,
+      "mtimeMs": 1787422769285
+    },
     "wiki/entities/祝松.md": {
       "hash": "ac4c4cb735843296c9e869ad95e400ba",
       "size": 2329,
@@ -9386,6 +10031,11 @@
       "hash": "2aec0efc24b87b21544317101afbe22d",
       "size": 1638,
       "mtimeMs": 1787003253062
+    },
+    "wiki/entities/约翰-凯利-john-kelly.md": {
+      "hash": "86dd902e3de888ca71ed0591fb72923a",
+      "size": 804,
+      "mtimeMs": 1787430717724
     },
     "wiki/entities/约翰-博格尔john-bogle.md": {
       "hash": "03d1233aa7a0f660fa09a9ec7ceee945",
@@ -9457,6 +10107,11 @@
       "size": 728,
       "mtimeMs": 1787259820649
     },
+    "wiki/entities/美的.md": {
+      "hash": "73c6513118f83d8e757502dbefc3e278",
+      "size": 1198,
+      "mtimeMs": 1787411150303
+    },
     "wiki/entities/美联储.md": {
       "hash": "a38aa3deb47d8e90e24a21832ea93936",
       "size": 4782,
@@ -9478,9 +10133,9 @@
       "mtimeMs": 1786919908965
     },
     "wiki/entities/胡剑.md": {
-      "hash": "0e48174f258bc4e4c9761951d71d7508",
-      "size": 2184,
-      "mtimeMs": 1787180354293
+      "hash": "5716601085c5a09bfa5755e6c2e5a511",
+      "size": 3306,
+      "mtimeMs": 1787407009751
     },
     "wiki/entities/胡志利.md": {
       "hash": "085f7a12f3bda2158df504f847c730ee",
@@ -9508,14 +10163,24 @@
       "mtimeMs": 1787350013813
     },
     "wiki/entities/英伟达-nvidia.md": {
-      "hash": "63b480cd64e8c2c84f6455d79ad71014",
-      "size": 3871,
-      "mtimeMs": 1787335632460
+      "hash": "49deb329352cc4111460690060c94987",
+      "size": 4545,
+      "mtimeMs": 1787413543847
     },
     "wiki/entities/英国国债.md": {
       "hash": "32c3d812b0f6e9fcbe15c9ce43c236e4",
       "size": 2265,
       "mtimeMs": 1787354828618
+    },
+    "wiki/entities/药明生物.md": {
+      "hash": "5c6e570affd6fd957c7264887b93f868",
+      "size": 1721,
+      "mtimeMs": 1787458529034
+    },
+    "wiki/entities/莉萨-库克.md": {
+      "hash": "c514557435f5daa04bd64c8f43f9f8e4",
+      "size": 1471,
+      "mtimeMs": 1787470417273
     },
     "wiki/entities/菲利普-费雪.md": {
       "hash": "b8b0dbdd6b56ad6473fb5027b2da1395",
@@ -9563,14 +10228,19 @@
       "mtimeMs": 1787350013884
     },
     "wiki/entities/詹成.md": {
-      "hash": "f06381c1fe834fa8f2f6e786b009677d",
-      "size": 2032,
-      "mtimeMs": 1787174756998
+      "hash": "794f7028df2d95a97c641f3c37f9242b",
+      "size": 1196,
+      "mtimeMs": 1787406667569
     },
     "wiki/entities/谢治宇.md": {
       "hash": "e36cf27230a781554e5b2e486c2edb29",
       "size": 1473,
       "mtimeMs": 1787286004906
+    },
+    "wiki/entities/谷衡.md": {
+      "hash": "db7bf656f24bf63a36b237326075e094",
+      "size": 1324,
+      "mtimeMs": 1787424821892
     },
     "wiki/entities/贝莱德.md": {
       "hash": "768a649068391d4e672fe50236c98763",
@@ -9596,6 +10266,11 @@
       "hash": "269d17772a1145dc035ca55bd9332649",
       "size": 1121,
       "mtimeMs": 1787086765187
+    },
+    "wiki/entities/资本集团-capital-group.md": {
+      "hash": "cdaa459d5345903719478c6235b258ab",
+      "size": 1385,
+      "mtimeMs": 1787455724203
     },
     "wiki/entities/赫尔曼-蒂特曼-herbert-titman.md": {
       "hash": "457970fdda155cc4a78029582399e50a",
@@ -9631,6 +10306,11 @@
       "hash": "72f8cebd470fdb5a997549ae62007d61",
       "size": 647,
       "mtimeMs": 1787323305968
+    },
+    "wiki/entities/郑涛.md": {
+      "hash": "469be4a26b000916bd62fad24c511e5e",
+      "size": 1320,
+      "mtimeMs": 1787422769325
     },
     "wiki/entities/郭为熹.md": {
       "hash": "8a2691613bfc46d24c531d720b633d24",
@@ -9753,14 +10433,14 @@
       "mtimeMs": 1787250196236
     },
     "wiki/index.md": {
-      "hash": "46123c1b48e38b2ede253370343d0bd3",
-      "size": 17125,
-      "mtimeMs": 1787390185044
+      "hash": "110876a448440e1371f1006c538783a4",
+      "size": 17695,
+      "mtimeMs": 1787473700226
     },
     "wiki/log.md": {
-      "hash": "11468553baac142f78039ea5f2b4f70f",
-      "size": 294406,
-      "mtimeMs": 1787390184952
+      "hash": "f438dd1fc3b64902793d8147066bdbd0",
+      "size": 328715,
+      "mtimeMs": 1787473700224
     },
     "wiki/overview.md": {
       "hash": "3a6b8de12b70516be93fe9f2f947b45c",
@@ -9771,6 +10451,11 @@
       "hash": "2306cf5a4fbea6fa8993dc1b4d969809",
       "size": 1576,
       "mtimeMs": 1786928849413
+    },
+    "wiki/queries/关税能缩小贸易逆差吗.md": {
+      "hash": "b5d576ab262a729625991a55d9d17f92",
+      "size": 1553,
+      "mtimeMs": 1787414304115
     },
     "wiki/queries/基金公司是否会迎合晨星分类.md": {
       "hash": "5d3aad4d7e57ec45ad142c165c862c26",
@@ -9982,6 +10667,16 @@
       "size": 7134,
       "mtimeMs": 1787381161463
     },
+    "wiki/sources/5-notes--28-20260628t154334-qa-迷你基金陷阱qa--1fxmfr7.md": {
+      "hash": "c3a9edf82113463d629a4455fd5a950a",
+      "size": 2362,
+      "mtimeMs": 1787405473999
+    },
+    "wiki/sources/5-notes--28-20260628t154529-qa-主动持股比例qa--14fbr7l.md": {
+      "hash": "6bf25c4e841a01bec0f52ab494bc1956",
+      "size": 4587,
+      "mtimeMs": 1787429258472
+    },
     "wiki/sources/5-notes--29-20260614t091506-qa-30年投资教训qa--ky3cp.md": {
       "hash": "eaddbd8b6bc490ae5460dfaab15bd0f9",
       "size": 4234,
@@ -10156,6 +10851,16 @@
       "hash": "24777a0329db0574b22b6e315592a0b1",
       "size": 3379,
       "mtimeMs": 1787378291625
+    },
+    "wiki/sources/5-notes--29-20260628t154432-qa-fof配置方向qa--dr1c4a.md": {
+      "hash": "1a5d71c39c024678bd04578165de2c11",
+      "size": 4914,
+      "mtimeMs": 1787422161521
+    },
+    "wiki/sources/5-notes--29-20260628t154559-qa-美联储降息拐点qa--1amc15f.md": {
+      "hash": "2aefe1c323f843aa02d06d5a086b261d",
+      "size": 4647,
+      "mtimeMs": 1787436263488
     },
     "wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md": {
       "hash": "686168baee08e5405bc196ffb80e3a32",
@@ -10477,6 +11182,41 @@
       "size": 5195,
       "mtimeMs": 1787389443716
     },
+    "wiki/sources/5-notes--30-20260628t154335-qa-基金选品适配市场qa--1ob3u88.md": {
+      "hash": "0680c0129e68c84c58f2f067b2a922cf",
+      "size": 4429,
+      "mtimeMs": 1787406524921
+    },
+    "wiki/sources/5-notes--30-20260628t154337-qa-投资者回报差终章qa--13c7rsf.md": {
+      "hash": "0123029341ba233133feb7c84367cd56",
+      "size": 17131,
+      "mtimeMs": 1787408045532
+    },
+    "wiki/sources/5-notes--30-20260628t154433-qa-选基金经理看什么qa--jqbub1.md": {
+      "hash": "b3a0e4e1eb6cd7adcab424c847fc5fd4",
+      "size": 4722,
+      "mtimeMs": 1787423875107
+    },
+    "wiki/sources/5-notes--30-20260628t154442-qa-a股赚钱难的原因qa--z1h6rr.md": {
+      "hash": "2434c24101af2bcaaba287fb9f6dd73f",
+      "size": 3935,
+      "mtimeMs": 1787423962519
+    },
+    "wiki/sources/5-notes--30-20260628t154536-qa-凯利公式仓位管理qa--ys48x7.md": {
+      "hash": "ca51f9948959498bc5641e6f27b3ed74",
+      "size": 3562,
+      "mtimeMs": 1787430717419
+    },
+    "wiki/sources/5-notes--30-20260628t154638-qa-美大选经济影响辨qa--eb6ie7.md": {
+      "hash": "43cb34f91164d518be8b4840b3c746af",
+      "size": 3775,
+      "mtimeMs": 1787446206105
+    },
+    "wiki/sources/5-notes--30-20260628t154756-qa-基金超市科学分散qa--18llgdn.md": {
+      "hash": "55206dc0a3310ad8ad03ae640c456901",
+      "size": 5972,
+      "mtimeMs": 1787467791792
+    },
     "wiki/sources/5-notes--31-20240627t090132-qa-主题基金不等于风口qa--1og2i1m.md": {
       "hash": "170cec17f65c2efc191f6e9f68decfbb",
       "size": 4043,
@@ -10736,6 +11476,51 @@
       "hash": "20a5c5632a561fc332a1b5b2323146b3",
       "size": 4791,
       "mtimeMs": 1787363557178
+    },
+    "wiki/sources/5-notes--31-20260628t154318-qa-基金信披新规三亮点qa--shgf9k.md": {
+      "hash": "464354d35771b4a24cf0efc964e93017",
+      "size": 2364,
+      "mtimeMs": 1787402039403
+    },
+    "wiki/sources/5-notes--31-20260628t154327-qa-黄金原油抗通胀真相qa--1udmunm.md": {
+      "hash": "d178ffa2694b25cf77ea8fe413f8bf69",
+      "size": 7999,
+      "mtimeMs": 1787403422657
+    },
+    "wiki/sources/5-notes--31-20260628t154414-qa-平衡风格基金选股力qa--16clgb2.md": {
+      "hash": "ef7c49ec31a57f648fc98ce4159d640c",
+      "size": 5526,
+      "mtimeMs": 1787417889807
+    },
+    "wiki/sources/5-notes--31-20260628t154429-qa-定投真能熨平波动吗qa--1livtht.md": {
+      "hash": "201515aead3068c3b31c1b07024e2507",
+      "size": 3713,
+      "mtimeMs": 1787419184673
+    },
+    "wiki/sources/5-notes--31-20260628t154433-qa-qdii基金怎么选qa--17fw2vk.md": {
+      "hash": "0a0759670640321519fef0e63e49b0e4",
+      "size": 5209,
+      "mtimeMs": 1787422769116
+    },
+    "wiki/sources/5-notes--31-20260628t154448-qa-基金经理高光与遗憾qa--1fuckkt.md": {
+      "hash": "0886eb04cb0f5dc7a956b81d48c7c25b",
+      "size": 4919,
+      "mtimeMs": 1787424821832
+    },
+    "wiki/sources/5-notes--31-20260628t154520-qa-ai时代护城河重估qa--2gxgvj.md": {
+      "hash": "a3b70890dc76110c254546fbe32b872b",
+      "size": 9583,
+      "mtimeMs": 1787428845394
+    },
+    "wiki/sources/5-notes--31-20260628t154533-qa-红利指数基金怎么挑qa--7pmqpg.md": {
+      "hash": "bbad6edaf6c99191235412daed6770b4",
+      "size": 6301,
+      "mtimeMs": 1787430665288
+    },
+    "wiki/sources/5-notes--31-20260628t154551-qa-高波动基金蜜糖陷阱qa--19z2giz.md": {
+      "hash": "9284850e7b5cc40669dc7882fa3b6e10",
+      "size": 6262,
+      "mtimeMs": 1787433133340
     },
     "wiki/sources/5-notes--32-20260531t113345-拆书-指数基金投资指南book--11256pf.md": {
       "hash": "45d76591898c50a35ec246dd6d656d38",
@@ -11016,6 +11801,56 @@
       "hash": "f87d104f57b986caebe3d47a66d79cc0",
       "size": 3102,
       "mtimeMs": 1787382824908
+    },
+    "wiki/sources/5-notes--32-20260628t154313-qa-美股150年崩盘复盘qa--2mx6k7.md": {
+      "hash": "8fc9b762db26298d04991894913bada8",
+      "size": 3878,
+      "mtimeMs": 1787401595972
+    },
+    "wiki/sources/5-notes--32-20260628t154536-qa-目标日期基金下滑曲线qa--1se2qua.md": {
+      "hash": "f53b4eb488c4576972d1f704e394cd40",
+      "size": 2778,
+      "mtimeMs": 1787432581970
+    },
+    "wiki/sources/5-notes--32-20260628t154632-qa-债券被动投资时代来了qa--gs1k8.md": {
+      "hash": "71aaf2ff6376a157c2de7867bf5bbc9c",
+      "size": 4317,
+      "mtimeMs": 1787438971321
+    },
+    "wiki/sources/5-notes--32-20260628t154649-qa-a股3000点保卫战qa--1gj20sq.md": {
+      "hash": "3da59e7d797e8b114fda441f407df5b0",
+      "size": 5452,
+      "mtimeMs": 1787449816638
+    },
+    "wiki/sources/5-notes--32-20260628t154656-qa-四只固收基金深度拆解qa--1wqqnti.md": {
+      "hash": "cf4d82b8a5d3a4996a9ff253e02b720d",
+      "size": 19417,
+      "mtimeMs": 1787453150925
+    },
+    "wiki/sources/5-notes--32-20260628t154700-qa-防御性资产真能防御吗qa--1rvkqur.md": {
+      "hash": "fbe26d83e545bbc10ed8377081458c23",
+      "size": 8463,
+      "mtimeMs": 1787453728052
+    },
+    "wiki/sources/5-notes--32-20260628t154713-qa-公募基金经理薪酬改革qa--106n869.md": {
+      "hash": "b72f387a85bfe206a58203b9498c95bb",
+      "size": 4191,
+      "mtimeMs": 1787457186576
+    },
+    "wiki/sources/5-notes--32-20260628t154742-qa-中证a500指数解析qa--u53ib0.md": {
+      "hash": "bb2ab56ba7bc672bb4d0c8d3e9909e72",
+      "size": 5131,
+      "mtimeMs": 1787458038140
+    },
+    "wiki/sources/5-notes--32-20260628t154810-qa-晨星四只权益基金推荐qa--13tp35i.md": {
+      "hash": "7978e694609182d2c0b022f6743b928b",
+      "size": 8494,
+      "mtimeMs": 1787472262640
+    },
+    "wiki/sources/5-notes--32-20260628t154821-qa-基金零费率价格战真相qa--hoz16t.md": {
+      "hash": "51515b280ea18e48e6df2d1d180bc4dd",
+      "size": 7994,
+      "mtimeMs": 1787473381824
     },
     "wiki/sources/5-notes--33-20260530t154000z-投资分析-兴全优选稳健6个月a--g4yjbo.md": {
       "hash": "b6f795d5b8df6c004fe573391ccb0d36",
@@ -11412,6 +12247,56 @@
       "size": 4249,
       "mtimeMs": 1787390184738
     },
+    "wiki/sources/5-notes--33-20260628t154319-qa-不确定市场找可持续回报qa--1owcxwz.md": {
+      "hash": "9c7f48e3dd4787d21a1375638291f1a8",
+      "size": 5279,
+      "mtimeMs": 1787402212947
+    },
+    "wiki/sources/5-notes--33-20260628t154353-qa-美股现在上车还来得及吗qa--igkmg.md": {
+      "hash": "8ee4d09191e3a4b56f417530e1ff0ded",
+      "size": 3460,
+      "mtimeMs": 1787411367817
+    },
+    "wiki/sources/5-notes--33-20260628t154500-qa-行业基金是组合必需品吗qa--hi0ypd.md": {
+      "hash": "6b48b8a41cbdc18eedefa9def39603a2",
+      "size": 2563,
+      "mtimeMs": 1787426497770
+    },
+    "wiki/sources/5-notes--33-20260628t154530-qa-红利投资四大误区是什么qa--1g1qmbj.md": {
+      "hash": "6af9e6e989fbba81a9c2ed72a39a1626",
+      "size": 3774,
+      "mtimeMs": 1787429885460
+    },
+    "wiki/sources/5-notes--33-20260628t154630-qa-黄金高台跳水该买还是跑qa--t2k73d.md": {
+      "hash": "a5125668a078cb7c4cec9313e426ddd6",
+      "size": 2896,
+      "mtimeMs": 1787438637611
+    },
+    "wiki/sources/5-notes--33-20260628t154704-qa-基金持股该集中还是分散qa--12vlpt7.md": {
+      "hash": "1a2361f5501da95c86c93a2a6d1a68ee",
+      "size": 3622,
+      "mtimeMs": 1787455116652
+    },
+    "wiki/sources/5-notes--33-20260628t154712-qa-值得托付基金公司三要素qa--r58lun.md": {
+      "hash": "b0589c27cf9c7d53b107e48c28bb886c",
+      "size": 3382,
+      "mtimeMs": 1787455724095
+    },
+    "wiki/sources/5-notes--33-20260628t154743-qa-cxo还是一门好生意吗qa--24ur5i.md": {
+      "hash": "570128b4fcc0771877acabbfb379253d",
+      "size": 3026,
+      "mtimeMs": 1787458529010
+    },
+    "wiki/sources/5-notes--33-20260628t154805-qa-etf交易五大避坑技巧qa--1mfysvq.md": {
+      "hash": "a82f2348e3a9067c1bb944c69608425a",
+      "size": 10001,
+      "mtimeMs": 1787470610576
+    },
+    "wiki/sources/5-notes--33-20260628t154838-qa-2024年ai投资机遇qa--4cj68e.md": {
+      "hash": "ee5454aa44630c39696e2d0a2b998569",
+      "size": 7655,
+      "mtimeMs": 1787473700218
+    },
     "wiki/sources/5-notes--34-20260530t111241-拆书-财新markdownbook--1r051l5.md": {
       "hash": "2736ef3b96dd8d25b63399f9912f0201",
       "size": 3476,
@@ -11677,6 +12562,71 @@
       "size": 7342,
       "mtimeMs": 1787388678272
     },
+    "wiki/sources/5-notes--34-20260628t154330-qa-择时为什么几乎不可能赚钱qa--bjhbbm.md": {
+      "hash": "f9f64c7e0f7c4ae29897ee4eb9b176fc",
+      "size": 3754,
+      "mtimeMs": 1787404239775
+    },
+    "wiki/sources/5-notes--34-20260628t154349-qa-特朗普关税20对中国影响qa--13dgym5.md": {
+      "hash": "78995fd8cd60a5a92a2349de43f777d3",
+      "size": 2858,
+      "mtimeMs": 1787411149367
+    },
+    "wiki/sources/5-notes--34-20260628t154400-qa-全球市场分化下的投资选择qa--1cepu0s.md": {
+      "hash": "fa08d00cdfe09d2aa1dfa41101b6e373",
+      "size": 3153,
+      "mtimeMs": 1787412977236
+    },
+    "wiki/sources/5-notes--34-20260628t154430-qa-中国资产为什么是新兴核心qa--hgrvyb.md": {
+      "hash": "b86bac20a87b4b3aa286b1fdf1dcd141",
+      "size": 9653,
+      "mtimeMs": 1787419585136
+    },
+    "wiki/sources/5-notes--34-20260628t154449-qa-2025基金经理风格展望qa--xzq6mf.md": {
+      "hash": "f536f103bf915945c1a7ab0aa1c199cf",
+      "size": 9770,
+      "mtimeMs": 1787425628243
+    },
+    "wiki/sources/5-notes--34-20260628t154456-qa-etf跟踪误差的三个来源qa--5viz4v.md": {
+      "hash": "403647281a6a83ac79881227934a8e3f",
+      "size": 6875,
+      "mtimeMs": 1787426092975
+    },
+    "wiki/sources/5-notes--34-20260628t154555-qa-全球配置哪些资产还值得买qa--1y8uva7.md": {
+      "hash": "0edd4865f3a0e2817bb52ecc5a3bb366",
+      "size": 4160,
+      "mtimeMs": 1787433605373
+    },
+    "wiki/sources/5-notes--34-20260628t154559-qa-基金费率越低生存能力越强qa--m9eink.md": {
+      "hash": "21fac2e8554ac4db0c8ab900a2fd00fa",
+      "size": 2765,
+      "mtimeMs": 1787433769281
+    },
+    "wiki/sources/5-notes--34-20260628t154619-qa-关税抹去百年贸易开放成果qa--jq196v.md": {
+      "hash": "25f9966b9ba4d566a53bb857c510fe97",
+      "size": 12025,
+      "mtimeMs": 1787438152639
+    },
+    "wiki/sources/5-notes--34-20260628t154625-qa-2025基金主被动大分化qa--ssb6uv.md": {
+      "hash": "6d5ffd9e0f3756350ece8ceafbb76982",
+      "size": 4251,
+      "mtimeMs": 1787438472130
+    },
+    "wiki/sources/5-notes--34-20260628t154640-qa-2025全球普涨后的配置qa--76glqa.md": {
+      "hash": "148d1693ce410f187c5e11293fb2f1ea",
+      "size": 6453,
+      "mtimeMs": 1787448976510
+    },
+    "wiki/sources/5-notes--34-20260628t154756-qa-美元终结十年涨势的五因素qa--1hk716v.md": {
+      "hash": "7f3feb33188b8c93bd91dc6f157df5c8",
+      "size": 7094,
+      "mtimeMs": 1787470417125
+    },
+    "wiki/sources/5-notes--34-20260628t154808-qa-总统选举如何影响美股走势qa--1yblo1d.md": {
+      "hash": "f7fb7b2ae536c93d47ed474729aca9fe",
+      "size": 6712,
+      "mtimeMs": 1787471474087
+    },
     "wiki/sources/5-notes--35-20260614t091600-伴读-投资路上的险小韭reading--otxkfm.md": {
       "hash": "bdcb8597846c571a7405b35ae158c03a",
       "size": 2939,
@@ -11907,6 +12857,31 @@
       "size": 8514,
       "mtimeMs": 1787383924207
     },
+    "wiki/sources/5-notes--35-20260628t154344-qa-qdii井喷背后的三大约束qa--1uy0fyo.md": {
+      "hash": "c624fdaf9c2eee364501186fa214fc2d",
+      "size": 4857,
+      "mtimeMs": 1787408310697
+    },
+    "wiki/sources/5-notes--35-20260628t154410-qa-关税为什么解决不了贸易逆差qa--44zthb.md": {
+      "hash": "5d0ab49b4fd8d81c499509d58acd037f",
+      "size": 6333,
+      "mtimeMs": 1787417515304
+    },
+    "wiki/sources/5-notes--35-20260628t154433-qa-全球高处不胜寒还有多少空间qa--9osyvz.md": {
+      "hash": "0d56c5d81ed17e8a2089399337f0033b",
+      "size": 4179,
+      "mtimeMs": 1787423326446
+    },
+    "wiki/sources/5-notes--35-20260628t154600-qa-分散投资在关税时代还管用吗qa--1fz3k8z.md": {
+      "hash": "4421d48e5b1dd4299eb0f99387e5762e",
+      "size": 5314,
+      "mtimeMs": 1787436865685
+    },
+    "wiki/sources/5-notes--35-20260628t154651-qa-全球机构减持美国配置新风向qa--1go0f6t.md": {
+      "hash": "18330d12e79f97f64c92bf0cbe615f83",
+      "size": 5845,
+      "mtimeMs": 1787452525961
+    },
     "wiki/sources/5-notes--36-20260614t091501-概念解剖-晨星投资风格箱concept--xzpjv.md": {
       "hash": "83ea7ec4185b57a8f8a20756da1da053",
       "size": 2787,
@@ -12056,6 +13031,16 @@
       "hash": "ddedc9fab6284f342abcae3117e7ea3b",
       "size": 8521,
       "mtimeMs": 1787364679957
+    },
+    "wiki/sources/5-notes--36-20260628t154510-qa-中国etf市场2024大爆发qa--15yfr8q.md": {
+      "hash": "a5dceb60c227cf1cd01cb4a8a5e8cc74",
+      "size": 9398,
+      "mtimeMs": 1787427703247
+    },
+    "wiki/sources/5-notes--36-20260628t154605-qa-银行股低估值高股息的底层逻辑qa--17exs3k.md": {
+      "hash": "7edbf4f207f59923d4354a476fc48809",
+      "size": 4918,
+      "mtimeMs": 1787437630154
     },
     "wiki/sources/5-notes--37-20260530t153007z-投资分析-南方红利低波50etf联接a--160uvfl.md": {
       "hash": "b01c773e1746447588536ef498779353",

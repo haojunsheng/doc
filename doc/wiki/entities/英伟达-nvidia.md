@@ -1,11 +1,15 @@
+
+
+I'll output the merged content directly since file write permissions weren't granted.
+
 ---
 type: entity
 title: 英伟达（NVIDIA）
 tags: [entity, nvidia, gpu, ai-hardware, semiconductor, us-tech]
-related: [CUDA生态锁定, GPU作为AI专用加速器, 护城河策略, AMD, 英特尔, 自研芯片vs通用市场, 估值隐含过度乐观预期]
+related: [CUDA生态锁定, GPU作为AI专用加速器, 护城河策略, AMD, 英特尔, 自研芯片vs通用市场, 估值隐含过度乐观预期, 纳指七雄集中度风险]
 created: 2026-08-22
 updated: 2026-08-22
-sources: ["notes/20260628T153927--qa-英伟达AI顺风车坐稳了吗__qa.md"]
+sources: ["notes/20260628T153927--qa-英伟达AI顺风车坐稳了吗__qa.md", "notes/20260628T154400--qa-全球市场分化下的投资选择__qa.md"]
 ---
 # 英伟达（NVIDIA）
 
@@ -67,11 +71,16 @@ NVIDIA（英伟达）是全球领先的 GPU（图形处理器）制造商，也�
 
 2023 年前三季度特斯拉因增长故事降温而暴跌。英伟达当前处境有相似之处（高估值+高敏感度），但存在关键差异：AI 需求真实存在，而非纯叙事驱动。不会简单重演特斯拉式暴跌，但市场敏感度极高（如某周五单日跌 5.55%）。参见 [[entities/特斯拉]]。
 
+## 集中度风险（2026 Q2补充）
+
+晨星2026年全球展望指出，英伟达市值已超过英国、加拿大、德国三国股市总和。1999年上市至今回报超大盘500多倍（2022年末生成式AI爆发为核心驱动力）。这一极端集中度使纳指100等被动指数基金持有者实质上"单押AI"，[[纳指七雄集中度风险]]在此得到最典型印证。
+
 ## 相关页面
 
 - [[concepts/GPU作为AI专用加速器]] — AI 训练与 GPU 架构匹配的技术基础
 - [[concepts/CUDA生态锁定]] — 护城河的结构性解释
 - [[concepts/自研芯片vs通用市场]] — 科技巨头自研芯片的竞争边界
 - [[concepts/估值隐含过度乐观预期]] — 估值与护城河宽度的张力
+- [[concepts/纳指七雄集中度风险]] — 英伟达集中度风险的指数层面影响
 - [[sources/5-notes--34-20260628t153927-qa-英伟达ai顺风车坐稳了吗qa--8qx278]] — 晨星 QA 原文
 - [[sources/5-notes--28-20260628t153258-qa-ai浪潮投资qa--7irwzm]] — AI 浪潮投资互补视角
