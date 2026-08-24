@@ -1,0 +1,6 @@
+（追加 sources 数组与 tags/related 字段更新，不重复全文）
+
+**修改内容：**
+- `tags` 新增 `三国`
+- `related` 新增 `士族沉浮`, `权力分配规则`
+- `sources` 新增 `"notes/20260809T163236--拆书-三国争霸__book.md"`

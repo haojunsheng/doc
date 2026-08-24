@@ -1,0 +1,15 @@
+---
+type: entity
+title: 林晓斌
+created: 2026-08-24
+updated: 2026-08-24
+tags: [mysql, author, geektime, innodb]
+related: [mysql, innodb, 快照读vs当前读, next-key锁与加锁规则]
+sources: ["notes/20260809T154709--深度研究-MySQL实战45讲_deep-learn.md"]
+---
+
+# 林晓斌
+
+《MySQL 实战 45 讲》作者，极客时间数据库专栏主讲人。
+
+所有 MySQL 机制结论的来源，包括 MVCC 可见性规则、加锁两原则两优化、并行复制两约束等核心推理框架均出自其课程。课程基于 `≤5.7.24 / ≤8.0.13` 总结机制，部分 8.0 新行为与课程结论存在差异——文档将这些差异定义为"学习素材"而非矛盾。

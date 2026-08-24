@@ -5756,3 +5756,1559 @@ NEW_CONTENT_FOR_LOG_MARKER
 ## 2026-08-23
 
 - ingest | QA — 2024年AI投资机遇：从算力转向卖铲人（源：notes/20260628T154838--qa-2024年AI投资机遇__qa.md）——新增 AI卖铲人四分类框架概念页；补充晨星四分类（技术服务/数据管理/高速网络/数据中心）及代表公司（Cognizant/Snowflake/Arista/Digital Realty）；标注边界条件：云厂商整合风险、估值风险、蹭热点风险
+
+## 2026-08-23
+
+- ingest | 目标风险基金策略差异
+  - 新增 source: [[5-notes--32-20260628t154848-qa-目标风险基金策略差异qa--t9b0qh]]
+  - 新增 concept: [[目标风险基金策略框架]], [[子基金筛选定量定性框架]], [[双重收费豁免]], [[跟踪误差控制]]
+  - 新增 entity: [[林国怀]], [[交银安享稳健]], [[富国鑫旺稳健]], [[兴全安泰积极]]
+
+（追加内容，不要覆盖已有条目）
+
+## 2026-08-23
+
+- ingest | QA — 大类资产预期回报收窄：高收益资产正变稀缺
+- 新增 source：`wiki/sources/5-notes--36-20260628t154856-qa-大类资产预期回报收窄-qa.md`
+- 新增 concept：`wiki/concepts/美债美股预期回报趋同.md`
+- 新增 concept：`wiki/concepts/高收益资产稀缺化.md`
+
+## 2026-08-23
+
+- ingest | 黄金投资渠道与长期配置逻辑 QA
+  - 新增 source: [[sources/5-notes--36-20260628t154908-qa-黄金投资渠道与长期配置逻辑qa--itxxy4]]
+  - 新增 concept: [[黄金四轮驱动框架]], [[黄金投资渠道分层]], [[黄金货币信用侵蚀镜像]], [[黄金周期长度警示]]
+  - 更新 concept: [[黄金均值回归]]（补充27年完整周期数据）、[[黄金保险定位框架]]（补充渠道分层对比）
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-23
+tags: [log]
+related: []
+sources: []
+---
+
+# Wiki Log
+
+## 2026-08-23
+
+- Project created
+
+## 2026-08-23
+
+- ingest | QA — 主动基金能不能跑赢被动
+  - 新增 source: [[sources/5-notes--33-20260628t154909-qa-主动基金能不能跑赢被动qa--1515glq]]
+  - 新增 concept: [[主动基金行业胜率分化框架]]（行业维度胜率差异：医药67%-93%碾压、科技传媒61%→29%暴跌、消费27%-46%垫底）、[[主动基金基准重构框架]]（用扣费后被动基金替代无成本指数作基准）
+  - 关联已有页面：[[战胜率]], [[被动贡献率框架]], [[等权平均收益率-vs-资产加权平均收益率]], [[清盘率主动被动分化]], [[行业轮动策略]]
+
+---
+type: source
+title: Wiki Log
+created: 2026-08-23
+updated: 2026-08-23
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-23
+
+- Ingested `notes/20260628T154917--qa-美股高位站丝走钢丝怎么配__qa.md` — 晨星2025年四季度美股展望QA
+  - Created `wiki/sources/5-notes--34-20260628t154917-qa-美股高位站丝走钢丝怎么配qa--1igt6wu.md`
+  - Created `wiki/concepts/风格溢价量化框架.md`
+  - Created `wiki/concepts/高位市场选基框架.md`
+  - Created `wiki/concepts/行业指数集中度扭曲.md`
+
+## 2026-08-23
+
+- ingest | 芒格投资智慧六讲：比较、理性、不嫉妒
+  - 新增 source: [[5-notes--32-20260628t154932-qa-芒格投资智慧六讲__qa]]
+  - 新增 entity: [[约翰-阿里亚加]], [[克里斯-戴维斯]]
+  - 新增 concept: [[芒格六讲行为纪律框架]], [[反向思考-Jacobi框架]], [[双重错误墙框架]], [[嫉妒-追高心理陷阱]]
+  - 更新 related: [[芒格-charlie-munger]]
+
+## 2026-08-23
+
+- ingest | QA — 选QDII基金注意什么：选错区域比选错基金更惨（晨星中国 QDII选基实务指南）——新增来源页及概念页：QDII区域分类框架、环球不等于全球配置陷阱、业绩基准作为投资范围说明书、人民币份额与美元份额汇率风险等价、新兴市场指数有效性优势、海外降息传导链——QDII受益逻辑
+
+## 2026-08-23
+
+- ingest | QA — 美股十年跑赢所有预期预测：估值扩张打脸所有人（晨星中国）——新增来源页及概念页：美股十年估值扩张实证、股票回购对EPS的机械效应、均值回归陷阱；新增实体页：[[沃伦-巴菲特]]、[[杰克-博格]]
+
+## 2026-08-23
+
+- ingest | QA — 芒格如何影响晨星
+  - 新增 source: [[5-notes--30-20260628t155031-qa-芒格如何影响晨星qa--tznyx6]]
+  - 新增 concept: [[晨星投研方法论渊源]]
+  - 补充关联：护城河策略、安全边际、晨星-中国、芒格-charlie-munger
+
+# Research Log
+
+## 2026-08-23
+
+- ingest | 金价历史新高：黄金牛能走多远
+  - 新增 source: [[sources/5-notes--36-20260628t155041-qa-金价历史新高黄金牛能走多远qa--nph24c]]
+  - 新增 concept: [[黄金配置双面框架]], [[金价均值回归框架]], [[黄金非生息资产]], [[央行去美元化]], [[黄金-A股低相关性]], [[避险≠稳定]]
+  - 更新 concept: [[均值回归陷阱]]（加入黄金案例）、[[沃伦-巴菲特]]（补充黄金评述）
+
+## [2026-08-23] ingest | notes/20260628T155119--qa-基金经理再就业新规__qa.md
+
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-23
+tags: [log]
+related: []
+sources: ["notes/20240627T090132--qa-全天候策略怎么选__qa.md"]
+---
+# Research Log
+
+## 2026-08-23
+
+- Project created
+
+---
+# Wiki Log
+
+## 2026-08-15
+
+- 摄入 `notes/20240627T090132--qa-全天候策略怎么选__qa.md`（晨星中国，2024-06-27），创建以下页面：
+  - `wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md` — 来源总结页
+  - `wiki/entities/ray-dalio.md` — 瑞·达里欧，全天候策略提出者
+  - `wiki/entities/harry-browne.md` — 哈里·布朗，永久组合提出者
+  - `wiki/entities/morningstar-cn.md` — 晨星中国，来源
+
+## 2026-08-23
+
+- ingest | QA — 投顾的核心是投还是顾：投顾的护城河不在选股，在客户信任
+  - 新增 source: [[5-notes--32-20260628t155128-qa-投顾的核心是投还是顾qa--x611qk]]
+  - 新增 entity: [[陈鹏]]
+  - 新增 concept: [[三分投七分顾]], [[投顾策略下架双原因]], [[大V投顾悖论]], [[投顾服务的信任壁垒]]
+
+## [2026-08-23] ingest | notes/20260628T155212--qa-北交所这泼天的富贵__qa.md
+
+
+# Research Log
+
+## 2026-08-23
+
+- Project created
+
+---
+# Wiki Log
+
+## 2026-08-15
+
+- 摄入 `notes/20240627T090132--qa-全天候策略怎么选__qa.md`（晨星中国，2024-06-27），创建以下页面：
+  - `wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md` — 来源总结页
+  - `wiki/entities/ray-dalio.md` — 瑞·达里欧，全天候策略提出者
+  - `wiki/entities/harry-browne.md` — 哈里·布朗，永久组合提出者
+  - `wiki/entities/morningstar-cn.md` — 晨星中国，来源机构
+
+## 2026-08-23
+
+- ingest | QA — 投顾的核心是投还是顾：投顾的护城河不在选股，在客户信任
+  - 新增 source: [[5-notes--32-20260628t155128-qa-投顾的核心是投还是顾qa--x611qk]]
+  - 新增 entity: [[陈鹏]]
+  - 新增 concept: [[三分投七分顾]], [[投顾策略下架双原因]], [[大V投顾悖论]], [[投顾服务的信任壁垒]]
+
+## [2026-08-23] ingest | notes/20260628T155212--qa-北交所这泼天的富贵__qa.md
+
+## [2026-08-23] ingest | QA — 巴菲特错过微软为何还是股神
+- 新增 source: [[5-notes--35-20260628t155246-qa-巴菲特错过微软为何还是股神qa--soayvr]]
+- 更新 entity: [[entities/沃伦-巴菲特]]（新增能力圈实践与战略克制维度）
+- 更新 concept: [[能力圈]]（补充巴菲特微软案例及机会成本形式化）
+- 更新 concept: [[护城河策略]]（补充科技股护城河评估：巴菲特的微软案例）
+
+## 2026-08-23 ingest | 人民币反攻还是假摔
+
+- 新增 source: [[5-notes--31-20260628t155304-qa-人民币反攻还是假摔qa--1ic51wd]]
+- 新增 entity: [[美联储]]（新增"限制性立场"判断及人民币外因角色）
+- 新增 concept: [[人民币强弱双驱框架]] — 人民币强弱由外因（美元指数）+ 内因（政策+经济基本面+中美关系+结汇需求）双重驱动
+- 新增 concept: [[汇率股市共振非因果]] — 纠正"汇率涨=股市涨"的认知偏差，阐明共同驱动因机制
+
+## 2026-08-23
+
+- ingest | QA — 外资基金A股打折进货（外资仓位四阶段与利率驱动框架）
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-23
+tags: [log]
+related: []
+---
+# Wiki Log
+
+## 2026-08-23
+
+- ingest | QA — 万亿特别国债大利好：市场拐点要来了？
+  - 新增 source: [[sources/5-notes--36-20260628t155448-qa-万亿特别国债大利好qa--16a9yx0]]
+  - 新增 concept: [[特别国债政策框架]]
+  - 新增 concept: [[股债反向共振]]
+  - 新增 concept: [[财政刺激工具比较-发债vs发钱]]
+  - 新增 concept: [[央行对冲机制]]
+  - 更新 entity: [[财政部]] — 补充2026年万亿特别国债信息
+  - 更新 concept: [[财政主导担忧]] — 添加中国语境下的对比说明
+
+## 2026-08-15
+
+- ingest | notes/20240627T090132--qa-全天候策略怎么选__qa.md（晨星中国，2024-06-27）
+  - 新增 source: [[sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd]]
+  - 新增 entity: [[ray-dalio]], [[harry-browne]], [[morningstar-cn]]
+  - 新增 concept: [[all-weather-strategy]], [[economic-quadrant-model]], [[permanent-portfolio]], [[talmud-portfolio]], [[max-drawdown]]
+  - 新增 comparison: [[all-weather-strategies-comparison]]
+
+---
+type: source
+title: QA — 3000点保卫战拔网线：短视性损失厌恶让你越看越慌
+created: 2026-08-23
+updated: 2026-08-23
+tags: [ingest]
+sources: ["notes/20260628T155540--qa-3000点保卫战拔网线__qa.md"]
+---
+## 2026-08-23
+
+- ingest | QA — 3000点保卫战拔网线：短视性损失厌恶让你越看越慌
+
+---
+type: source
+title: wiki log
+tags: []
+related: []
+created: 2026-08-23
+updated: 2026-08-23
+---
+
+# Log
+
+## 2026-08-23
+
+- ingest | QA — 电动车行业十年趋势：中国渗透率2030年达60%（晨星中国）
+  - 来源：`notes/20260628T155634--qa-电动车行业十年趋势__qa.md`
+  - 新建来源页：`wiki/sources/5-notes--31-20260628t155634-qa-电动车行业十年趋势qa--qm3z7.md`
+  - 新建实体页：晨星中国、比亚迪、特斯拉
+  - 新建概念页：电动车渗透率趋势、双积分政策框架、充电桩基建瓶颈、电动车价格平价时间点、政策意志+基建+消费者接受度三重共振框架
+
+## [2026-08-23] ingest | notes/20260628T155731--qa-美股为何能持续领跑__qa.md
+
+
+## 2026-08-23
+
+- 新增来源页 [[sources/5-notes--36-20260628t155829-qa-买方投顾解决基民不赚钱qa--1eb9tzy]] — 晨星战略顾问陈鹏演讲：解法不是降费，而是商业模式转型
+- 新增概念卡 [[concepts/买方投顾商业模式]] — 销售导向vs买方投顾的制度差异，三赢机制与隐性成本问题
+- 新增概念卡 [[concepts/隐性成本-交易费占比]] — 交易费可达6.8%，远超管理费，销售导向模式的核心缺陷
+- 新增概念卡 [[concepts/NPS推荐度衡量投顾体验]] — 陈鹏提出：愿意推荐+已推荐多数，两个"是"判定体验好坏
+- 新增概念卡 [[concepts/长期主义考核框架]] — 投顾成功四要素（长期考核+监管扶持+科技赋能+合规意识），短期考核是最大障碍
+
+## [2026-08-23] ingest | notes/20260628T155922--qa-价值和平衡风格基金领跑__qa.md
+
+
+## 2026-08-23
+
+- ingest | 基金信披防止洗绿 QA（晨星全球）
+  - 来源：`notes/20260628T160027--qa-基金信披防止洗绿__qa.md`
+  - 新建来源页：`wiki/sources/5-notes--30-20260628t160027-qa-基金信披防止洗绿qa--l1whoc.md`
+  - 新建概念页：[[concepts/洗绿-greenwashing]] — 基金用 ESG 标签营销但实际投资决策未受影响
+  - 更新 entity：[[entities/晨星中国morningstar-cn]]（补充晨星全球报告说明）
+  - 更新 concept：[[concepts/软美元机制]]（补充晨星对软美元披露透明度的建议）
+
+## 2026-08-23
+
+- Ingest | QA — 主动基金 vs 被动基金：晨星中国晴雨表数据揭示中国主动基金63%战胜率、行业分化（消费28%-52% vs 医药/TMT>60%）、中小盘战胜率断崖下跌（73%→43%），以及被动基金作为基准的方法论意义
+
+（需追加以下内容）
+
+## 2026-08-23
+
+- ingest | 外资基金公司中国布局 QA（晨星中国）
+  - 来源：notes/20260628T160233--qa-外资基金公司中国布局__qa.md
+  - 新建来源页：wiki/sources/5-notes--36-20260628t160233-qa-外资基金公司中国布局qa.md
+  - 新建实体页：entities/路博迈, entities/宏利基金
+  - 新建概念页：concepts/外资公募牌照审批路径, concepts/外资公募本土化挑战
+  - 待更新 entity：entities/贝莱德（补充中国公募布局）、entities/富达投资-fidelity（补充中国公募牌照）
+
+在文件末尾追加以下内容：
+
+```
+## 2026-08-23
+
+- ingest | 拆书：《晨星基金投资64讲》（晨星中国）
+  - 来源：notes/20260628T175358--拆书-晨星基金投资64讲__book.md
+  - 新建来源页：wiki/sources/5-notes--33-20260628t175358--拆书-晨星基金投资64讲__book--pkvevk.md
+  - 新建概念页：concepts/行为金融学四偏差框架 — 信息/研究/行为/自主性四层散户劣势框架
+  - 新建概念页：concepts/晨星基金评价三维定位系统 — 风格箱×分类×星级三件套方法论
+  - 新建概念页：concepts/资金自有性 — 散户"闲钱投资"优势的独立概念
+  - 新建概念页：concepts/市场半强式有效 — 全书五条基础假设之一
+  - 更新概念：concepts/战胜率（补充成本侵蚀与换手率论据）
+  - 关联强化：[[主动被动胜率基准方法论]], [[短视性损失厌恶]], [[买方投顾商业模式]]
+```
+
+## [2026-08-23] ingest | notes/20260628T210958--qa-晨星基民不赚钱__qa.md
+
+
+# Research Log
+
+## 2026-08-23
+
+- ingest | QA — 晨星基民不赚钱：基民为什么不赚钱
+  - 来源：notes/20260628T210958--qa-晨星基民不赚钱__qa.md
+  - 新建来源页：wiki/sources/5-notes--29-20260628t210958-qa-晨星基民不赚钱qa--1lvhqmi.md
+  - 更新概念：concepts/战胜率（补充2024年一年战胜率约20%、三年战败率超50%等数据）
+  - 强化关联：[[行为损耗框架]], [[投资对手是自己框架]], [[短视性损失厌恶]], [[嫉妒-追高心理陷阱]]
+
+## 2026-08-15
+
+- Project created
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: []
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- Ingest `notes/20260628T211718--
+
+---FILE: wiki/log.md---
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: []
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- Ingest `notes/20260628T211718--拆书-ETF投资18讲__book.md`：新建 source 页、7 个概念页（指数构造五步法、市值加权追涨杀跌、全收益指数与价格指数陷阱、指数内卷、主动指数基金、ETF持有人行为损耗、自由流通市值加权、流动性双刃剑、费率复利放大效应、限价单与市价单隐性成本）
+- 补充相关已有页面 cross-reference：[[行为损耗框架]]、[[战胜率]]、[[行业指数集中度扭曲]]、[[均值回归陷阱]]
+
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 拆书：资产配置 43 讲
+  - 新增 source: [[sources/5-notes--36-20260628T222333-拆书-资产配置43讲__book]]
+  - 新增 concept: [[concepts/定投悖论]], [[concepts/不做预测-只谈应对]], [[concepts/再平衡效果条件]], [[concepts/中立起点配置法]], [[concepts/股息陷阱-行为角度]], [[comparisons/三种全天候策略回撤对比]]
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 拆书：如何快速了解一个行业
+  - 新增 source: [[sources/5-notes--34-20260705t165047-拆书-如何快速了解一个行业book--1a1mc17]]
+  - 新增 entity: [[entities/steve-blank]], [[entities/mckinsey]]
+  - 新增 concept: [[concepts/五维分析框架-肖璟]], [[concepts/产能周期四阶段]], [[concepts/时间对标-空间对标]], [[concepts/UE模型-单位经济学]], [[concepts/护城河二元构建]], [[concepts/货币三种价格]], [[concepts/交易拥挤度]], [[concepts/稳定市场周期化]], [[concepts/景气度指标体系]], [[concepts/DIKW模型-研究方法论]]
+
+## 2026-08-24
+
+- ingest | 伴读：如何快速了解一个行业
+  - 新增 source: [[sources/5-notes--37-20260705t170125-伴读-如何快速了解一个行业reading--tf5zd2]]
+  - 新增 concept: [[concepts/需求排序矩阵]], [[concepts/事实判断与价值判断]], [[concepts/信息茧房]], [[concepts/AI幻觉]], [[concepts/需求真伪判断-时间对标空间对标]], [[concepts/供给导向市场规模测算]], [[concepts/供需匹配法]], [[concepts/产能周期触发机制]], [[concepts/深度差-普通人最容易建立的护城河]], [[concepts/供需稳定比例假设]], [[concepts/行业分类颗粒度]], [[concepts/资讯料理法]], [[concepts/行业集中度-CRn四分法]]
+  - 更新 entity: [[entities/肖璟]]（补充美团案例碰撞反思）
+  - 更新 concept: [[concepts/五维分析框架-肖璟]]（补充双维度护城河交叉场景缺口说明）、[[concepts/假设驱动研究]]（补充MECE拆解示例）、[[concepts/行业资讯料理法]]（补充金字塔原理SCQR完整内容）
+
+---
+type: concept
+title: Wiki Log
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 深度研究——尼康 Z30 摄影学习路径
+  - 新增 source: [[sources/5-notes--38-20260712153000-深度研究-尼康z30摄影deep-learn--stam5u]]
+  - 新增 entity: [[entities/尼康-z30]]
+  - 新增 concept: [[concepts/曝光决策树]], [[concepts/全域自动对焦陷阱]], [[concepts/H型领域类型]], [[concepts/锁定两推一训练法]], [[concepts/审美判断力≠软件操作]], [[concepts/诊断型知识vs鉴赏型知识]]
+
+---
+type: source
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: []
+related: []
+sources: []
+---
+
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 即时零售行业分析（notes/20260712153000==z--行业分析-instant-retail.md）——新增源文件页、叮咚买菜/朴朴超市/DoorDash 实体卡、即时零售/前置仓商业模式/平台模式vs自营模式/渗透率口径敏感性概念卡
+
+## [2026-08-24] ingest | notes/20260712154500--深度研究-曝光三要素_deep-learn.md
+
+
+# Research Log
+
+## 2026-08-24
+
+- Project created
+
+
+# Research Log
+
+## 2026-08-15
+
+- Project created
+
+## 2026-08-15
+
+- ingest | 主题基金不等于风口
+  - 新增 source: [[morningstar-2024-theme-fund-qa]]
+  - 新增 entity: [[theme-fund]]
+  - 新增 concept: [[theme-fund-survival-rate]], [[satellite-holding-strategy]]
+
+---
+# Wiki Log
+
+## 2026-08-15
+
+- 摄入 `notes/20240627T090132--qa-全天候策略怎么选__qa.md`（晨星中国，2024-06-27），创建以下页面：
+  - `wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md` — 来源总结页
+  - `wiki/entities/ray-dalio.md` — 瑞·达里欧，全天候策略提出者
+  - `wiki/entities/harry-browne.md` — 哈里·布朗，永久组合提出者
+  - `wiki/entities/morningstar-cn.md` — 晨星中国，来源
+
+---FILE: wiki/log.md---
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-15
+tags: [log]
+related: []
+sources: ["notes/20240627T090132--qa-全天候策略怎么选__qa.md"]
+---
+# Wiki Log
+
+## 2026-08-15
+
+- 摄入 `notes/20240627T090132--qa-全天候策略怎么选__qa.md`（晨星中国，2024-06-27），创建以下页面：
+  - `wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md` — 来源总结页
+  - `wiki/entities/ray-dalio.md` — 瑞·达里欧，全天候策略提出者
+  - `wiki/entities/harry-browne.md` — 哈里·布朗，永久组合提出者
+  - `wiki/entities/morningstar-cn.md` — 晨星中国，来源机构
+  - `wiki/concepts/all-weather-strategy.md` — 全天候策略总览
+  - `wiki/concepts/economic-quadrant-model.md` — 经济四象限模型
+  - `wiki/concepts/permanent-portfolio.md` — 布朗永久组合
+  - `wiki/concepts/talmud-portfolio.md` — 塔木德组合
+  - `wiki/concepts/max-drawdown.md` — 最大回撤指标
+  - `wiki/comparisons/all-weather-strategies-comparison.md` — 三策略对比
+
+## [2026-08-15] ingest | notes/20240627T090132--qa-基金体检找回财富__qa.md
+
+
+# Wiki Log
+
+## 2026-08-16
+
+## 2026-08-24
+
+- ingest | 即时零售行业分析（notes/20260712153000==z--行业分析-instant-retail.md）——新增源文件页、叮咚买菜/朴朴超市/DoorDash 实体卡、即时零售/前置仓商业模式/平台模式vs自营模式/渗透率口径敏感性概念卡
+
+## [2026-08-24] ingest | notes/20260712154500--深度研究-曝光三要素_deep-learn.md
+
+- ingest | QA — 行业研究的系统方法论
+  - 新增 source: [[sources/5-notes--32-20260712T083211-qa-行业研究的系统方法论qa--jy8d6u]]
+  - 新增 concept: [[专家访谈非公开信息原则]]
+
+## [2026-08-24] ingest | notes/20260712T084715--拆书-新摄影笔记__book.md
+
+## [2026-08-24] ingest | notes/20260712T085155--qa-摄影减法论__qa.md
+
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+
+# Wiki Log
+
+## [2026-08-24] ingest | notes/20260712T092514--学习计划-AI_Agent__plan.md
+
+- ingest | AI Agent 学习计划
+
+No files were created yet — permissions were pending. Creating them individually now.
+
+
+
+所有文件内容已准备好，等待权限批准。以下是完整的输出汇总：
+
+---FILE: wiki/sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md---
+---
+type: source
+title: AI Agent 学习计划（按肖璟方法论设计）
+created: 2026-08-24
+updated: 2026-08-24
+tags: [domain/ai, type/plan, methodology]
+related: [假设驱动研究, DIKW模型-研究方法论, 五维分析框架-肖璟, 景气度指标体系]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# AI Agent 学习计划（按肖璟方法论设计）
+
+**来源：** 用户自撰学习计划，方法论锚定肖璟《如何快速了解一个行业》
+
+**标识：** `20260712T092514`
+
+## 核心目标
+
+从零建立对 AI Agent 的**可操作理解**——不是"知道 AI Agent 是什么"，而是"能判断 AI Agent 能做什么、做不了什么、下一步会往哪走"。
+
+## 方法论基础
+
+- [[假设驱动研究]]（第 11 章）
+- [[DIKW模型-研究方法论]]（第 1 章）
+- [[景气度指标体系]]（第 8 章）
+- [[五维分析框架-肖璟]]
+
+## 三个初始假设
+
+| 假设 | 内容 | 验证方式 |
+|-----|------|---------|
+| H1 | AI Agent 的本质是"LLM 做决策 + 工具做执行"的闭环 | 读 ReAct 原论文，看是否符合 |
+| H2 | 当前 Agent 的技术瓶颈不在模型能力，在工程可靠性（成功率、成本、延迟） | 跑一个最小 Agent demo，看卡在哪 |
+| H3 | 最先落地的 Agent 形态是"垂直场景 + 强约束 + 易验证"——代码助手、客服、数据分析 | 找 2024-2025 年融资最多的 Agent 创业公司，看集中在哪些场景 |
+
+> 每学完一个模块，回来修订一个假设。学习结束时对比——看哪些猜对了、哪些猜错了、为什么错。
+
+## 阶段结构
+
+### 阶段零：建立最小领域认知（~3-5 天）
+
+核心动作：读综述论文 → 扫行研报告 → 画出最小知识地图
+
+必读三篇论文：
+- [Lilian Weng: LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — Agent 最清晰的框架综述
+- [ReAct 论文](https://arxiv.org/abs/2210.03629) — Agent 推理+行动的经典方法
+- [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) tool use / function calling 章节
+
+验收标准：**合上电脑后，能在一张纸上画出 AI Agent 结构图**（MECE 验证）
+
+### 阶段一：MECE 拆解 + 逐层深入（~2-3 周）
+
+技术栈五层拆解：
+
+```
+AI Agent
+  ├─ 感知层（怎么理解世界）：文本理解、多模态理解、环境感知、意图识别
+  ├─ 推理/规划层（怎么做决策）：Prompt Chaining、CoT、ReAct、Tree of Thought、Plan-and-Execute、Multi-Agent 编排
+  ├─ 行动层（怎么执行）：API 调用、代码执行、浏览器操作、数据库 CRUD
+  ├─ 记忆层（短期？长期？）：RAG、MemGPT、LangMem
+  └─ 评估层（怎么判断对错）：
+```
+
+每周深一层，周末做 POV 更新。
+
+### 阶段二：动手验证（贯穿全程）
+
+四周一轮 MVP 迭代：
+
+| 周 | 做什么 | 验证什么假设 |
+|:--:|:------|:----------|
+| W1 | 用 LangChain / LlamaIndex 搭一个最简单的 ReAct Agent | Agent 的基本闭环能不能走通？ |
+| W2 | 让它能调用工具（查天气/搜 Wikipedia） | 工具调用的门槛在哪？ |
+| W3 | 加一个长期记忆（简单的向量数据库） | 记忆层的难度是？ |
+| W4 | 跑一个有意义的实际任务（自动总结周报 / 自动发邮件） | 成功率和成本怎么样？ |
+
+**目标不是做一个好产品，是在做失败的过程中理解每层的真实难度。**
+
+核心产出机制：**失败日志**——记录每次出错的方式、原因和洞察。
+
+关键洞察（预期）：Agent 工程的 80% 工作量在工具描述和 prompt tuning。
+
+### 阶段三：跟踪体系（持续）
+
+| 频率 | 跟踪内容 | 来源 |
+|:---:|:--------|:----|
+| 每日 | AI Agent 圈发生了什么新鲜事 | Twitter/X: @kaboroevichn, @swyx, @_akhaliq；Hacker News |
+| 每周 | 最新论文 | HuggingFace Daily Papers；arXiv cs.AI, cs.CL |
+| 每周 | 开源项目动态 | GitHub Trending；LangChain / CrewAI / AutoGen releases |
+| 每月 | 行业格局变化 / 融资动态 | a16z, Sequoia, Crunchbase |
+| 每月 | 执行 POV 更新（我的假设对了吗？） | 写一段"假设更新笔记" |
+
+#### 核心跟踪人物/项目
+
+| 关注什么 | 具体内容 |
+|:------:|:--------|
+| 头部实验室 | OpenAI Agents 路线、Anthropic tool use + MCP、Google DeepMind |
+| 开源框架 | LangGraph, CrewAI, AutoGen, MetaGPT, PydanticAI |
+| 独立观察者 | Lilian Weng, Swyx (Latent Space), Alessandro de Zavalia |
+
+## 验收标准：学习结束时能回答的五个问题
+
+学习 4-6 周后，应能**脱离笔记**回答：
+
+```
+Q1: AI Agent 的三大核心能力是什么？它们的成熟度排序是？
+    → 如果答不出：你漏了某一层
+
+Q2: 目前 Agent 落地最难的部分是什么？是模型不行还是工程不行？
+    → 如果答不清：你的第二阶段动手做得不够
+
+Q3: 如果你是创业者，你会选哪个 Agent 场景切入？为什么？
+    → 如果你选不出来：你的应用层验证不够
+
+Q4: 你的初始假设（阶段零写的三个）对了几个？为什么对/错？
+    → 这个对比才是学习真正的收获——"你以为的 vs 实际情况的差距"
+
+Q5: 未来 6 个月 AI Agent 最可能发生什么变化？
+    → 如果你能给出一个可证伪的预判——你的行业认知已经建立起来了
+```
+
+## 时间安排建议
+
+```
+阶段零（最小认知）: ~3-5 天 — 论文+报告+画地图
+阶段一（逐层深入）: ~2-3 周 — 每周深一层，周末 POV 更新
+阶段二（动手验证）: 贯穿全程 — 每周一个 MVP 迭代
+阶段三（持续跟踪）: 贯穿全程 — 每日 15min + 每周 30min + 每月 1h
+```
+
+总投入：**每天 1-1.5 小时，6 周后你建立的理解，比漫无目的读 6 个月博客要深。**
+
+## 与已有 Wiki 概念的关联
+
+- [[假设驱动研究]]：本计划的核心理念——先猜后证，每个阶段都有明确的可证伪假设
+- [[DIKW模型-研究方法论]]：阶段零认知建立的理论基础；本计划是"逆向路径"——从假设（Wisdom 层）出发，向下填充 K/I/D
+- [[五维分析框架-肖璟]]：同作者方法论在本领域的直接应用案例
+- [[景气度指标体系]]：阶段三的跟踪体系是其 AI Agent 领域的具体应用变体，补充了定性 POV 更新作为量化指标的互补手段
+
+*方法论参考：肖璟《如何快速了解一个行业》第 11 章"假设驱动"、第 1 章 DIKW 模型、第 8 章景气度跟踪。*
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+
+# Wiki Log
+
+## [2026-08-24] ingest | notes/20260712T092514--学习计划-AI_Agent__plan.md
+
+- ingest | AI Agent 学习计划（按肖璟方法论设计）
+  - 
+
+所有文件已生成完毕。等待权限批准后写入以下文件：
+
+**源文件：** `wiki/sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md`
+
+**实体页：** `wiki/entities/lilian-weng.md`
+
+**概念页（6个）：**
+- `wiki/concepts/最小知识地图.md`
+- `wiki/concepts/失败日志.md`
+- `wiki/concepts/POV更新机制.md`
+- `wiki/concepts/工具描述敏感性.md`
+- `wiki/concepts/Agent五层架构.md`
+- `wiki/concepts/学习验证五问.md`
+
+**参考资料页（2个）：**
+- `wiki/sources/lilian-weng-2023-agent.md`
+- `wiki/sources/react-sutton-2022.md`
+
+**日志条目：** `wiki/log.md` 追加 ingest 记录
+
+---FILE: wiki/log.md---
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+
+# Wiki Log
+
+## [2026-08-24] ingest | notes/20260712T092514--学习计划-AI_Agent__plan.md
+
+- ingest | AI Agent 学习计划（按肖璟方法论设计）
+  - 新增 source: [[sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho]]
+  - 新增 entity: [[lilian-weng]]
+  - 新增 source: [[sources/lilian-weng-2023-agent]], [[sources/react-sutton-2022]]
+  - 新增 concept: [[最小知识地图]], [[失败日志]], [[POV更新机制]], [[工具描述敏感性]], [[Agent五层架构]], [[学习验证五问]]
+  - 与已有概念交叉关联：[[假设驱动研究]], [[DIKW模型-研究方法论]], [[五维分析框架-肖璟]], [[景气度指标体系]]
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | AI Agent 深度认知学习计划
+  - 新增 source: [[sources/5-notes--37-20260712t093000-学习计划-aiagent深度认知plan--1stj3yz]]
+  - 新增概念: [[上下文漂移]], [[Reflexion反思学习]], [[纯推理Agent]], [[Plan-and-Execute-vs-ReAct]], [[Human-in-the-loop-Agent]]
+
+## 2026-08-15
+
+- Project created
+
+## [2026-08-24] ingest | notes/20260712T105516--拆书-如何快速了解一个行业__book.md
+
+
+## 2026-08-24
+
+- Ingest `notes/20260712T112514--行业分析-即时零售_industry.md`：新增 source 卡 `5-notes--34-20260712t112514-行业分析-即时零售industry--1fy2hxj`，新增实体卡 `饿了么`、`抖音（即时零售）`、`京东（即时零售）`，新增概念卡 `骑手社保合规风险`、`PEP 景气度判断框架`、`TAM/SAM/SOM 三层测算`、`三维度并重`。同步强化现有 `即时零售`、`美团`、`产能周期四阶段`、`行业集中度-CRn四分法` 页面。
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 拆书——尼康 Z30 说明书：把可换镜头相机用成一个决策栈
+  - 新增 source: [[sources/5-notes--32-20260712t151322-拆书-尼康z30说明书book--urokqc]]
+  - 新增概念: [[相机决策栈]], [[转盘优先原则]]
+  - 新增实体: [[Nikon]], [[尼康-Z50]]
+  - 更新实体: [[尼康-z30]]（补充决策栈、转盘优先原则交叉引用）
+
+## 2026-08-24
+
+- Ingest `notes/20260712T112514--行业分析-即时零售_industry.md`：新增 source 卡 `5-notes--34-20260712t112514-行业分析-即时零售industry--1fy2hxj`，新增实体卡 `饿了么`、`抖音（即时零售）`、`京东（即时零售）`，新增概念卡 `骑手社保合规风险`、`PEP 景气度判断框架`、`TAM/SAM/SOM 三层测算`、`三维度并重`。同步强化现有 `即时零售`、`美团`、`产能周期四阶段`、`行业集中度-CRn四分法` 页面。
+
+# Research Log
+
+## 2026-08-24
+
+- ingest | 红利基金行业分析（2026-07-12）
+  - 新增 source: [[5-notes--34-20260712t163000-行业分析-红利基金industry--1dcx23o]]
+  - 新增 concept: [[被动红利飞轮]]
+  - 新增 concept: [[指数许可壁垒]]
+  - 新增 concept: [[因子同质化]]
+  - 新增 concept: [[红利基金生命周期与双形态]]
+  - 新增 concept: [[负周期弹性]]
+  - 新增 concept: [[费率悖论]]
+  - 关联更新：[[配置飞轮]]（补充基金产品维度的飞轮案例）、[[指数内卷]]（补充因子同质化→费率战案例）、[[红利资产拥挤度]]（补充预警信号阈值）
+
+## 2026-08-15
+
+- Project created
+
+- ingest | 主题基金不等于风口
+  - 新增 source: [[morningstar-2024-theme-fund-qa]]
+  - 新增 entity: [[theme-fund]]
+  - 新增 concept: [[theme-fund-survival-rate]], [[satellite-holding-strategy]]
+
+# Research Log
+
+## 2026-08-24
+
+- ingest | 红利基金行业分析（2026-07-12）
+  - 新增 source: [[5-notes--34-20260712t163000-行业分析-红利基金industry--1dcx23o]]
+  - 新增 concept: [[被动红利飞轮]]
+  - 新增 concept: [[指数许可壁垒]]
+  - 新增 concept: [[因子同质化]]
+  - 新增 concept: [[红利基金生命周期与双形态]]
+  - 新增 concept: [[负周期弹性]]
+  - 新增 concept: [[费率悖论]]
+  - 关联更新：[[配置飞轮]]（补充基金产品维度的飞轮案例）、[[指数内卷]]（补充因子同质化→费率战案例）、[[红利资产拥挤度]]（补充预警信号阈值）
+
+## 2026-08-15
+
+- Project created
+
+- ingest | 主题基金不等于风口
+  - 新增 source: [[morningstar-2024-theme-fund-qa]]
+  - 新增 entity: [[theme-fund]]
+  - 新增 concept: [[theme-fund-survival-rate]], [[satellite-holding-strategy]]
+
+(仅追加以下内容至现有 log 末尾)
+
+---
+type: source
+title: Wiki 更新日志
+created: 2026-08-24
+updated: 2026-08-24
+tags: []
+related: []
+sources: []
+---
+# Wiki 更新日志
+
+## 2026-08-24
+
+- 新增源页 [[sources/5-notes--32-20260719t183643-伴读-光圈与景深reading--1tw5avd]] — 伴读：光圈与景深，极客时间《摄影入门课》第 3 讲
+- 新增概念 [[光圈与景深]] — 光圈的双重功能（亮度+景深）、F 值反直觉、景深陷阱完整定义
+- 新增概念 [[虚化-Bokeh]] — 虚化作为色块构成材料，非废料删除
+- 新增实体 [[川内伦子]] — 日本摄影师，虚化美学立场的核心实证案例
+- 新增实体 [[Leica-徕卡]] — 景深标尺的主要贡献者，纪实摄影传统的硬件基础
+
+## [2026-08-24] ingest | notes/20260719T221117--伴读-镜头焦段__reading.md
+
+## [2026-08-24] ingest | notes/20260726T094137--伴读-快门__reading.md
+
+
+---
+type: log
+title: Wiki 日志
+created: 2026-08-24
+updated: 2026-08-24
+---
+# Wiki 日志
+
+## 2026-08-24
+
+- Ingest：伴读 06 | 感光度 (ISO) 与其他相机参数（notes/20260726T110304--伴读-感光度ISO__reading.md）
+  - 新建源页面：[[sources/5-notes--33-20260726t110304-伴读-感光度isoreading--1ptvrh1]]
+  - 新建概念：[[ISO感光度]]、[[宽容度-Dynamic-Range]]、[[RAW-vs-JPEG]]、[[白平衡与色温]]、[[曝光补偿vsISO]]
+  - 曝光三角正式闭环（光圈·快门·ISO），核心认识论洞见："准确曝光≠正确曝光"、"颜色正确是假命题"
+
+## 2026-08-24
+
+- ingest | 伴读：07 | 测光——什么才是正确曝光？
+
+(Append the following block to the end of the file)
+
+## [2026-08-24] ingest | notes/20260726T114503--伴读-相机选择__reading.md
+
+- ingest | 伴读：08-09 | 相机选择（上）（下）
+  - 新增 source: [[sources/5-notes--31-20260726t114503-伴读-相机选择reading--dgnhhn]]
+  - 新增 concept: [[画幅阶梯与等效焦距]]、[[选购八要素优先级]]、[[像素陷阱]]、[[顺手哲学]]
+  - 关联更新：[[摄影减法论]]（补充器材维度减法论）、[[相机决策栈]]（补充选机层互补关系）、[[尼康-z30]]（补充体积重量优先的选机逻辑）、[[宽容度-Dynamic-Range]]（补充优先级定位）
+
+## [2026-08-24] ingest | notes/20260726T115109--伴读-好照片的构成因素__reading.md
+
+
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 伴读：曝光三角四课总结（光圈/焦段/快门/ISO）
+  - 新增 source: [[5-notes--35-20260726t120000-伴读-曝光三角四课总结reading--1atlxlw]]
+  - 新增 concept: [[曝光三角与互易律]], [[机器视觉vs人眼视觉]], [[焦段与透视关系]]
+  - 更新已有实体: [[杉本博司]]（补充《剧院》案例，链接到机器视觉概念）
+
+## [2026-08-24] ingest | notes/20260726T150909--伴读-光__reading.md
+
+## [2026-08-24] ingest | notes/20260726T150909--伴读-光__reading.md
+
+## [2026-08-24] ingest | notes/20260726T152251--伴读-静物__reading.md
+
+## [2026-08-24] ingest | notes/20260726T152800--伴读-人物__reading.md
+
+## [2026-08-24] ingest | notes/20260726T153005--伴读-风光__reading.md
+
+
+## [2026-08-24] ingest | notes/20260726T153132--伴读-街拍__reading.md
+
+- ingest | 伴读：17 | 街拍——艺术这场"大骗局"
+  - 新增 source: [[sources/5-notes--29-20260726t153132-伴读-街拍reading--1oclby2]]
+  - 新增 entity: [[Elliott-Erwitt]], [[Martin-Parr]], [[Humans-of-New-York]]
+  - 新增 concept: [[抵近拍摄]], [[街拍构图原则]], [[视觉基础]], [[量变到质变]]
+  - 关联更新：[[entities/alex-webb]]（补充街拍类型归属）、[[entities/Bruce-Gilden]]（补充街拍类型归属）
+  - 交叉引用：[[摄影减法论]]（抵近即减法）、[[社交距离四区间]]（抵近=跨越距离区间）、[[捷径幻觉]]（无捷径论对立）
+
+## [2026-08-24] ingest | notes/20260726T154625--伴读-摄影入门课总复盘__reading.md
+
+## [2026-08-24] ingest | notes/20260726T162358--摄影水平提升计划__plan.md
+
+## [2026-08-24] ingest | notes/20260726T173048--伴读-尼康z30深度学习计划__reading.md
+
+
+（追加条目，不重写文件）
+
+## 2026-08-24 ingest | 拆书：《深入理解 AI Agent：设计原理与工程实践》
+
+- 新增 source: [[5-notes--36-20260809t103518-拆书-深入理解ai-agentbook--1xhmqgy]]
+- 新增 concept: [[Harness（可靠性机制）]], [[上下文学习=检索而非推理]], [[外部观测第三轴]], [[飞轮：模型内化vs Harness卸载]]
+- 关联更新：[[context/上下文漂移]]（补充机制层解释：根因是"检索而非推理"）、[[context/工具描述敏感性]]（补充保真原则）、[[context/Reflexion反思学习]]（纳入评估闭环框架）、[[sources/5-notes--37-20260712t093000-学习计划-aiagent深度认知plan--1stj3yz]]（添加本书为延伸阅读主教材）
+
+## 2026-08-24
+
+- ingest | 伴读：二号首长
+  - 新增 source: [[5-notes--31-20260809t104538-伴读-二号首长reading--11qenr0]]
+  - 新增 entity: [[黄晓阳]], [[唐小舟]], [[赵德良]], [[二号首长]]
+  - 新增 concept: [[伯乐机制]], [[平衡术]], [[道交谋三层权力哲学]], [[潜规则摆上台面]], [[技术等级vs廉贪二分]]
+  - 新增 comparison: [[官场小说三阶段对比]]
+  - 新增 synthesis: [[潜规则的可见性与自反性]]
+  - 建议强化现有页面: [[事实判断与价值判断]]（补充"技术等级 vs 道德判断"案例）、[[专家访谈非公开信息原则]]（补充：文学作品也可作为"非公开信息"载体）
+
+## [2026-08-24] ingest | notes/20260809T110326--qa-权力平衡术__qa.md
+
+
+<!-- APPEND LOG ENTRY -->
+
+## 2026-08-24
+
+- ingest | 伴读：二号首长（第二份伴读笔记）
+  - 新增 source: [[5-notes--31-20260809t111042-伴读-二号首长reading--3g64e8]]
+  - 新增 entity: [[陈运达]]
+  - 新增 concept: [[权力编码解码]], [[连坐逻辑]], [[危机结盟]], [[台本政治]], [[能力长在伤口上]]
+  - 更新现有页面: [[唐小舟]]（补充五阶段人物弧表/能力跃迁表）、[[赵德良]]（补充连坐逻辑/与陈运达关系）、[[技术等级vs廉贪二分]]（补充10级技术排序表）、[[平衡术]]（补充"平衡术不是终极价值观"辨析）、[[潜规则的可见性与自反性]]（补充"茧房化解读"三分法）
+  - 核心增量：将"读得懂权力"提炼为10级编码解码技术栈，明确 literacy 与 cynicism 边界
+
+---END REVIEW---
+
+---REVIEW:
+
+---FILE: wiki/log.md---
+<!-- APPEND LOG ENTRY -->
+
+## 2026-08-24
+
+- ingest | 伴读：二号首长（第二份伴读笔记）
+  - 新增 source: [[5-notes--31-20260809t111042-伴读-二号首长reading--3g64e8]]
+  - 新增 entity: [[陈运达]]
+  - 新增 concept: [[权力编码解码]], [[连坐逻辑]], [[危机结盟]], [[台本政治]], [[能力长在伤口上]]
+  - 更新现有页面: [[唐小舟]]（补充五阶段人物弧表/能力跃迁表）、[[赵德良]]（补充连坐逻辑/与陈运达关系）、[[技术等级vs廉贪二分]]（补充10级技术排序表）、[[平衡术]]（补充"平衡术不是终极价值观"辨析）、[[潜规则的可见性与自反性]]（补充"茧房化解读"三分法）
+  - 核心增量：将"读得懂权力"提炼为10级编码解码技术栈，明确 literacy 与 cynicism 边界
+
+## [2026-08-24] ingest | notes/20260809T111443--qa-权力微观语法__qa.md
+
+
+## 2026-08-24
+
+- ingest | 拆书：《二号首长》
+  - 新增 source: [[5-notes--28-20260809t113429-拆书-二号首长book--1lns1m5]]
+  - 新增 concept: [[literacy意图vs-cynicism误读]]
+  - 更新现有页面: [[concepts/权力编码解码]]（补充10级技术排序详情）、[[concepts/平衡术]]（强化"平衡是系统稳态而非目的"表述）、[[synthesis/潜规则的可见性与自反性]]（补充三种阅读取向表）
+  - 核心增量：明确提出"权力微观语法"方法论框架名称，强调 literacy 意图与 cynicism 误读的边界
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- 摄入 `notes/20240627T090132--qa-全天候策略怎么选__qa.md`（晨星中国，2024-06-27），创建以下页面：
+  - `wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md` — 来源总结页
+  - `wiki/entities/ray-dalio.md` — 瑞·达里欧，全天候策略提出者
+  - `wiki/entities/harry-browne.md` — 哈里·布朗，永久组合提出者
+  - `wiki/entities/morningstar-cn.md` — 晨星中国，来源
+
+## 2026-08-24
+
+- ingest | 拆书：《置身事内：中国政府与经济发展》
+  - 新增 source: [[5-notes--37-20260809t115209-拆书-置身事内中国政府与经济发展book--1f4ig40]]
+  - 新增 entity: [[兰小欢]]
+  - 新增 concept: [[事权划分原则]], [[土地财政]], [[土地金融]], [[地方政府投融资链条]], [[生产型政府]], [[发展过程≠发展目标]], [[官场+市场体制]], [[服务型政府]]
+  - 更新现有页面: [[城投债-产业债配置权衡]]（补充城投债制度成因小节）、[[收储机制]]（补充分税制→土地财政背景）
+  - 核心增量：首次建立"政府投融资"完整机制叙事，填补 wiki 在地方政府行为分析框架上的空白
+
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 深度研究——晨星投资学习（52 篇 learn 文章学习计划）
+  - 新增 source: [[5-notes--38-20260809t144529-深度研究-晨星投资学习deep-learn--1onri3g]]
+  - 新增 concept: [[假设驱动学习计划-H1H2H3可证伪框架]], [[投资政策声明-IPS]], [[逆向决策树]], [[10分钟基金体检单]], [[基准契合度]], [[海外浓度溯源]], [[周期有关又无关]], [[ETF五问法]], [[基金溯源报告]]
+  - 新增 concept: [[现金流优先于收益率]]
+  - 更新现有页面: [[定投悖论]]（补充 H1 晨星数据引用）、[[DIKW模型-研究方法论]]（补充投资学习用例）、[[费率悖论]]（补充 ETF 费率实操方法）、[[不做预测-只谈应对]]（链接到 IPS 框架）、[[贝塔与阿尔法]]（补充 H1 晨星数据）、[[假设驱动研究]]（补充投资学习计划链接）、[[散户优势]]（补充晨星原文关联）
+  - 核心增量：首次引入可证伪假设驱动的学习方法论框架，建立「假设→验证→失败日志」螺旋路径，打通投资学习与 DIKW 模型的跨域连接
+
+---
+type: source
+title: Wiki Log
+tags: [log]
+related: []
+created: 2026-08-24
+updated: 2026-08-24
+sources: []
+---
+# Wiki Log
+
+记录 wiki 摄入与更新活动。
+
+## 2026-08-24
+
+- Ingest | 拆书：《反倦怠能量站》（刀熊）
+  - 新增来源页：[[sources/5-notes--30-20260809t144533-拆书-反倦怠能量站book--72fc3r]]
+  - 新增实体页：[[entities/刀熊]]
+  - 新增概念页：[[concepts/自我1与自我2]], [[concepts/能量感系统]], [[concepts/闭合任务回路]], [[concepts/内生驱动vs外生驱动]], [[concepts/能量大盗]]
+  - 来源文件：`notes/20260809T144533--拆书-反倦怠能量站__book.md`
+  - 全书约 8.3 万字，56 章，EPUB 全文
+
+## 2026-08-24
+
+- ingest | 深度研究——晨星七大主题投资认知（581 篇）
+  - 新增 source: [[sources/5-notes--40-20260809t145748-深度研究-晨星七大主题投资deep-learn--9ia9nh]]
+  - 新增 concept: [[热点降噪两栏法]], [[主动vs被动回测框架]], [[四象限投资知识结构]]
+  - 新增 concept: [[假设驱动学习计划-H1H2H3H4可证伪框架]]（含 H4 的完整扩展）
+  - 来源文件：`notes/20260809T145748--深度研究-晨星七大主题投资_deep-learn.md`
+  - 核心增量：在原有 H1/H2/H3 框架基础上新增 H4（再平衡贡献 > 单基选择），覆盖 7 个主题 581 篇文章，较前序 52 篇 learn 版本显著扩展
+
+## 2026-08-24
+
+- ingest | 伴读：阶段零·三篇主轴（5-notes--34-20260809t151139）
+  - 新增 source 页：`wiki/sources/5-notes--34-20260809t151139-伴读-阶段零三篇主轴__reading--1bhty6n.md`
+  - 新增 entity 页：`wiki/entities/john-bogle.md`
+  - 新增 entity 页：`wiki/entities/william-bengen.md`
+  - 关联已有概念卡：[[贝塔]]、[[安全提取率]]、[[现金流优先于收益率]]、[[三层仓位框架]]、[[假设驱动学习计划-H1H2H3H4可证伪框架]]
+
+## [2026-08-24] ingest | notes/20260809T153304--拆书-凤凰架构：构建可靠的大型分布式系统__book.md
+
+
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 深度研究——MySQL 实战 45 讲 T 型领域假设驱动学习计划
+  - 新增 source: [[5-notes--42-20260809t154709-深度研究-mysql实战45讲deep-learn--9sp8pg]]
+  - 新增 entity: [[林晓斌]], [[mysql]]
+
+---FILE: wiki/sources/5-notes--42-20260809t154709-深度研究-mysql实战45讲deep-learn--9sp8pg.md---
+---
+type: source
+title: "深度研究——MySQL 实战 45 讲：T 型技术领域假设驱动学习计划 v2"
+created: 2026-08-24
+updated: 2026-08-24
+tags: [mysql, innodb, mvcc, 锁, 索引, 优化器, 高可用, 复制, 学习计划]
+related: [假设驱动学习计划-h1h2h3h4可证伪框架, 失败日志, 快照读vs当前读, b树有序性与索引失效, next-key锁与加锁规则, 并行复制两条铁律, 双1配置与crash-safe]
+sources: ["notes/20260809T154709--深度研究-MySQL实战45讲_deep-learn.md"]
+---
+
+# 深度研究——MySQL 实战 45 讲：T 型技术领域假设驱动学习计划 v2
+
+> **领域类型**：T 型（技术/工程）——每个结论都能用 `EXPLAIN`、`SHOW ENGINE INNODB STATUS`、双 session 复现实验验证，不存在"信不信"，只存在"跑没跑过"
+> **目标深度**：B（能对话）——能和 DBA/后端同事就索引选型、加锁范围、主从方案进行有质量的讨论
+> **时间跨度**：7 周（阶段零 1 周 + 六周主题深入）
+> **主轴课程**：《MySQL 实战 45 讲》（林晓斌）
+
+## 来源概述
+
+本计划以林晓斌《MySQL 实战 45 讲》45 篇笔记为全部实验和推理素材，围绕三个核心假设展开六周深度学习，通过每周 MECE 拆解 + 双 session 实验 + 对话能力验收的方式，将"机制推理能力"作为可验证的学习产出。
+
+## 三个核心假设
+
+### H1：B+ 树有序性决定性能上限
+
+MySQL 绝大多数"性能玄学"的根因是同一个——B+ 树的有序性被破坏了，或者优化器对有序性的利用方式和你想的不一样。
+
+- 证伪信号：学完 W1+W4 后复盘遇到的慢查询案例，如果"有序性破坏"解释不了其中一半以上，此假设错。
+- 覆盖场景：函数调用、隐式类型转换、字符集不一致三种有序性破坏方式。
+
+### H2：InnoDB 并发问题归约为两条规则
+
+① 可见性由 read-view 创建时机决定；② 互斥由 next-key lock 的加锁范围决定。
+
+- 证伪信号：W2+W3 的双 session 实验中，出现任何一个用这两条规则推不出来、必须引入第三条机制才能解释的现象。
+- 核心区分：快照读 vs 当前读是两套可见性规则。
+
+### H3：高可用体系回答同一个问题的不同侧面
+
+如何在单点故障下既不丢数据又能快速恢复，每个方案的存在理由和 trade-off 都是显然的。
+
+- 证伪信号：W5 学完后，如果还有某个高可用机制你能背出名字但说不出"它是在不丢数据和快恢复之间怎么取舍的"，此假设错。
+
+## 六周学习结构
+
+| 周 | 主题 | 核心笔记 | 动手实验 | 周末产出 |
+|:---:|:---|:---|:---|:---|
+| W0 | 环境+全链路 | 01-03 | Docker 双版本环境搭建 | 全链路图 |
+| W1 | 索引 | 04/05/09/10/11 | 回表/覆盖/ICP 三对照 | 索引决策卡 |
+| W2 | 事务 MVCC | 03/08/20 | 双 session 时序复现 | 200 字费曼讲解 |
+| W3 | 锁 | 06/07/21/30/32/40 | 第 21 讲全案例 + 死锁解读 | 加锁推理一页纸 |
+| W4 | 优化器执行 | 10/12-14/16-19/22/33 | 18 讲三案例 + trace | 慢查询诊疗七步 |
+| W5 | 日志复制高可用 | 02/23-29/31 | Docker 主从 + 故障演练 | 高可用取舍表 |
+| W6 | 工程边界 | 34-45/15/44 | JOIN 四组合对比 | 诡异现象翻译表 |
+
+## 验收标准（B 级目标）
+
+拿到一条慢 SQL 或一个"诡异"现象，不翻笔记、不靠背诵，沿「Server 层 → 引擎层」路径一层层推演，给出可实验验证的解释和方案——并且能把这个推演过程讲给别人听。
+
+结合结算系统的五个验收问题：从零设计日切表 / 判断分布式数据库提议 / 大促 CPU 100% 定位 / H1-H3 假设复盘 / MySQL 未来三年可证伪预判。
+
+## v2 相比 v1 的改进
+
+1. 每个主题锚定到课程中的具体机制细节（加锁两原则两优化、并行复制两约束等）
+2. 阶段零先搭实验环境，所有周次实验零等待启动
+3. 针对 B 级目标，每周增加「对话能力验收」——用 DBA/面试官口吻拷问
+4. 版本行为差异（5.7 vs 8.0）本身作为学习素材
+
+## 实验环境
+
+```bash
+# MySQL 8.0 主实验环境
+docker run -d --name mysql8 -e MYSQL_ROOT_PASSWORD=test -p 3308:3306 mysql:8.0
+
+# MySQL 5.7 对照环境
+docker run -d --name mysql57 -e MYSQL_ROOT_PASSWORD=test -p 3357:3306 mysql:5.7
+
+# 压测工具
+brew install sysbench
+```
+
+## 关联 wiki 概念
+
+本计划是 [[假设驱动学习计划-H1H2H3H4可证伪框架]] 在技术/工程领域（T 型）的第一个完整落地案例，比投资/写作类案例更强调"可实验验证"和"版本行为差异也是学习素材"。同时与 [[sources/5-notes--36-20260809t103518-拆书-深入理解ai-agentbook--1xhmqgy]] 同为 T 型假设驱动案例，可横向对照检验框架通用性。
+
+## 2026-08-24
+
+- ingest | 深度研究——MySQL 实战 45 讲 T 型领域假设驱动学习计划
+  - 新增 source: [[5-notes--42-20260809t154709-深度研究-mysql实战45讲deep-learn--9sp8pg]]
+  - 新增 entity: [[林晓斌]], [[mysql]]
+  - 新增 concept:
+
+All files failed to create due to permission prompts. Let me create them one by one.
+
+
+
+文件需要用户批准才能写入。以下是完整的 FILE/REVIEW 输出，请在对话框中批准写入权限后生效：
+
+---FILE: wiki/sources/5-notes--42-20260809t154709-深度研究-mysql实战45讲deep-learn--9sp8pg.md---
+---
+type: source
+title: "深度研究——MySQL 实战 45 讲：T 型技术领域假设驱动学习计划 v2"
+created: 2026-08-24
+updated: 2026-08-24
+tags: [mysql, innodb, mvcc, 锁, 索引, 优化器, 高可用, 复制, 学习计划]
+related: [假设驱动学习计划-h1h2h3h4可证伪框架, 失败日志, 快照读vs当前读, b树有序性与索引失效, next-key锁与加锁规则, 并行复制两条铁律, 双1配置与crash-safe]
+sources: ["notes/20260809T154709--深度研究-MySQL实战45讲_deep-learn.md"]
+---
+
+# 深度研究——MySQL 实战 45 讲：T 型技术领域假设驱动学习计划 v2
+
+> **领域类型**：T 型（技术/工程）——每个结论都能用 `EXPLAIN`、`SHOW ENGINE INNODB STATUS`、双 session 复现实验验证，不存在"信不信"，只存在"跑没跑过"
+> **目标深度**：B（能对话）——能和 DBA/后端同事就索引选型、加锁范围、主从方案进行有质量的讨论
+> **时间跨度**：7 周（阶段零 1 周 + 六周主题深入）
+> **主轴课程**：《MySQL 实战 45 讲》（林晓斌）
+
+## 来源概述
+
+本计划以林晓斌《MySQL 实战 45 讲》45 篇笔记为全部实验和推理素材，围绕三个核心假设展开六周深度学习，通过每周 MECE 拆解 + 双 session 实验 + 对话能力验收的方式，将"机制推理能力"作为可验证的学习产出。
+
+## 三个核心假设
+
+### H1：B+ 树有序性决定性能上限
+
+MySQL 绝大多数"性能玄学"的根因是同一个——B+ 树的有序性被破坏了，或者优化器对有序性的利用方式和你想的不一样。
+
+- 证伪信号：学完 W1+W4 后复盘遇到的慢查询案例，如果"有序性破坏"解释不了其中一半以上，此假设错。
+- 覆盖场景：函数调用、隐式类型转换、字符集不一致三种有序性破坏方式。
+
+### H2：InnoDB 并发问题归约为两条规则
+
+① 可见性由 read-view 创建时机决定；② 互斥由 next-key lock 的加锁范围决定。
+
+- 证伪信号：W2+W3 的双 session 实验中，出现任何一个用这两条规则推不出来、必须引入第三条机制才能解释的现象。
+- 核心区分：快照读 vs 当前读是两套可见性规则。
+
+### H3：高可用体系回答同一个问题的不同侧面
+
+如何在单点故障下既不丢数据又能快速恢复，每个方案的存在理由和 trade-off 都是显然的。
+
+- 证伪信号：W5 学完后，如果还有某个高可用机制你能背出名字但说不出"它是在不丢数据和快恢复之间怎么取舍的"，此假设错。
+
+## 六周学习结构
+
+| 周 | 主题 | 核心笔记 | 动手实验 | 周末产出 |
+|:---:|:---|:---|:---|:---|
+| W0 | 环境+全链路 | 01-03 | Docker 双版本环境搭建 | 全链路图 |
+| W1 | 索引 | 04/05/09/10/11 | 回表/覆盖/ICP 三对照 | 索引决策卡 |
+| W2 | 事务 MVCC | 03/08/20 | 双 session 时序复现 | 200 字费曼讲解 |
+| W3 | 锁 | 06/07/21/30/32/40 | 第 21 讲全案例 + 死锁解读 | 加锁推理一页纸 |
+| W4 | 优化器执行 | 10/12-14/16-19/22/33 | 18 讲三案例 + trace | 慢查询诊疗七步 |
+| W5 | 日志复制高可用 | 02/23-29/31 | Docker 主从 + 故障演练 | 高可用取舍表 |
+| W6 | 工程边界 | 34-45/15/44 | JOIN 四组合对比 | 诡异现象翻译表 |
+
+## 验收标准（B 级目标）
+
+拿到一条慢 SQL 或一个"诡异"现象，不翻笔记、不靠背诵，沿「Server 层 → 引擎层」路径一层层推演，给出可实验验证的解释和方案——并且能把这个推演过程讲给别人听。
+
+结合结算系统的五个验收问题：从零设计日切表 / 判断分布式数据库提议 / 大促 CPU 100% 定位 / H1-H3 假设复盘 / MySQL 未来三年可证伪预判。
+
+## v2 相比 v1 的改进
+
+1. 每个主题锚定到课程中的具体机制细节（加锁两原则两优化、并行复制两约束等）
+2. 阶段零先搭实验环境，所有周次实验零等待启动
+3. 针对 B 级目标，每周增加「对话能力验收」——用 DBA/面试官口吻拷问
+4. 版本行为差异（5.7 vs 8.0）本身作为学习素材
+
+## 实验环境
+
+```bash
+# MySQL 8.0 主实验环境
+docker run -d --name mysql8 -e MYSQL_ROOT_PASSWORD=test -p 3308:3306 mysql:8.0
+
+# MySQL 5.7 对照环境
+docker run -d --name mysql57 -e MYSQL_ROOT_PASSWORD=test -p 3357:3306 mysql:5.7
+
+# 压测工具
+brew install sysbench
+```
+
+## 关联 wiki 概念
+
+本计划是 [[假设驱动学习计划-H1H2H3H4可证伪框架]] 在技术/工程领域（T 型）的第一个完整落地案例，比投资/写作类案例更强调"可实验验证"和"版本行为差异也是学习素材"。同时与 [[sources/5-notes--36-20260809t103518-拆书-深入理解ai-agentbook--1xhmqgy]] 同为 T 型假设驱动案例，可横向对照检验框架通用性。
+
+## 2026-08-24
+
+- ingest | 深度研究——MySQL 实战 45 讲 T 型领域假设驱动学习计划
+  - 新增 source: [[5
+
+---FILE: wiki/log.md---
+## 2026-08-24
+
+- ingest | 深度研究——MySQL 实战 45 讲 T 型领域假设驱动学习计划
+  - 新增 source: [[5-notes--42-20260809t154709-深度研究-mysql实战45讲deep-learn--9sp8pg]]
+  - 新增 entity: [[林晓斌]], [[mysql]]
+  - 新增 concept: [[快照读vs当前读]], [[B树有序性与索引失效]], [[next-key锁与加锁规则]], [[并行复制两条铁律]], [[双1配置与crash-safe]]
+  - 关联现有概念: [[假设驱动学习计划-H1H2H3H4可证伪框架]], [[失败日志]]
+
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 深度研究——AI Agent 架构设计（《AI Agent 实战》学习计划）
+  - 新增 source: [[5-notes--44-20260809t155341-深度研究-ai-agent架构设计deep-learn--11z6kgx]]
+  - 新增 entity: [[李博杰]]
+  - 新增 concept: [[Agent-LLM-上下文-工具]], [[上下文工程四机制]], [[KV Cache 工程约束]], [[提示注入]], [[记忆四种渐进策略]], [[Agentic RAG]], [[五类工具划分]], [[MCP]], [[代码是元能力]], [[事件驱动三范式]], [[语音三范式]], [[Computer Use五原语]], [[评估三维度]], [[LLM-as-a-Judge]], [[SFT记忆与RL泛化]], [[奖励演进三阶段]], [[四种更新载体]], [[学习信号与更新载体矩阵]], [[多Agent分类框架]], [[H1H2H3假设体系]]
+  - 新增 query: [[Agentic-RL会吃掉多少上下文工程的生存空间]]
+  - 更新 concept: [[Agent五层架构]]（补充上下文工程四机制精细拆解）
+  - 关联现有概念: [[ReAct]], [[Harness（可靠性机制）]], [[上下文漂移]], [[上下文学习=检索而非推理]], [[失败日志]]
+
+## [2026-08-24] ingest | notes/20260809T155731--深度研究-凤凰架构：构建可靠的大型分布式系统_deep-learn.md
+
+## [2026-08-24] ingest | notes/20260809T160003--深度研究-java并发编程_deep-learn.md
+
+## [2026-08-24] ingest | notes/20260809T160739--深度研究-设计模式_deep-learn.md
+
+
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 深度研究——左耳听风（陈皓）：假设驱动学习计划 v2
+  - 新建 source：[[5-notes--36-20260809t160753-深度研究-左耳听风deep-learn--1f15wy4]]
+  - 新建 entity：[[陈皓
+
+---FILE: wiki/log.md---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 深度研究——左耳听风（陈皓）：假设驱动学习计划 v2
+  - 新建 source：[[5-notes--36-20260809t160753-深度研究-左耳听风deep-learn--1f15wy4]]
+  - 新建 entity：[[陈皓]]
+  - 新建 concept：[[部分失败-Partial-Failure]]、[[弹力设计模式集]]、[[数据面-vs-控制面]]、[[fencing-token]]、[[编程范式=组合方式之争]]、[[性能与一致性设计的张力]]、[[秒杀与结算峰值的同构性]]
+  - 新建 query：[[陈皓2018年判断框架在2026年还成立吗]]
+
+---
+type: synthesis
+title: Wiki Log
+tags: [日志]
+related: []
+created: 2026-08-24
+updated: 2026-08-24
+---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 深度研究——数据结构与算法之美（王争）：T 型技术领域假设驱动学习计划 v2
+  - 新建源页面：[[sources/5-notes--41-20260809t161139-深度研究-数据结构与算法之美deep-learn--1ezvxq2]]
+  - 新建实体页面：[[entities/王争]]、[[entities/极客时间]]
+  - 新建概念页面：[[concepts/大O复杂度分析四场景]]、[[concepts/数据结构选型决策树]]、[[concepts/四种算法思想光谱]]、[[concepts/链表边界四类陷阱]]
+  - 关联已有页面：[[concepts/H1H2H3假设体系]]、[[concepts/B树有序性与索引失效]]、[[concepts/快照读vs当前读]]
+
+（追加内容，插入在现有 log 末尾）
+
+## 2026-08-24
+
+- ingest | 拆书：《楚汉双雄》— 渤海小吏：百战百胜者的力竭而亡
+  - 新建源页面：[[sources/5-notes--28-20260809t162652-拆书-楚汉双雄book--c7cip4]]
+  - 新建实体页面：[[entities/渤海小吏]]、[[entities/项羽]]、[[entities/刘邦]]、[[entities/秦始皇]]
+  - 新建概念页面：[[concepts/系统厚度-vs-单点天才]]、[[concepts/胜利推迟隐患机制]]、[[concepts/打地鼠模式]]、[[concepts/成功者偏见]]
+  - 关联已有页面：[[concepts/假设驱动学习计划-H1H2H3可证伪框架]]、[[concepts/架构腐化]]
+
+（追加到现有 log 末尾的内容）
+
+## 2026-08-24
+
+- ingest | 拆书：《楚汉双雄》— 渤海小吏：百战百胜者的力竭而亡
+  - 新建源页面：[[sources/5-notes--28-20260809t162652-拆书-楚汉双雄book--c7cip4]]
+  - 新建实体页面：[[entities/渤海小吏]]、[[entities/项羽]]、[[entities/刘邦]]、[[entities/秦始皇]]
+  - 新建概念页面：[[concepts/系统厚度-vs-单点天才]]、[[concepts/胜利推迟隐患机制]]、[[concepts/打地鼠模式]]、[[concepts/成功者偏见]]
+  - 关联已有页面：[[concepts/假设驱动学习计划-H1H2H3可证伪框架]]、[[concepts/架构腐化]]
+
+## [2026-08-24] ingest | notes/20260809T162758--拆书-大唐气象__book.md
+
+
+(追加条目，在 # Research Log 之后、## 2026-08-24 楚汉双雄条目之前插入)
+
+## 2026-08-24
+
+- ingest | 拆书：《两汉风云》
+  - 新建源页面：[[sources/5-notes--28-20260809t162904-拆书-两汉风云book--hrndq3]]
+  - 新建实体页面：[[entities/张良]]、[[entities/娄敬]]、[[entities/汉武帝]]
+  - 新建概念页面：[[concepts/迭代逻辑-不完美接力]]、[[concepts/务实主义-承认不完美]]、[[concepts/模糊地带的政治优势]]、[[concepts/问题制造机制]]、[[concepts/后继者能力决定系统寿命]]
+  - 关联已有页面：[[entities/渤海小吏]]、[[concepts/惯性定律-王朝续航力框架]]、[[concepts/胜利推迟隐患机制]]、[[concepts/热力学第二定律-王朝能量收支模型]]
+
+# Research Log
+
+## 2026-08-24
+
+- ingest | 拆书：《南北归一》（渤海小吏）
+  - 新增 source: [[5-notes--28-20260809t163000--拆书-南北归一book--1rn3rpj]]
+  - 新增 concept: [[北人南下为六朝盛衰总纲]], [[移民武装集团代际轮替]], [[华夷融合与统一摩擦力]]
+  - 更新 entity: [[渤海小吏]]（添加《南北归一》代表作）
+  - 更新 concept: [[燃料链断裂]]（添加南朝案例：燃料输入停止，与河北案例对偶）
+  - 更新 concept: [[惯性定律-王朝续航力框架]]（添加刘宋作为初始动量耗尽案例）
+  - 更新 concept: [[胜利推迟隐患机制]]（添加刘宋作为历史例证）
+
+## [2026-08-24] ingest | notes/20260809T163236--拆书-三国争霸__book.md
+
+
+---
+type: source
+title: Wiki Log
+tags: []
+related: []
+created: 2026-08-24
+updated: 2026-08-24
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- Ingest `notes/20260809T163326--拆书-西游成事智慧__book.md` — 拆书：《西游成事智慧》，渤海小吏著。新建源页面、西游记/孙悟空/唐僧/猪八戒/沙僧/如来佛祖/观音/太上老君实体卡、神话外壳写人间事/西游成事智慧三关/取经团队角色模型/识节点vs硬打/灵根育孕-膨胀-被压-觉悟/紧箍咒-约束机制/决策者判断可能不对但仍需接受概念卡。
+- Ingest `notes/20260809T163236--拆书-三国争霸book--5nkvtt` — 拆书：《三国争霸》
+- Ingest `notes/20260809T163000-拆书-南北归一book--1rn3rpj` — 拆书：《南北归一》
+- Ingest `notes/20260809T162904-拆书-两汉风云book--hrndq3` — 拆书：《两汉风云》
+- Ingest `notes/20260809T162758-拆书-大唐气象book--vdi3oq` — 拆书：《大唐气象》
+- Ingest `notes/20260809T162652-拆书-楚汉双雄book--c7cip4` — 拆书：《楚汉双雄》
+- Ingest `notes/20260809T161139-深度研究-数据结构与算法之美deep-learn--1ezvxq2` — 深度研究：数据结构与算法之美
+- Ingest `notes/20260809T160753-深度研究-左耳听风deep-learn--1f15wy4` — 深度研究：左耳听风
+- Ingest `notes/20260809T155731-深度研究-凤凰架构构建可靠的大型分布式系统deep-learn--pgn020` — 深度研究：凤凰架构
+- Ingest `notes/20260809T155341-深度研究-ai-agent架构设计deep-learn--11z6kgx` — 深度研究：AI Agent架构设计
+- Ingest `notes/20260809T154709-深度研究-mysql实战45讲deep-learn--9sp8pg` — 深度研究：MySQL实战45讲
+- Ingest `notes/20260809T153304-拆书-凤凰架构构建可靠的大型分布式系统book--mx7au6` — 拆书：《凤凰架构》
+- Ingest `notes/20260809T151139-伴读-阶段零三篇主轴reading--1bhty6n` — 伴读：阶段零·三篇主轴
+- Ingest `notes/20260809T145748-深度研究-晨星七大主题投资deep-learn--9ia9nh` — 深度研究：晨星七大主题投资
+- Ingest `notes/20260809T144533-拆书-反倦怠能量站book--72fc3r` — 拆书：《反倦怠能量站》
+- Ingest `notes/20260809T144529-深度研究-晨星投资学习deep-learn--1onri3g` — 深度研究：晨星投资学习
+- Ingest `notes/20260809T115209-拆书-置身事内中国政府与经济发展book--1f4ig40` — 拆书：《置身事内》
+- Ingest `notes/20260809T113429-拆书-二号首长book--1lns1m5` — 拆书：《二号首长》
+- Ingest `notes/20260809T111042-伴读-二号首长reading--3g64e8` — 伴读：二号首长（第二份）
+- Ingest `notes/20260809T104538-伴读-二号首长reading--11qenr0` — 伴读：二号首长
+- Ingest `notes/20260809T103518-拆书-深入理解ai-agentbook--1xhmqgy` — 拆书：《深入理解AI Agent》
+- Ingest `notes/20260726t162358-摄影水平提升计划plan--1qi3orx` — 摄影水平提升计划
+- Ingest `notes/20260726t154625-伴读-摄影入门课总复盘reading--1tdozec` — 伴读：摄影入门课总复盘
+- Ingest `notes/20260726t153132-伴读-街拍reading--1oclby2` — 伴读：街拍
+- Ingest `notes/20260726t153005-伴读-风光reading--1mgxle8` — 伴读：风光
+- Ingest `notes/20260726t152800-伴读-人物reading--nfrthi` — 伴读：人物
+- Ingest `notes/20260726t152251-伴读-静物reading--15gs40h` — 伴读：静物
+- Ingest `notes/20260726t150909-伴读-光reading--1id9piy` — 伴读：光
+
+## [2026-08-24] ingest | notes/20260809T163426--拆书-AI-Agents-in-Depth__book.md
+
+## [2026-08-24] ingest | notes/20260809T163426--拆书-AI-Agents-in-Depth__book.md
+
+
+- 摄入 `notes/20260809T163911--伴读-AI-Agent实战引言__reading.md`，创建以下页面：
+  - `wiki/sources/5-notes--39-20260809t163911-伴读-AI-Agent实战引言-reading.md` — 源总结页
+  - `wiki/entities/Pine-AI.md` — Pine AI，作者所在公司，书中案例的真实产品背景
+  - `wiki/concepts/实践在前命名在后.md` — Agent 架构好原则先于名词存在，追名词是滞后策略
+  - `wiki/concepts/动态Agent公式.md` — `Agent(t+1) = Agent(t) + 评估回路(Agent(t))`，评估回路是时间算子
+- 更新 `wiki/concepts/Agent-LLM-上下文-工具.md`：补充动态公式引用、关键推论与关联概念
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- Project created
+
+---
+# Wiki Log
+
+## 2026-08-15
+
+- 摄入 `notes/20240627T090132--qa-全天候策略怎么选__qa.md`（晨星中国，2024-06-27），创建以下页面：
+  - `wiki/sources/5-notes--30-20240627t090132-qa-全天候策略怎么选qa--1ih4efd.md` — 来源总结页
+  - `wiki/entities/ray-dalio.md` — 瑞·达里欧，全天候策略提出者
+  - `wiki/entities/harry-browne.md` — 哈里·布朗，永久组合提出者
+  - `wiki/entities/morningstar-cn.md` — 晨星中国，来源
+
+---
+# Wiki Log
+
+## 2026-08-24
+
+- 摄入 `notes/20260809T172516--伴读-AI-Agent实战第一章__reading.md`（李博杰，《AI Agent 实战》第一章，2026-08-09），创建以下页面：
+  - `wiki/sources/5-notes--49-20260809t172516--伴读-AI-Agent实战第一章reading.md` — 来源总结页
+  - `wiki/concepts/Harness范式演进.md` — 提示⊂上下文⊂Harness⊂Loop 工程的范式层级
+  - `wiki/concepts/ACI与Poka-yoke防呆.md` — Agent-计算机接口设计原则
+  - `wiki/concepts/编排光谱-工作流自主混合.md` — 工作流↔自主↔混合的分场景选择
+  - `wiki/concepts/护栏三层架构.md` — 输入/执行/输出三层防御
+  - `wiki/concepts/学习机制三路径与三轴判据.md` — 上下文适应/外部产物/参数更新 + 三轴分流判据
+  - `wiki/concepts/补丁层vs语义层二分.md` — 回击"RL吃Harness"的核心论证
+  - `wiki/concepts/消融实验1-1.md` — 本章唯一硬因果证据
+  - `wiki/concepts/ReAct轨迹与二次方代价.md` — ReAct 状态机与上下文工程动机
+- 更新页面：
+  - `wiki/concepts/Harness（可靠性机制）.md` — 合并护栏三层、ACI 防呆、编排光谱，补充 LangChain 量化数据
+  - `wiki/concepts/动态Agent公式.md` — 引入学习机制三路径作为时间算子的工程对应物
+  - `wiki/concepts/四种更新载体.md` — 与三路径建立映射关系
+  - `wiki/concepts/上下文工程四机制.md` — 增加 ReAct 轨迹二次方代价作为设计动机
+  - `wiki/concepts/提示注入.md` — 升级为护栏三层的子节，与越狱做明确区分
+
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 拆书：《二号首长》（第二份）
+  - `wiki/sources/5-notes--28-20260815t102033-拆书-二号首长book--12mym07.md` — 来源总结页
+  - `wiki/concepts/做零与权力中继站.md` — 新概念：做零悖论及权力传导中继站模型
+  - `wiki/concepts/信息等级vs职位等级.md` — 新概念：全书最核心的组织观察
+  - `wiki/entities/黄晓阳.md` — 更新 sources，补充第二份拆书贡献
+  - `wiki/entities/唐小舟.md` — 更新 sources，补充"做零"实践者角色与终局问题
+  - `wiki/entities/二号首长.md` — 更新 sources，补充核心命题（做零悖论、信息等级≠职位等级）
+
+（追加内容，插入到现有 log.md 末尾）
+
+## 2026-08-24
+
+- ingest | 拆书：《置身事内：中国政府与经济发展》（兰小欢，x-f-f(x) 框架版）
+  - `wiki/sources/5-notes--28-20260815t102716-拆书-置身事内book--1uyx3cs.md` — 新来源总结页（含完整因果链图示）
+  - `wiki/entities/京东方.md` — 新建实体：地方政府作为直接投资人的关键案例
+  - `wiki/concepts/f-x-f(x)观察顺序重构.md` — 新建概念：全书方法论核心
+  - `wiki/concepts/双向定价.md` — 新建概念：工业低价+商住高价策略
+  - `wiki/concepts/以地谋发展模式.md` — 新建概念：全书因果链命名
+  - `wiki/concepts/激励结构先于政策判断.md` — 新建概念：方法论提炼
+  - 更新页面：
+    - `wiki/sources/5-notes--37-20260809t115209-拆书-置身事内中国政府与经济发展book--1f4ig40.md` — 补充新版 sources 记录
+    - `wiki/entities/兰小欢.md` — 补充新拆书来源
+    - `wiki/concepts/土地财政.md` — 补充双向定价与以地谋发展相关链接
+    - `wiki/concepts/土地金融.md` — 补充双向定价与以地谋发展相关链接
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+---FILE: wiki/log.md---
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 伴读：《AI Agent 工程》第三章 用户记忆和知识库
+  - 新增源页面：`sources/5-notes--35-20260815t113349-伴读-用户记忆和知识库reading--1lkk2x6`
+  - 新增实体：Mem0、Memobase
+  - 新增概念：用户记忆评估三层次、双层记忆架构、User as Code、上下文感知检索、推断 vs 组织、压舱石母题、双编码器/跨编码器两级漏斗、Proposer-Reviewer
+  - 新增对比：Mem0 v2 vs v3、RAPTOR vs GraphRAG、User as Code vs Markdown 可读记忆
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 标签索引（notes/标签索引.md）
+  - 新增源页面：`sources/5-notes--4-标签索引--1bygpru`
+  - 新增实体：[[北交所-bse]]
+  - 新增概念：[[知识库标签索引系统]]
+
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-15
+updated: 2026-08-24
+tags: []
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-08-24
+
+- ingest | 端午节摄影：在龙舟与艾草之间，拍出中国式的夏天
+  - 新增 source: [[5-notes--21-端午节摄影在龙舟与艾草之间拍出中国式的夏天--7079w8]]
+  - 新增 concept: [[节日摄影五张叙事闭环]], [[气味感摄影]], [[湿与暖的夏日审美]], [[拍手代替拍物]], [[从记录到表达]]
+  - 更新 related: [[摄影四层递进框架]]
+
+## 2026-08-15
+
+- Project created

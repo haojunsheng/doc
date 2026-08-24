@@ -7170,6 +7170,1363 @@
         "wiki/log.md",
         "wiki/index.md"
       ]
+    },
+    "notes/20260628T154848--qa-目标风险基金策略差异__qa.md": {
+      "hash": "c0b8ef6aba001e14a3a12d9ae3f2ec7154df342b61edceb706058f641833122d",
+      "timestamp": 1787479872858,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154848-qa-目标风险基金策略差异qa--t9b0qh.md",
+        "wiki/concepts/目标风险基金策略框架.md",
+        "wiki/concepts/子基金筛选定量定性框架.md",
+        "wiki/concepts/双重收费豁免.md",
+        "wiki/concepts/跟踪误差控制.md",
+        "wiki/entities/林国怀.md",
+        "wiki/entities/交银安享稳健.md",
+        "wiki/entities/富国鑫旺稳健.md",
+        "wiki/entities/兴全安泰积极.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154856--qa-大类资产预期回报收窄__qa.md": {
+      "hash": "090031dddcfeb6bb8af984c74c5e14636e5dd377457a0d2d7c6e1189ccb6f2e3",
+      "timestamp": 1787480082106,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t154856-qa-大类资产预期回报收窄qa--18q4hkj.md",
+        "wiki/concepts/美债美股预期回报趋同.md",
+        "wiki/concepts/高收益资产稀缺化.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154908--qa-黄金投资渠道与长期配置逻辑__qa.md": {
+      "hash": "68a84a1138f08a8e8f91d20b584413537762406da7a8f1efe3ed3a547fc53d9b",
+      "timestamp": 1787480548257,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t154908-qa-黄金投资渠道与长期配置逻辑qa--itxxy4.md",
+        "wiki/concepts/黄金四轮驱动框架.md",
+        "wiki/concepts/黄金投资渠道分层.md",
+        "wiki/concepts/黄金货币信用侵蚀镜像.md",
+        "wiki/concepts/黄金周期长度警示.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154909--qa-主动基金能不能跑赢被动__qa.md": {
+      "hash": "87db7c23a7c8933c4dd245d33d3c56304b8c9679c70b0be1d374d662abc48890",
+      "timestamp": 1787481569964,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154909-qa-主动基金能不能跑赢被动qa--1515glq.md",
+        "wiki/concepts/主动基金行业胜率分化框架.md",
+        "wiki/concepts/主动基金基准重构框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154917--qa-美股高位站丝走钢丝怎么配__qa.md": {
+      "hash": "e75ecc6191addef301bbe6f49f7c59dcda9f1b381b47bdb6e9e67f1be14b1224",
+      "timestamp": 1787481702132,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t154917-qa-美股高位站丝走钢丝怎么配qa--1igt6wu.md",
+        "wiki/concepts/风格溢价量化框架.md",
+        "wiki/concepts/高位市场选基框架.md",
+        "wiki/concepts/行业指数集中度扭曲.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154932--qa-芒格投资智慧六讲__qa.md": {
+      "hash": "d21d21e9a43a6485c5ea73432a72f9dc672eb7a24a278874d4f769e6dc62af47",
+      "timestamp": 1787483512374,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t154932-qa-芒格投资智慧六讲qa--126hvh4.md",
+        "wiki/concepts/芒格六讲行为纪律框架.md",
+        "wiki/concepts/反向思考-Jacobi框架.md",
+        "wiki/concepts/双重错误墙框架.md",
+        "wiki/concepts/嫉妒-追高心理陷阱.md",
+        "wiki/entities/约翰-阿里亚加.md",
+        "wiki/entities/克里斯-戴维斯.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T154955--qa-选QDII基金注意什么__qa.md": {
+      "hash": "ea56c118ad7bef1d7cd47e787a953cca37934d92ddc652ba1f81918d50414fbd",
+      "timestamp": 1787484233067,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t154955-qa-选qdii基金注意什么qa--1ozl4g4.md",
+        "wiki/concepts/QDII区域分类框架.md",
+        "wiki/concepts/环球不等于全球配置陷阱.md",
+        "wiki/concepts/业绩基准作为投资范围说明书.md",
+        "wiki/concepts/人民币份额与美元份额汇率风险等价.md",
+        "wiki/concepts/新兴市场指数有效性优势.md",
+        "wiki/concepts/海外降息传导链——QDII受益逻辑.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155019--qa-美股十年跑赢所有预期预测__qa.md": {
+      "hash": "174ba01496f9a37dbc77ab4c68a535d81222eae10d4536b377ea72d84b29aa87",
+      "timestamp": 1787484506406,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260628t155019-qa-美股十年跑赢所有预期预测qa--102ohaw.md",
+        "wiki/concepts/美股十年估值扩张实证.md",
+        "wiki/concepts/股票回购对EPS的机械效应.md",
+        "wiki/concepts/均值回归陷阱.md",
+        "wiki/entities/沃伦-巴菲特.md",
+        "wiki/entities/杰克-博格.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155031--qa-芒格如何影响晨星__qa.md": {
+      "hash": "2e82ef78d451d59c8de7d8053f2d51ca4b91162eb61920bc0caef17cfd01b1bd",
+      "timestamp": 1787485090491,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t155031-qa-芒格如何影响晨星qa--tznyx6.md",
+        "wiki/concepts/晨星投研方法论渊源.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155041--qa-金价历史新高黄金牛能走多远__qa.md": {
+      "hash": "f84439a630f8432dbdc9d319656a3dd84eae049d27d0618446eeb0df8b1dd1c8",
+      "timestamp": 1787485913300,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t155041-qa-金价历史新高黄金牛能走多远qa--nph24c.md",
+        "wiki/concepts/黄金配置双面框架.md",
+        "wiki/concepts/金价均值回归框架.md",
+        "wiki/concepts/黄金非生息资产.md",
+        "wiki/concepts/央行去美元化.md",
+        "wiki/concepts/黄金-A股低相关性.md",
+        "wiki/concepts/避险≠稳定.md",
+        "wiki/concepts/均值回归陷阱.md",
+        "wiki/entities/沃伦-巴菲特.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155119--qa-基金经理再就业新规__qa.md": {
+      "hash": "652732235bb193a52d539d27b15eb152689d5b625f922a706ac93b73f6a0d450",
+      "timestamp": 1787486078250,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260628t155119-qa-基金经理再就业新规qa--1p4jf57.md"
+      ]
+    },
+    "notes/20260628T155128--qa-投顾的核心是投还是顾__qa.md": {
+      "hash": "0fdfb0c95b51a8b6f267c82ab622443579f0c05cefa900e34cbc7ce26fc45fd5",
+      "timestamp": 1787486433343,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t155128-qa-投顾的核心是投还是顾qa--x611qk.md",
+        "wiki/entities/陈鹏.md",
+        "wiki/concepts/三分投七分顾.md",
+        "wiki/concepts/投顾策略下架双原因.md",
+        "wiki/concepts/大V投顾悖论.md",
+        "wiki/concepts/投顾服务的信任壁垒.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155212--qa-北交所这泼天的富贵__qa.md": {
+      "hash": "b9da1b979bc41bd3609d54e657f8645e7b594668b978bd8868d7794eba613fe0",
+      "timestamp": 1787486499479,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t155212-qa-北交所这泼天的富贵qa--og2fl1.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T155246--qa-巴菲特错过微软为何还是股神__qa.md": {
+      "hash": "d2200a7b3c64eab807e803788f810f3e6d563dc21cfffdcd67ae78d9217f8664",
+      "timestamp": 1787487417748,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260628t155246-qa-巴菲特错过微软为何还是股神qa--soayvr.md",
+        "wiki/entities/沃伦-巴菲特-warren-buffett.md",
+        "wiki/concepts/能力圈.md",
+        "wiki/concepts/护城河策略.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155304--qa-人民币反攻还是假摔__qa.md": {
+      "hash": "a9aec7dd9f4b8ee4b1ac577c361bf464b66c523d5832d9dff0ba441fd5ab25c8",
+      "timestamp": 1787488177258,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t155304-qa-人民币反攻还是假摔qa--1ic51wd.md",
+        "wiki/concepts/人民币强弱双驱框架.md",
+        "wiki/concepts/汇率股市共振非因果.md",
+        "wiki/entities/美联储.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155354--qa-外资基金A股打折进货__qa.md": {
+      "hash": "367fec0803f4736869d06f5c8f36a823206357a34dd70e03a58f61184d29fd3b",
+      "timestamp": 1787488400730,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t155354-qa-外资基金a股打折进货qa--gd4jb2.md",
+        "wiki/concepts/外资仓位四阶段与利率驱动框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155448--qa-万亿特别国债大利好__qa.md": {
+      "hash": "f1f9cd10377ed2eba5bb96f49393ef0dfa0f2116d993384eca83106b4482dbfd",
+      "timestamp": 1787488707686,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t155448-qa-万亿特别国债大利好qa--16a9yx0.md",
+        "wiki/concepts/特别国债政策框架.md",
+        "wiki/concepts/股债反向共振.md",
+        "wiki/concepts/财政刺激工具比较-发债vs发钱.md",
+        "wiki/concepts/央行对冲机制.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155540--qa-3000点保卫战拔网线__qa.md": {
+      "hash": "1f31c92d09c8d29ad09cb24070a6076baa15a2b67ac4783e2da29ccce2ca0b39",
+      "timestamp": 1787488906743,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t155540-qa-3000点保卫战拔网线qa--uk7cgz.md",
+        "wiki/concepts/短视性损失厌恶.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155634--qa-电动车行业十年趋势__qa.md": {
+      "hash": "d465b7783b18d56e988ac3be3cd05beb23052fa97eec2a908c2310878ef7acff",
+      "timestamp": 1787489038172,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t155634-qa-电动车行业十年趋势qa--qm3z7.md",
+        "wiki/entities/晨星中国morningstar-cn.md",
+        "wiki/entities/比亚迪.md",
+        "wiki/entities/特斯拉.md",
+        "wiki/concepts/电动车渗透率趋势.md",
+        "wiki/concepts/双积分政策框架.md",
+        "wiki/concepts/充电桩基建瓶颈.md",
+        "wiki/concepts/电动车价格平价时间点.md",
+        "wiki/concepts/政策意志+基建+消费者接受度三重共振框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155731--qa-美股为何能持续领跑__qa.md": {
+      "hash": "4bc0610609da576d726321aed91b4c150236465cea18cf41e308d472c4cab897",
+      "timestamp": 1787489852449,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260628t155731-qa-美股为何能持续领跑qa--80qpuv.md"
+      ]
+    },
+    "notes/20260628T155829--qa-买方投顾解决基民不赚钱__qa.md": {
+      "hash": "62ab92c17ba38704e5dca152c06c2f3c5392260a145e6227a7591c419e223477",
+      "timestamp": 1787490248463,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t155829-qa-买方投顾解决基民不赚钱qa--1eb9tzy.md",
+        "wiki/concepts/买方投顾商业模式.md",
+        "wiki/concepts/隐性成本-交易费占比.md",
+        "wiki/concepts/NPS推荐度衡量投顾体验.md",
+        "wiki/concepts/长期主义考核框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T155922--qa-价值和平衡风格基金领跑__qa.md": {
+      "hash": "122d5cec3cc788950a24a772cd8379541988bca62eadab89f95c877b9428af42",
+      "timestamp": 1787490326332,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t155922-qa-价值和平衡风格基金领跑qa--11140qw.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T160027--qa-基金信披防止洗绿__qa.md": {
+      "hash": "7fca699146999ba138faefef1a5514f62d6ba78d50e951a91e8e59b54824051a",
+      "timestamp": 1787490894589,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260628t160027-qa-基金信披防止洗绿qa--l1whoc.md",
+        "wiki/concepts/洗绿-greenwashing.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T160126--qa-主动基金vs被动基金__qa.md": {
+      "hash": "53d81bdb7cc8987c1d0c7defcd93e80405d33150c4472c96ad4ea2d5fd096c07",
+      "timestamp": 1787491135741,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t160126-qa-主动基金vs被动基金qa--18qr6go.md",
+        "wiki/concepts/主动被动胜率基准方法论.md",
+        "wiki/concepts/中小盘主动战胜率波动.md",
+        "wiki/concepts/主动基金行业胜率分化框架.md",
+        "wiki/concepts/主动基金基准重构框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T160233--qa-外资基金公司中国布局__qa.md": {
+      "hash": "dfc7959366b3209b6f45d16b6f7a8445b9f297c81e4b5b6a5e71514477f6a104",
+      "timestamp": 1787492172441,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t160233-qa-外资基金公司中国布局qa--1vhx548.md",
+        "wiki/entities/路博迈.md",
+        "wiki/entities/宏利基金.md",
+        "wiki/concepts/外资公募牌照审批路径.md",
+        "wiki/concepts/外资公募本土化挑战.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T175358--拆书-晨星基金投资64讲__book.md": {
+      "hash": "c0a24c1aa6d40aa8d0f56dce537c9b027f7647b6f33763c2f3a8ad3462f28240",
+      "timestamp": 1787493232802,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260628t175358-拆书-晨星基金投资64讲book--pkvevk.md",
+        "wiki/concepts/行为金融学四偏差框架.md",
+        "wiki/concepts/晨星基金评价三维定位系统.md",
+        "wiki/concepts/资金自有性.md",
+        "wiki/concepts/市场半强式有效.md",
+        "wiki/concepts/战胜率.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T210958--qa-晨星基民不赚钱__qa.md": {
+      "hash": "16d51194ed790bee1ce5f5b0909f3d8379174e6a946e4f755df3246e57c33e4b",
+      "timestamp": 1787494967727,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260628t210958-qa-晨星基民不赚钱qa--1lvhqmi.md",
+        "wiki/concepts/战胜率.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260628T211718--拆书-ETF投资18讲__book.md": {
+      "hash": "a94d93910d9fdc8bf24a18bf0e05b531edec8f983fb7e8d81b257e1aad6b6c1e",
+      "timestamp": 1787502160144,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260628t211718-拆书-etf投资18讲book--1dd1d31.md",
+        "wiki/concepts/指数构造五步法.md",
+        "wiki/concepts/市值加权追涨杀跌.md",
+        "wiki/concepts/全收益指数与价格指数陷阱.md",
+        "wiki/concepts/指数内卷.md",
+        "wiki/concepts/主动指数基金.md",
+        "wiki/concepts/ETF持有人行为损耗.md",
+        "wiki/concepts/自由流通市值加权.md",
+        "wiki/concepts/流动性双刃剑.md",
+        "wiki/concepts/费率复利放大效应.md",
+        "wiki/concepts/限价单与市价单隐性成本.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260628T222333--拆书-资产配置43讲__book.md": {
+      "hash": "f57f35e766585c3a31019b1c6ea47f49dee8645a7e7e30a58ec112a15e07fe07",
+      "timestamp": 1787502426819,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260628t222333-拆书-资产配置43讲book--16k6rnk.md",
+        "wiki/concepts/定投悖论.md",
+        "wiki/concepts/不做预测-只谈应对.md",
+        "wiki/concepts/再平衡效果条件.md",
+        "wiki/concepts/中立起点配置法.md",
+        "wiki/concepts/股息陷阱-行为角度.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260705T165047--拆书-如何快速了解一个行业__book.md": {
+      "hash": "1dc564eb0b29e0b92bec9b793af5ec0a88451adaf964ad32f6c76145c7838f50",
+      "timestamp": 1787503229725,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260705t165047-拆书-如何快速了解一个行业book--1a1mc17.md",
+        "wiki/concepts/五维分析框架-肖璟.md",
+        "wiki/concepts/产能周期四阶段.md",
+        "wiki/concepts/时间对标-空间对标.md",
+        "wiki/concepts/UE模型-单位经济学.md",
+        "wiki/concepts/护城河二元构建.md",
+        "wiki/concepts/货币三种价格.md",
+        "wiki/concepts/交易拥挤度.md",
+        "wiki/concepts/稳定市场周期化.md",
+        "wiki/concepts/景气度指标体系.md",
+        "wiki/concepts/DIKW模型-研究方法论.md",
+        "wiki/entities/steve-blank.md",
+        "wiki/entities/麦肯锡.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260705T170125--伴读-如何快速了解一个行业__reading.md": {
+      "hash": "9205d2f2e493572feed9bf3918bca2851df7936ea2e2bb6807124a8d1c82cfbd",
+      "timestamp": 1787505081497,
+      "filesWritten": [
+        "wiki/sources/5-notes--37-20260705t170125-伴读-如何快速了解一个行业reading--tf5zd2.md",
+        "wiki/concepts/需求排序矩阵.md",
+        "wiki/concepts/事实判断与价值判断.md",
+        "wiki/concepts/信息茧房.md",
+        "wiki/concepts/AI幻觉.md",
+        "wiki/concepts/需求真伪判断-时间对标空间对标.md",
+        "wiki/concepts/供给导向市场规模测算.md",
+        "wiki/concepts/供需匹配法.md",
+        "wiki/concepts/需求排序矩阵.md",
+        "wiki/concepts/事实判断与价值判断.md",
+        "wiki/concepts/信息茧房.md",
+        "wiki/concepts/AI幻觉.md",
+        "wiki/concepts/需求真伪判断-时间对标空间对标.md",
+        "wiki/concepts/供给导向市场规模测算.md",
+        "wiki/concepts/供需匹配法.md",
+        "wiki/concepts/产能周期触发机制.md",
+        "wiki/concepts/深度差-普通人最容易建立的护城河.md",
+        "wiki/concepts/供需稳定比例假设.md",
+        "wiki/concepts/行业分类颗粒度.md",
+        "wiki/concepts/资讯料理法.md",
+        "wiki/concepts/行业集中度-CRn四分法.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260712153000--深度研究-尼康z30摄影_deep-learn.md": {
+      "hash": "ab06c46b1ae854cf2d1accaa741e5bb99bb3c2a9106df7d34d7c6a40ff8b8c3d",
+      "timestamp": 1787506116269,
+      "filesWritten": [
+        "wiki/sources/5-notes--38-20260712153000-深度研究-尼康z30摄影deep-learn--stam5u.md",
+        "wiki/entities/尼康-z30.md",
+        "wiki/concepts/曝光决策树.md",
+        "wiki/concepts/全域自动对焦陷阱.md",
+        "wiki/concepts/H型领域类型.md",
+        "wiki/entities/尼康-z30.md",
+        "wiki/concepts/曝光决策树.md",
+        "wiki/concepts/全域自动对焦陷阱.md",
+        "wiki/concepts/H型领域类型.md",
+        "wiki/concepts/锁定两推一训练法.md",
+        "wiki/concepts/审美判断力≠软件操作.md",
+        "wiki/concepts/诊断型知识vs鉴赏型知识.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260712153000==z--行业分析-instant-retail.md": {
+      "hash": "a7d4764cb79db61a939267f3494d7e7bf3cb6a0750f346139a45d9cc35e54e09",
+      "timestamp": 1787506389672,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260712153000z-行业分析-instant-retail--1iuuhzf.md",
+        "wiki/entities/叮咚买菜.md",
+        "wiki/entities/朴朴超市.md",
+        "wiki/entities/DoorDash.md",
+        "wiki/concepts/即时零售.md",
+        "wiki/concepts/前置仓商业模式.md",
+        "wiki/concepts/渗透率口径敏感性.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260712154500--深度研究-曝光三要素_deep-learn.md": {
+      "hash": "db7cc2a002daec54c5d26c6facac832ad3d8fd13f1454db07c8131369bbe578a",
+      "timestamp": 1787506701368,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260712154500-深度研究-曝光三要素deep-learn--1eon1fn.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260712T083211--qa-行业研究的系统方法论__qa.md": {
+      "hash": "3bc79d16f3d8ae0e6e153e03f3acfbdbc895590fa06a0443cde9d4a9de5c3867",
+      "timestamp": 1787514202788,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260712t083211-qa-行业研究的系统方法论qa--jy8d6u.md",
+        "wiki/concepts/专家访谈非公开信息原则.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260712T084715--拆书-新摄影笔记__book.md": {
+      "hash": "123802fc57d022ba4065b4bee1cddebf4d9c77c588b636cf0f2af2c52b916fb4",
+      "timestamp": 1787514765828,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--29-20260712t084715-拆书-新摄影笔记book--d5g28s.md"
+      ]
+    },
+    "notes/20260712T085155--qa-摄影减法论__qa.md": {
+      "hash": "c211286388d06dbd14d4622ab22b50dbde450e17532be2de0e9fd06af8b2ceb4",
+      "timestamp": 1787515030728,
+      "filesWritten": [
+        "wiki/sources/5-notes--27-20260712t085155-qa-摄影减法论qa--1wqxbvm.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260712T092514--学习计划-AI_Agent__plan.md": {
+      "hash": "a8eb751ae30f7b77b7220e35a6c46005d3d5a50d5c2962ac24f7d5ca6d6eedf8",
+      "timestamp": 1787515688068,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md",
+        "wiki/entities/lilian-weng.md",
+        "wiki/concepts/最小知识地图.md",
+        "wiki/concepts/失败日志.md",
+        "wiki/concepts/POV更新机制.md",
+        "wiki/concepts/工具描述敏感性.md",
+        "wiki/concepts/Agent五层架构.md",
+        "wiki/concepts/学习验证五问.md",
+        "wiki/sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md",
+        "wiki/sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md",
+        "wiki/log.md",
+        "wiki/entities/lilian-weng.md",
+        "wiki/concepts/最小知识地图.md",
+        "wiki/concepts/失败日志.md",
+        "wiki/concepts/POV更新机制.md",
+        "wiki/concepts/工具描述敏感性.md",
+        "wiki/concepts/Agent五层架构.md",
+        "wiki/concepts/学习验证五问.md",
+        "wiki/sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md",
+        "wiki/sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260712T093000--学习计划-AI_Agent深度认知__plan.md": {
+      "hash": "efa1f79c6c2093070e9cb8516f2f556999174ab0cda7b9efb068a096ab3e4df7",
+      "timestamp": 1787516987763,
+      "filesWritten": [
+        "wiki/sources/5-notes--37-20260712t093000-学习计划-aiagent深度认知plan--1stj3yz.md",
+        "wiki/concepts/上下文漂移.md",
+        "wiki/concepts/Reflexion反思学习.md",
+        "wiki/concepts/纯推理Agent.md",
+        "wiki/concepts/Plan-and-Execute-vs-ReAct.md",
+        "wiki/concepts/Human-in-the-loop-Agent.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260712T105516--拆书-如何快速了解一个行业__book.md": {
+      "hash": "ca06c62abfc0b00dd0ba5c844429c4882ff89e99f66cc056009ffa3ab2cc8f4d",
+      "timestamp": 1787517358278,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260712t105516-拆书-如何快速了解一个行业book--19mor44.md",
+        "wiki/entities/Rogers.md",
+        "wiki/concepts/渗透率定阶段阈值.md",
+        "wiki/concepts/赛道与赛手二分法.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260712T112514--行业分析-即时零售_industry.md": {
+      "hash": "ba96ee71747215ee016c0871d3762518601a9234b04727c3ed7aae48372a1dd1",
+      "timestamp": 1787517504570,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260712t112514-行业分析-即时零售industry--1fy2hxj.md",
+        "wiki/entities/饿了么.md",
+        "wiki/entities/抖音.md",
+        "wiki/entities/京东.md",
+        "wiki/concepts/骑手社保合规风险.md",
+        "wiki/concepts/PEP景气度判断框架.md",
+        "wiki/concepts/TAM-SAM-SOM三层测算.md",
+        "wiki/concepts/三维度并重.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260712T151322--拆书-尼康z30说明书__book.md": {
+      "hash": "40816de87f4c7041f9b94f05f56eabeecee4dbc81fbab1138ffe2b57ce211a8e",
+      "timestamp": 1787517678944,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260712t151322-拆书-尼康z30说明书book--urokqc.md",
+        "wiki/concepts/相机决策栈.md",
+        "wiki/concepts/转盘优先原则.md",
+        "wiki/entities/nikon尼康.md",
+        "wiki/entities/尼康-Z50.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260712T163000--行业分析-红利基金_industry.md": {
+      "hash": "d2dec39e793cdea7d43985a8f095a4927564c6a9026277820834a65a6388a51f",
+      "timestamp": 1787518238288,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260712t163000-行业分析-红利基金industry--1dcx23o.md",
+        "wiki/concepts/被动红利飞轮.md",
+        "wiki/concepts/指数许可壁垒.md",
+        "wiki/concepts/因子同质化.md",
+        "wiki/concepts/红利基金生命周期与双形态.md",
+        "wiki/concepts/负周期弹性.md",
+        "wiki/concepts/费率悖论.md",
+        "wiki/log.md",
+        "wiki/sources/5-notes--34-20260712t163000-行业分析-红利基金industry--1dcx23o.md",
+        "wiki/concepts/被动红利飞轮.md",
+        "wiki/concepts/指数许可壁垒.md",
+        "wiki/concepts/因子同质化.md",
+        "wiki/concepts/红利基金生命周期与双形态.md",
+        "wiki/concepts/负周期弹性.md",
+        "wiki/concepts/费率悖论.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260718T202247--拆书-摄影入门课__book.md": {
+      "hash": "9ced35e298e33c00eb6ef0a109d657c7d9d26f520710daabb0c1a4723c31e583",
+      "timestamp": 1787518552542,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260718t202247-拆书-摄影入门课book--1mntvkb.md",
+        "wiki/entities/小麥.md",
+        "wiki/concepts/摄影四层递进框架.md",
+        "wiki/concepts/可复现概率.md",
+        "wiki/concepts/捷径幻觉.md",
+        "wiki/concepts/照片里的我.md",
+        "wiki/concepts/摄影减法论.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260719T183643--伴读-光圈与景深__reading.md": {
+      "hash": "48d51e58b24ec638d98ef6cdda0b81bb3ed20706f2b450e43ff1b5d86f90cbc8",
+      "timestamp": 1787518677573,
+      "filesWritten": [
+        "wiki/sources/5-notes--32-20260719t183643-伴读-光圈与景深reading--1tw5avd.md",
+        "wiki/concepts/光圈与景深.md",
+        "wiki/concepts/虚化-Bokeh.md",
+        "wiki/entities/川内伦子.md",
+        "wiki/entities/Leica-徕卡.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260719T221117--伴读-镜头焦段__reading.md": {
+      "hash": "2989ee43689cc34bb6b979422839c43808430bf9a422df2b072dc866dc7f6901",
+      "timestamp": 1787519209404,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--31-20260719t221117-伴读-镜头焦段reading--1pies92.md"
+      ]
+    },
+    "notes/20260726T094137--伴读-快门__reading.md": {
+      "hash": "34ba168d23d080b1b51c1ad03fa2e8bae4611e53d45556b9957ed27639ab6d7a",
+      "timestamp": 1787519272053,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260726t094137-伴读-快门reading--qazgmu.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260726T110304--伴读-感光度ISO__reading.md": {
+      "hash": "af5ab3a117f5a3a3699edd78d20c478b2d354795f3d18369c4a61943d6f273ee",
+      "timestamp": 1787519388079,
+      "filesWritten": [
+        "wiki/sources/5-notes--33-20260726t110304-伴读-感光度isoreading--1ptvrh1.md",
+        "wiki/concepts/ISO感光度.md",
+        "wiki/concepts/宽容度-Dynamic-Range.md",
+        "wiki/concepts/RAW-vs-JPEG.md",
+        "wiki/concepts/白平衡与色温.md",
+        "wiki/concepts/曝光补偿vsISO.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260726T113028--伴读-测光__reading.md": {
+      "hash": "c0cb748b887fc77586f01b6bc709d1458498277f36ab2976f3c4a66a3aa835cd",
+      "timestamp": 1787519449904,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260726t113028-伴读-测光reading--rn3on6.md",
+        "wiki/entities/alex-webb.md",
+        "wiki/entities/滨田英明.md",
+        "wiki/concepts/测光metering.md",
+        "wiki/concepts/光比light-ratio.md",
+        "wiki/concepts/18%中性灰.md",
+        "wiki/concepts/高调high-key-vs-低调low-key.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260726T114503--伴读-相机选择__reading.md": {
+      "hash": "47d1fa97f36f435188712c2a55c38573ec129eb7f2c09a892a4fd5a9a062aebf",
+      "timestamp": 1787519925961,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260726t114503-伴读-相机选择reading--dgnhhn.md",
+        "wiki/concepts/画幅阶梯与等效焦距.md",
+        "wiki/concepts/选购八要素优先级.md",
+        "wiki/concepts/像素陷阱.md",
+        "wiki/concepts/顺手哲学.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260726T115109--伴读-好照片的构成因素__reading.md": {
+      "hash": "0a6676f6c59f2725dec6e57e729dc67b8a6764357e060d7fa787024cb90f5145",
+      "timestamp": 1787520606885,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260726t115109-伴读-好照片的构成因素reading--1o7zwah.md",
+        "wiki/concepts/分析照片六步法.md",
+        "wiki/concepts/复现成本.md",
+        "wiki/entities/亨利-卡蒂埃-布列松.md",
+        "wiki/entities/Harry-Gruyaert.md",
+        "wiki/entities/B.-Anthony-Stewart.md",
+        "wiki/entities/杉本博司.md",
+        "wiki/entities/荒木经惟.md",
+        "wiki/entities/贝歇夫妇.md",
+        "wiki/concepts/三类不靠谱摄影师.md",
+        "wiki/concepts/可复现概率.md",
+        "wiki/concepts/捷径幻觉.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260726T120000--伴读-曝光三角四课总结__reading.md": {
+      "hash": "aa390c7a707c32f730adb29cf478d518905152669498afea04a549b2c885bd4d",
+      "timestamp": 1787520950654,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260726t120000-伴读-曝光三角四课总结reading--1atlxlw.md",
+        "wiki/concepts/曝光三角与互易律.md",
+        "wiki/concepts/机器视觉vs人眼视觉.md",
+        "wiki/concepts/焦段与透视关系.md",
+        "wiki/entities/杉本博司.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260726T150909--伴读-光__reading.md": {
+      "hash": "52ed4e5c6f3babdd6c79855204cc20b22242dc615a433d51cdc0a7646d842754",
+      "timestamp": 1787521812845,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--28-20260726t150909-伴读-光reading--1id9piy.md"
+      ]
+    },
+    "notes/20260726T152251--伴读-静物__reading.md": {
+      "hash": "9a302fe2402346de0b4d86e519a74753609b2f49a8f69a6e7dc0e4814a27a457",
+      "timestamp": 1787521898116,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260726t152251-伴读-静物reading--15gs40h.md",
+        "wiki/entities/Matt-Stuart.md",
+        "wiki/concepts/静物是你自己.md",
+        "wiki/concepts/食物摄影双角度.md",
+        "wiki/concepts/摄影的至高境界是无中生有.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260726T152800--伴读-人物__reading.md": {
+      "hash": "a7f8d83c3f78791e101e3f7140da6acf48991cda6015acf0680e7e6093519e36",
+      "timestamp": 1787522140060,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260726t152800-伴读-人物reading--nfrthi.md",
+        "wiki/concepts/前期后期优先级.md",
+        "wiki/concepts/社交距离四区间.md",
+        "wiki/concepts/环境人像五要素.md",
+        "wiki/concepts/信任vs许可.md",
+        "wiki/concepts/拍人=拍自己.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260726T153005--伴读-风光__reading.md": {
+      "hash": "b9b9dcf4fb9477c2f30f67dbf1ba97acdddfeeb06be4994db26f79ba373d7e58",
+      "timestamp": 1787522258391,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260726t153005-伴读-风光reading--1mgxle8.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260726T153132--伴读-街拍__reading.md": {
+      "hash": "369882952fa7b77326a1cdf1bea5d7bbb0f36ba08e174e1f849463d599335d87",
+      "timestamp": 1787522923030,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260726t153132-伴读-街拍reading--1oclby2.md",
+        "wiki/entities/Elliott-Erwitt.md",
+        "wiki/entities/Martin-Parr.md",
+        "wiki/entities/Humans-of-New-York.md",
+        "wiki/concepts/抵近拍摄.md",
+        "wiki/concepts/街拍构图原则.md",
+        "wiki/concepts/视觉基础.md",
+        "wiki/concepts/量变到质变.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260726T154625--伴读-摄影入门课总复盘__reading.md": {
+      "hash": "169fe74b19166a13f979b5dd3b8e21658b814b2961f5fb492ae38195ab3621e1",
+      "timestamp": 1787522962028,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260726t154625-伴读-摄影入门课总复盘reading--1tdozec.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260726T162358--摄影水平提升计划__plan.md": {
+      "hash": "2c8f432f2ccf4d44b26d7bc9b58a9edd144717b5600d349b47145b0924ce2ccf",
+      "timestamp": 1787523121666,
+      "filesWritten": [
+        "wiki/sources/5-notes--29-20260726t162358-摄影水平提升计划plan--1qi3orx.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260726T173048--伴读-尼康z30深度学习计划__reading.md": {
+      "hash": "89c7c02f709091297e2fc83ae9054c5919d7a0cee22308d558d96f5a0439fa4e",
+      "timestamp": 1787523346220,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--38-20260726t173048-伴读-尼康z30深度学习计划reading--e4lp5o.md"
+      ]
+    },
+    "notes/20260809T103518--拆书-深入理解AI-Agent__book.md": {
+      "hash": "7184cfeb8693023ac9d55390fdac28e756d17b1d6f24956842e9fcfb4b265965",
+      "timestamp": 1787523493975,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260809t103518-拆书-深入理解ai-agentbook--1xhmqgy.md",
+        "wiki/concepts/Harness（可靠性机制）.md",
+        "wiki/concepts/上下文学习=检索而非推理.md",
+        "wiki/concepts/外部观测第三轴.md",
+        "wiki/concepts/飞轮：模型内化vs Harness卸载.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T104538--伴读-二号首长__reading.md": {
+      "hash": "5683ba5b4588f352a83a2ea89cbf96b136128fce6b97d811a83c041b401c0793",
+      "timestamp": 1787523824258,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260809t104538-伴读-二号首长reading--11qenr0.md",
+        "wiki/entities/黄晓阳.md",
+        "wiki/entities/唐小舟.md",
+        "wiki/entities/赵德良.md",
+        "wiki/entities/二号首长.md",
+        "wiki/concepts/伯乐机制.md",
+        "wiki/concepts/平衡术.md",
+        "wiki/concepts/道交谋三层权力哲学.md",
+        "wiki/concepts/潜规则摆上台面.md",
+        "wiki/concepts/技术等级vs廉贪二分.md",
+        "wiki/comparisons/官场小说三阶段对比.md",
+        "wiki/synthesis/潜规则的可见性与自反性.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T110326--qa-权力平衡术__qa.md": {
+      "hash": "fececfd1086489818022dbd6012b8260d56fd62d6784a1c6050b692c5b72d87e",
+      "timestamp": 1787524066035,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--27-20260809t110326-qa-权力平衡术qa--1coz9te.md"
+      ]
+    },
+    "notes/20260809T111042--伴读-二号首长__reading.md": {
+      "hash": "b0702ad5b0ead48c300909a4050bea3f628be0a8ff90f539c31439b32cdb0d62",
+      "timestamp": 1787525050342,
+      "filesWritten": [
+        "wiki/sources/5-notes--31-20260809t111042-伴读-二号首长reading--3g64e8.md",
+        "wiki/entities/陈运达.md",
+        "wiki/concepts/权力编码解码.md",
+        "wiki/concepts/连坐逻辑.md",
+        "wiki/concepts/危机结盟.md",
+        "wiki/concepts/台本政治.md",
+        "wiki/entities/陈运达.md",
+        "wiki/concepts/权力编码解码.md",
+        "wiki/concepts/连坐逻辑.md",
+        "wiki/concepts/危机结盟.md",
+        "wiki/concepts/台本政治.md",
+        "wiki/concepts/能力长在伤口上.md",
+        "wiki/entities/唐小舟.md",
+        "wiki/entities/赵德良.md",
+        "wiki/concepts/技术等级vs廉贪二分.md",
+        "wiki/synthesis/潜规则的可见性与自反性.md",
+        "wiki/concepts/平衡术.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T111443--qa-权力微观语法__qa.md": {
+      "hash": "c5caa4f9d6da2392eb46cb0226cf5984d39199716fff8d6631d8f04fa72efbf2",
+      "timestamp": 1787525249461,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--28-20260809t111443-qa-权力微观语法qa--1m0gvpi.md"
+      ]
+    },
+    "notes/20260809T113429--拆书-二号首长__book.md": {
+      "hash": "c32b214defb46007f38f76cc609d6acdc909a582ada636971c18bd6541f26dae",
+      "timestamp": 1787525387599,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260809t113429-拆书-二号首长book--1lns1m5.md",
+        "wiki/concepts/literacy意图vs-cynicism误读.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T115209--拆书-置身事内：中国政府与经济发展__book.md": {
+      "hash": "6ccb7aa95d1fba7ce4e5e1e70fa36173f32f6a022515c47fdad02ace2135b510",
+      "timestamp": 1787525595953,
+      "filesWritten": [
+        "wiki/sources/5-notes--37-20260809t115209-拆书-置身事内中国政府与经济发展book--1f4ig40.md",
+        "wiki/entities/兰小欢.md",
+        "wiki/concepts/事权划分原则.md",
+        "wiki/concepts/土地财政.md",
+        "wiki/concepts/土地金融.md",
+        "wiki/concepts/地方政府投融资链条.md",
+        "wiki/concepts/生产型政府.md",
+        "wiki/concepts/发展过程≠发展目标.md",
+        "wiki/concepts/官场+市场体制.md",
+        "wiki/concepts/服务型政府.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T144529--深度研究-晨星投资学习_deep-learn.md": {
+      "hash": "61cd2d8bc29166311999a7c064c51720d9904d289479c5182660e7f9de3f521e",
+      "timestamp": 1787526692293,
+      "filesWritten": [
+        "wiki/sources/5-notes--38-20260809t144529-深度研究-晨星投资学习deep-learn--1onri3g.md",
+        "wiki/concepts/假设驱动学习计划-H1H2H3可证伪框架.md",
+        "wiki/concepts/投资政策声明-IPS.md",
+        "wiki/concepts/逆向决策树.md",
+        "wiki/concepts/10分钟基金体检单.md",
+        "wiki/concepts/基准契合度.md",
+        "wiki/concepts/海外浓度溯源.md",
+        "wiki/concepts/周期有关又无关.md",
+        "wiki/concepts/现金流优先于收益率.md",
+        "wiki/concepts/ETF五问法.md",
+        "wiki/concepts/基金溯源报告.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T144533--拆书-反倦怠能量站__book.md": {
+      "hash": "75cbae62a08cb075a674d4d2135bc554d6d6c46ebc7d89742b029b47cf24476f",
+      "timestamp": 1787526767971,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260809t144533-拆书-反倦怠能量站book--72fc3r.md",
+        "wiki/entities/刀熊.md",
+        "wiki/concepts/自我1与自我2.md",
+        "wiki/concepts/能量感系统.md",
+        "wiki/concepts/闭合任务回路.md",
+        "wiki/concepts/内生驱动vs外生驱动.md",
+        "wiki/concepts/能量大盗.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T145748--深度研究-晨星七大主题投资_deep-learn.md": {
+      "hash": "cb29fedd566a5d6eff8ef5ef695231abdaff7e364ccd6aa96a9c63e3e856eb1f",
+      "timestamp": 1787527317251,
+      "filesWritten": [
+        "wiki/sources/5-notes--40-20260809t145748-深度研究-晨星七大主题投资deep-learn--9ia9nh.md",
+        "wiki/concepts/假设驱动学习计划-H1H2H3H4可证伪框架.md",
+        "wiki/concepts/热点降噪两栏法.md",
+        "wiki/concepts/主动vs被动回测框架.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T151139--伴读-阶段零三篇主轴__reading.md": {
+      "hash": "b0c2b3d9e59ae3dc6fe9d4a1898a93e7fdfeeef3b864174794d8c438cc62a8e5",
+      "timestamp": 1787527426086,
+      "filesWritten": [
+        "wiki/sources/5-notes--34-20260809t151139-伴读-阶段零三篇主轴reading--1bhty6n.md",
+        "wiki/entities/john-bogle.md",
+        "wiki/entities/william-bengen.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T153304--拆书-凤凰架构：构建可靠的大型分布式系统__book.md": {
+      "hash": "c4c7596ef38797b039c9302b78abc10099c4bb9eed0e09b15083e4a421184b7a",
+      "timestamp": 1787527524912,
+      "filesWritten": [
+        "wiki/sources/5-notes--40-20260809t153304-拆书-凤凰架构构建可靠的大型分布式系统book--mx7au6.md",
+        "wiki/entities/周志明.md",
+        "wiki/entities/冯-诺依曼.md",
+        "wiki/entities/kubernetes.md",
+        "wiki/concepts/凤凰架构.md",
+        "wiki/concepts/演进式架构.md",
+        "wiki/concepts/微服务三关.md",
+        "wiki/concepts/分布式问题下沉.md",
+        "wiki/concepts/架构腐化.md",
+        "wiki/concepts/服务网格.md",
+        "wiki/concepts/康威定律.md",
+        "wiki/concepts/两披萨团队.md",
+        "wiki/concepts/服务vs类库.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260809T154709--深度研究-MySQL实战45讲_deep-learn.md": {
+      "hash": "44d37a317a3285ea195ba2472513a9d0e4a4174cff2c16e150c3ef295184b580",
+      "timestamp": 1787537009490,
+      "filesWritten": [
+        "wiki/sources/5-notes--42-20260809t154709-深度研究-mysql实战45讲deep-learn--9sp8pg.md",
+        "wiki/entities/林晓斌.md",
+        "wiki/entities/mysql.md",
+        "wiki/concepts/快照读vs当前读.md",
+        "wiki/concepts/B树有序性与索引失效.md",
+        "wiki/concepts/next-key锁与加锁规则.md",
+        "wiki/concepts/并行复制两条铁律.md",
+        "wiki/concepts/双1配置与crash-safe.md",
+        "wiki/log.md",
+        "wiki/entities/林晓斌.md",
+        "wiki/entities/mysql.md",
+        "wiki/concepts/快照读vs当前读.md",
+        "wiki/concepts/B树有序性与索引失效.md",
+        "wiki/concepts/next-key锁与加锁规则.md",
+        "wiki/concepts/并行复制两条铁律.md",
+        "wiki/concepts/双1配置与crash-safe.md",
+        "wiki/log.md",
+        "wiki/entities/林晓斌.md",
+        "wiki/entities/mysql.md",
+        "wiki/concepts/快照读vs当前读.md",
+        "wiki/concepts/B树有序性与索引失效.md",
+        "wiki/concepts/next-key锁与加锁规则.md",
+        "wiki/concepts/并行复制两条铁律.md",
+        "wiki/concepts/双1配置与crash-safe.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T155341--深度研究-AI-Agent架构设计_deep-learn.md": {
+      "hash": "2ff5e52df7aac0e57a8ac524c089954f2c83f89a6136040909c3f814fa004197",
+      "timestamp": 1787538541292,
+      "filesWritten": [
+        "wiki/sources/5-notes--44-20260809t155341-深度研究-ai-agent架构设计deep-learn--11z6kgx.md",
+        "wiki/entities/李博杰.md",
+        "wiki/concepts/Agent-LLM-上下文-工具.md",
+        "wiki/concepts/上下文工程四机制.md",
+        "wiki/concepts/KV Cache 工程约束.md",
+        "wiki/concepts/提示注入.md",
+        "wiki/concepts/记忆四种渐进策略.md",
+        "wiki/concepts/Agentic RAG.md",
+        "wiki/concepts/五类工具划分.md",
+        "wiki/concepts/深度研究ai-agent-架构设计ai-agent-实战学习计划.md",
+        "wiki/entities/李博杰.md",
+        "wiki/concepts/Agent-LLM-上下文-工具.md",
+        "wiki/concepts/上下文工程四机制.md",
+        "wiki/concepts/KV Cache 工程约束.md",
+        "wiki/concepts/提示注入.md",
+        "wiki/concepts/记忆四种渐进策略.md",
+        "wiki/concepts/Agentic RAG.md",
+        "wiki/concepts/五类工具划分.md",
+        "wiki/concepts/MCP.md",
+        "wiki/concepts/代码是元能力.md",
+        "wiki/concepts/事件驱动三范式.md",
+        "wiki/concepts/语音三范式.md",
+        "wiki/concepts/Computer Use五原语.md",
+        "wiki/concepts/评估三维度.md",
+        "wiki/concepts/LLM-as-a-Judge.md",
+        "wiki/concepts/SFT记忆与RL泛化.md",
+        "wiki/concepts/奖励演进三阶段.md",
+        "wiki/concepts/四种更新载体.md",
+        "wiki/concepts/学习信号与更新载体矩阵.md",
+        "wiki/concepts/多Agent分类框架.md",
+        "wiki/concepts/H1H2H3假设体系.md",
+        "wiki/queries/Agentic-RL会吃掉多少上下文工程的生存空间.md",
+        "wiki/concepts/Agent五层架构.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T155731--深度研究-凤凰架构：构建可靠的大型分布式系统_deep-learn.md": {
+      "hash": "dc66e957a7bf6ef240be148fccf135b7fa50a7eeeb4ebf1033312e88bf8395c1",
+      "timestamp": 1787539841513,
+      "filesWritten": [
+        "wiki/sources/5-notes--48-20260809t155731-深度研究-凤凰架构构建可靠的大型分布式系统deep-learn--pgn020.md",
+        "wiki/entities/etcd.md",
+        "wiki/entities/Nacos.md",
+        "wiki/entities/ZooKeeper.md",
+        "wiki/entities/Istio.md",
+        "wiki/entities/Spring-Cloud.md",
+        "wiki/entities/ESB.md",
+        "wiki/entities/Ambient-Mesh-eBPF.md",
+        "wiki/concepts/CAP定理.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260809T160003--深度研究-java并发编程_deep-learn.md": {
+      "hash": "a92cdd865b7d6324faad2ee5ce2741fd44194ef0593b7235d7da18c1431155de",
+      "timestamp": 1787540630503,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--40-20260809t160003-深度研究-java并发编程deep-learn--3x8pt7.md"
+      ]
+    },
+    "notes/20260809T160739--深度研究-设计模式_deep-learn.md": {
+      "hash": "3edb433d073e05a0e133c7deeb273241e14b805f1f6e04f2439c65f3623065b5",
+      "timestamp": 1787541043880,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/5-notes--36-20260809t160739-深度研究-设计模式deep-learn--1johjyg.md"
+      ]
+    },
+    "notes/20260809T160753--深度研究-左耳听风_deep-learn.md": {
+      "hash": "3b5eb14dbe89ccd6adf6869b39de2c2bb431cbd765c4d89786313c86a4caf30c",
+      "timestamp": 1787541608426,
+      "filesWritten": [
+        "wiki/sources/5-notes--36-20260809t160753-深度研究-左耳听风deep-learn--1f15wy4.md",
+        "wiki/entities/陈皓.md",
+        "wiki/concepts/部分失败-Partial-Failure.md",
+        "wiki/concepts/弹力设计模式集.md",
+        "wiki/concepts/数据面-vs-控制面.md",
+        "wiki/concepts/fencing-token.md",
+        "wiki/concepts/编程范式=组合方式之争.md",
+        "wiki/concepts/性能与一致性设计的张力.md",
+        "wiki/concepts/秒杀与结算峰值的同构性.md",
+        "wiki/log.md",
+        "wiki/queries/陈皓2018年判断框架在2026年还成立吗",
+        "wiki/concepts/H型领域类型.md",
+        "wiki/concepts/一手资料原则.md",
+        "wiki/concepts/知识地图法.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T161139--深度研究-数据结构与算法之美_deep-learn.md": {
+      "hash": "d00e188b72589427545d54f0e0758e5245f8c5b94edead9a5fd3804df21b3cb2",
+      "timestamp": 1787542428021,
+      "filesWritten": [
+        "wiki/sources/5-notes--41-20260809t161139-深度研究-数据结构与算法之美deep-learn--1ezvxq2.md",
+        "wiki/entities/王争.md",
+        "wiki/entities/极客时间.md",
+        "wiki/concepts/大O复杂度分析四场景.md",
+        "wiki/concepts/数据结构选型决策树.md",
+        "wiki/concepts/四种算法思想光谱.md",
+        "wiki/concepts/链表边界四类陷阱.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T162652--拆书-楚汉双雄__book.md": {
+      "hash": "0aaf7af0d91447fba42f26896083e4ea5ad65e0e59eab01d4ddb0ce799bcf7c8",
+      "timestamp": 1787543218186,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260809t162652-拆书-楚汉双雄book--c7cip4.md",
+        "wiki/entities/渤海小吏.md",
+        "wiki/entities/项羽.md",
+        "wiki/entities/刘邦.md",
+        "wiki/entities/秦始皇.md",
+        "wiki/concepts/系统厚度-vs-单点天才.md",
+        "wiki/concepts/胜利推迟隐患机制.md",
+        "wiki/concepts/打地鼠模式.md",
+        "wiki/concepts/成功者偏见.md",
+        "wiki/log.md",
+        "wiki/sources/5-notes--28-20260809t162652-拆书-楚汉双雄book--c7cip4.md",
+        "wiki/entities/渤海小吏.md",
+        "wiki/entities/项羽.md",
+        "wiki/entities/刘邦.md",
+        "wiki/entities/秦始皇.md",
+        "wiki/concepts/系统厚度-vs-单点天才.md",
+        "wiki/concepts/胜利推迟隐患机制.md",
+        "wiki/concepts/打地鼠模式.md",
+        "wiki/concepts/成功者偏见.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T162758--拆书-大唐气象__book.md": {
+      "hash": "aae73b31bbe22115e59853d8bbcce7351dbec134e4686129d6721a7ec975e4ac",
+      "timestamp": 1787543944923,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260809t162758-拆书-大唐气象book--vdi3oq.md",
+        "wiki/entities/大唐气象.md",
+        "wiki/entities/李世民.md",
+        "wiki/entities/李亨.md",
+        "wiki/entities/节度使制度.md",
+        "wiki/concepts/惯性定律-王朝续航力框架.md",
+        "wiki/concepts/热力学第二定律-王朝能量收支模型.md",
+        "wiki/concepts/成功公式-成就五因子.md",
+        "wiki/concepts/冬至小寒隐喻.md",
+        "wiki/concepts/燃料链断裂.md",
+        "wiki/entities/渤海小吏.md (更新)",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260809T162904--拆书-两汉风云__book.md": {
+      "hash": "f662ea615b2a7924a6a11df4f58e95c61543e8a163fa0ebaf66bf672734259e8",
+      "timestamp": 1787544697807,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260809t162904-拆书-两汉风云book--hrndq3.md",
+        "wiki/concepts/迭代逻辑-不完美接力.md",
+        "wiki/concepts/务实主义-承认不完美.md",
+        "wiki/concepts/模糊地带的政治优势.md",
+        "wiki/concepts/问题制造机制.md",
+        "wiki/concepts/后继者能力决定系统寿命.md",
+        "wiki/entities/张良.md",
+        "wiki/entities/娄敬.md",
+        "wiki/entities/汉武帝.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T163000--拆书-南北归一__book.md": {
+      "hash": "ac8680e7ec6dd220f807bd7419fd266037a2dc5b49b20f9e1b94166294a7fcd8",
+      "timestamp": 1787545173577,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260809t163000-拆书-南北归一book--1rn3rpj.md",
+        "wiki/concepts/北人南下为六朝盛衰总纲.md",
+        "wiki/concepts/移民武装集团代际轮替.md",
+        "wiki/concepts/华夷融合与统一摩擦力.md",
+        "wiki/entities/渤海小吏.md",
+        "wiki/concepts/燃料链断裂.md",
+        "wiki/concepts/惯性定律-王朝续航力框架.md",
+        "wiki/concepts/胜利推迟隐患机制.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T163236--拆书-三国争霸__book.md": {
+      "hash": "5d2cd6beee90d4450a7e62de79d7f0a72974f465b2f364ab636bc4458bbf3147",
+      "timestamp": 1787545494957,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260809t163236-拆书-三国争霸book--5nkvtt.md",
+        "wiki/entities/曹操.md",
+        "wiki/entities/诸葛亮.md",
+        "wiki/entities/司马懿.md",
+        "wiki/concepts/士族沉浮.md",
+        "wiki/concepts/权力分配规则.md",
+        "wiki/comparisons/曹操vs诸葛亮vs司马懿_政权组织方式对比.md",
+        "wiki/entities/渤海小吏.md (update)",
+        "wiki/log.md (追加 entry)",
+        "wiki/index.md (追加条目)",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260809T163326--拆书-西游成事智慧__book.md": {
+      "hash": "0cd31d2ee4caba6eff86981326263d93f860986e15f37048a1e3731c865b7b20",
+      "timestamp": 1787545605882,
+      "filesWritten": [
+        "wiki/sources/5-notes--30-20260809t163326-拆书-西游成事智慧book--wgus9.md",
+        "wiki/entities/西游记.md",
+        "wiki/entities/孙悟空.md",
+        "wiki/entities/唐僧.md",
+        "wiki/entities/猪八戒.md",
+        "wiki/entities/沙僧.md",
+        "wiki/entities/如来佛祖.md",
+        "wiki/entities/观音.md",
+        "wiki/entities/太上老君.md",
+        "wiki/concepts/神话外壳写人间事.md",
+        "wiki/concepts/西游成事智慧三关.md",
+        "wiki/concepts/取经团队角色模型.md",
+        "wiki/concepts/识节点vs硬打.md",
+        "wiki/concepts/灵根育孕-膨胀-被压-觉悟.md",
+        "wiki/concepts/紧箍咒-约束机制.md",
+        "wiki/concepts/决策者判断可能不对但仍需接受.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T163426--拆书-AI-Agents-in-Depth__book.md": {
+      "hash": "d636b4d8ba74b24545ce1eb4a9ecc6b0a2f610c6d74f3b75eca3455fc5d9c98d",
+      "timestamp": 1787548341223,
+      "filesWritten": [
+        "wiki/sources/5-notes--42-20260809t163426-拆书-ai-agents-in-depthbook--198c6g4.md",
+        "wiki/concepts/隔离优于压缩.md",
+        "wiki/log.md"
+      ]
+    },
+    "notes/20260809T163911--伴读-AI-Agent实战引言__reading.md": {
+      "hash": "7827a13ff58f5842bf795d3a9478c36122574d31713613774be07697a6ce5b28",
+      "timestamp": 1787548963183,
+      "filesWritten": [
+        "wiki/sources/5-notes--39-20260809t163911-伴读-ai-agent实战引言reading--wjsr8f.md",
+        "wiki/entities/Pine-AI.md",
+        "wiki/concepts/实践在前命名在后.md",
+        "wiki/concepts/动态Agent公式.md",
+        "wiki/concepts/Agent-LLM-上下文-工具.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260809T172516--伴读-AI-Agent实战第一章__reading.md": {
+      "hash": "2f66ed9d9609e736156b898d56aa8389e55465894a6fd935634118bd00c71ca5",
+      "timestamp": 1787549983738,
+      "filesWritten": [
+        "wiki/sources/5-notes--40-20260809t172516-伴读-ai-agent实战第一章reading--fsjbur.md",
+        "wiki/concepts/Harness范式演进.md",
+        "wiki/concepts/ACI与Poka-yoke防呆.md",
+        "wiki/concepts/编排光谱-工作流自主混合.md",
+        "wiki/concepts/护栏三层架构.md",
+        "wiki/concepts/学习机制三路径与三轴判据.md",
+        "wiki/concepts/Harness范式演进.md",
+        "wiki/concepts/ACI与Poka-yoke防呆.md",
+        "wiki/concepts/编排光谱-工作流自主混合.md",
+        "wiki/concepts/护栏三层架构.md",
+        "wiki/concepts/学习机制三路径与三轴判据.md",
+        "wiki/concepts/补丁层vs语义层二分.md",
+        "wiki/concepts/消融实验1-1.md",
+        "wiki/concepts/ReAct轨迹与二次方代价.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260815T102033--拆书-二号首长__book.md": {
+      "hash": "53e7a06d8e3cb9df014fa7d821ceb1e32bc0cfdb0ac25460d855ad2ab372aea6",
+      "timestamp": 1787550542844,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260815t102033-拆书-二号首长book--12mym07.md",
+        "wiki/concepts/做零与权力中继站.md",
+        "wiki/concepts/信息等级vs职位等级.md",
+        "wiki/entities/黄晓阳.md",
+        "wiki/entities/唐小舟.md",
+        "wiki/entities/二号首长.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260815T102716--拆书-置身事内__book.md": {
+      "hash": "e56cc1de4008da2bf66f1a0ea2419f310a4e826b5661868f9c1fc62b5b46e497",
+      "timestamp": 1787551824869,
+      "filesWritten": [
+        "wiki/sources/5-notes--28-20260815t102716-拆书-置身事内book--1uyx3cs.md",
+        "wiki/entities/京东方.md",
+        "wiki/concepts/f-x-f(x)观察顺序重构.md",
+        "wiki/concepts/双向定价.md",
+        "wiki/concepts/以地谋发展模式.md",
+        "wiki/concepts/激励结构先于政策判断.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/20260815T113349--伴读-用户记忆和知识库__reading.md": {
+      "hash": "8eccd3e0cddd266ad4703cf2f2316a88497c06ab9fb6d305ef5fd3737a920e0e",
+      "timestamp": 1787552200717,
+      "filesWritten": [
+        "wiki/sources/5-notes--35-20260815t113349-伴读-用户记忆和知识库reading--1lkk2x6.md",
+        "wiki/entities/Mem0.md",
+        "wiki/entities/Memobase.md",
+        "wiki/concepts/用户记忆评估三层次.md",
+        "wiki/concepts/双层记忆架构.md",
+        "wiki/concepts/user-as-code可执行记忆.md",
+        "wiki/concepts/上下文感知检索.md",
+        "wiki/concepts/推断-vs-组织.md",
+        "wiki/concepts/压舱石母题.md",
+        "wiki/concepts/双编码器-跨编码器两级漏斗.md",
+        "wiki/concepts/proposer-reviewer-机制.md",
+        "wiki/comparisons/mem0-v2-vs-v3-选择式更新-vs-全追加排序.md",
+        "wiki/comparisons/raptor-vs-graphrag-树状层次摘要-vs-实体关系图.md",
+        "wiki/comparisons/user-as-code-vs-markdown-可读记忆-机器可读-vs-人类可读的设计分歧.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/标签索引.md": {
+      "hash": "9af8fad061addb4ede74bbfc402a3c523bec2f49f2d90401f000ed795d0be458",
+      "timestamp": 1787554383146,
+      "filesWritten": [
+        "wiki/sources/5-notes--4-标签索引--1bygpru.md",
+        "wiki/entities/北交所-bse.md",
+        "wiki/concepts/知识库标签索引系统.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "notes/端午节摄影：在龙舟与艾草之间，拍出中国式的夏天.md": {
+      "hash": "803f5dcd17dcc3f1739e30876090b158ee4231db311a6c6fb29589abb7893be2",
+      "timestamp": 1787555249106,
+      "filesWritten": [
+        "wiki/sources/5-notes--21-端午节摄影在龙舟与艾草之间拍出中国式的夏天--7079w8.md",
+        "wiki/concepts/节日摄影五张叙事闭环.md",
+        "wiki/concepts/气味感摄影.md",
+        "wiki/concepts/湿与暖的夏日审美.md",
+        "wiki/concepts/拍手代替拍物.md",
+        "wiki/concepts/从记录到表达.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
     }
   }
 }

@@ -1,0 +1,36 @@
+---
+type: source
+title: AI Agent 学习计划（按肖璟方法论设计）
+authors: [Lilian Weng]
+year: 2023
+url: "https://lilianweng.github.io/posts/2023-06-23-agent/"
+venue: ""
+tags: ["domain/ai", "type/plan", "methodology", "paper", "agent", "survey", "reasoning"]
+related: ["假设驱动研究", "DIKW模型-研究方法论", "五维分析框架-肖璟", "景气度指标体系", "Agent五层架构", "ReAct", "AI幻觉"]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+created: 2026-08-24
+updated: 2026-08-23
+---
+
+# LLM Powered Autonomous Agents
+
+**作者：** Lilian Weng  
+**链接：** https://lilianweng.github.io/posts/2023-06-23-agent/
+
+## 简介
+
+AI Agent 领域被引用最广的综述文章之一。系统将 Agent 拆解为规划（Planning）、工具使用（Tool Use）、记忆（Memory）三大模块，是阶段零必读的核心材料。
+
+## 核心框架
+
+文章提出 Agent 由三个核心组件构成：
+
+1. **规划（Planning）**：如何将大任务分解为可执行的子步骤
+2. **工具使用（Tool Use）**：如何调用外部 API、搜索、代码执行等能力
+3. **记忆（Memory）**：短期上下文 vs 长期存储的区分
+
+## 在 wiki 中的位置
+
+- 是 [[Agent五层架构]] 概念的主要来源之一
+- 与 [[ReAct]] 共同构成推理/规划层的理论基础
+- [[AI幻觉]] 问题与工具调用错误密切相关，本文有相关讨论

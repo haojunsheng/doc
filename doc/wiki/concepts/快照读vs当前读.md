@@ -1,0 +1,49 @@
+---
+type: concept
+title: 快照读 vs 当前读
+created: 2026-08-24
+updated: 2026-08-24
+tags: [mysql, innodb, mvcc, 快照读, 当前读, 可见性]
+related: [mysql, innodb, 假设驱动学习计划-h1h2h3h4可证伪框架, 并行复制两条铁律]
+sources: ["notes/20260809T154709--深度研究-MySQL实战45讲_deep-learn.md"]
+---
+
+# 快照读 vs 当前读
+
+同一事务内两种完全不同的读路径，对应两套可见性规则。这是解释"RR 有没有幻读"这一高频面试问题的关键区分。
+
+## 定义
+
+| 类型 | 语句形式 | 可见性规则 | read-view 创建时机 |
+|:---|:---|:---|:---|
+| 快照读 | `SELECT`（不加锁） | 按 read-view 判定可见性 | RR：事务首次快照读时；RC：每条语句时 |
+| 当前读 | `SELECT ... FOR UPDATE` / `UPDATE` / `DELETE` / `LOCK IN SHARE MODE` | 读取最新提交版本 | 不适用，直接读当前值 |
+
+## 核心区别
+
+**快照读**（普通 SELECT）走 MVCC 机制，看到的是一个历史快照；**当前读**（加锁读）跳过 MVCC，直接读最新数据。
+
+同一个事务内，A 事务快照读看到 `k=1`，B 事务当前读看到 `k=3`，这不矛盾——read-view 只对快照读生效。
+
+## 与幻读的关系
+
+- 纯快照读：RR 无法防住幻读（看不到未提交的新增行）
+- 当前读路径（`SELECT ... FOR UPDATE`）：RR 下由 next-key lock 防住幻读
+
+因此"MySQL 的 RR 有没有幻读"的合格答案必须区分两条路径，而不是简单回答"解决了/没解决"。
+
+## 实验验证
+
+双 session 严格按课程第 08 讲图 1 时序操作：
+- Session A：BEGIN → SELECT k FROM t WHERE id=1（快照读）
+- Session B：BEGIN → UPDATE t SET k=3 WHERE id=1 → COMMIT
+- Session A：再次 SELECT（快照读仍看到 k=1）
+- Session A：SELECT ... FOR UPDATE（当前读看到 k=3）
+
+每步先用规则预测结果再执行，预测错一次记一条失败日志。
+
+## 参考课程
+
+- 笔记 03：事务隔离
+- 笔记 08：MVCC 详细机制
+- 笔记 20：幻读与 next-key lock

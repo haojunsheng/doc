@@ -1,0 +1,82 @@
+---
+type: concept
+title: B+ 树有序性与索引失效
+created: 2026-08-24
+updated: 2026-08-24
+tags: [mysql, innodb, b树, 索引, 有序性, 索引失效]
+related: [mysql, innodb, 假设驱动学习计划-h1h2h3h4可证伪框架, 快照读vs当前读]
+sources: ["notes/20260809T154709--深度研究-MySQL实战45讲_deep-learn.md"]
+---
+
+# B+ 树有序性与索引失效
+
+H1 的核心概念：MySQL 绝大多数"性能玄学"的根因是 B+ 树的有序性被破坏了，或者优化器对有序性的利用方式与预期不符。
+
+## 有序性的三种破坏方式
+
+### 1. 对索引列做函数
+
+```sql
+-- 索引失效：函数结果破坏了键值有序性
+SELECT * FROM t WHERE month(t_modified) = 7;
+
+-- 改写：用范围条件保留有序性
+SELECT * FROM t WHERE t_modified >= '2024-07-01' 
+  AND t_modified < '2024-08-01';
+```
+
+B+ 树第一层就无法根据函数结果决定往哪个分支走，退化为全表扫或索引全扫。
+
+### 2. 隐式类型转换
+
+```sql
+-- 假设 phone 是 VARCHAR，此查询索引失效
+SELECT * FROM t WHERE phone = 13800138000;  -- 数字比较触发隐式转换
+
+-- 正确写法：保持类型一致
+SELECT * FROM t WHERE phone = '13800138000';
+```
+
+### 3. 字符集不一致
+
+```sql
+-- 假设 col 是 utf8mb4，而连接字符集是 latin1
+-- 比较时发生字符集转换，索引失效
+SELECT * FROM t WHERE col = 'value';
+```
+
+## B+ 树被利用的四种方式（W1 MECE 拆解）
+
+| 方式 | 机制 | EXPLAIN 标志 |
+|:---|:---|:---|
+| 等值定位 | O(logN) 树搜索 | `type=ref` / `type=eq_ref` |
+| 范围扫描 | 叶子链表支持 BETWEEN | `type=range` |
+| 覆盖索引 | 不回表，叶子直接存所需列 | `Using index` |
+| 索引条件下推（ICP） | 引擎层先过滤再回表 | `Using index condition` |
+
+## 前缀索引确定方法
+
+```sql
+-- 扫描不同前缀长度，画出区分度曲线
+SELECT COUNT(DISTINCT LEFT(email, 4))/COUNT(*) AS d4,
+       COUNT(DISTINCT LEFT(email, 5))/COUNT(*) AS d5,
+       COUNT(DISTINCT LEFT(email, 6))/COUNT(*) AS d6,
+       COUNT(DISTINCT LEFT(email, 7))/COUNT(*) AS d7,
+       COUNT(DISTINCT LEFT(email, 8))/COUNT(*) AS d8
+FROM users;
+```
+
+## 优化器失灵根因
+
+选错索引的根因是：
+1. 采样统计偏差（`ANALYZE TABLE` 前后对比可缓解）
+2. cost 模型对"扫描行数 × 回表代价"的误判
+
+## 对话验收问题
+
+Q："为什么对字段加函数索引就失效？"
+- 不合格：只答"MySQL 规定"
+- 合格：必须讲到"B+ 树第一层就不知道往哪走"，并给出改写方案（范围条件 / 生成列索引）
+
+Q："字符串字段怎么加索引？"
+- 必须能给出前缀索引 vs 倒序存储 vs hash 字段三种方案及各自适用场景

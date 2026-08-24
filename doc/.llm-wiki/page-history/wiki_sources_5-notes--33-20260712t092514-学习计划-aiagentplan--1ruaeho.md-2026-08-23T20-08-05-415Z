@@ -1,0 +1,660 @@
+---
+type: source
+title: AI Agent 学习计划（按肖璟方法论设计）
+created: 2026-08-24
+updated: 2026-08-24
+tags: [domain/ai, type/plan, methodology]
+related: [假设驱动研究, DIKW模型-研究方法论, 五维分析框架-肖璟, 景气度指标体系, 假设驱动研究]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# AI Agent 学习计划（按肖璟方法论设计）
+
+**来源：** 用户自撰学习计划，方法论锚定肖璟《如何快速了解一个行业》
+
+**标识：** `20260712T092514`
+
+## 核心目标
+
+从零建立对 AI Agent 的**可操作理解**——不是"知道 AI Agent 是什么"，而是"能判断 AI Agent 能做什么、做不了什么、下一步会往哪走"。
+
+## 方法论基础
+
+- [[假设驱动研究]]（第 11 章）
+- [[DIKW模型-研究方法论]]（第 1 章）
+- [[景气度指标体系]]（第 8 章）
+- [[五维分析框架-肖璟]]
+
+## 三个初始假设
+
+| 假设 | 内容 | 验证方式 |
+|-----|------|---------|
+| H1 | AI Agent 的本质是"LLM 做决策 + 工具做执行"的闭环 | 读 ReAct 原论文，看是否符合 |
+| H2 | 当前 Agent 的技术瓶颈不在模型能力，在工程可靠性（成功率、成本、延迟） | 跑一个最小 Agent demo，看卡在哪 |
+| H3 | 最先落地的 Agent 形态是"垂直场景 + 强约束 + 易验证"——代码助手、客服、数据分析 | 找 2024-2025 年融资最多的 Agent 创业公司，看集中在哪些场景 |
+
+> 每学完一个模块，回来修订一个假设。学习结束时对比——看哪些猜对了、哪些猜错了、为什么错。
+
+## 阶段结构
+
+### 阶段零：建立最小领域认知（~3-5 天）
+
+核心动作：读综述论文 → 扫行研报告 → 画出最小知识地图
+
+必读三篇论文：
+- [Lilian Weng: LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — Agent 最清晰的框架综述
+- [ReAct 论文](https://arxiv.org/abs/2210.03629) — Agent 推理+行动的经典方法
+- [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) tool use / function calling 章节
+
+验收标准：**合上电脑后，能在一张纸上画出 AI Agent 结构图**（MECE 验证）
+
+### 阶段一：MECE 拆解 + 逐层深入（~2-3 周）
+
+技术栈五层拆解：
+
+```
+AI Agent
+  ├─ 感知层（怎么理解世界）：文本理解、多模态理解、环境感知、意图识别
+  ├─ 推理/规划层（怎么做决策）：Prompt Chaining、CoT、ReAct、Tree of Thought、Plan-and-Execute、Multi-Agent 编排
+  ├─ 行动层（怎么执行）：API 调用、代码执行、浏览器操作、数据库 CRUD
+  ├─ 记忆层（短期？长期？）：RAG、MemGPT、LangMem
+  └─ 评估层（怎么判断对错）：
+```
+
+每周深一层，周末做 POV 更新。
+
+### 阶段二：动手验证（贯穿全程）
+
+四周一轮 MVP 迭代：
+
+| 周 | 做什么 | 验证什么 |
+|:--:|:------|:--------|
+| W1 | 用 LangChain / LlamaIndex 搭一个最简单的 ReAct Agent | Agent 的基本闭环能不能走通 |
+| W2 | 让它能调用工具（查天气/搜 Wikipedia） | 工具调用的门槛在哪 |
+| W3 | 加一个长期记忆（简单的向量数据库） | 记忆层的难度是？ |
+| W4 | 跑一个有意义的实际任务 | 成功率和成本怎么样 |
+
+核心产出机制：**失败日志**——记录每次出错的方式、原因和洞察。
+
+关键发现（预期）：Agent 工程的 80% 工作量在工具描述和 prompt tuning。
+
+### 阶段三：跟踪体系（持续）
+
+| 频率 | 跟踪内容 | 来源 |
+|:---:|:--------|:----|
+| 每日 | AI Agent 圈新鲜事 | Twitter/X: @kaboroevichn, @swyx, @_akhaliq；Hacker News |
+| 每周 | 最新论文 | HuggingFace Daily Papers；arXiv cs.AI, cs.CL |
+| 每周 | 开源项目动态 | GitHub Trending；LangChain / CrewAI / AutoGen releases |
+| 每月 | 行业格局变化 / 融资动态 | a16z, Sequoia, Crunchbase |
+| 每月 | POV 更新（我的假设对了吗？） | 写一段"假设更新笔记" |
+
+## 验收标准：学习结束时能回答的五个问题
+
+1. AI Agent 的三大核心能力是什么？它们的成熟度排序是？
+2. 目前 Agent 落地最难的部分是什么？是模型不行还是工程不行？
+3. 如果你是创业者，你会选哪个 Agent 场景切入？为什么？
+4. 你的初始假设（阶段零写的三个）对了几个？为什么对/错？
+5. 未来 6 个月 AI Agent 最可能发生什么变化？
+
+## 时间投入
+
+每天 1-1.5 小时，6 周完成。总投入约 42-63 小时。
+
+> 方法论参考：肖璟《如何快速了解一个行业》第 11 章"假设驱动"、第 1 章 DIKW 模型、第 8 章景气度跟踪。
+
+## 与已有 Wiki 概念的关联
+
+- [[假设驱动研究]]：本计划的核心理念——先猜后证，每个阶段都有明确的可证伪假设
+- [[DIKW模型-研究方法论]]：阶段零认知建立的理论基础；本计划是"逆向路径"——从假设（Wisdom 层）出发，向下填充 K/I/D
+- [[五维分析框架-肖璟]]：同作者方法论在本领域的直接应用案例
+- [[景气度指标体系]]：阶段三的跟踪体系是其 AI Agent 领域的具体应用变体，补充了定性 POV 更新作为量化指标的互补手段
+- [[假设驱动研究]] 的关键约束（初始假设质量）在本计划中被显式处理：通过"学完模块后修订假设"的机制来缓解
+
+---FILE: wiki/entities/lilian-weng.md---
+---
+type: entity
+title: Lilian Weng
+created: 2026-08-24
+updated: 2026-08-24
+tags: [person, ai-researcher, blogger, agent]
+related: [AI幻觉, 假设驱动研究]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# Lilian Weng
+
+AI 研究者、工程师，博客作者。其撰写的 Agent 综述文章是该领域最广为流传的入门框架之一。
+
+## 核心贡献
+
+- 撰写 [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)，系统梳理 Agent 的组成模块（规划、工具调用、记忆），成为 AI Agent 领域引用最高的综述之一。
+
+## 与 wiki 关联
+
+- [[AI幻觉]] — 其博客曾讨论 LLM 幻觉问题
+- [[假设驱动研究]] — 本学习计划以其 Agent 综述为阶段零必读材料
+
+## 方法论风格
+
+偏工程可读性：将复杂的 Agent 系统拆解为清晰的模块图，强调"每块解决什么问题"，适合从零建立领域认知。
+
+---FILE: wiki/concepts/最小知识地图.md---
+---
+type: concept
+title: 最小知识地图
+created: 2026-08-24
+updated: 2026-08-24
+tags: [methodology, domain/ai, learning, mece]
+related: [假设驱动研究, DIKW模型-研究方法论, 五维分析框架-肖璟]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# 最小知识地图
+
+## 定义
+
+合上所有材料后，仅凭记忆在一张纸上画出的领域结构图。用于验证 MECE 完整性——如果你画不出来，说明学习尚未完成。
+
+## 用途
+
+阶段零（建立最小领域认知）的验收工具。不是精美图表，而是个人理解的快照：把领域摊开成一张拓扑图，看各层之间的关系是否清晰、覆盖是否完整。
+
+## 画法要求
+
+以 AI Agent 领域为例，一张合格的最小知识地图应包含：
+
+```
+AI Agent
+  ├─→ 认知层（LLM 做什么？）
+  ├─→ 工具层（调用什么外部能力？）
+  ├─→ 记忆层（短期？长期？）
+  ├─→ 评估层（怎么知道 Agent 做对了？）
+  └─→ 应用层（落地在哪些场景？）
+
+每层 → 列出 3-5 个关键技术/产品/论文
+```
+
+## 判断标准
+
+- **能画出来** → 阶段零通过，进入阶段一的逐层深入
+- **画不出来或严重缺漏** → 回去补材料，不急于推进
+
+## 与相关概念的关系
+
+- [[假设驱动研究]]：最小知识地图是假设驱动阶段零的产物；地图的质量决定了后续假设的质量
+- [[DIKW模型-研究方法论]]：地图构建是从 Data（散点信息）向 Knowledge（结构化理解）的跃迁
+- [[五维分析框架-肖璟]]：地图的层间关系体现了产业分析的结构化思维
+
+---FILE: wiki/concepts/失败日志.md---
+---
+type: concept
+title: 失败日志
+created: 2026-08-24
+updated: 2026-08-24
+tags: [methodology, domain/ai, learning, debugging]
+related: [假设驱动研究, 景气度指标体系]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# 失败日志
+
+## 定义
+
+在动手实践阶段，系统记录每次错误发生的时间、任务、失败方式、根本原因和由此得出的洞察。是用"失败"作为数据来源的学习方法。
+
+## 格式
+
+```markdown
+* 时间：2026-07-20
+* 任务：让 Agent 搜索最新 AI 新闻并总结
+* 失败方式：调用了错误的工具 API（给了旧版的 Wikipedia endpoint）
+* 失败原因：工具描述写得不够精确
+* 这揭示了什么：Agent 对工具描述的质量高度敏感 → 
+  → 子假设补充：Agent 工程的 80% 工作量在工具描述和 prompt tuning
+```
+
+## 核心价值
+
+- 把隐性知识显性化：每次踩坑都是对某一层真实难度的测量
+- 验证假设：H2（瓶颈在工程可靠性）可以通过失败日志中的错误类型分布来检验
+- 复用性：失败的格式可以抽象为通用模板，适用于其他技术学习项目
+
+## 关键洞察（预期）
+
+Agent 工程的瓶颈往往不在模型能力，而在工具描述的精度和 prompt tuning 的工作量。这是用失败日志这种"从做中学"方式才能发现的洞察，而非读论文能直接得到的结论。
+
+## 与相关概念的关系
+
+- [[假设驱动研究]]：失败日志是验证假设的核心数据源
+- [[景气度指标体系]]：与跟踪体系形成互补——跟踪体系关注外部变化，失败日志关注内部能力进展
+
+---FILE: wiki/concepts/POV更新机制.md---
+---
+type: concept
+title: POV 更新机制
+created: 2026-08-24
+updated: 2026-08-24
+tags: [methodology, domain/ai, tracking]
+related: [假设驱动研究, 景气度指标体系]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# POV 更新机制
+
+## 定义
+
+POV（Point of View）更新是指定期（每周/每月）审视自己对某个领域的核心判断，对照新证据进行修订的记录机制。来自肖璟的景气度跟踪思想。
+
+## 三种频率
+
+| 频率 | 动作 |
+|:---:|:------|
+| 每周 | 花 30 分钟：本周发生了什么 → 跟上周假设对上了吗 → 下周验证什么 |
+| 每月 | 写一段"假设更新笔记"：我的初始假设（H1/H2/H3）现在看起来对了吗？ |
+| 学习结束时 | 对照阶段零写的三个初始假设，逐条对比"我以为的 vs 实际的情况" |
+
+## 核心问题
+
+每个周末的三个自问：
+1. 本周这个领域发生了什么新鲜事？
+2. 跟我上周的假设对上了吗？
+3. 下周应该验证哪个子假设？
+
+## 与量化跟踪的区别
+
+[[景气度指标体系]]侧重量化指标（如渗透率、CRn 等），POV 更新侧重定性判断的追踪。两者互补：量化指标告诉你"数字变了"，POV 更新告诉你"我的理解变了没有"。
+
+## 与相关概念的关系
+
+- [[假设驱动研究]]：POV 更新是假设驱动的闭环——假设提出→验证→修订，周而复始
+- [[最小知识地图]]：POV 更新是地图的动态维护，确保理解随认知深入而迭代
+
+---FILE: wiki/concepts/工具描述敏感性.md---
+---
+type: concept
+title: 工具描述敏感性
+created: 2026-08-24
+updated: 2026-08-24
+tags: [methodology, domain/ai, engineering]
+related: [假设驱动研究, 失败日志]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# 工具描述敏感性
+
+## 定义
+
+Agent 对工具描述的质量高度敏感——工具描述稍有不精确，Agent 就会调用错误的 API 或执行错误的参数。这是 Agent 工程中最为关键也最容易被忽视的环节。
+
+## 核心洞察
+
+Agent 工程的 **80% 工作量在工具描述和 prompt tuning**，而非模型选择或架构设计。
+
+## 典型失败模式
+
+| 失败方式 | 根因 |
+|---------|------|
+| 调用旧版 API endpoint | 工具描述中未明确版本号 |
+| 参数传错类型 | 描述中未标注参数约束（如枚举值范围） |
+| 工具名混淆 | 多个相似工具的描述未做区分 |
+| 权限不足报错 | 描述中未说明前置依赖 |
+
+## 实践含义
+
+- 工具描述应当像 API 文档一样精确，而非自然语言草述
+- 每次 Agent 失败时，检查工具描述是否是根因——这是失败日志中最常见的条目类型
+- 对初学者而言，这是从"demo 能跑"到"产品可用"之间最大的鸿沟
+
+## 与相关概念的关系
+
+- [[失败日志]]：工具描述问题是失败日志中最高频的一类记录，也是验证 H2（瓶颈在工程）的最直接证据
+- [[假设驱动研究]]：H2 的核心验证路径就是通过失败日志观察工程瓶颈在哪里
+
+---FILE: wiki/concepts/Agent五层架构.md---
+---
+type: concept
+title: Agent 五层架构
+created: 2026-08-24
+updated: 2026-08-24
+tags: [methodology, domain/ai, architecture]
+related: [假设驱动研究, ReAct]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# Agent 五层架构
+
+## 定义
+
+将 AI Agent 系统按功能拆分为五个层次的分析框架，用于 MECE 拆解和理解各层的成熟度差异。
+
+## 五层结构
+
+```
+                    AI Agent
+                         │
+    ┌────────────────────┼────────────────────┐
+    │                    │                    │
+[感知层]            [推理/规划层]          [行动层]
+怎么理解世界          怎么做决策             怎么执行
+    │                    │                    │
+ 文本理解            Prompt Chaining       API 调用
+ 多模态理解           Chain of Thought      代码执行
+ 环境感知             ReAct                 浏览器操作
+ 意图识别             Tree of Thought       数据库 CRUD
+                    Plan-and-Execute
+                    Multi-Agent 编排
+                         │
+               [记忆层] ←→ [评估层]
+```
+
+| 层级 | 核心问题 | 关键技术/方法 |
+|------|---------|-------------|
+| 感知层 | 怎么理解世界 | 文本理解、多模态理解、意图识别 |
+| 推理/规划层 | 怎么做决策 | CoT、ReAct、Tree of Thought、Plan-and-Execute、Multi-Agent 编排 |
+| 行动层 | 怎么执行 | API 调用、代码执行、浏览器操作、数据库 CRUD |
+| 记忆层 | 短期/长期存储 | RAG、MemGPT、LangMem、向量数据库 |
+| 评估层 | 怎么判断对错 | 规则校验、LLM-as-judge、人工审核 |
+
+## 成熟度排序（预期）
+
+根据学习计划的验证假设，各层成熟度排序为：
+
+```
+行动层（最成熟）> 感知层 > 推理/规划层 > 记忆层 > 评估层（最不成熟）
+```
+
+## 与相关概念的关系
+
+- [[ReAct]]：推理/规划层的核心方法，"边想边做"的范式
+- [[假设驱动研究]]：五层架构是假设驱动的拆解工具——每层对应一组可验证的子假设
+- [[工具描述敏感性]]：行动层与推理/规划层之间的接口问题，是工程瓶颈的主要来源
+
+---FILE: wiki/concepts/学习验证五问.md---
+---
+type: concept
+title: 学习验证五问
+created: 2026-08-24
+updated: 2026-08-24
+tags: [methodology, learning, evaluation]
+related: [假设驱动研究, 最小知识地图]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# 学习验证五问
+
+## 定义
+
+学习结束时，脱离笔记回答的五个问题，用于检验是否真正建立了领域认知。来自 AI Agent 学习计划的验收标准，可作为其他领域学习计划的通用模板。
+
+## 五个问题
+
+| # | 问题 | 检验的能力 |
+|:-:|------|-----------|
+| Q1 | 该领域的三大核心能力是什么？它们的成熟度排序是？ | 整体结构认知 |
+| Q2 | 目前该领域落地最难的部分是什么？是能力问题还是工程问题？ | 瓶颈判断力 |
+| Q3 | 如果你是从业者，你会选哪个场景切入？为什么？ | 应用层理解 |
+| Q4 | 你的初始假设对了几个？为什么对/错？ | 假设修订能力 |
+| Q5 | 未来 6 个月该领域最可能发生什么变化？ | 趋势预判（可证伪） |
+
+## 回答标准
+
+- 答不出 Q1 → 漏了某一层，补 [[最小知识地图]]
+- 答不清 Q2 → 动手验证不够，回到 [[失败日志]] 复盘
+- 选不出 Q3 → 应用层验证不足
+- Q4 没有对比 → 学习收获流失，未做 POV 更新
+- Q5 给不出可证伪的预判 → 行业认知未建立
+
+## 复用性
+
+此框架不限于 AI Agent 领域，可推广至任何需要"从零建立可操作理解"的学习计划。
+
+## 与相关概念的关系
+
+- [[假设驱动研究]]：Q4 直接检验假设驱动的闭环效果
+- [[最小知识地图]]：Q1 的检验依赖于阶段零的知识地图是否构建完整
+
+---FILE: wiki/sources/lilian-weng-2023-agent.md---
+---
+type: source
+title: LLM Powered Autonomous Agents
+authors: [Lilian Weng]
+year: 2023
+url: "https://lilianweng.github.io/posts/2023-06-23-agent/"
+venue: ""
+tags: [domain/ai, paper, agent, survey]
+related: [Agent五层架构, ReAct, AI幻觉]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# LLM Powered Autonomous Agents
+
+**作者：** Lilian Weng  
+**链接：** https://lilianweng.github.io/posts/2023-06-23-agent/
+
+## 简介
+
+AI Agent 领域被引用最广的综述文章之一。系统将 Agent 拆解为规划（Planning）、工具使用（Tool Use）、记忆（Memory）三大模块，是阶段零必读的核心材料。
+
+## 核心框架
+
+文章提出 Agent 由三个核心组件构成：
+
+1. **规划（Planning）**：如何将大任务分解为可执行的子步骤
+2. **工具使用（Tool Use）**：如何调用外部 API、搜索、代码执行等能力
+3. **记忆（Memory）**：短期上下文 vs 长期存储的区分
+
+## 在 wiki 中的位置
+
+- 是 [[Agent五层架构]] 概念的主要来源之一
+- 与 [[ReAct]] 共同构成推理/规划层的理论基础
+- [[AI幻觉]] 问题与工具调用错误密切相关，本文有相关讨论
+
+---FILE: wiki/sources/react-sutton-2022.md---
+---
+type: source
+title: ReAct: Synergizing Reasoning and Acting in Language Models
+authors: [Yao, et al.]
+year: 2022
+url: "https://arxiv.org/abs/2210.03629"
+venue: arXiv
+tags: [domain/ai, paper, agent, reasoning]
+related: [Agent五层架构, 假设驱动研究]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# ReAct: Synergizing Reasoning and Acting in Language Models
+
+**作者：** Yao, Tan, et al.  
+**链接：** https://arxiv.org/abs/2210.03629
+
+## 简介
+
+Agent 推理+行动的经典论文。提出 LLM 可以像人类一样，通过"思考（Reason）"和"行动（Act）"交替进行来解决问题，而非先规划再执行的串行的两阶段模式。
+
+## 核心方法
+
+ReAct = Reasoning + Acting，让 LLM 在每一步都同时输出：
+- **Thought**（思考）：当前状态的分析
+- **Action**（行动）：调用的工具
+- **Action Input**（行动输入）：工具参数
+- **Observation**（观察）：工具返回的结果
+
+这种"边想边做"的范式解决了纯规划（容易偏离实际）和纯反应（缺乏全局视野）各自的问题。
+
+## 在 wiki 中的位置
+
+- [[Agent五层架构]] 推理/规划层的核心方法
+- [[假设驱动研究]] 的工程技术类比：假设=Thought，实验=Action，反馈=Observation
+- [[学习验证五问]] Q2 中"工程问题 vs 能力问题"的讨论与此方法直接相关
+
+---FILE: wiki/log.md---
+---
+type: synthesis
+title: Wiki Log
+created: 2026-08-24
+updated: 2026-08-24
+tags: [log]
+related: []
+sources: []
+---
+
+# Wiki Log
+
+## 2026-08-24
+
+- Ingest `notes/20260712T092514--学习计划-AI_Agent__plan.md`（AI Agent 学习计划，按肖璟方法论设计）
+  - 新建来源页 `sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md`
+  - 新建实体页 `entities/lilian-weng.md` — Lilian Weng，Agent 综述论文作者
+  - 新建来源页 `sources/lilian-weng-2023-agent.md` — LLM Powered Autonomous Agents
+  - 新建来源页 `sources/react-sutton-2022.md` — ReAct 原论文
+  - 新建概念页 `concepts/最小知识地图.md` — 阶段零验收工具
+  - 新建概念页 `concepts/失败日志.md` — 动手验证阶段的核心产出机制
+  - 新建概念页 `concepts/POV更新机制.md` — 阶段一每周例行，景气度跟踪的操作化版本
+  - 新建概念页 `concepts/工具描述敏感性.md` — 失败日志揭示的核心工程洞察
+  - 新建概念页 `concepts/Agent五层架构.md` — Agent 知识结构的五层框架
+
+Now creating all the wiki files.
+
+
+
+---FILE: wiki/sources/5-notes--33-20260712t092514-学习计划-aiagentplan--1ruaeho.md---
+---
+type: source
+title: AI Agent 学习计划（按肖璟方法论设计）
+created: 2026-08-24
+updated: 2026-08-24
+tags: [domain/ai, type/plan, methodology]
+related: [假设驱动研究, DIKW模型-研究方法论, 五维分析框架-肖璟, 景气度指标体系]
+sources: ["notes/20260712T092514--学习计划-AI_Agent__plan.md"]
+---
+
+# AI Agent 学习计划（按肖璟方法论设计）
+
+**来源：** 用户自撰学习计划，方法论锚定肖璟《如何快速了解一个行业》
+
+**标识：** `20260712T092514`
+
+## 核心目标
+
+从零建立对 AI Agent 的**可操作理解**——不是"知道 AI Agent 是什么"，而是"能判断 AI Agent 能做什么、做不了什么、下一步会往哪走"。
+
+## 方法论基础
+
+- [[假设驱动研究]]（第 11 章）
+- [[DIKW模型-研究方法论]]（第 1 章）
+- [[景气度指标体系]]（第 8 章）
+- [[五维分析框架-肖璟]]
+
+## 三个初始假设
+
+| 假设 | 内容 | 验证方式 |
+|-----|------|---------|
+| H1 | AI Agent 的本质是"LLM 做决策 + 工具做执行"的闭环 | 读 ReAct 原论文，看是否符合 |
+| H2 | 当前 Agent 的技术瓶颈不在模型能力，在工程可靠性（成功率、成本、延迟） | 跑一个最小 Agent demo，看卡在哪 |
+| H3 | 最先落地的 Agent 形态是"垂直场景 + 强约束 + 易验证"——代码助手、客服、数据分析 | 找 2024-2025 年融资最多的 Agent 创业公司，看集中在哪些场景 |
+
+> 每学完一个模块，回来修订一个假设。学习结束时对比——看哪些猜对了、哪些猜错了、为什么错。
+
+## 阶段结构
+
+### 阶段零：建立最小领域认知（~3-5 天）
+
+核心动作：读综述论文 → 扫行研报告 → 画出最小知识地图
+
+必读三篇论文：
+- [Lilian Weng: LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — Agent 最清晰的框架综述
+- [ReAct 论文](https://arxiv.org/abs/2210.03629) — Agent 推理+行动的经典方法
+- [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) tool use / function calling 章节
+
+验收标准：**合上电脑后，能在一张纸上画出 AI Agent 结构图**（MECE 验证）
+
+### 阶段一：MECE 拆解 + 逐层深入（~2-3 周）
+
+技术栈五层拆解：
+
+```
+AI Agent
+  ├─ 感知层（怎么理解世界）：文本理解、多模态理解、环境感知、意图识别
+  ├─ 推理/规划层（怎么做决策）：Prompt Chaining、CoT、ReAct、Tree of Thought、Plan-and-Execute、Multi-Agent 编排
+  ├─ 行动层（怎么执行）：API 调用、代码执行、浏览器操作、数据库 CRUD
+  ├─ 记忆层（短期？长期？）：RAG、MemGPT、LangMem
+  └─ 评估层（怎么判断对错）：
+```
+
+每周深一层，周末做 POV 更新。
+
+### 阶段二：动手验证（贯穿全程）
+
+四周一轮 MVP 迭代：
+
+| 周 | 做什么 | 验证什么假设 |
+|:--:|:------|:----------|
+| W1 | 用 LangChain / LlamaIndex 搭一个最简单的 ReAct Agent | Agent 的基本闭环能不能走通？ |
+| W2 | 让它能调用工具（查天气/搜 Wikipedia） | 工具调用的门槛在哪？ |
+| W3 | 加一个长期记忆（简单的向量数据库） | 记忆层的难度是？ |
+| W4 | 跑一个有意义的实际任务（自动总结周报 / 自动发邮件） | 成功率和成本怎么样？ |
+
+**目标不是做一个好产品，是在做失败的过程中理解每层的真实难度。**
+
+核心产出机制：**失败日志**——记录每次出错的方式、原因和洞察。
+
+关键洞察（预期）：Agent 工程的 80% 工作量在工具描述和 prompt tuning。
+
+### 阶段三：跟踪体系（持续）
+
+| 频率 | 跟踪内容 | 来源 |
+|:---:|:--------|:----|
+| 每日 | AI Agent 圈发生了什么新鲜事 | Twitter/X: @kaboroevichn, @swyx, @_akhaliq；Hacker News |
+| 每周 | 最新论文 | HuggingFace Daily Papers；arXiv cs.AI, cs.CL |
+| 每周 | 开源项目动态 | GitHub Trending；LangChain / CrewAI / AutoGen releases |
+| 每月 | 行业格局变化 / 融资动态 | a16z, Sequoia, Crunchbase |
+| 每月 | 执行 POV 更新（我的假设对了吗？） | 写一段"假设更新笔记" |
+
+#### 核心跟踪人物/项目
+
+| 关注什么 | 具体内容 |
+|:------:|:--------|
+| 头部实验室 | OpenAI Agents 路线、Anthropic tool use + MCP、Google DeepMind |
+| 开源框架 | LangGraph, CrewAI, AutoGen, MetaGPT, PydanticAI |
+| 独立观察者 | Lilian Weng, Swyx (Latent Space), Alessandro de Zavalia |
+
+## 验收标准：学习结束时能回答的五个问题
+
+学习 4-6 周后，应能**脱离笔记**回答：
+
+```
+Q1: AI Agent 的三大核心能力是什么？它们的成熟度排序是？
+    → 如果答不出：你漏了某一层
+
+Q2: 目前 Agent 落地最难的部分是什么？是模型不行还是工程不行？
+    → 如果答不清：你的第二阶段动手做得不够
+
+Q3: 如果你是创业者，你会选哪个 Agent 场景切入？为什么？
+    → 如果你选不出来：你的应用层验证不够
+
+Q4: 你的初始假设（阶段零写的三个）对了几个？为什么对/错？
+    → 这个对比才是学习真正的收获——"你以为的 vs 实际情况的差距"
+
+Q5: 未来 6 个月 AI Agent 最可能发生什么变化？
+    → 如果你能给出一个可证伪的预判——你的行业认知已经建立起来了
+```
+
+## 时间安排建议
+
+```
+阶段零（最小认知）: ~3-5 天 — 论文+报告+画地图
+阶段一（逐层深入）: ~2-3 周 — 每周深一层，周末 POV 更新
+阶段二（动手验证）: 贯穿全程 — 每周一个 MVP 迭代
+阶段三（持续跟踪）: 贯穿全程 — 每日 15min + 每周 30min + 每月 1h
+```
+
+总投入：**每天 1-1.5 小时，6 周后你建立的理解，比漫无目的读 6 个月博客要深。**
+
+## 与已有 Wiki 概念的关联
+
+- [[假设驱动研究]]：本计划的核心理念——先猜后证，每个阶段都有明确的可证伪假设
+- [[DIKW模型-研究方法论]]：阶段零认知建立的理论基础；本计划是"逆向路径"——从假设（Wisdom 层）出发，向下填充 K/I/D
+- [[五维分析框架-肖璟]]：同作者方法论在本领域的直接应用案例
+- [[景气度指标体系]]：阶段三的跟踪体系是其 AI Agent 领域的具体应用变体，补充了定性 POV 更新作为量化指标的互补手段
+
+*方法论参考：肖璟《如何快速了解一个行业》第 11 章"假设驱动"、第 1 章 DIKW 模型、第 8 章景气度跟踪。*

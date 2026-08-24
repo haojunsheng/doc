@@ -1,0 +1,32 @@
+---
+type: entity
+title: 李博杰
+created: 2026-08-24
+updated: 2026-08-24
+tags: [domain/ai, person, author, Pine-AI]
+related: [AI Agent 深度认知学习计划, Agent五层架构, Harness（可靠性机制）]
+sources: ["notes/20260809T155341--深度研究-AI-Agent架构设计_deep-learn.md"]
+---
+
+# 李博杰
+
+## 身份
+
+Pine AI 首席科学家，《AI Agent 实战》作者。
+
+## 主要著作
+
+- **《AI Agent 实战》**（2026）：十章结构，从上下文工程到多 Agent 协作，覆盖 Agent 构建全流程；每章配有本地可运行的实验代码（`chapter1/`–`chapter10/`）。
+- **配套学习计划**：假设驱动（H1/H2/H3）、MECE 拆解、DIKW 自检、失败日志四柱并行的深度学习路径设计。
+
+## 核心观点
+
+- Agent 核心公式：**Agent = LLM + 上下文 + 工具**
+- 上下文工程是 Agent 能力瓶颈的第一决定因素（H1）
+- 后训练两条主线：SFT 教格式/记忆，RL 教能力/泛化
+- 模型变强会压缩上下文工程的生存空间，但永远吃不完——因为训练以月计业务等不起、真实约束无法全部内化、每代模型都打开新前沿
+
+## 关联实体
+
+- **Pine AI**：作者所在公司，书中多个案例（电话 Agent、语音 Agent、账单争议处理）的真实产品背景
+- **Richard Sutton**：作者引用其"设计实体"概念支持 Agent 自举论述
